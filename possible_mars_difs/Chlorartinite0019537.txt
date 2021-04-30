@@ -1,0 +1,61 @@
+      Chlorartinite
+      Sugimoto K, Dinnebier R E, Schlecht T
+      Journal of Applied Crystallography 39 (2006) 739-744
+      Chlorartinite, a volcanic exhalation product also found
+      in industrial magnesia screed
+      Note: this is the hydrated chlorartinite
+      Locality: synthetic
+      _database_code_amcsd 0019537
+      CELL PARAMETERS:  23.1442 23.1442  7.2233   90.000   90.000  120.000
+      SPACE GROUP: R3c       
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   3350.836
+      Density (g/cm3):      1.968
+      MAX. ABS. INTENSITY / VOLUME**2:      11.55729645    
+      RIR:      2.742
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                 8.87        100.00       11.5721    1   1   0         6
+                15.40          8.94        6.6812    3   0   0         3
+                17.80          4.74        5.7861    2   2   0         6
+                23.45          2.43        4.4055    1   3   1         6
+                23.62          6.72        4.3738    4   1   0         6
+                26.68          5.30        3.8790    3   2   1         6
+                26.84          1.42        3.8574    3   3   0         6
+                29.17          3.04        3.5544    0   1   2         3
+                30.55          9.76        3.3978    2   0   2         3
+                30.95          8.56        3.3546    2   4   1         6
+                31.87         10.61        3.2601    1   2   2         6
+                32.26          3.63        3.2220    5   1   1         6
+                32.39          7.05        3.2095    5   2   0         6
+                34.75         23.72        2.9979    4   3   1         6
+                35.58          1.77        2.9299    0   4   2         3
+                36.74          1.62        2.8403    2   3   2         6
+                37.08          2.61        2.8149    1   6   1         6
+                38.98          1.32        2.6833    5   0   2         3
+                39.30          4.55        2.6618    3   5   1         6
+                39.41          8.99        2.6548    7   1   0         6
+                40.05          2.74        2.6139    4   2   2         6
+                40.37          1.96        2.5941    6   2   1         6
+                43.15          3.46        2.4342    3   4   2         6
+                44.63          2.63        2.3573    1   1   3         6
+                45.12          1.21        2.3332    6   1   2         6
+                45.41          1.97        2.3191    2   7   1         6
+                47.03          2.08        2.2438    5   3   2         6
+                47.31          6.70        2.2312    8   1   1         6
+                47.49          3.00        2.2230    2   2   3         6
+                47.96          1.35        2.2027    2   6   2         6
+                48.23          3.40        2.1908    4   6   1         6
+                50.22          1.09        2.1093    1   4   3         6
+                50.22          2.48        2.1093    4   1   3         6
+                51.02          2.36        2.0784    7   4   0         6
+                51.55          8.94        2.0586    8   0   2         3
+                52.42          4.31        2.0268    7   2   2         6
+                52.68          1.18        2.0175    1   9   1         6
+                54.13          1.17        1.9673    1   8   2         6
+                55.39          2.97        1.9260    5   2   3         6
+                56.05          1.24        1.9050    9   2   1         6
+                56.14          1.70        1.9024   10   1   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

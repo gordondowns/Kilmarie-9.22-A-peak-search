@@ -1,0 +1,29 @@
+      Uvarovite
+      Andrut M, Wildner M
+      Physics and Chemistry of Minerals 29 (2002) 595-608
+      The crystal chemistry of birefringent natural uvarovites. Part III. Application of the
+      superposition model of crystal fields with a characterization of synthetic cubic uvarovite
+      Sample: Uvasyn-22
+      _database_code_amcsd 0008734
+      CELL PARAMETERS:  11.9973 11.9973 11.9973   90.000   90.000   90.000
+      SPACE GROUP: Ia-3d     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1726.834
+      Density (g/cm3):      3.850
+      MAX. ABS. INTENSITY / VOLUME**2:      17.19287925    
+      RIR:      2.085
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                24.37         18.38        4.2417    2   2   0        12
+                34.73         68.71        2.9993    4   0   0         6
+                38.98        100.00        2.6827    4   2   0        24
+                40.97          8.47        2.5578    3   3   2        24
+                42.88         63.43        2.4489    4   2   2        24
+                44.72         14.94        2.3529    4   3   1        48
+                48.24         13.11        2.1904    5   2   1        48
+                54.77         10.63        1.9462    5   3   2        48
+                54.77         11.21        1.9462    6   1   1        24
+                56.31         11.37        1.8969    6   2   0        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

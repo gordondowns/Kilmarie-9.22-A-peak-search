@@ -1,0 +1,31 @@
+      Faujasite-Na
+      Baur W H
+      American Mineralogist 49 (1964) 697-704
+      On the cation and water positions in faujasite
+      _database_code_amcsd 0000128
+      CELL PARAMETERS:  24.7400 24.7400 24.7400   90.000   90.000   90.000
+      SPACE GROUP: Fd3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:  15142.552
+      Density (g/cm3):      1.355
+      MAX. ABS. INTENSITY / VOLUME**2:      44.90267564    
+      RIR:     15.465
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                 7.19        100.00       14.2836    1   1   1         8
+                11.75          6.13        8.7469    2   2   0        12
+                13.78          4.96        7.4594    3   1   1        24
+                18.15          8.98        5.6757    3   3   1        24
+                21.67          3.62        4.7612    5   1   1        24
+                23.62          3.50        4.3735    4   4   0        12
+                27.45          5.30        3.7728    5   3   3        24
+                31.42          3.33        3.3060    6   4   2        48
+                34.45          1.14        3.0225    7   3   3        24
+                35.76          1.12        2.9156    6   6   0        12
+                36.52          3.35        2.8567    5   5   5         8
+                37.76          1.15        2.7660    8   4   0        24
+                39.68          1.79        2.6373    6   6   4        24
+                44.17          1.13        2.3806    6   6   6         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

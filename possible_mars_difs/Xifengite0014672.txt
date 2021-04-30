@@ -1,0 +1,27 @@
+      Xifengite
+      Weill A R
+      Nature 152 (1943) 413-413
+      Structure of the eta phase of the iron-silicon system
+      _database_code_amcsd 0014672
+      CELL PARAMETERS:   6.7416  6.7416  4.7079   90.000   90.000  120.000
+      SPACE GROUP: P6_3/mcm  
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    185.304
+      Density (g/cm3):      6.514
+      MAX. ABS. INTENSITY / VOLUME**2:      51.67900676    
+      RIR:      3.704
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                30.80          6.42        3.3708    1   1   0         6
+                35.71         13.95        2.9192    2   0   0         6
+                38.13          8.59        2.7407    1   1   1        12
+                44.70         11.08        2.3540    0   0   2         2
+                47.86         47.22        2.2067    2   1   0        12
+                48.41         32.62        2.1832    1   0   2        12
+                53.23        100.00        1.9981    2   1   1        24
+                54.77         26.87        1.9461    3   0   0         6
+                55.27         63.03        1.9299    1   1   2        12
+                58.48          3.42        1.8324    2   0   2        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

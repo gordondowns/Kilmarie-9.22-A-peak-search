@@ -1,0 +1,24 @@
+      Ulvospinel
+      Bosi F, Halenius U, Skogby H
+      American Mineralogist 94 (2009) 181-189
+      Crystal chemistry of the magnetite-ulvospinel series
+      Locality: synthetic
+      Note: FeTi70A
+      _database_code_amcsd 0004826
+      CELL PARAMETERS:   8.5052  8.5052  8.5052   90.000   90.000   90.000
+      SPACE GROUP: Fd3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    615.253
+      Density (g/cm3):      4.869
+      MAX. ABS. INTENSITY / VOLUME**2:      54.25207736    
+      RIR:      5.201
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.01          8.72        4.9105    1   1   1         8
+                34.64         32.60        3.0070    2   2   0        12
+                40.86        100.00        2.5644    3   1   1        24
+                42.76          6.84        2.4552    2   2   2         8
+                49.79         18.52        2.1263    4   0   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

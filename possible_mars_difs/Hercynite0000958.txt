@@ -1,0 +1,23 @@
+      Hercynite
+      Hill R J
+      American Mineralogist 69 (1984) 937-942
+      X-ray powder diffraction profile refinement of synthetic hercynite
+      inversion parameter = .163
+      _database_code_amcsd 0000958
+      CELL PARAMETERS:   8.1558  8.1558  8.1558   90.000   90.000   90.000
+      SPACE GROUP: Fd3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    542.498
+      Density (g/cm3):      4.255
+      MAX. ABS. INTENSITY / VOLUME**2:      30.92898030    
+      RIR:      3.393
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.92          1.11        4.7087    1   1   1         8
+                36.17         68.86        2.8835    2   2   0        12
+                42.69        100.00        2.4591    3   1   1        24
+                52.08          8.60        2.0389    4   0   0         6
+                57.16          5.99        1.8711    3   3   1        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

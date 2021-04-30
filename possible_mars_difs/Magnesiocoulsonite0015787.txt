@@ -1,0 +1,24 @@
+      Magnesiocoulsonite
+      Reuter B, Aust R, Colsmann G, Neuwald C
+      Zeitschrift fur Anorganische und Allgemeine Chemie 500 (1983) 188-198
+      Darstellung und eigenschaften vanadium(II)-haltiger und damit n-leitender
+      vanadium(III)-spinelle
+      _database_code_amcsd 0015787
+      CELL PARAMETERS:   8.4200  8.4200  8.4200   90.000   90.000   90.000
+      SPACE GROUP: Fd3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    596.948
+      Density (g/cm3):      4.232
+      MAX. ABS. INTENSITY / VOLUME**2:      27.96794276    
+      RIR:      3.085
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.22         67.46        4.8613    1   1   1         8
+                35.00         12.90        2.9769    2   2   0        12
+                41.29        100.00        2.5387    3   1   1        24
+                43.22          8.61        2.4306    2   2   2         8
+                50.33         55.27        2.1050    4   0   0         6
+                55.21          4.75        1.9317    3   3   1        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

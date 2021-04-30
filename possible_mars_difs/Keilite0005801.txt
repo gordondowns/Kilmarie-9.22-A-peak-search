@@ -1,0 +1,21 @@
+      Keilite
+      Shimizu M, Yoshida H, Mandarino J A
+      The Canadian Mineralogist 40 (2002) 1687-1692
+      The new mineral species keilite, (Fe,Mg)S, the iron-dominant
+      analogue of niningerite
+      _database_code_amcsd 0005801
+      CELL PARAMETERS:   5.2000  5.2000  5.2000   90.000   90.000   90.000
+      SPACE GROUP: Fm3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    140.608
+      Density (g/cm3):      3.634
+      MAX. ABS. INTENSITY / VOLUME**2:      49.37723403    
+      RIR:      6.343
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                34.69          6.27        3.0022    1   1   1         8
+                40.28        100.00        2.6000    2   0   0         6
+                58.27         59.97        1.8385    2   2   0        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

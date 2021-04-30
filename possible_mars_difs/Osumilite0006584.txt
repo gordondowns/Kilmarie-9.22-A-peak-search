@@ -1,0 +1,48 @@
+      Osumilite
+      Winter W, Armbruster T, Lengauer C
+      European Journal of Mineralogy 7 (1995) 277-286
+      Crystal structure refinement of synthetic osumilite-type
+      phases: BaMg2Al6Si9O30, SrMg2Al6Si9O30 and Mg2Al4Si11O30
+      Sample: MAS, Mg2Al4Si11O30
+      _database_code_amcsd 0006584
+      CELL PARAMETERS:  10.0580 10.0580 14.3360   90.000   90.000  120.000
+      SPACE GROUP: P6/mcc    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1255.978
+      Density (g/cm3):      2.532
+      MAX. ABS. INTENSITY / VOLUME**2:      6.404674077    
+      RIR:      1.181
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                11.80         17.72        8.7105    1   0   0         6
+                14.35         17.82        7.1680    0   0   2         2
+                18.61         33.64        5.5349    1   0   2        12
+                20.51         78.22        5.0290    1   1   0         6
+                23.72         23.03        4.3552    2   0   0         6
+                25.12         27.69        4.1168    1   1   2        12
+                27.83         33.91        3.7221    2   0   2        12
+                28.93         28.76        3.5840    0   0   4         2
+                31.34         20.03        3.3144    1   0   4        12
+                31.55          4.24        3.2923    2   1   0        12
+                32.40        100.00        3.2087    2   1   1        24
+                34.82         15.78        2.9918    2   1   2        24
+                35.72         38.50        2.9187    1   1   4        12
+                35.91          1.48        2.9035    3   0   0         6
+                37.74         42.97        2.7674    2   0   4        12
+                38.56          6.53        2.7111    2   1   3        24
+                41.71         10.02        2.5145    2   2   0         6
+                43.33          1.25        2.4246    2   1   4        24
+                43.50          5.66        2.4159    3   1   0        12
+                44.14          2.45        2.3823    3   1   1        24
+                44.33          2.68        2.3727    2   2   2        12
+                49.06          9.99        2.1560    3   1   3        24
+                50.89          2.72        2.0836    4   0   2        12
+                53.08         13.84        2.0032    3   1   4        24
+                53.22          1.60        1.9983    3   2   0        12
+                56.73          3.50        1.8843    4   1   1        24
+                57.96         15.74        1.8475    3   1   5        24
+                58.05          3.18        1.8450    3   0   6        12
+                59.94          5.51        1.7920    0   0   8         2
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

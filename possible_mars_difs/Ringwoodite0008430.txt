@@ -1,0 +1,23 @@
+      Ringwoodite
+      Kudoh Y, Kuribayashi T, Mizobata H, Ohtami E
+      Physics and Chemistry of Minerals 27 (2000) 474-479
+      Structure and cation disorder of hydrous ringwoodite,
+      gamma-Mg1.89Si0.98H0.30O4
+      _database_code_amcsd 0008430
+      CELL PARAMETERS:   8.0693  8.0693  8.0693   90.000   90.000   90.000
+      SPACE GROUP: Fd3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    525.421
+      Density (g/cm3):      3.354
+      MAX. ABS. INTENSITY / VOLUME**2:      14.97525579    
+      RIR:      2.085
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                36.57         32.10        2.8529    2   2   0        12
+                43.17        100.00        2.4330    3   1   1        24
+                45.20          1.52        2.3294    2   2   2         8
+                52.68         39.35        2.0173    4   0   0         6
+                57.83          1.95        1.8512    3   3   1        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

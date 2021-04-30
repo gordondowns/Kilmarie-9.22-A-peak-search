@@ -1,0 +1,48 @@
+      Phlogopite
+      Matarrese S, Schingaro E, Scordari F, Stoppa F, Rosatelli G, Pedrazzi G, Ottolini L
+      American Mineralogist 93 (2008) 426-437
+      Crystal chemistry of phlogopite from Vulture-S. Michele Subsynthem volcanic
+      rocks (Mt. Vulture, Italy) and volcanological implications
+      Locality: Masseria Saraceno pyroclastic flow, Vulture-San Michele Subsynthem,
+      Mt. Vulture, Italy
+      Sample: VUT191_13
+      _database_code_amcsd 0004529
+      CELL PARAMETERS:   5.3377  9.2424 10.1654   90.000  100.099   90.000
+      SPACE GROUP: C2/m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    493.721
+      Density (g/cm3):      2.539
+      MAX. ABS. INTENSITY / VOLUME**2:      13.65620736    
+      RIR:      2.511
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                10.26        100.00       10.0079    0   0   1         2
+                20.61         15.46        5.0039    0   0   2         2
+                26.30          2.75        3.9353    1   1   1         4
+                28.29          9.00        3.6633   -1   1   2         4
+                30.58         10.85        3.3949    0   2   2         4
+                31.13         17.44        3.3360    0   0   3         2
+                33.09         11.34        3.1436    1   1   2         4
+                35.78          6.89        2.9139   -1   1   3         4
+                38.65          4.28        2.7048    0   2   3         4
+                39.84         10.12        2.6275    2   0   0         2
+                39.84         20.28        2.6271   -1   3   1         4
+                41.66          2.31        2.5175    1   1   3         4
+                43.07          4.28        2.4385    2   0   1         2
+                43.07          8.30        2.4385   -1   3   2         4
+                44.77          1.56        2.3505   -1   1   4         4
+                45.59          2.27        2.3106    0   4   0         2
+                45.72          4.47        2.3044   -2   2   1         4
+                46.15          4.46        2.2841    2   2   0         4
+                46.86          3.43        2.2514    0   4   1         4
+                47.81          1.72        2.2090   -2   2   2         4
+                48.61         25.80        2.1748   -1   3   3         4
+                48.61         12.92        2.1746    2   0   2         2
+                53.13          1.21        2.0016    0   0   5         2
+                53.32          3.67        1.9950   -2   0   4         2
+                53.34          7.07        1.9943    1   3   3         4
+                55.95          5.08        1.9082   -1   3   4         4
+                55.96          2.51        1.9079    2   0   3         2
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,25 @@
+      Heazlewoodite
+      Parise J B
+      Acta Crystallographica B36 (1980) 1179-1180
+      Structure of hazelwoodite (Ni3S2)
+      Locality: synthetic
+      _database_code_amcsd 0009709
+      CELL PARAMETERS:   4.0718  4.0718  4.0718   89.459   89.459   89.459
+      SPACE GROUP: R32       
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     67.500
+      Density (g/cm3):      5.908
+      MAX. ABS. INTENSITY / VOLUME**2:      50.14964962    
+      RIR:      3.962
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                25.40         55.43        4.0714    1   0   0         6
+                36.41        100.00        2.8656    0  -1   1         3
+                44.32         38.46        2.3729    1   1   1         2
+                44.91         12.21        2.3434    1  -1   1         6
+                52.17         30.57        2.0357    2   0   0         6
+                58.65         58.47        1.8277    2   1   0         6
+                59.14         47.61        1.8140    0  -1   2         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

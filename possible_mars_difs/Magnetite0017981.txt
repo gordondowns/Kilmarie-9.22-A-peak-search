@@ -1,0 +1,23 @@
+      Magnetite
+      Claassen A
+      Proceedings of the Physical Society of London 38 (1926) 482-487
+      The scattering power of oxygen and iron for X-Rays
+      _cod_database_code 1011084
+      _database_code_amcsd 0017981
+      CELL PARAMETERS:   8.4000  8.4000  8.4000   90.000   90.000   90.000
+      SPACE GROUP: Fd3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    592.704
+      Density (g/cm3):      5.189
+      MAX. ABS. INTENSITY / VOLUME**2:      64.34004712    
+      RIR:      5.789
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.27          7.94        4.8497    1   1   1         8
+                35.08         28.33        2.9698    2   2   0        12
+                41.40        100.00        2.5327    3   1   1        24
+                43.33          8.31        2.4249    2   2   2         8
+                50.46         19.68        2.1000    4   0   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

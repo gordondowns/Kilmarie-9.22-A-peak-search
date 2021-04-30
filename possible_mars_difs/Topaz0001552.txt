@@ -1,0 +1,46 @@
+      Topaz
+      Wunder B, Rubie D C, Ross C R, Medenbach O, Seifert F, Schreyer W
+      American Mineralogist 78 (1993) 285-297
+      Synthesis, stability, and properties of Al2SiO4(OH)2: A fully hydrated
+      analogue of topaz
+      _database_code_amcsd 0001552
+      CELL PARAMETERS:   4.7238  8.9473  8.3900   90.000   90.000   90.000
+      SPACE GROUP: Pbnm      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    354.606
+      Density (g/cm3):      3.335
+      MAX. ABS. INTENSITY / VOLUME**2:      5.011188966    
+      RIR:      0.702
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                23.08          9.28        4.4736    0   2   0         2
+                24.75          7.89        4.1773    1   1   0         4
+                26.21          4.05        3.9475    0   2   1         4
+                27.70         73.93        3.7395    1   1   1         8
+                31.99         78.69        3.2482    1   2   0         4
+                34.02         28.43        3.0601    0   2   2         4
+                34.38         16.39        3.0291    1   2   1         8
+                35.20        100.00        2.9601    1   1   2         8
+                41.58         24.13        2.5219    1   3   0         4
+                43.51         19.03        2.4151    1   3   1         8
+                43.67          5.87        2.4065    1   0   3         4
+                44.35         51.95        2.3714    0   2   3         4
+                45.31          5.88        2.3239    1   1   3         8
+                46.16          1.67        2.2837    2   1   0         4
+                47.18          8.20        2.2368    0   4   0         2
+                47.94         13.13        2.2035    2   1   1         8
+                48.93          5.00        2.1613    0   4   1         4
+                49.97         52.02        2.1193    1   2   3         8
+                50.75         29.34        2.0887    2   2   0         4
+                52.56          4.30        2.0216    1   4   0         4
+                53.01          6.95        2.0057    2   1   2         8
+                53.94          4.47        1.9738    0   4   2         4
+                54.19          4.50        1.9654    1   4   1         8
+                57.05         20.13        1.8745    1   1   4         8
+                57.10         21.53        1.8729    1   3   3         8
+                57.82          8.53        1.8516    2   3   0         4
+                58.88          6.18        1.8212    1   4   2         8
+                59.35          4.64        1.8081    2   3   1         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

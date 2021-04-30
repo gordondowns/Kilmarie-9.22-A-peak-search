@@ -1,0 +1,28 @@
+      Braunite
+      de Villiers J P R
+      American Mineralogist 60 (1975) 1098-1104
+      The crystal structure of braunite with reference to its solid-solution behavior
+      _database_code_amcsd 0000484
+      CELL PARAMETERS:   9.4320  9.4320 18.7030   90.000   90.000   90.000
+      SPACE GROUP: I4_1/acd  
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1663.868
+      Density (g/cm3):      4.795
+      MAX. ABS. INTENSITY / VOLUME**2:      55.55274623    
+      RIR:      5.408
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                18.98          1.37        5.4299    1   1   2         8
+                21.88          2.38        4.7160    2   0   0         4
+                29.69          6.13        3.4936    2   1   3        16
+                38.50        100.00        2.7150    2   2   4         8
+                44.62         12.63        2.3580    4   0   0         4
+                45.03          5.71        2.3379    0   0   8         2
+                48.90          2.38        2.1629    3   3   2         8
+                49.09          2.74        2.1550    3   1   6        16
+                49.36          7.03        2.1437    3   2   5        16
+                56.97          2.78        1.8769    4   3   1        16
+                59.12          1.03        1.8146    5   1   2        16
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

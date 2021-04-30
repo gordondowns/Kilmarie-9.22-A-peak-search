@@ -1,0 +1,38 @@
+      Kolskyite
+      Camara F, Sokolova E, Abdu Y, Hawthorne F C, Khomyakov A P
+      The Canadian Mineralogist 51 (2013) 921-936
+      Kolskyite, (Ca[_])Na2Ti4(Si2O7)2O4(H2O)7, a group-IV
+      Ti-disilicate mineral from the Khibiny alkaline massif,
+      Kola Peninsula, Russia: Description and crystal structure
+      Locality: Khibiny alkaline massif, Kola Peninsula, Russia
+      _database_code_amcsd 0020036
+      CELL PARAMETERS:   5.3870  7.0910 15.4730   96.580   93.948   89.818
+      SPACE GROUP: P-1       
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    585.763
+      Density (g/cm3):      2.547
+      MAX. ABS. INTENSITY / VOLUME**2:      53.01039647    
+      RIR:      9.715
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                 6.69        100.00       15.3345    0   0   1         2
+                13.41          5.41        7.6673    0   0   2         2
+                15.36          1.78        6.6991    0  -1   1         2
+                18.69          1.96        5.5117    0  -1   2         2
+                24.13          1.49        4.2825   -1   1   0         2
+                25.17          1.06        4.1090   -1   1   1         2
+                26.27          2.01        3.9391   -1  -1   2         2
+                27.01          2.68        3.8336    0   0   4         2
+                29.69          1.29        3.4940   -1  -1   3         2
+                31.41          1.41        3.3068    1  -1   3         2
+                32.32          1.03        3.2160    0   1   4         2
+                33.94          2.88        3.0669    0   0   5         2
+                35.57          1.58        2.9309    1  -2   1         2
+                37.04          3.46        2.8182    1   2   1         2
+                37.14          3.63        2.8105    1  -2   2         2
+                39.05          1.14        2.6783   -2   0   1         2
+                39.80          1.75        2.6299    1   2   2         2
+                40.40          2.60        2.5923   -2   0   2         2
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

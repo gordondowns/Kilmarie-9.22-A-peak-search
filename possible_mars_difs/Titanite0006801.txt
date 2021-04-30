@@ -1,0 +1,42 @@
+      Titanite
+      Troitzsch U, Ellis D J, Thompson J, Fitz-Gerald J
+      European Journal of Mineralogy 11 (1999) 955-965
+      Crystal structural changes in titanite along the join TiO-AlF
+      Sample: AlF29
+      _database_code_amcsd 0006801
+      CELL PARAMETERS:   7.0462  8.6529  6.5231   90.000  114.143   90.000
+      SPACE GROUP: A2/a      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    362.925
+      Density (g/cm3):      3.492
+      MAX. ABS. INTENSITY / VOLUME**2:      10.46133519    
+      RIR:      1.399
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.03         15.82        4.9042    0   1   1         4
+                30.64          1.14        3.3876    1   1   1         4
+                32.13        100.00        3.2345   -2   1   1         4
+                32.33          6.49        3.2149    2   0   0         2
+                35.01         72.70        2.9763    0   0   2         2
+                36.77          9.94        2.8381   -2   0   2         2
+                40.25          1.12        2.6015   -1   2   2         4
+                40.35         58.74        2.5956    0   3   1         4
+                40.59         37.85        2.5805    2   2   0         4
+                44.32          1.54        2.3731   -2   2   2         4
+                44.78          2.30        2.3500    2   1   1         4
+                46.44         21.24        2.2705    1   3   1         4
+                46.59         12.35        2.2637   -3   1   1         4
+                47.50          6.85        2.2226   -2   3   1         4
+                48.89          1.50        2.1632    0   4   0         2
+                50.54         10.98        2.0969   -1   1   3         4
+                51.23          5.23        2.0706    1   2   2         4
+                51.54         13.67        2.0590   -2   1   3         4
+                51.77         11.47        2.0503    1   4   0         4
+                53.83          2.61        1.9773   -3   2   2         4
+                55.14          6.11        1.9340    0   1   3         4
+                57.41          2.04        1.8636    2   3   1         4
+                58.20          4.05        1.8407    2   0   2         2
+                59.84          8.34        1.7948    2   4   0         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

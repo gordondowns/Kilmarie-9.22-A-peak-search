@@ -1,0 +1,33 @@
+      Ferrihydrite
+      Michel F M, Ehm L, Antao S M, Lee P L, Chupas P J, Liu G, Strongin D R,
+      Schoonen M A A, Phillips B L, Parise J B
+      Science 316 (2007) 1726-1729
+      The structure of ferrihydrite, a nanocrystalline material
+      Locality: synthetic
+      Sample: Fhyd2
+      _database_code_amcsd 0015441
+      CELL PARAMETERS:   5.9580  5.9580  8.9650   90.000   90.000  120.000
+      SPACE GROUP: P6_3mc    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    275.602
+      Density (g/cm3):      4.758
+      MAX. ABS. INTENSITY / VOLUME**2:      18.77799392    
+      RIR:      1.842
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                19.98         10.88        5.1598    1   0   0         6
+                23.04         47.52        4.4825    0   0   2         1
+                23.09         27.83        4.4720    1   0   1         6
+                30.68         51.02        3.3839    1   0   2         6
+                34.97          9.01        2.9790    1   1   0         6
+                40.50         85.68        2.5859    1   0   3         6
+                40.60         33.42        2.5799    2   0   0         6
+                42.30         82.27        2.4811    1   1   2         6
+                42.33        100.00        2.4793    2   0   1         6
+                47.08          3.36        2.2413    0   0   4         1
+                47.20         34.48        2.2360    2   0   2         6
+                54.57         31.96        1.9528    2   0   3         6
+                59.97          2.92        1.7910    1   1   4         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

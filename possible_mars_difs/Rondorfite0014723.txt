@@ -1,0 +1,43 @@
+      Rondorfite
+      Mihajlovic T, Lengauer C L, Ntaflos T, Lolitsch U, Tillmanns E
+      Neues Jahrbuch fur Mineralogie, Abhandlungen 179 (2004) 265-294
+      Two new minerals, rondorfite, Ca8Mg[SiO4]4Cl2, and almarudite,
+      K(box,Na)2(Mn,Fe,Mg)2(Be,Al)3[Si12O30], and a study of iron-rich wadalite,
+      Ca12[(Al8Si4Fe2)O32]C16, from the Bellerberg (Bellberg) volcano, Eifel, Germany
+      Locality: Bellerberg volcano lava field, 2 km N of Mayen,
+      Eastern Eifel volcanic area, Eifel, Germany
+      _database_code_amcsd 0014723
+      CELL PARAMETERS:  15.0850 15.0850 15.0850   90.000   90.000   90.000
+      SPACE GROUP: Fd3       
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   3432.701
+      Density (g/cm3):      3.028
+      MAX. ABS. INTENSITY / VOLUME**2:      21.68667572    
+      RIR:      3.344
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                11.80          5.88        8.7093    1   1   1         8
+                19.32          6.55        5.3334    2   2   0        12
+                22.70          8.88        4.5483    3   1   1        24
+                23.72          2.65        4.3547    2   2   2         8
+                27.46          3.14        3.7713    4   0   0         6
+                33.80          6.23        3.0792    4   2   2        24
+                35.92         12.40        2.9031    5   1   1        24
+                35.92          5.80        2.9031    3   3   3         8
+                39.23        100.00        2.6667    4   4   0        12
+                41.10         10.53        2.5498    5   3   1        24
+                41.10          1.17        2.5498    5   1   3        24
+                44.09          1.66        2.3851    6   0   2        12
+                44.09          2.26        2.3851    6   2   0        12
+                45.80          5.10        2.3004    5   3   3        24
+                46.36          5.38        2.2741    6   2   2        24
+                50.15          3.07        2.1123    7   1   1        24
+                50.15          5.29        2.1123    5   5   1        24
+                54.23          1.29        1.9639    7   1   3        24
+                54.23          2.28        1.9639    7   3   1        24
+                54.23         10.48        1.9639    5   5   3        24
+                56.68         12.74        1.8856    8   0   0         6
+                58.12          3.13        1.8429    7   3   3        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

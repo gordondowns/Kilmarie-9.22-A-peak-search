@@ -1,0 +1,40 @@
+      Forsterite
+      Baur W H
+      American Mineralogist 57 (1972) 709-731
+      Computer-simulated crystal structures of observed and hypothetical Mg2SiO4
+      polymorphs of low and high density
+      Locality: hypothetical
+      _database_code_amcsd 0000276
+      CELL PARAMETERS:   4.7900 10.1900  5.8500   90.000   90.000   90.000
+      SPACE GROUP: Pbnm      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    285.539
+      Density (g/cm3):      3.272
+      MAX. ABS. INTENSITY / VOLUME**2:      4.825369581    
+      RIR:      0.688
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                20.24         23.11        5.0950    0   2   0         2
+                26.95         85.78        3.8421    0   2   1         4
+                27.95         33.59        3.7061    1   0   1         4
+                29.72         21.56        3.4899    1   2   0         4
+                29.79         20.06        3.4829    1   1   1         8
+                34.76          7.77        2.9971    1   2   1         8
+                35.64         18.06        2.9250    0   0   2         2
+                37.70         45.95        2.7707    1   3   0         4
+                41.89         94.94        2.5041    1   3   1         8
+                43.33        100.00        2.4247    1   1   2         8
+                45.07          8.07        2.3356    0   4   1         4
+                45.16          7.72        2.3315    2   1   0         4
+                46.90         28.28        2.2492    1   4   0         4
+                47.07         41.49        2.2417    1   2   2         8
+                48.83         23.86        2.1658    2   1   1         8
+                52.85          9.19        2.0115    1   3   2         8
+                54.43          3.96        1.9574    2   3   0         4
+                55.55          1.59        1.9210    0   4   2         4
+                57.02         12.65        1.8753    1   5   0         4
+                58.81          1.29        1.8232    2   1   2         8
+                58.88          1.19        1.8212    0   2   3         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

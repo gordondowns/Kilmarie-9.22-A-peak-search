@@ -1,0 +1,29 @@
+      Andradite
+      Lager G A, Armbruster T, Rotella F J, Rossman G R
+      American Mineralogist 74 (1989) 840-851
+      OH substitution in garnets: X-ray and neutron diffraction, infrared, and
+      geometric-modeling studies
+      sample SB-1
+      _database_code_amcsd 0001252
+      CELL PARAMETERS:  12.0570 12.0570 12.0570   90.000   90.000   90.000
+      SPACE GROUP: Ia-3d     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1752.741
+      Density (g/cm3):      3.756
+      MAX. ABS. INTENSITY / VOLUME**2:      16.18244507    
+      RIR:      2.011
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                24.24         18.76        4.2628    2   2   0        12
+                34.55         70.22        3.0143    4   0   0         6
+                38.78        100.00        2.6960    4   2   0        24
+                40.76          8.74        2.5706    3   3   2        24
+                42.66         66.18        2.4611    4   2   2        24
+                44.49         15.57        2.3646    4   3   1        48
+                47.99         14.26        2.2013    5   2   1        48
+                54.47         11.57        1.9559    5   3   2        48
+                54.47         11.86        1.9559    6   1   1        24
+                56.01         12.64        1.9064    6   2   0        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,29 @@
+      Andradite
+      Novak G A, Gibbs G V
+      American Mineralogist 56 (1971) 791-823
+      The crystal chemistry of the silicate garnets
+      sample An
+      Locality: Valmalen, Italy
+      _database_code_amcsd 0000246
+      CELL PARAMETERS:  12.0580 12.0580 12.0580   90.000   90.000   90.000
+      SPACE GROUP: Ia-3d     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1753.177
+      Density (g/cm3):      3.850
+      MAX. ABS. INTENSITY / VOLUME**2:      15.81821878    
+      RIR:      1.918
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                24.24         27.39        4.2631    2   2   0        12
+                34.55         78.55        3.0145    4   0   0         6
+                38.78        100.00        2.6963    4   2   0        24
+                40.75         10.31        2.5708    3   3   2        24
+                42.65         78.84        2.4613    4   2   2        24
+                44.49         16.04        2.3648    4   3   1        48
+                47.98         12.65        2.2015    5   2   1        48
+                54.47         10.48        1.9561    5   3   2        48
+                54.47         10.94        1.9561    6   1   1        24
+                56.01         16.93        1.9065    6   2   0        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

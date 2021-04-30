@@ -1,0 +1,19 @@
+      Suessite
+      Keil K, Berkley J L, Fuchs J H
+      American Mineralogist 67 (1982) 126-131
+      Suessite, Fe3Si: a new mineral in the North Haig ureilite
+      Locality: North Haig ureilite, meteorite, Western Australia
+      _database_code_amcsd 0000860
+      CELL PARAMETERS:   2.8410  2.8410  2.8410   90.000   90.000   90.000
+      SPACE GROUP: Im3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     22.931
+      Density (g/cm3):      7.092
+      MAX. ABS. INTENSITY / VOLUME**2:      166.3725556    
+      RIR:     10.951
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                52.92        100.00        2.0089    1   1   0        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

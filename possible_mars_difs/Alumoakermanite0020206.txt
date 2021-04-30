@@ -1,0 +1,40 @@
+      Alumoakermanite
+      Wiedenmann D, Zaitsev A N, Britvin S N, Krivovichev S V, Keller J
+      Mineralogical Magazine 73 (2009) 373-384
+      Alumoakermanite, (Ca,Na)2(Al,Mg,Fe2+)(Si2O7), a new mineral from the active
+      carbonatite-nephelinite-phonolite volcano Oldoinyo Lengai, northern Tanzania
+      Locality: Oldoinyo Lengai, northern Tanzania
+      _database_code_amcsd 0020206
+      CELL PARAMETERS:   7.7661  7.7661  5.0297   90.000   90.000   90.000
+      SPACE GROUP: P-42_1m   
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    303.353
+      Density (g/cm3):      3.013
+      MAX. ABS. INTENSITY / VOLUME**2:      14.64147824    
+      RIR:      2.269
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                18.76          2.87        5.4915    1   1   0         4
+                20.50         10.83        5.0297    0   0   1         2
+                24.48          5.85        4.2217    1   0   1         8
+                27.93         18.69        3.7091    1   1   1         4
+                29.87          6.50        3.4731    2   1   0         8
+                33.86         28.13        3.0736    2   0   1         8
+                36.51        100.00        2.8579    2   1   1         8
+                38.05          5.76        2.7457    2   2   0         4
+                41.70          2.96        2.5148    0   0   2         2
+                42.75         20.99        2.4559    3   1   0         8
+                43.61          7.91        2.4100    2   2   1         4
+                43.94          7.32        2.3925    1   0   2         8
+                45.77          7.99        2.3017    3   0   1         8
+                46.09          2.87        2.2865    1   1   2         4
+                47.86          2.36        2.2068    3   1   1         8
+                52.14          9.97        2.0369    2   1   2         8
+                53.76          2.58        1.9800    3   2   1         8
+                54.91          5.24        1.9415    4   0   0         4
+                56.75          4.71        1.8836    4   1   0         8
+                57.72          4.35        1.8545    2   2   2         4
+                58.55          7.59        1.8305    3   3   0         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,27 @@
+      Pyrophanite
+      Ko J, Prewitt C T
+      Physics and Chemistry of Minerals 15 (1988) 355-362
+      High-pressure phase transition in MnTiO3 from the ilmenite to the
+      LiNbO3 structure
+      Note: Represents the high pressure phase of pyrophanite
+      Note: Sample synthesized at 60 kbar and 1300 C
+      _database_code_amcsd 0007448
+      CELL PARAMETERS:   5.2050  5.2050 13.7000   90.000   90.000  120.000
+      SPACE GROUP: R3c       
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    321.435
+      Density (g/cm3):      4.674
+      MAX. ABS. INTENSITY / VOLUME**2:      32.18413533    
+      RIR:      3.215
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                27.50         15.22        3.7655    0   1   2         3
+                38.32        100.00        2.7271    1   0   4         3
+                40.24         68.43        2.6025    1   1   0         6
+                46.16          1.22        2.2833    0   0   6         1
+                46.64         17.87        2.2611    1   1   3         6
+                49.43          4.32        2.1409    2   0   2         3
+                56.78         45.11        1.8828    0   2   4         3
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,25 @@
+      Koenenite
+      Allmann R, Lohse H N, Hellner E
+      Zeitschrift fur Kristallographie 126 (1968) 7-22
+      Die kristallstruktur des koenenits, eine doppelschichtstruktur mit zwei
+      inkommensurablen teilgittern
+      Note: one of two substructures in koenenite
+      _database_code_amcsd 0010654
+      CELL PARAMETERS:   3.0520  3.0520 10.8800   90.000   90.000  120.000
+      SPACE GROUP: P-3m1     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     87.766
+      Density (g/cm3):      1.084
+      MAX. ABS. INTENSITY / VOLUME**2:      47.44565528    
+      RIR:     20.441
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                 9.44        100.00       10.8800    0   0   1         2
+                18.94         10.94        5.4400    0   0   2         2
+                40.79          1.91        2.5684    0   1   1         6
+                44.24          3.84        2.3774    0   1   2         6
+                49.55          3.99        2.1360    0   1   3         6
+                56.36          2.61        1.8956    0   1   4         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

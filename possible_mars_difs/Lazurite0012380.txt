@@ -1,0 +1,33 @@
+      Lazurite
+      Rastsvetaeva R K, Bolotina N B, Sapozhnikov A N, Kashaev A A, Schoenleber A,
+      Chapuis G
+      Crystallography Reports 47 (2002) 404-407
+      Average structure of cubic lazurite with a three-dimensional incommensurate
+      modulation
+      Locality: Malo-Bystrinskoe deposit, Lake Baikal region, Russia
+      _database_code_amcsd 0012380
+      CELL PARAMETERS:   9.0770  9.0770  9.0770   90.000   90.000   90.000
+      SPACE GROUP: P23       
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    747.871
+      Density (g/cm3):      2.335
+      MAX. ABS. INTENSITY / VOLUME**2:      8.532846713    
+      RIR:      1.706
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                11.32          2.15        9.0770    1   0   0         6
+                16.03         70.59        6.4184    1   1   0        12
+                19.67          1.09        5.2406    1   1   1         4
+                22.75          1.90        4.5385    2   0   0         6
+                27.96        100.00        3.7057    2   1   1        12
+                36.34         10.83        2.8704    3   0   1        12
+                36.34         10.83        2.8704    3   1   0        12
+                39.95         41.19        2.6203    2   2   2         4
+                43.31          3.94        2.4259    3   1   2        12
+                43.31          3.92        2.4259    3   2   1        12
+                46.47          9.56        2.2692    4   0   0         6
+                49.47         14.32        2.1395    3   3   0        12
+                55.10          2.25        1.9352    3   3   2        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,23 @@
+      Spinel
+      Andreozzi G B, Princivalle F
+      American Mineralogist 87 (2002) 838-844
+      Kinetics of cation ordering in synthetic MgAl2O4 spinel
+      Sample: annealed at 1000 deg C for 12h, then isothermally ordered at 700 deg C for 1000 min
+      _database_code_amcsd 0002845
+      CELL PARAMETERS:   8.0847  8.0847  8.0847   90.000   90.000   90.000
+      SPACE GROUP: Fd3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    528.435
+      Density (g/cm3):      3.576
+      MAX. ABS. INTENSITY / VOLUME**2:      13.42102410    
+      RIR:      1.752
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                22.11         33.13        4.6677    1   1   1         8
+                36.50         33.86        2.8584    2   2   0        12
+                43.09        100.00        2.4376    3   1   1        24
+                45.11          1.10        2.3339    2   2   2         8
+                52.58         55.53        2.0212    4   0   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

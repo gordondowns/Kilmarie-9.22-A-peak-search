@@ -1,0 +1,43 @@
+      Megakalsilite
+      Khomyakov A P, Nechelyustov G N, Sokolova E V, Bonaccorsi E, Merlino S, Pasero M
+      The Canadian Mineralogist 40 (2002) 961-970
+      Megakalsilite, a new polymorph of KAlSiO4 from the Khibina alkaline massif,
+      Kola Peninsula, Russia: mineral description and crystal structure
+      Locality: Khibina alkaline massif, Kola Peninsula, Russia
+      _database_code_amcsd 0005778
+      CELL PARAMETERS:  18.1111 18.1111  8.4619   90.000   90.000  120.000
+      SPACE GROUP: P6_3      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   2403.744
+      Density (g/cm3):      2.622
+      MAX. ABS. INTENSITY / VOLUME**2:      12.13828420    
+      RIR:      2.161
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                16.65         10.43        6.1827    1   1   1         6
+                22.81          4.83        4.5278    2   2   0         6
+                24.43         11.50        4.2309    0   0   2         1
+                25.91         13.46        3.9922    2   2   1         6
+                32.77         21.06        3.1729    1   4   1         6
+                32.77         18.13        3.1729    4   1   1         6
+                33.66        100.00        3.0913    2   2   2         6
+                36.70          4.29        2.8430    3   3   1         6
+                38.83          4.82        2.6930    1   1   3         6
+                40.05         45.58        2.6141    6   0   0         6
+                41.76          1.13        2.5116    5   2   0         6
+                42.00         11.56        2.4976    6   0   1         6
+                43.65          3.10        2.4077    2   5   1         6
+                43.65          1.06        2.4077    5   2   1         6
+                43.91          3.10        2.3941    2   2   3         6
+                46.58          4.15        2.2639    4   4   0         6
+                47.47          2.86        2.2239    6   0   2         6
+                50.07         10.91        2.1155    0   0   4         1
+                51.49          2.84        2.0609    3   3   3         6
+                53.29          1.65        1.9961    4   4   2         6
+                55.66          2.76        1.9173    6   0   3         6
+                55.69          1.62        1.9166    2   2   4         6
+                57.01          2.40        1.8757    2   5   3         6
+                57.01          2.52        1.8757    5   2   3         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

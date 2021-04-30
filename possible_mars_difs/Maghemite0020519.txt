@@ -1,0 +1,37 @@
+      Maghemite
+      Shin HS
+      Journal of the Korean Ceramic Society 35 (1998) 1113-1119
+      A study on the structure of maghemite (gamma-Fe2O3)
+      I. Rietveld analysis of powder XRD patterns
+      Locality: Synthetic
+      _database_code_amcsd 0020519
+      CELL PARAMETERS:   8.3460  8.3460 25.0340   90.000   90.000   90.000
+      SPACE GROUP: P4_32_12  
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1743.761
+      Density (g/cm3):      4.790
+      MAX. ABS. INTENSITY / VOLUME**2:      50.21015574    
+      RIR:      4.894
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                12.98          1.03        7.9176    1   0   1         8
+                14.81          2.03        6.9440    1   0   2         8
+                17.45          2.00        5.9015    1   1   0         4
+                17.45          3.09        5.9010    1   0   3         8
+                21.41          2.77        4.8183    1   1   3         8
+                27.75          2.07        3.7324    2   1   0         8
+                27.75          2.04        3.7323    2   0   3         8
+                27.76          2.28        3.7320    1   0   6         8
+                30.46          3.27        3.4071    2   1   3         8
+                30.47          2.28        3.4069    1   1   6         8
+                32.43          1.10        3.2057    2   1   4         8
+                35.32         12.07        2.9508    2   2   0         4
+                35.32         23.69        2.9505    2   0   6         8
+                41.68         65.30        2.5164    3   1   3         8
+                41.68         34.70        2.5161    1   1   9         8
+                43.62          3.99        2.4092    2   2   6         8
+                50.81         10.63        2.0865    4   0   0         4
+                50.82          5.70        2.0862    0   0  12         2
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

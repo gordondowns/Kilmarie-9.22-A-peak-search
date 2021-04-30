@@ -1,0 +1,41 @@
+      Akermanite
+      Swainson I P, Dove M T, Schmahl W W, Putnis A
+      Physics and Chemistry of Minerals 19 (1992) 185-195
+      Neutron powder diffraction study of the akermanite-gehlenite
+      solid solution series
+      Sample: 100% Ak
+      _database_code_amcsd 0007698
+      CELL PARAMETERS:   7.8288  7.8288  5.0052   90.000   90.000   90.000
+      SPACE GROUP: P-42_1m   
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    306.769
+      Density (g/cm3):      2.941
+      MAX. ABS. INTENSITY / VOLUME**2:      15.78991212    
+      RIR:      2.507
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                18.61         11.01        5.5358    1   1   0         4
+                20.60          1.79        5.0052    0   0   1         2
+                24.51          7.90        4.2170    1   0   1         8
+                26.44          3.50        3.9144    2   0   0         4
+                27.90         10.41        3.7127    1   1   1         4
+                29.63          4.64        3.5011    2   1   0         8
+                33.75         22.48        3.0834    2   0   1         8
+                36.36        100.00        2.8689    2   1   1         8
+                37.74          3.57        2.7679    2   2   0         4
+                41.92          1.58        2.5026    0   0   2         2
+                42.39         15.56        2.4757    3   1   0         8
+                43.38          4.99        2.4222    2   2   1         4
+                44.11          6.62        2.3838    1   0   2         8
+                45.52          6.28        2.3140    3   0   1         8
+                46.23          2.94        2.2804    1   1   2         4
+                47.58          1.55        2.2191    3   1   1         8
+                52.17         11.65        2.0360    2   1   2         8
+                53.41          2.32        1.9920    3   2   1         8
+                54.43          5.71        1.9572    4   0   0         4
+                56.26          5.85        1.8988    4   1   0         8
+                57.66          3.80        1.8563    2   2   2         4
+                58.04          9.70        1.8453    3   3   0         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

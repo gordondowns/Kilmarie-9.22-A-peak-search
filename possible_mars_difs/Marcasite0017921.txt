@@ -1,0 +1,27 @@
+      Marcasite
+      Buerger M
+      Zeitschrift fur Kristallographie 97 (1937) 504-513
+      Interatomic Distances in Marcasite and Notes on the Bonding in Crystals
+      of Loellingite, Arsenopyrite, and Marcasite Types.
+      _cod_database_code 1011013
+      _database_code_amcsd 0017921
+      CELL PARAMETERS:   4.4360  5.4140  3.3810   90.000   90.000   90.000
+      SPACE GROUP: Pnnm      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     81.200
+      Density (g/cm3):      4.906
+      MAX. ABS. INTENSITY / VOLUME**2:      26.99659338    
+      RIR:      2.569
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                30.24         62.01        3.4313    1   1   0         4
+                36.38          2.51        2.8677    0   1   1         4
+                38.62         30.73        2.7070    0   2   0         2
+                38.89        100.00        2.6890    1   0   1         4
+                43.64         40.59        2.4083    1   1   1         8
+                45.58         36.38        2.3107    1   2   0         4
+                51.72          4.34        2.0524    2   1   0         4
+                55.97         36.48        1.9077    1   2   1         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,47 @@
+      Anhydrite
+      Bezou C, Nonat A, Mutin J C, Christensen A N, Lehmann M S
+      Journal of Solid State Chemistry 117 (1995) 165-176
+      Of the crystal structure of gamma-CaSO4, CaSO4*0.5(H2O), and CaSO4*0.6(H2O)
+      by powder diffraction methods
+      Locality: Maurienne, France
+      _database_code_amcsd 0013866
+      CELL PARAMETERS:  12.0777  6.9723  6.3040   90.000   90.000   90.000
+      SPACE GROUP: C222      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    530.856
+      Density (g/cm3):      2.555
+      MAX. ABS. INTENSITY / VOLUME**2:      19.85326940    
+      RIR:      3.628
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                17.05         33.59        6.0388    2   0   0         2
+                17.05         66.41        6.0384    1   1   0         4
+                23.69          1.47        4.3606    1   1   1         4
+                29.75         11.72        3.4864    3   1   0         4
+                29.76          5.30        3.4862    0   2   0         2
+                34.12          3.86        3.0509    3   1   1         4
+                34.13          3.08        3.0507    0   2   1         4
+                34.49         16.45        3.0194    4   0   0         2
+                34.49         34.37        3.0192    2   2   0         4
+                37.37         16.24        2.7943    2   0   2         4
+                37.37         30.91        2.7942    1   1   2         4
+                38.38          1.95        2.7232    4   0   1         4
+                38.38          4.05        2.7230    2   2   1         4
+                45.02          3.65        2.3381    3   1   2         4
+                45.02          1.26        2.3380    0   2   2         4
+                48.48          1.74        2.1804    4   0   2         4
+                48.48          3.14        2.1803    2   2   2         4
+                49.30          1.19        2.1461    5   1   1         4
+                49.31          1.74        2.1460    4   2   1         4
+                49.31          1.22        2.1459    1   3   1         4
+                50.43          4.17        2.1013    0   0   3         2
+                52.81          1.33        2.0129    6   0   0         2
+                52.81          1.61        2.0128    3   3   0         4
+                55.66          2.07        1.9176    6   0   1         4
+                55.66          4.34        1.9174    3   3   1         4
+                57.92          7.46        1.8487    5   1   2         4
+                57.92          8.29        1.8486    4   2   2         4
+                57.93          8.52        1.8485    1   3   2         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,33 @@
+      Stilpnomelane
+      Guggenheim S, Eggleton R A
+      American Mineralogist 79 (1994) 438-442
+      Stilpnomelane and parsettensite: A distance least squares (DLS) study
+      Note: this is a theoretical structure
+      _database_code_amcsd 0001654
+      CELL PARAMETERS:  22.2000 22.2000 17.8350  125.030   95.980  120.000
+      SPACE GROUP: P-1       
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   5199.103
+      Density (g/cm3):      2.605
+      MAX. ABS. INTENSITY / VOLUME**2:      55.40456174    
+      RIR:      9.927
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                 7.24          1.57       14.1703   -1   0   1         2
+                 7.78          1.66       13.2030    0   1   0         2
+                 8.26          1.49       12.4228    1  -1   1         2
+                 8.43        100.00       12.1812    0   0   1         2
+                21.47          1.00        4.8064    4  -4   1         2
+                25.47          7.35        4.0604    0   0   3         2
+                34.19          3.07        3.0453    0   0   4         2
+                38.05          1.90        2.7459   -4  -4   5         2
+                38.09          1.98        2.7433   -8   4   0         2
+                40.29          4.58        2.5993   -4  -4   6         2
+                40.38          4.57        2.5937    8  -4   1         2
+                44.36          2.66        2.3710    8  -4   2         2
+                47.77          1.07        2.2107   -8   4   4         2
+                47.93          1.05        2.2039   -4  -4   1         2
+                49.72          1.05        2.1291    8  -4   3         2
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

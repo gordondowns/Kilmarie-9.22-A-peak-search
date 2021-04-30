@@ -1,0 +1,29 @@
+      Andradite
+      Armbruster T, Birrer J, Libowitzky E, Beran A
+      European Journal of Mineralogy 10 (1998) 907-921
+      Crystal chemistry of Ti-bearing andradites
+      Note: sample NZALA
+      Locality: N'Zala, Atlas mountains, Morocco
+      _database_code_amcsd 0006756
+      CELL PARAMETERS:  12.1050 12.1050 12.1050   90.000   90.000   90.000
+      SPACE GROUP: Ia-3d     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1773.758
+      Density (g/cm3):      3.751
+      MAX. ABS. INTENSITY / VOLUME**2:      17.26630518    
+      RIR:      2.149
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                24.15         12.29        4.2798    2   2   0        12
+                34.41         63.40        3.0262    4   0   0         6
+                38.62        100.00        2.7068    4   2   0        24
+                40.59          9.33        2.5808    3   3   2        24
+                42.48         57.86        2.4709    4   2   2        24
+                44.30         14.12        2.3740    4   3   1        48
+                47.79         11.33        2.2101    5   2   1        48
+                54.24          9.00        1.9637    5   3   2        48
+                54.24          9.87        1.9637    6   1   1        24
+                55.77          9.24        1.9140    6   2   0        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,24 @@
+      Ulvospinel
+      Bosi F, Halenius U, Skogby H
+      American Mineralogist 99 (2014) 847-851
+      Crystal chemistry of the ulvospinel-qandilite series.
+      Note: sample T4
+      Locality: synthetic
+      _database_code_amcsd 0020136
+      CELL PARAMETERS:   8.5021  8.5021  8.5021   90.000   90.000   90.000
+      SPACE GROUP: Fd-3m     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    614.580
+      Density (g/cm3):      4.294
+      MAX. ABS. INTENSITY / VOLUME**2:      37.25328092    
+      RIR:      4.050
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.01         10.17        4.9087    1   1   1         8
+                34.65         34.63        3.0059    2   2   0        12
+                40.88        100.00        2.5635    3   1   1        24
+                42.78          3.40        2.4543    2   2   2         8
+                49.81         22.50        2.1255    4   0   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,56 @@
+      Pigeonite
+      Camara F, Carpenter M A, Domeneghetti M C, Tazzoli V
+      American Mineralogist 88 (2003) 1115-1128
+      Coupling between non-convergent ordering and transition temperature
+      in the C2/c - P2_1/c phase transition in pigeonite
+      Sample: BTS-308 n.17-4, after heating at 800 deg C
+      Locality: Parana, Brazil
+      _database_code_amcsd 0003150
+      CELL PARAMETERS:   9.7070  8.9430  5.2460   90.000  108.470   90.000
+      SPACE GROUP: P2_1/c    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    431.946
+      Density (g/cm3):      3.541
+      MAX. ABS. INTENSITY / VOLUME**2:      8.309464019    
+      RIR:      1.095
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                16.04          4.27        6.4150    1   1   0         4
+                22.43         10.48        4.6035    2   0   0         2
+                23.29          8.85        4.4342   -1   1   1         4
+                23.76          3.93        4.3481    0   1   1         4
+                30.86          1.85        3.3639   -1   2   1         4
+                31.23         15.80        3.3259    0   2   1         4
+                32.41         48.73        3.2075    2   2   0         4
+                34.53        100.00        3.0161   -2   2   1         4
+                35.75         37.12        2.9164   -3   1   1         4
+                35.92         48.84        2.9028    3   1   0         4
+                39.96          1.10        2.6198   -1   0   2         2
+                40.70         45.45        2.5744   -1   3   1         4
+                40.98          2.07        2.5572    0   3   1         4
+                42.18         48.87        2.4879    0   0   2         2
+                42.68         26.80        2.4599    2   2   1         4
+                43.64          4.88        2.4081   -2   3   1         4
+                44.45          3.22        2.3666    1   3   1         4
+                47.27         12.21        2.2330    3   1   1         4
+                47.32          3.97        2.2304    1   0   2         2
+                47.63          1.89        2.2171   -2   2   2         4
+                48.63          4.07        2.1740    0   2   2         4
+                48.87          8.51        2.1641    1   1   2         4
+                49.36         37.36        2.1437   -3   3   1         4
+                49.50          2.58        2.1383    3   3   0         4
+                50.11          7.52        2.1137   -4   2   1         4
+                51.41          1.89        2.0639   -3   2   2         4
+                51.88          2.96        2.0465    4   2   0         4
+                51.98         14.30        2.0427   -4   0   2         2
+                52.07          9.27        2.0393    0   4   1         4
+                52.86          4.54        2.0111    2   4   0         4
+                53.42          1.35        1.9914   -4   1   2         4
+                54.31          4.43        1.9613   -2   4   1         4
+                54.77         10.35        1.9460    2   0   2         2
+                57.24          1.71        1.8688   -4   3   1         4
+                58.78          3.03        1.8240    3   3   1         4
+                59.51          3.16        1.8036    5   1   0         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

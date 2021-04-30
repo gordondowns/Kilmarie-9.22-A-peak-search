@@ -1,0 +1,35 @@
+      Faujasite-Ca
+      Bennett J M, Smith J V
+      Materials Research Bulletin 3 (1968) 933-940
+      Positions of cations and molecules in zeolites with the faujasite-type
+      framework III. Hydrated Ca-exchanged faujasite
+      Locality: Sasbach, Kaiserstuhl, Germany
+      _database_code_amcsd 0014217
+      CELL PARAMETERS:  24.7100 24.7100 24.7100   90.000   90.000   90.000
+      SPACE GROUP: Fd-3m     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:  15087.531
+      Density (g/cm3):      1.470
+      MAX. ABS. INTENSITY / VOLUME**2:      40.03217130    
+      RIR:     12.709
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                 7.19        100.00       14.2663    1   1   1         8
+                11.76          7.52        8.7363    2   2   0        12
+                13.80          3.41        7.4503    3   1   1        24
+                18.17          9.28        5.6689    3   3   1        24
+                21.70          3.75        4.7554    5   1   1        24
+                23.65          3.48        4.3682    4   4   0        12
+                27.48          7.55        3.7682    5   3   3        24
+                29.99          1.28        3.4601    5   5   1        24
+                31.46          3.77        3.3020    6   4   2        48
+                34.50          1.21        3.0188    7   3   3        24
+                35.80          1.06        2.9121    6   6   0        12
+                36.57          3.41        2.8533    5   5   5         8
+                37.81          1.49        2.7627    8   4   0        24
+                39.73          2.12        2.6341    6   6   4        24
+                40.43          1.30        2.5903    9   3   1        48
+                44.23          1.02        2.3777    6   6   6         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

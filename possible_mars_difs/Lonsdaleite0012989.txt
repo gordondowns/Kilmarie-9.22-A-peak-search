@@ -1,0 +1,20 @@
+      Lonsdaleite
+      Bundy F P, Kasper J S
+      Journal of Chemical Physics 46 (1967) 3437-3446
+      Hexagonal diamond-a new form of carbon
+      _database_code_amcsd 0012989
+      CELL PARAMETERS:   2.5200  2.5200  4.1200   90.000   90.000  120.000
+      SPACE GROUP: P6_3/mmc  
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     22.658
+      Density (g/cm3):      3.520
+      MAX. ABS. INTENSITY / VOLUME**2:      4.314299000    
+      RIR:      0.572
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                48.43        100.00        2.1824    1   0   0         6
+                51.51         52.18        2.0600    0   0   2         2
+                55.31         51.68        1.9285    1   0   1        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,25 @@
+      Hauerite
+      Offner F
+      Zeitschrift fur Kristallographie 89 (1934) 182-184
+      A redetermination of the parameter for Hauerite, Mn S2
+      _cod_database_code 1011237
+      _database_code_amcsd 0018103
+      CELL PARAMETERS:   6.1090  6.1090  6.1090   90.000   90.000   90.000
+      SPACE GROUP: Pa3       
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    227.987
+      Density (g/cm3):      3.468
+      MAX. ABS. INTENSITY / VOLUME**2:      28.76515869    
+      RIR:      3.872
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                29.40         12.56        3.5270    1   1   1         8
+                34.08        100.00        3.0545    2   0   0         6
+                38.25         31.11        2.7320    2   1   0        12
+                42.07         30.18        2.4940    2   1   1        24
+                48.97         44.04        2.1599    2   2   0        12
+                52.16          2.30        2.0363    2   2   1        24
+                58.15         58.71        1.8419    3   1   1        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

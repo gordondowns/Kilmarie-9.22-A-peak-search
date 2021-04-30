@@ -1,0 +1,23 @@
+      Ringwoodite
+      Smyth J R, Holl C M, Frost D J, Jacobsen S D, Langenhorst F, McCammon C A
+      American Mineralogist 88 (2003) 1402-1407
+      Structural systematics of hydrous ringwoodite and water in Earth's interior
+      Sample: Ringby2
+      _database_code_amcsd 0003159
+      CELL PARAMETERS:   8.0682  8.0682  8.0682   90.000   90.000   90.000
+      SPACE GROUP: Fd3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    525.206
+      Density (g/cm3):      3.519
+      MAX. ABS. INTENSITY / VOLUME**2:      15.92739706    
+      RIR:      2.113
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                36.58         31.71        2.8525    2   2   0        12
+                43.18        100.00        2.4327    3   1   1        24
+                45.20          2.77        2.3291    2   2   2         8
+                52.69         43.82        2.0171    4   0   0         6
+                57.84          2.18        1.8510    3   3   1        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

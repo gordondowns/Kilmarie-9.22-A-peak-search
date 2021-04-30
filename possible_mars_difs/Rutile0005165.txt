@@ -1,0 +1,24 @@
+      Rutile
+      Meagher E P, Lager G A
+      The Canadian Mineralogist 17 (1979) 77-85
+      Polyhedral thermal expansion in the TiO2 polymorphs: Refinement
+      of the crystal structure of rutile and brookite at high temperature
+      Sample at 300 degrees C
+      _database_code_amcsd 0005165
+      CELL PARAMETERS:   4.6030  4.6030  2.9660   90.000   90.000   90.000
+      SPACE GROUP: P4_2/mnm  
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     62.842
+      Density (g/cm3):      4.220
+      MAX. ABS. INTENSITY / VOLUME**2:      33.09239794    
+      RIR:      3.661
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                31.93        100.00        3.2548    1   1   0         4
+                42.08         44.22        2.4932    1   0   1         8
+                45.78          6.32        2.3015    2   0   0         4
+                48.20         17.88        2.1923    1   1   1         8
+                51.55          6.23        2.0585    2   1   0         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

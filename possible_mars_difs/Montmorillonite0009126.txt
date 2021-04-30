@@ -1,0 +1,33 @@
+      Montmorillonite
+      Gournis D, Lappas A, Karakassides M A, Tobbens D, Moukarika A
+      Physics and Chemistry of Minerals 35 (2008) 49-58
+      A neutron diffraction study of alkali cation migration in montmorillonites
+      Sample: Li-mont
+      _database_code_amcsd 0009126
+      CELL PARAMETERS:   5.1750  8.8960 12.4500   90.000   99.690   90.000
+      SPACE GROUP: C2/m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    564.981
+      Density (g/cm3):      1.777
+      MAX. ABS. INTENSITY / VOLUME**2:      47.19156556    
+      RIR:     12.400
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                 8.37        100.00       12.2724    0   0   1         2
+                16.78          7.32        6.1362    0   0   2         2
+                23.22          8.28        4.4480    0   2   0         2
+                23.63          4.81        4.3715   -1   1   1         4
+                24.72          2.86        4.1818    0   2   1         4
+                25.28          1.90        4.0908    0   0   3         2
+                25.99          1.55        3.9815    1   1   1         4
+                26.77          3.20        3.8671   -1   1   2         4
+                28.78          1.11        3.6014    0   2   2         4
+                33.93          1.54        3.0681    0   0   4         2
+                37.20          1.55        2.8066    1   1   3         4
+                41.05          1.10        2.5531   -1   3   1         4
+                42.53          2.53        2.4680    1   3   1         4
+                42.78          1.17        2.4545    0   0   5         2
+                43.04          2.40        2.4401   -1   3   2         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

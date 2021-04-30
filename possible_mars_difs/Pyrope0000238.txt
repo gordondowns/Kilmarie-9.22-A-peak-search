@@ -1,0 +1,32 @@
+      Pyrope
+      Novak G A, Gibbs G V
+      American Mineralogist 56 (1971) 791-825
+      The crystal chemistry of the silicate garnets
+      sample Py
+      Locality: synthetic
+      _database_code_amcsd 0000238
+      CELL PARAMETERS:  11.4590 11.4590 11.4590   90.000   90.000   90.000
+      SPACE GROUP: Ia-3d     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1504.666
+      Density (g/cm3):      3.559
+      MAX. ABS. INTENSITY / VOLUME**2:      10.08649753    
+      RIR:      1.323
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                22.06          6.90        4.6781    2   1   1        24
+                25.53          1.73        4.0514    2   2   0        12
+                33.99          6.75        3.0625    3   2   1        48
+                36.42         56.11        2.8647    4   0   0         6
+                40.90        100.00        2.5623    4   2   0        24
+                42.99         34.65        2.4431    3   3   2        24
+                45.00         22.29        2.3391    4   2   2        24
+                46.95         25.35        2.2473    4   3   1        48
+                50.66         11.46        2.0921    5   2   1        48
+                52.45          2.64        2.0257    4   4   0        12
+                57.57         11.28        1.8589    6   1   1        24
+                57.57          6.60        1.8589    5   3   2        48
+                59.22          6.51        1.8118    6   2   0        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,25 @@
+      Eskolaite
+      Zachariasen W
+      Skrifter utgitt av det Norske Videnskaps-Akademi i Oslo 1928 (1928) 1-165
+      Untersuchungen ueber die Kristallstruktur von Sesquioxyden und
+      Verbindungen ABO3
+      _cod_database_code 1011067
+      _database_code_amcsd 0017966
+      CELL PARAMETERS:   5.3500  5.3500  5.3500   55.000   55.000   55.000
+      SPACE GROUP: R-3c      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     95.683
+      Density (g/cm3):      5.275
+      MAX. ABS. INTENSITY / VOLUME**2:      47.18521482    
+      RIR:      4.176
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                28.63         56.13        3.6199    1   1   0         6
+                39.34        100.00        2.6593    2   1   1         6
+                42.49         61.50        2.4704    0  -1   1         6
+                46.60         34.48        2.2631    2   2   2         2
+                48.76          3.51        2.1684    2   1   0        12
+                59.28          6.06        1.8099    2   2   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

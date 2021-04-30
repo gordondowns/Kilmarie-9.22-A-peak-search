@@ -1,0 +1,47 @@
+      Diopside
+      Raudsepp M, Hawthorne F C, Turnock A C
+      The Canadian Mineralogist 28 (1990) 93-109
+      Evaluation of the Rietveld method for the characterization of fine-grained
+      products of the mineral synthesis: the diopside-hedenbergite join
+      Sample: D7
+      _database_code_amcsd 0005238
+      CELL PARAMETERS:   9.8140  8.9959  5.2534   90.000  105.331   90.000
+      SPACE GROUP: C2/c      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    447.296
+      Density (g/cm3):      3.524
+      MAX. ABS. INTENSITY / VOLUME**2:      11.67638293    
+      RIR:      1.547
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                15.78         11.71        6.5205    1   1   0         4
+                21.81          6.24        4.7324    2   0   0         2
+                22.96          4.22        4.4980    0   2   0         2
+                31.87         13.92        3.2603    2   2   0         4
+                34.70        100.00        3.0017   -2   2   1         4
+                35.00         35.33        2.9771    3   1   0         4
+                35.93         16.29        2.9025   -3   1   1         4
+                40.61         33.81        2.5794   -1   3   1         4
+                41.28         44.92        2.5393    2   2   1         4
+                41.39         41.32        2.5332    0   0   2         2
+                44.46          1.79        2.3662    4   0   0         2
+                45.27          7.78        2.3258    3   1   1         4
+                47.37         12.15        2.2283    1   1   2         4
+                47.85          4.51        2.2072    0   2   2         4
+                48.64          5.48        2.1735    3   3   0         4
+                49.36         22.77        2.1440   -3   3   1         4
+                50.00         11.72        2.1182   -4   2   1         4
+                51.63          8.71        2.0556    0   4   1         4
+                52.55          9.03        2.0220    2   0   2         2
+                52.74         13.19        2.0153   -4   0   2         2
+                53.88          4.17        1.9758   -1   3   2         4
+                54.23          1.55        1.9639   -2   4   1         4
+                56.95          4.69        1.8774    3   3   1         4
+                57.79          1.81        1.8524    5   1   0         4
+                58.07          1.72        1.8442    2   2   2         4
+                58.75          1.46        1.8250    1   3   2         4
+                59.08          1.50        1.8156    2   4   1         4
+                59.90          2.80        1.7929    4   2   1         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

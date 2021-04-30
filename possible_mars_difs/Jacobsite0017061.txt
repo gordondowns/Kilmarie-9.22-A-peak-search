@@ -1,0 +1,25 @@
+      Jacobsite
+      Passerini L
+      Gazzetta Chimica Italiana 60 (1930) 389-399
+      Ricerche sugli Spinelli.- II. I Composti. Cu Al2 O4, Mg Al2 O4,
+      Mg Fe2 O4, Zn Al2 O4, Zn Cr2 O4, Zn Fe2 O4, Mn Fe2 O4
+      _cod_database_code 1010131
+      _database_code_amcsd 0017061
+      CELL PARAMETERS:   8.5150  8.5150  8.5150   90.000   90.000   90.000
+      SPACE GROUP: Fd3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    617.382
+      Density (g/cm3):      4.962
+      MAX. ABS. INTENSITY / VOLUME**2:      60.25553208    
+      RIR:      5.669
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                20.98          7.43        4.9161    1   1   1         8
+                34.60         26.04        3.0105    2   2   0        12
+                40.81        100.00        2.5674    3   1   1        24
+                42.71          8.38        2.4581    2   2   2         8
+                49.73         21.58        2.1288    4   0   0         6
+                54.55          1.58        1.9535    3   3   1        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,23 @@
+      Anatase
+      Howard C J, Sabine T M, Dickson F
+      Acta Crystallographica B47 (1991) 462-468
+      Structural and thermal parameters for rutile and anatase
+      Locality: synthetic
+      _database_code_amcsd 0019093
+      CELL PARAMETERS:   3.7845  3.7845  9.5143   90.000   90.000   90.000
+      SPACE GROUP: I4_1/amd  
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    136.268
+      Density (g/cm3):      3.892
+      MAX. ABS. INTENSITY / VOLUME**2:      43.72126558    
+      RIR:      5.244
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                29.49        100.00        3.5165    1   0   1         8
+                43.22          6.17        2.4308    1   0   3         8
+                44.21         19.97        2.3786    0   0   4         2
+                45.14          6.99        2.3323    1   1   2         8
+                56.47         27.66        1.8922    2   0   0         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

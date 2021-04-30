@@ -1,0 +1,26 @@
+      Geikielite
+      Liferovich R P, Mitchell R H
+      Physics and Chemistry of Minerals 32 (2005) 442-449
+      Rhombohedral ilmenite group nickel titanates with Zn, Mg, and Mn:
+      synthesis and crystal structures
+      _database_code_amcsd 0008980
+      CELL PARAMETERS:   5.0544  5.0544 13.8737   90.000   90.000  120.000
+      SPACE GROUP: R-3       
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    306.946
+      Density (g/cm3):      4.717
+      MAX. ABS. INTENSITY / VOLUME**2:      30.73695008    
+      RIR:      3.042
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                27.99         29.81        3.7019    0   1   2         6
+                38.45        100.00        2.7185    1   0   4         6
+                41.49         65.98        2.5272    1   1   0         6
+                45.55          1.22        2.3123    0   0   6         2
+                47.61         17.55        2.2177    1   1   3         6
+                47.61          7.45        2.2177    2  -1   3         6
+                50.79          1.66        2.0872    2   0   2         6
+                57.84         35.96        1.8509    0   2   4         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

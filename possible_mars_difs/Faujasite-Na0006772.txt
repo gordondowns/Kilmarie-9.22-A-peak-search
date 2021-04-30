@@ -1,0 +1,27 @@
+      Faujasite-Na
+      Porcher F, Souhassou M, Dusausoy Y, Lecomte C
+      European Journal of Mineralogy 11 (1999) 333-343
+      The crystal structure of a low-silica dehydrated NaX zeolite
+      _database_code_amcsd 0006772
+      CELL PARAMETERS:  25.1040 25.1040 25.1040   90.000   90.000   90.000
+      SPACE GROUP: Fd3       
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:  15820.812
+      Density (g/cm3):      1.425
+      MAX. ABS. INTENSITY / VOLUME**2:      41.44608703    
+      RIR:     13.578
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                 7.08        100.00       14.4938    1   1   1         8
+                11.58         13.00        8.8756    2   2   0        12
+                13.58          8.67        7.5691    3   1   1        24
+                17.88         10.23        5.7593    3   3   1        24
+                23.27          1.79        4.4378    4   4   0        12
+                27.04          7.22        3.8283    5   3   3        24
+                30.95          2.52        3.3547    6   4   2        24
+                30.95          1.84        3.3547    6   2   4        24
+                35.97          4.11        2.8988    5   5   5         8
+                39.08          2.73        2.6761    6   6   4        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,24 @@
+      Ahrensite
+      Yagi T, Marumo F, Akimoto S I
+      American Mineralogist 59 (1974) 486-490
+      Crystal structures of spinel polymorphs of Fe2SiO4 and Ni2SiO4
+      Locality: synthetic
+      _database_code_amcsd 0000404
+      CELL PARAMETERS:   8.2340  8.2340  8.2340   90.000   90.000   90.000
+      SPACE GROUP: Fd3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    558.255
+      Density (g/cm3):      4.849
+      MAX. ABS. INTENSITY / VOLUME**2:      46.26892098    
+      RIR:      4.454
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.71         28.06        4.7539    1   1   1         8
+                35.82         11.32        2.9112    2   2   0        12
+                42.27        100.00        2.4826    3   1   1        24
+                44.25         12.50        2.3770    2   2   2         8
+                51.55         45.42        2.0585    4   0   0         6
+                56.57         13.05        1.8890    3   3   1        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

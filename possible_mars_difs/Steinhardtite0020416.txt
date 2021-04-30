@@ -1,0 +1,21 @@
+      Steinhardtite
+      Bindi L, Yao N, Lin C, Hollister L S, MacPherson G J, Poirier G R, Andronicos C L,
+      Distler V V, Eddy M P, Kostin A, Kryachko V, Steinhardt W M, Yudovskaya M
+      American Mineralogist 99 (2014) 2433-2436
+      Steinhardtite, a new body-centered-cubic allotropic form of aluminum from the
+      Khatyrka CV3 carbonaceous chondrite
+      Locality: Khatyrka CV3 carbonaceous chondrite, Koryak Mountains, Russia
+      _database_code_amcsd 0020416
+      CELL PARAMETERS:   3.0214  3.0214  3.0214   90.000   90.000   90.000
+      SPACE GROUP: Im-3m     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     27.582
+      Density (g/cm3):      5.512
+      MAX. ABS. INTENSITY / VOLUME**2:      111.5358277    
+      RIR:      9.445
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                49.54        100.00        2.1365    1   1   0        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

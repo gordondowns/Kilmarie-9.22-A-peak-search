@@ -1,0 +1,33 @@
+      Chlormayenite
+      Ma C, Connolly H C, Beckett J R, Tschauner O, Rossman G R, Kampf A R, Zega T J,
+      Sweeney Smith S A, Schrader D L
+      American Mineralogist 96 (2011) 1199-1206
+      Brearleyite, Ca12Al14O32Cl2, a new alteration mineral from the NWA 1934 meteorite
+      Locality: Northwest Africa 1934 CV3 carbonaceous chondrite
+      _database_code_amcsd 0018484
+      CELL PARAMETERS:  11.9800 11.9800 11.9800   90.000   90.000   90.000
+      SPACE GROUP: I-43d     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1719.374
+      Density (g/cm3):      2.901
+      MAX. ABS. INTENSITY / VOLUME**2:      11.33482916    
+      RIR:      1.824
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.09         59.18        4.8908    2   1   1        12
+                27.33         11.57        3.7884    3   1   0        24
+                32.47         18.12        3.2018    3   2   1        24
+                34.78         42.74        2.9950    4   0   0         6
+                39.04        100.00        2.6788    4   2   0        24
+                41.03          9.88        2.5541    3   3   2        12
+                42.94         40.79        2.4454    4   2   2        12
+                44.79          1.81        2.3495    4   3   1        24
+                44.79          9.04        2.3495    5   1   0        24
+                48.32         19.20        2.1872    5   2   1        24
+                51.66          3.30        2.0546    5   3   0        24
+                54.85          1.71        1.9434    6   1   1        12
+                54.85         20.48        1.9434    5   3   2        24
+                57.93          1.39        1.8486    5   4   1        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,20 @@
+      Periclase
+      Broch E
+      Zeitschrift fur Physikalische Chemie 127 (1927) 446-454
+      Crystal Structure
+      _cod_database_code 1011116
+      _database_code_amcsd 0018011
+      CELL PARAMETERS:   4.2160  4.2160  4.2160   90.000   90.000   90.000
+      SPACE GROUP: Fm3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     74.938
+      Density (g/cm3):      3.572
+      MAX. ABS. INTENSITY / VOLUME**2:      23.49077840    
+      RIR:      3.070
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                43.15         11.12        2.4341    1   1   1         8
+                50.26        100.00        2.1080    2   0   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

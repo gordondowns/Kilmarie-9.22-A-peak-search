@@ -1,0 +1,55 @@
+      Staurolite
+      Takeuchi Y, Aikawa N, Yamamoto T
+      Zeitschrift fur Kristallographie 136 (1972) 1-22
+      The hydrogen locations and chemical composition of staurolite
+      Note: this paper uses Smith's structure (Am Min 53 (1968) 1139-1155)
+      and adds the hydrogen locations to it
+      _database_code_amcsd 0010731
+      CELL PARAMETERS:   7.8790 16.6350  5.6640   90.000   90.000   90.000
+      SPACE GROUP: C2/m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    742.364
+      Density (g/cm3):      3.696
+      MAX. ABS. INTENSITY / VOLUME**2:      5.335962099    
+      RIR:      0.674
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                12.36         15.93        8.3175    0   2   0         2
+                14.44         15.62        7.1207    1   1   0         4
+                24.86         10.30        4.1588    0   4   0         2
+                26.27          1.84        3.9395    2   0   0         2
+                29.12         11.28        3.5603    2   2   0         4
+                29.30          3.65        3.5399   -1   3   1         4
+                29.30          4.25        3.5399    1   3   1         4
+                32.14          1.56        3.2341    2   0   1         2
+                32.14          3.41        3.2341   -2   0   1         2
+                33.96          9.23        3.0650    1   5   0         4
+                34.55         31.18        3.0143   -2   2   1         4
+                34.55         38.81        3.0143    2   2   1         4
+                36.48          7.62        2.8600    2   4   0         4
+                36.85         17.38        2.8320    0   0   2         2
+                37.67         33.30        2.7725    0   6   0         2
+                38.79         39.28        2.6956   -1   5   1         4
+                38.79         38.45        2.6956    1   5   1         4
+                39.01          6.59        2.6809    0   2   2         4
+                40.37          4.03        2.5942    3   1   0         4
+                41.05         13.09        2.5530   -2   4   1         4
+                41.05         16.15        2.5530    2   4   1         4
+                43.76         49.89        2.4020   -1   3   2         4
+                43.76         50.11        2.4020    1   3   2         4
+                44.31         35.45        2.3736    3   3   0         4
+                44.61         20.79        2.3586    3   1   1         4
+                44.61         22.35        2.3586   -3   1   1         4
+                44.97          1.60        2.3408    0   4   2         4
+                45.82          5.24        2.2995    2   0   2         2
+                45.82          5.33        2.2995   -2   0   2         2
+                46.34          1.62        2.2752    1   7   0         4
+                46.51          8.19        2.2673    2   6   0         4
+                50.17         13.63        2.1112   -1   7   1         4
+                50.17         12.91        2.1112    1   7   1         4
+                51.47          1.42        2.0614    3   5   0         4
+                53.72         54.62        1.9812    0   6   2         4
+                54.06         26.87        1.9698    4   0   0         2
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

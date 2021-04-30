@@ -1,0 +1,27 @@
+      Barringerite
+      Koumina A, Bacmann M, Fruchart D, Soubeyroux J, Wolfers P, Tobola J,
+      Kaprzyk S, Niziol S, Mesnaoui M, Zach R
+      Annales de Chimie 23 (1998) 177-180
+      Crystallographic and magnetic properties of Fe2P
+      _cod_database_code 1008826
+      _database_code_amcsd 0016695
+      CELL PARAMETERS:   5.6900  5.6900  3.4580   90.000   90.000  120.000
+      SPACE GROUP: P-62m     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     96.957
+      Density (g/cm3):      7.329
+      MAX. ABS. INTENSITY / VOLUME**2:      73.19703472    
+      RIR:      4.662
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                20.93          2.13        4.9277    1   0   0         6
+                30.01          1.07        3.4580    0   0   1         2
+                36.68          3.93        2.8450    1   1   0         3
+                36.87          3.40        2.8306    1   0   1        12
+                42.61          2.12        2.4638    2   0   0         6
+                48.09        100.00        2.1970    1   1   1         6
+                52.99         57.75        2.0066    2   0   1        12
+                57.45         12.59        1.8625    2   1   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

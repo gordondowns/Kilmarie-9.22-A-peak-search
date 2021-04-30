@@ -1,0 +1,54 @@
+      Fluorapatite
+      Hughes J M, Cameron M, Crowley K D
+      American Mineralogist 76 (1991) 1857-1862
+      Ordering of divalent cations in the apatite structure: Crystal structure
+      refinements of natural Mn- and Sr-bearing apatite
+      sample Mn1.21
+      _database_code_amcsd 0001423
+      CELL PARAMETERS:   9.3430  9.3430  6.8227   90.000   90.000  120.000
+      SPACE GROUP: P6_3/m    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    515.774
+      Density (g/cm3):      3.273
+      MAX. ABS. INTENSITY / VOLUME**2:      11.27992065    
+      RIR:      1.609
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                12.70         17.55        8.0913    1   0   0         6
+                19.76          3.03        5.2159    1   0   1        12
+                22.09          1.34        4.6715    1   1   0         6
+                25.57          8.34        4.0456    2   0   0         6
+                26.86          5.57        3.8545    1   1   1        12
+                29.81          2.03        3.4799    2   0   1        12
+                30.43         32.93        3.4114    0   0   2         2
+                33.09         10.73        3.1434    1   0   2        12
+                34.04         17.73        3.0582    1   2   0         6
+                34.04          2.41        3.0582    2   1   0         6
+                37.42         68.95        2.7907    1   2   1        12
+                37.42         31.05        2.7907    2   1   1        12
+                37.92         46.39        2.7550    1   1   2        12
+                38.77         55.73        2.6971    3   0   0         6
+                40.15         22.02        2.6080    2   0   2        12
+                41.82          3.19        2.5082    3   0   1        12
+                46.30          3.49        2.2771    1   2   2        12
+                46.30          1.03        2.2771    2   1   2        12
+                47.02         13.71        2.2441    3   1   0         6
+                47.02          4.98        2.2441    1   3   0         6
+                47.79          2.83        2.2098    2   2   1        12
+                49.66          1.49        2.1318    1   3   1        12
+                49.66          3.59        2.1318    3   1   1        12
+                50.06          1.97        2.1157    3   0   2        12
+                51.92          4.23        2.0448    1   1   3        12
+                52.53          1.01        2.0228    4   0   0         6
+                53.68          3.17        1.9825    2   0   3        12
+                55.35         28.57        1.9273    2   2   2        12
+                57.04          6.98        1.8748    3   1   2        12
+                57.04          4.75        1.8748    1   3   2        12
+                57.66          1.26        1.8563    3   2   0         6
+                58.75         21.76        1.8249    1   2   3        12
+                58.75         10.36        1.8249    2   1   3        12
+                59.97          2.34        1.7912    3   2   1        12
+                59.97          2.42        1.7912    2   3   1        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,28 @@
+      Chloromagnesite
+      Wyckoff R W G
+      Crystal Structures 1 (1963) 239-444
+      Second edition. Interscience Publishers, New York, New York
+      Note: cadmium chloride structure
+      _database_code_amcsd 0011808
+      CELL PARAMETERS:   3.5960  3.5960 17.5890   90.000   90.000  120.000
+      SPACE GROUP: R-3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    196.975
+      Density (g/cm3):      2.408
+      MAX. ABS. INTENSITY / VOLUME**2:      18.93724210    
+      RIR:      3.672
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                17.56         23.42        5.8630    0   0   3         2
+                33.94         12.54        3.0665    1   0   1         6
+                35.51         36.05        2.9356    0   1   2         6
+                35.56         11.96        2.9315    0   0   6         2
+                41.25        100.00        2.5414    1   0   4         6
+                45.15          5.48        2.3318    0   1   5         6
+                54.48          3.05        1.9555    1   0   7         6
+                54.52          1.02        1.9543    0   0   9         2
+                59.72          9.51        1.7980    1   1   0         6
+                59.79         28.41        1.7961    0   1   8         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

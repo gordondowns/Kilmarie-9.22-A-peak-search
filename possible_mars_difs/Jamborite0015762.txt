@@ -1,0 +1,21 @@
+      Jamborite
+      Glemser O, Einerhand J
+      Zeitschrift fur Anorganische und Allgemeine Chemie 261 (1950) 43-51
+      Die struktur hoherer nickelhydroxyde
+      Locality: synthetic
+      _database_code_amcsd 0015762
+      CELL PARAMETERS:   7.0700  7.0700  7.0700   23.000   23.000   23.000
+      SPACE GROUP: R-3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     47.352
+      Density (g/cm3):      2.619
+      MAX. ABS. INTENSITY / VOLUME**2:      103.7010995    
+      RIR:     18.484
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                14.95        100.00        6.8801    1   1   1         2
+                43.33          9.53        2.4245    1   0   0         6
+                44.27         13.39        2.3758    1   1   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

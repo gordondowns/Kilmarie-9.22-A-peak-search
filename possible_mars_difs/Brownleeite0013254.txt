@@ -1,0 +1,23 @@
+      Brownleeite
+      Lebech B, Bernhard J, Freltoft T
+      Journal of Physics: Condensed Matter 1 (1989) 6105-6122
+      Magnetic structures of cubic FeGe studied by small-angle neutron scattering
+      _database_code_amcsd 0013254
+      CELL PARAMETERS:   4.5580  4.5580  4.5580   90.000   90.000   90.000
+      SPACE GROUP: P2_13     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     94.694
+      Density (g/cm3):      5.823
+      MAX. ABS. INTENSITY / VOLUME**2:      69.95265782    
+      RIR:      5.608
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                32.25         18.37        3.2230    1   1   0        12
+                39.77         16.40        2.6316    1   1   1         4
+                46.26          6.21        2.2790    2   0   0         6
+                52.10         90.65        2.0384    2   1   0        12
+                52.10          9.35        2.0384    2   0   1        12
+                57.51         50.12        1.8608    2   1   1        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

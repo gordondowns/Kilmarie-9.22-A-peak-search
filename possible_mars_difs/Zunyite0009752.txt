@@ -1,0 +1,39 @@
+      Zunyite
+      Baur W H, Ohta T
+      Acta Crystallographica B38 (1982) 390-401
+      The Si5O16 pentamer in zunyite refined and empirical relations for individual
+      silicon-oxygen bonds
+      Locality: Quartzsite, Arizona, USA
+      _database_code_amcsd 0009752
+      CELL PARAMETERS:  13.8654 13.8654 13.8654   90.000   90.000   90.000
+      SPACE GROUP: F-43m     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   2665.614
+      Density (g/cm3):      2.892
+      MAX. ABS. INTENSITY / VOLUME**2:      8.004876318    
+      RIR:      1.292
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                12.84        100.00        8.0052    1   1   1         4
+                14.84          5.52        6.9327    2   0   0         6
+                21.04          2.88        4.9022    2   2   0        12
+                24.73         89.18        4.1806    3   1   1        12
+                25.85         47.36        4.0026    2   2   2         4
+                32.69         14.99        3.1809    3   3   1        12
+                36.88         38.64        2.8303    4   2   2        12
+                39.20         42.64        2.6684    5   1   1        12
+                39.20         56.60        2.6684    3   3   3         4
+                42.84          8.57        2.4511    4   4   0        12
+                44.91          5.77        2.3437    5   3   1        24
+                48.20          1.76        2.1923    6   2   0        24
+                50.09         20.23        2.1145    5   3   3        12
+                50.71          4.40        2.0903    6   2   2        12
+                53.14         25.75        2.0013    4   4   4         4
+                54.91          1.37        1.9415    7   1   1        12
+                54.91          6.97        1.9415    5   5   1        12
+                57.78         13.85        1.8528    6   4   2        24
+                59.46          1.28        1.8051    7   3   1        24
+                59.46         12.59        1.8051    5   5   3        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

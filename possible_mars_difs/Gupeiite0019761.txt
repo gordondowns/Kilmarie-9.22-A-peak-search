@@ -1,0 +1,22 @@
+      Gupeiite
+      Kanematsu K
+      Transactions of the Japan Institute of Metals 27 (1986) 225-232
+      Stability of crystal structure of (Fe,V)3M and (Fe,Ni)3M (M=Si,Ge,Sn)
+      and its analysis based on rigid band model
+      Locality: synthetic
+      _database_code_amcsd 0019761
+      CELL PARAMETERS:   5.6440  5.6440  5.6440   90.000   90.000   90.000
+      SPACE GROUP: Fm3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    179.788
+      Density (g/cm3):      7.226
+      MAX. ABS. INTENSITY / VOLUME**2:      168.1109061    
+      RIR:     10.860
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                31.89          6.49        3.2586    1   1   1         8
+                36.99          3.29        2.8220    2   0   0         6
+                53.31        100.00        1.9955    2   2   0        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

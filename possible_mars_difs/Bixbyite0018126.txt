@@ -1,0 +1,26 @@
+      Bixbyite
+      Pauling L, Shappell M
+      Zeitschrift fur Kristallographie 75 (1930) 128-142
+      The Crystal Structure of Bixbyite and the C-Modification of the
+      Sesquioxides
+      _cod_database_code 1011266
+      _database_code_amcsd 0018126
+      CELL PARAMETERS:   9.3650  9.3650  9.3650   90.000   90.000   90.000
+      SPACE GROUP: Ia3       
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    821.341
+      Density (g/cm3):      5.136
+      MAX. ABS. INTENSITY / VOLUME**2:      65.06853960    
+      RIR:      5.915
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                27.08         16.65        3.8232    2   1   1        24
+                38.67        100.00        2.7034    2   2   2         8
+                44.96         15.27        2.3412    4   0   0         6
+                47.85          3.59        2.2074    4   1   1        24
+                53.27          6.12        1.9966    3   3   2        24
+                58.34          3.10        1.8366    4   3   1        24
+                58.34          3.58        1.8366    4   1   3        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

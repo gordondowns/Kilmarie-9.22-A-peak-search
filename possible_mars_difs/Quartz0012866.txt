@@ -1,0 +1,28 @@
+      Quartz
+      Gualtieri A F
+      Journal of Applied Crystallography 33 (2000) 267-278
+      Accuracy of XRPD QPA using the combined Rietveld-RIR method
+      Locality: Baveno, Novara, Italy
+      _database_code_amcsd 0012866
+      CELL PARAMETERS:   4.9158  4.9158  5.4091   90.000   90.000  120.000
+      SPACE GROUP: P3_121    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    113.199
+      Density (g/cm3):      2.644
+      MAX. ABS. INTENSITY / VOLUME**2:      24.34153683    
+      RIR:      4.298
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                24.28         20.70        4.2572    1   0   0         6
+                31.04         30.08        3.3454    1   0   1         6
+                31.04         69.92        3.3454    0   1   1         6
+                42.72          6.87        2.4579    1   1   0         3
+                46.17          1.13        2.2828    0   1   2         6
+                46.17          5.54        2.2828    1   0   2         6
+                47.16          3.03        2.2377    1   1   1         6
+                49.74          4.61        2.1286    2   0   0         6
+                53.73          2.12        1.9808    2   0   1         6
+                58.96         10.88        1.8190    1   1   2         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

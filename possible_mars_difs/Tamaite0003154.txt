@@ -1,0 +1,46 @@
+      Tamaite
+      Hughes J M, Rakovan J F, Bracco R, Gunter M E
+      American Mineralogist 88 (2003) 1324-1330
+      The atomic arrangemetn of the ganophyllite-group modulated layer silicates as
+      determined from the orthorhombic dimorph of tamaite, with the elusive 16.8 A
+      ganophyllite-group superstructure revealed
+      Note: signs of the y-coordinates for O24 and O25 have been changed
+      _database_code_amcsd 0003154
+      CELL PARAMETERS:  16.8146 25.2036 13.3866   90.000   90.000   90.000
+      SPACE GROUP: Pnma      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   5673.086
+      Density (g/cm3):      2.698
+      MAX. ABS. INTENSITY / VOLUME**2:      43.32200571    
+      RIR:      7.494
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                 8.15        100.00       12.6018    0   2   0         2
+                 8.68         17.21       11.8225    0   1   1         4
+                10.62          1.08        9.6712    1   1   1         8
+                12.76          1.51        8.0545    1   2   1         8
+                14.45          1.14        7.1159    0   3   1         4
+                19.94          1.85        5.1700    3   0   1         4
+                24.61          2.27        4.2006    0   6   0         2
+                25.88          1.42        3.9968    3   4   1         8
+                26.26          3.06        3.9408    0   3   3         4
+                27.06          2.04        3.8258    3   3   2         8
+                29.84          3.12        3.4769    0   7   1         4
+                30.48          1.36        3.4049    1   7   1         8
+                33.01          4.60        3.1504    0   8   0         2
+                36.30          1.13        2.8734    3   0   4         4
+                37.26          1.12        2.8021    0   7   3         4
+                37.27          3.38        2.8015    3   2   4         8
+                38.20          1.47        2.7356    6   2   0         4
+                38.45          3.94        2.7188    3   3   4         8
+                39.35          2.08        2.6584    6   3   0         4
+                40.05          7.01        2.6144    3   4   4         8
+                40.92          3.45        2.5606    6   4   0         4
+                44.35          4.16        2.3716    3   6   4         8
+                45.16          2.58        2.3312    6   6   0         4
+                49.88          3.00        2.1230    3   8   4         8
+                50.62          1.12        2.0939    6   8   0         4
+                56.38          1.10        1.8948    3  10   4         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

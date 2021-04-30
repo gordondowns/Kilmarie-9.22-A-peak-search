@@ -1,0 +1,27 @@
+      Guyanaite
+      Jahn S, Wunder B, Koch-Muller M, Tarrieu L, Pohle M, Watenphul A, Taran M N
+      European Journal of Mineralogy 24 (2012) 839-850
+      Pressure-induced hydrogen bond symmetrisation in guyanaite, B-CrOOH:
+      evidence from spectroscopy and ab initio simulations
+      Sample: Run LT9
+      Locality: synthetic at 4.0 GPa and 600 deg C for 24 hours
+      _database_code_amcsd 0019392
+      CELL PARAMETERS:   4.8623  4.2972  2.9567   90.000   90.000   90.000
+      SPACE GROUP: Pnnm      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     61.778
+      Density (g/cm3):      4.623
+      MAX. ABS. INTENSITY / VOLUME**2:      30.19060329    
+      RIR:      3.048
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                32.28        100.00        3.2199    1   1   0         4
+                41.50         20.90        2.5263    1   0   1         4
+                43.12         64.56        2.4358    0   1   1         4
+                43.21         19.19        2.4311    2   0   0         2
+                48.54         16.06        2.1778    1   1   1         8
+                49.24          3.89        2.1486    0   2   0         2
+                50.05          9.67        2.1160    2   1   0         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

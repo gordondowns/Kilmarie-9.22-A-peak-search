@@ -1,0 +1,29 @@
+      Schorlomite
+      Peterson R C, Locock A J, Luth R W
+      The Canadian Mineralogist 33 (1995) 627-631
+      Positional disorder of oxygen in garnet: the crystal-structure
+      refinement of schorlomite
+      Sample: model 2, split oxygen
+      _database_code_amcsd 0005431
+      CELL PARAMETERS:  12.1570 12.1570 12.1570   90.000   90.000   90.000
+      SPACE GROUP: Ia-3d     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1796.715
+      Density (g/cm3):      3.787
+      MAX. ABS. INTENSITY / VOLUME**2:      17.66952092    
+      RIR:      2.178
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                24.04         16.03        4.2981    2   2   0        12
+                34.26         62.13        3.0392    4   0   0         6
+                38.45        100.00        2.7184    4   2   0        24
+                40.41         11.85        2.5919    3   3   2        24
+                42.29         54.19        2.4815    4   2   2        24
+                44.10         10.27        2.3842    4   3   1        48
+                47.57          9.65        2.2196    5   2   1        48
+                53.99          4.49        1.9721    5   3   2        48
+                53.99          7.16        1.9721    6   1   1        24
+                55.51          7.00        1.9222    6   2   0        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

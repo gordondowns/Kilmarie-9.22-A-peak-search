@@ -1,0 +1,44 @@
+      Kieserite
+      Hawthorne F C, Groat L A, Raudsepp M, Ercit T S
+      Neues Jahrbuch fur Mineralogie, Abhandlungen 157 (1987) 121-132
+      Kieserite, Mg(SO4)(H2O), a titanite-group mineral
+      Locality: Wathlingen, Hanover, Germany
+      _database_code_amcsd 0014714
+      CELL PARAMETERS:   6.8910  7.6240  7.6450   90.000  117.700   90.000
+      SPACE GROUP: C2/c      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    355.614
+      Density (g/cm3):      2.584
+      MAX. ABS. INTENSITY / VOLUME**2:      6.075098675    
+      RIR:      1.097
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.49         85.66        4.8011   -1   1   1         4
+                21.66          3.41        4.7636    1   1   0         4
+                30.50        100.00        3.4031   -1   1   2         4
+                30.67         13.72        3.3844    0   0   2         2
+                30.87         54.36        3.3633    1   1   1         4
+                31.27         86.53        3.3215    0   2   1         4
+                33.68         12.18        3.0903   -2   0   2         2
+                34.13         52.78        3.0506    2   0   0         2
+                41.00         36.43        2.5559   -2   2   1         4
+                41.43         40.93        2.5309    0   2   2         4
+                43.71          1.87        2.4045   -1   1   3         4
+                44.15          3.11        2.3818    2   2   0         4
+                44.77          1.38        2.3504   -1   3   1         4
+                44.86          5.60        2.3460    1   3   0         4
+                48.58         11.43        2.1759   -3   1   2         4
+                48.84          1.18        2.1654   -3   1   1         4
+                50.13          3.35        2.1130   -1   3   2         4
+                50.38         10.67        2.1033    1   3   1         4
+                51.74         27.62        2.0514   -2   2   3         4
+                52.38          3.06        2.0281    2   2   1         4
+                54.20         10.70        1.9650    3   1   0         4
+                54.91          5.60        1.9417    0   2   3         4
+                56.02          1.86        1.9060    0   4   0         2
+                57.07          2.08        1.8738    2   0   2         2
+                59.58          1.03        1.8018    1   1   3         4
+                59.85          1.59        1.7943   -1   3   3         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

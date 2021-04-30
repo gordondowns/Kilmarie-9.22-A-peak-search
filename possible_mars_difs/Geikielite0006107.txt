@@ -1,0 +1,28 @@
+      Geikielite
+      Liferovich R P, Mitchell R H
+      The Canadian Mineralogist 44 (2006) 1099-1107
+      The pyrophanite-geikielite solid-solution series: crystal structures of the
+      Mn1-xMgxTiO3 series (0 < x < 0.7)
+      Sample: XMg = 0.6
+      Locality: synthetic
+      _database_code_amcsd 0006107
+      CELL PARAMETERS:   5.0921  5.0921 14.0532   90.000   90.000  120.000
+      SPACE GROUP: R-3       
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    315.573
+      Density (g/cm3):      4.180
+      MAX. ABS. INTENSITY / VOLUME**2:      20.75988051    
+      RIR:      2.318
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                22.03          7.50        4.6844    0   0   3         2
+                24.57          5.54        4.2076    1   0   1         6
+                27.73         33.63        3.7352    0   1   2         6
+                38.02        100.00        2.7479    1   0   4         6
+                41.17         61.11        2.5461    1   1   0         6
+                47.18         10.08        2.2370    1   1   3         6
+                47.18         23.17        2.2370    2  -1   3         6
+                57.28         39.10        1.8676    0   2   4         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

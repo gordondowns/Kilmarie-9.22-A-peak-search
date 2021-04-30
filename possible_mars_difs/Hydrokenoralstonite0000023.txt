@@ -1,0 +1,25 @@
+      Hydrokenoralstonite
+      Pabst A
+      American Mineralogist 24 (1939) 566-576
+      Formula and structure of ralstonite
+      Locality: Ivigtut, Greenland
+      _database_code_amcsd 0000023
+      CELL PARAMETERS:   9.8700  9.8700  9.8700   90.000   90.000   90.000
+      SPACE GROUP: Fd3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    961.505
+      Density (g/cm3):      2.523
+      MAX. ABS. INTENSITY / VOLUME**2:      13.40167842    
+      RIR:      2.480
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                18.08        100.00        5.6984    1   1   1         8
+                35.01         42.24        2.9759    3   1   1        24
+                36.62         33.45        2.8492    2   2   2         8
+                42.54          3.30        2.4675    4   0   0         6
+                46.57          7.14        2.2643    3   3   1        24
+                52.76         10.53        2.0147    4   2   2        24
+                56.23         22.03        1.8995    3   3   3         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

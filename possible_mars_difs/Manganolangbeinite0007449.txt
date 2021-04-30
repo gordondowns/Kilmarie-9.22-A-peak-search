@@ -1,0 +1,42 @@
+      Manganolangbeinite
+      Oelkrug H, Bruckel T, Hohlwein D, Hoser A, Prandl W
+      Physics and Chemistry of Minerals 16 (1988) 246-249
+      The magnetic structure of the langbeinite K2Mn2(SO4)3
+      Locality: synthetic
+      _database_code_amcsd 0007449
+      CELL PARAMETERS:  10.1073 10.1073 10.1073   90.000   90.000   90.000
+      SPACE GROUP: P2_13     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1032.537
+      Density (g/cm3):      3.063
+      MAX. ABS. INTENSITY / VOLUME**2:      22.15669286    
+      RIR:      3.376
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                17.65         12.41        5.8355    1   1   1         4
+                22.84         10.95        4.5201    2   1   0        12
+                25.06         10.79        4.1263    2   1   1        12
+                30.82          5.42        3.3691    2   2   1        12
+                32.53         52.72        3.1962    3   1   0        12
+                32.53         47.28        3.1962    3   0   1        12
+                34.16         12.99        3.0475    3   1   1        12
+                37.24          3.01        2.8033    3   2   0        12
+                37.24          1.80        2.8033    3   0   2        12
+                38.70         18.30        2.7013    3   2   1        12
+                38.70         29.46        2.7013    3   1   2        12
+                42.83          3.94        2.4514    3   2   2        12
+                45.42          1.19        2.3188    3   3   1        12
+                49.09          3.10        2.1549    3   3   2        12
+                51.43         10.76        2.0631    4   2   2        12
+                52.57          3.10        2.0215    4   0   3        12
+                53.69          1.49        1.9822    5   0   1        12
+                53.69          6.92        1.9822    4   3   1        12
+                53.69          5.36        1.9822    4   1   3        12
+                54.80          1.49        1.9452    5   1   1        12
+                54.80          1.42        1.9452    3   3   3         4
+                56.97          3.76        1.8769    5   2   0        12
+                56.97          3.65        1.8769    4   2   3        12
+                58.04          1.48        1.8453    5   2   1        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

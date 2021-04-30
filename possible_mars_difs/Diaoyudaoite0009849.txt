@@ -1,0 +1,43 @@
+      Diaoyudaoite
+      Edstrom K, Thomas J O, Farrington G C
+      Acta Crystallographica B47 (1991) 635-643
+      Structural aspects of the Na+ -> Cd2+ ion-exchange process in Na+ beta-alumina
+      Locality: synthetic
+      Sample: y = .21
+      Note: anisoB's from ICSD
+      _database_code_amcsd 0009849
+      CELL PARAMETERS:   5.5921  5.5921 22.5260   90.000   90.000  120.000
+      SPACE GROUP: P6_3/mmc  
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    610.049
+      Density (g/cm3):      3.296
+      MAX. ABS. INTENSITY / VOLUME**2:      14.80132429    
+      RIR:      2.096
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                 9.12        100.00       11.2630    0   0   2         2
+                18.29         27.98        5.6315    0   0   4         2
+                23.21         12.82        4.4491    1   0   2        12
+                25.41          4.62        4.0698    1   0   3        12
+                28.22          1.54        3.6719    1   0   4        12
+                37.07          2.25        2.8157    0   0   8         2
+                37.34         10.76        2.7961    1   1   0         6
+                39.02         28.63        2.6802    1   0   7        12
+                41.89         19.13        2.5044    1   1   4        12
+                43.15          2.41        2.4342    1   0   8        12
+                43.39          1.99        2.4215    2   0   0         6
+                43.65         13.71        2.4076    2   0   1        12
+                44.43          4.74        2.3674    2   0   2        12
+                45.71          1.21        2.3046    2   0   3        12
+                46.83          1.88        2.2526    0   0  10         2
+                47.05         10.31        2.2425    1   1   6        12
+                47.46          3.23        2.2245    2   0   4        12
+                47.48          1.41        2.2235    1   0   9        12
+                49.63         12.79        2.1329    2   0   5        12
+                51.99          1.93        2.0425    1   0  10        12
+                52.19         15.68        2.0349    2   0   6        12
+                55.12          9.28        1.9349    2   0   7        12
+                58.36          4.07        1.8359    2   0   8        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

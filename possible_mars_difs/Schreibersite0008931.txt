@@ -1,0 +1,32 @@
+      Schreibersite
+      Skala R, Cisarova I
+      Physics and Chemistry of Minerals 31 (2005) 721-732
+      Crystal structure of meteoritic schreibersites: determination of absolute structure
+      Sample: Sikhote-Alin
+      _database_code_amcsd 0008931
+      CELL PARAMETERS:   9.0750  9.0750  4.4640   90.000   90.000   90.000
+      SPACE GROUP: I-4       
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    367.635
+      Density (g/cm3):      7.231
+      MAX. ABS. INTENSITY / VOLUME**2:      43.27260352    
+      RIR:      2.794
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                25.83          1.45        4.0056    1   0   1         4
+                34.69          4.66        3.0029    1   2   1         4
+                41.89         19.24        2.5042    3   0   1         4
+                46.48          2.43        2.2687    4   0   0         4
+                47.29          2.01        2.2320    0   0   2         2
+                48.19         41.28        2.1925    2   3   1         4
+                48.19         58.72        2.1925    3   2   1         4
+                49.48         27.68        2.1390    3   3   0         4
+                50.25         53.73        2.1081    1   1   2         4
+                52.35         34.49        2.0292    4   2   0         4
+                53.10         12.14        2.0028    2   0   2         4
+                53.93         19.82        1.9741    4   1   1         4
+                53.93         66.41        1.9741    1   4   1         4
+                58.49         20.37        1.8323    2   2   2         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

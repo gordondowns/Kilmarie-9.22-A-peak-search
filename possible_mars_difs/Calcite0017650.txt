@@ -1,0 +1,26 @@
+      Calcite
+      Elliott N
+      Journal of the American Chemical Society 59 (1937) 1380-1382
+      A Redetermination of the Carbon - Oxygen Distance in Calcite and the
+      Nitrogen - Oxygen Distance in Sodium Nitrate
+      _cod_database_code 1010928
+      _database_code_amcsd 0017650
+      CELL PARAMETERS:   6.3600  6.3600  6.3600   46.100   46.100   46.100
+      SPACE GROUP: R3c       
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    121.857
+      Density (g/cm3):      2.727
+      MAX. ABS. INTENSITY / VOLUME**2:      18.47018889    
+      RIR:      3.161
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                26.91         10.10        3.8471    1   1   0         3
+                34.38        100.00        3.0289    2   1   1         3
+                36.79          2.50        2.8364    2   2   2         1
+                42.14         13.20        2.4902    0  -1   1         6
+                46.23         21.76        2.2802    2   1   0         6
+                50.71         14.19        2.0905    2   0   0         3
+                55.47          6.28        1.9236    2   2   0         3
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

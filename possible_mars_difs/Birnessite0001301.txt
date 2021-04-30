@@ -1,0 +1,31 @@
+      Birnessite
+      Post J E, Veblen D R
+      American Mineralogist 75 (1990) 477-489
+      Crystal structure determinations of synthetic sodium, magnesium and potassium
+      birnessite using TEM and the Rietveld method
+      Sample: Mg-birn
+      _database_code_amcsd 0001301
+      CELL PARAMETERS:   5.0500  2.8460  7.0540   90.000   96.630   90.000
+      SPACE GROUP: C2/m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    100.704
+      Density (g/cm3):      3.548
+      MAX. ABS. INTENSITY / VOLUME**2:      57.45056589    
+      RIR:      7.560
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                14.68        100.00        7.0068    0   0   1         2
+                29.61         22.31        3.5034    0   0   2         2
+                41.82          2.62        2.5081    2   0   0         2
+                42.40          4.48        2.4753    1   1   0         4
+                42.81          3.33        2.4530   -2   0   1         2
+                44.25         15.94        2.3769   -1   1   1         4
+                45.95          2.32        2.2933    1   1   1         4
+                46.25         11.61        2.2794    2   0   1         2
+                51.03         11.50        2.0782   -1   1   2         4
+                54.07          1.56        1.9695    1   1   2         4
+                55.07          3.81        1.9363    2   0   2         2
+                59.03          2.68        1.8171   -2   0   3         2
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

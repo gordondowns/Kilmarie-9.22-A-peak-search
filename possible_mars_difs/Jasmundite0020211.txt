@@ -1,0 +1,41 @@
+      Jasmundite
+      Ilinets A M, Bikbau M Y, Nudelman B I, Bolotina N B
+      Kristallografiya 34 (1989) 71-77
+      The peculiarities of the atomic-structure of alinite and jasmundite
+      _database_code_amcsd 0020211
+      CELL PARAMETERS:  10.4520 10.4520  8.6977   90.000   90.000   90.000
+      SPACE GROUP: I4/mmm    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    950.174
+      Density (g/cm3):      3.015
+      MAX. ABS. INTENSITY / VOLUME**2:      16.66290258    
+      RIR:      2.580
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                13.91          1.29        7.3907    1   1   0         4
+                15.39          1.47        6.6856    1   0   1         8
+                23.76          1.98        4.3488    0   0   2         2
+                25.11          4.80        4.1174    2   1   1        16
+                31.43          3.64        3.3052    3   1   0         8
+                32.14         27.12        3.2342    3   0   1         8
+                37.07        100.00        2.8160    2   2   2         8
+                37.38          2.18        2.7937    1   0   3         8
+                37.99         11.15        2.7501    3   2   1        16
+                39.77          6.13        2.6315    3   1   2        16
+                40.07         24.21        2.6130    4   0   0         4
+                42.61          6.02        2.4638    2   1   3        16
+                43.16          3.95        2.4337    4   1   1        16
+                45.04          9.55        2.3371    4   2   0         8
+                47.11          2.25        2.2398    4   0   2         8
+                47.37          5.25        2.2285    3   0   3         8
+                48.62          8.26        2.1744    0   0   4         2
+                50.82          1.77        2.0860    1   1   4         8
+                51.55          3.12        2.0587    4   2   2        16
+                51.78          3.03        2.0499    3   2   3        16
+                52.26          2.59        2.0325    5   0   1         8
+                55.95          9.03        1.9084    4   1   3        16
+                57.06          3.70        1.8741    2   2   4         8
+                57.96         21.24        1.8477    4   4   0         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

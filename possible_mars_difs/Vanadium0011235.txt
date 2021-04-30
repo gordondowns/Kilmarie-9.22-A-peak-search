@@ -1,0 +1,19 @@
+      Vanadium
+      Wyckoff R W G
+      Crystal Structures 1 (1963) 7-83
+      Second edition. Interscience Publishers, New York, New York
+      Body centered cubic, bcc, structure
+      _database_code_amcsd 0011235
+      CELL PARAMETERS:   3.0240  3.0240  3.0240   90.000   90.000   90.000
+      SPACE GROUP: Im3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     27.653
+      Density (g/cm3):      6.117
+      MAX. ABS. INTENSITY / VOLUME**2:      130.7866278    
+      RIR:      9.981
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                49.50        100.00        2.1383    1   1   0        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

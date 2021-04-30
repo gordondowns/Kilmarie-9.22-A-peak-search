@@ -1,0 +1,35 @@
+      Natroalunite
+      Ossaka J, Hirabayashi J, Okada K, Kobayashi R, Hayashi T
+      American Mineralogist 67 (1982) 114-119
+      Crystal structure of minamiite, a new mineral of the alunite group
+      Note: mineral is the 2R polytype
+      _database_code_amcsd 0000858
+      CELL PARAMETERS:   6.9810  6.9810 33.4900   90.000   90.000  120.000
+      SPACE GROUP: R-3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1413.452
+      Density (g/cm3):      2.806
+      MAX. ABS. INTENSITY / VOLUME**2:      9.368179988    
+      RIR:      1.559
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                 9.20          2.11       11.1633    0   0   3         2
+                18.11          6.38        5.6864    0   1   2         6
+                18.46          3.70        5.5817    0   0   6         2
+                21.05         83.37        4.9014    1   0   4         6
+                29.72         26.01        3.4905    1   1   0         6
+                30.15          1.30        3.4417    0   1   8         6
+                35.02         47.83        2.9748    2   0   2         6
+                35.21        100.00        2.9595    1   1   6        12
+                35.58         10.19        2.9296    1   0  10         6
+                37.42          9.06        2.7908    0   0  12         2
+                42.85          3.21        2.4507    2   0   8         6
+                47.02          1.64        2.2440    0   2  10         6
+                47.46         36.92        2.2244    0   1  14         6
+                47.92          5.98        2.2044    2   1   4        12
+                56.36         36.09        1.8955    3   0   6         6
+                57.01          2.84        1.8758    2   0  14         6
+                57.52          5.61        1.8606    0   0  18         2
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

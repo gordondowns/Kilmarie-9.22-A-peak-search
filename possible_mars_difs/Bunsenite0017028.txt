@@ -1,0 +1,20 @@
+      Bunsenite
+      Smith N
+      Journal of the American Chemical Society 58 (1936) 173-179
+      The Structure of Thin Films of Metallic Oxides and Hydrates
+      _cod_database_code 1010095
+      _database_code_amcsd 0017028
+      CELL PARAMETERS:   4.1800  4.1800  4.1800   90.000   90.000   90.000
+      SPACE GROUP: Fm3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     73.035
+      Density (g/cm3):      6.792
+      MAX. ABS. INTENSITY / VOLUME**2:      92.43838929    
+      RIR:      6.353
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                43.54         79.04        2.4133    1   1   1         8
+                50.72        100.00        2.0900    2   0   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

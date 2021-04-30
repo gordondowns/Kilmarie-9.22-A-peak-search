@@ -1,0 +1,31 @@
+      Almandine
+      Novak G A, Gibbs G V
+      American Mineralogist 56 (1971) 791-825
+      The crystal chemistry of the silicate garnets
+      sample Al
+      Locality: Emerald creek in Latah Co, Idaho, USA
+      _database_code_amcsd 0000240
+      CELL PARAMETERS:  11.5310 11.5310 11.5310   90.000   90.000   90.000
+      SPACE GROUP: Ia-3d     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1533.208
+      Density (g/cm3):      4.207
+      MAX. ABS. INTENSITY / VOLUME**2:      25.96713428    
+      RIR:      2.881
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.92          5.17        4.7075    2   1   1        24
+                25.37          2.63        4.0768    2   2   0        12
+                33.77          3.17        3.0818    3   2   1        48
+                36.18         33.14        2.8828    4   0   0         6
+                40.63        100.00        2.5784    4   2   0        24
+                42.71          3.40        2.4584    3   3   2        24
+                44.71         20.07        2.3538    4   2   2        24
+                46.64         10.08        2.2614    4   3   1        48
+                50.33         15.72        2.1053    5   2   1        48
+                52.10          3.56        2.0384    4   4   0        12
+                57.18         10.42        1.8706    6   1   1        24
+                57.18         10.32        1.8706    5   3   2        48
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

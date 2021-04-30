@@ -1,0 +1,51 @@
+      Prosopite
+      Pudovkina Z V, Pyatenko Y A
+      Doklady Akademii Nauk SSSR 190 (1970) 665-667
+      About the structure of the prosopite, Ca[Al2F4(OH)4], and about
+      some features of the fluoroaluminate crystal chemistry
+      _database_code_amcsd 0012448
+      CELL PARAMETERS:   6.7600 11.1200  7.3200   90.000   95.000   90.000
+      SPACE GROUP: C2/c      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    548.159
+      Density (g/cm3):      2.835
+      MAX. ABS. INTENSITY / VOLUME**2:      9.479498565    
+      RIR:      1.561
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                17.88          6.24        5.7603    1   1   0         4
+                23.36          5.90        4.4214    0   2   1         4
+                23.67        100.00        4.3647    1   1   1         4
+                28.42          8.60        3.6461    0   0   2         2
+                30.83          7.37        3.3671    2   0   0         2
+                32.00         16.30        3.2473    1   3   0         4
+                34.15         26.35        3.0490    0   2   2         4
+                34.56         10.15        3.0139   -1   3   1         4
+                34.94          1.34        2.9820    1   1   2         4
+                35.69          1.53        2.9212    1   3   1         4
+                36.21         13.33        2.8802    2   2   0         4
+                37.57          1.47        2.7800    0   4   0         2
+                38.00          4.78        2.7497   -2   2   1         4
+                44.27          6.02        2.3759    1   3   2         4
+                44.33          1.51        2.3727    2   0   2         2
+                44.85          1.92        2.3468   -2   2   2         4
+                45.77         27.47        2.3018   -1   1   3         4
+                47.77         18.25        2.2107    0   4   2         4
+                48.01          4.19        2.2004    3   1   0         4
+                49.36         27.97        2.1438    2   4   0         4
+                50.76          4.88        2.0883   -2   4   1         4
+                51.96          1.24        2.0434   -1   5   1         4
+                52.43         10.28        2.0265    2   4   1         4
+                52.78          2.86        2.0138    1   5   1         4
+                53.57          2.58        1.9864   -1   3   3         4
+                54.37          9.67        1.9594   -3   1   2         4
+                55.58         18.50        1.9201    3   3   0         4
+                55.96          5.11        1.9078    1   3   3         4
+                58.79         12.82        1.8236    3   3   1         4
+                58.82         22.40        1.8230    0   0   4         2
+                59.05          2.71        1.8165    3   1   2         4
+                59.42          3.08        1.8061    1   5   2         4
+                59.78          3.68        1.7962    0   6   1         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

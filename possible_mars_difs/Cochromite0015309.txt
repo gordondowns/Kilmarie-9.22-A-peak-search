@@ -1,0 +1,23 @@
+      Cochromite
+      Garcia Casado P, Rasines I
+      Polyhedron 5 (1986) 787-789
+      Preparation and crystal data of the spinel series Co1+2sCr2-3sSb3O4
+      Sample: s = 0.40, Co1.8Cr.8Sb.4O4
+      _database_code_amcsd 0015309
+      CELL PARAMETERS:   8.4577  8.4577  8.4577   90.000   90.000   90.000
+      SPACE GROUP: Fd3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    605.002
+      Density (g/cm3):      5.716
+      MAX. ABS. INTENSITY / VOLUME**2:      79.30784980    
+      RIR:      6.476
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.13         17.17        4.8831    1   1   1         8
+                34.84         25.53        2.9902    2   2   0        12
+                41.10        100.00        2.5501    3   1   1        24
+                43.02         13.76        2.4415    2   2   2         8
+                50.09         20.71        2.1144    4   0   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

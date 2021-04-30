@@ -1,0 +1,24 @@
+      Theophrastite
+      Cairns R, Ott E
+      Journal of the American Chemical Society 55 (1933) 527-533
+      X-ray studies of the system nickel-oxygen-water. I. Nickelous oxide and
+      hydroxide
+      _cod_database_code 1011134
+      _database_code_amcsd 0018023
+      CELL PARAMETERS:   3.1140  3.1140  4.6170   90.000   90.000  120.000
+      SPACE GROUP: P-3m1     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     38.773
+      Density (g/cm3):      3.884
+      MAX. ABS. INTENSITY / VOLUME**2:      45.29841622    
+      RIR:      5.445
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                22.36         94.64        4.6170    0   0   1         2
+                38.77         36.90        2.6968    1   0   0         6
+                45.21         85.98        2.3287    0   1   1         6
+                45.21         14.02        2.3287    1   0   1         6
+                45.63          3.59        2.3085    0   0   2         2
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

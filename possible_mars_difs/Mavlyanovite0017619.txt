@@ -1,0 +1,28 @@
+      Mavlyanovite
+      Amark K, Boren B, Westgren A
+      Svensk Kemisk Tidskrift 48 (1936) 273-276
+      On the crystal structure of Mn5Si3
+      _cod_database_code 1010891
+      _database_code_amcsd 0017619
+      CELL PARAMETERS:   6.8980  6.8980  4.8020   90.000   90.000  120.000
+      SPACE GROUP: P6_3/mcm  
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    197.879
+      Density (g/cm3):      6.023
+      MAX. ABS. INTENSITY / VOLUME**2:      45.00750160    
+      RIR:      3.488
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                30.09          5.58        3.4490    1   1   0         6
+                34.88         12.56        2.9869    2   0   0         6
+                37.27          7.03        2.8013    1   1   1        12
+                43.78         11.40        2.4010    0   0   2         2
+                46.71         46.28        2.2579    2   1   0        12
+                47.38         31.01        2.2278    1   0   2        12
+                51.96        100.00        2.0433    2   1   1        24
+                53.43         27.03        1.9913    3   0   0         6
+                54.04         62.46        1.9705    1   1   2        12
+                57.15          3.68        1.8714    2   0   2        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,45 @@
+      Nafertisite
+      Ferraris G, Ivaldi G, Khomyakov A P, Soboleva S V, Belluso E, Pavese A
+      European Journal of Mineralogy 8 (1996) 241-249
+      Nafertisite, a layer titanosilicate member of a polysomatic series including mica
+      _database_code_amcsd 0006619
+      CELL PARAMETERS:   5.3530 16.1760 21.9500   90.000   94.600   90.000
+      SPACE GROUP: A2/m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1894.531
+      Density (g/cm3):      2.868
+      MAX. ABS. INTENSITY / VOLUME**2:      30.60349294    
+      RIR:      4.981
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                 7.89         30.03       13.0071    0   1   1         4
+                 9.39        100.00       10.9396    0   0   2         2
+                12.71          1.46        8.0880    0   2   0         2
+                15.82          1.47        6.5036    0   2   2         4
+                19.69          4.72        5.2354    0   3   1         4
+                20.54          1.24        5.0213   -1   1   1         4
+                23.19          7.54        4.4539    1   2   0         4
+                25.58          1.04        4.0440    0   4   0         2
+                25.73          1.16        4.0204    1   1   3         4
+                28.42          9.35        3.6465    0   0   6         2
+                29.02          4.66        3.5728   -1   2   4         4
+                31.04          4.76        3.3458    1   2   4         4
+                31.96          2.04        3.2518    0   4   4         4
+                33.92          3.00        3.0688    0   1   7         4
+                35.72          1.55        2.9189   -1   2   6         4
+                37.45          1.03        2.7884    1   3   5         4
+                38.21          4.54        2.7349    0   0   8         2
+                38.27          6.31        2.7305    1   5   1         4
+                38.43          1.58        2.7197    1   4   4         4
+                39.62          9.44        2.6411   -2   0   2         2
+                41.07         14.16        2.5516    1   5   3         4
+                42.36          6.49        2.4774   -2   0   4         2
+                44.12          4.22        2.3835   -1   5   5         4
+                45.90          4.43        2.2956    1   5   5         4
+                47.10          2.95        2.2405   -2   0   6         2
+                50.06          2.59        2.1157   -1   5   7         4
+                51.10          1.98        2.0753    2   0   6         2
+                52.33          2.00        2.0301    1   5   7         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

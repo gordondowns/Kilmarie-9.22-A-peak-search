@@ -1,0 +1,24 @@
+      Spinel
+      Lenaz D, Princivalle F
+      The Canadian Mineralogist 43 (2005) 1305-1314
+      The crystal chemistry of detrital chromian spinel from the
+      southeastern Alps and Outer Dinarides: The discrimination of
+      supplies from areas of similar tectonic setting?
+      Sample: BK 36
+      _database_code_amcsd 0006043
+      CELL PARAMETERS:   8.1904  8.1904  8.1904   90.000   90.000   90.000
+      SPACE GROUP: Fd-3m     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    549.434
+      Density (g/cm3):      4.012
+      MAX. ABS. INTENSITY / VOLUME**2:      22.95854787    
+      RIR:      2.671
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.82         23.75        4.7287    1   1   1         8
+                36.01         32.43        2.8957    2   2   0        12
+                42.51        100.00        2.4695    3   1   1        24
+                51.85         36.99        2.0476    4   0   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,26 @@
+      Neighborite
+      Chakhmouradian A R, Ross K, Mitchell R H, Swainson I
+      Physics and Chemistry of Minerals 28 (2001) 277-284
+      The crystal chemistry of synthetic potassium-bearing neighborite, (Na1-xKx)MgF3
+      Sample studied by neutron diffraction, x = .5
+      One of two alternative models
+      _database_code_amcsd 0008543
+      CELL PARAMETERS:   5.5660  5.5660  3.9530   90.000   90.000   90.000
+      SPACE GROUP: P4/mbm    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    122.465
+      Density (g/cm3):      3.046
+      MAX. ABS. INTENSITY / VOLUME**2:      8.275935436    
+      RIR:      1.268
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                26.18          6.46        3.9530    0   0   1         2
+                26.29         12.48        3.9358    1   1   0         4
+                37.44         79.39        2.7891    1   1   1         8
+                37.53         40.28        2.7830    2   0   0         4
+                46.33         93.22        2.2756    2   0   1         8
+                53.86         51.33        1.9765    0   0   2         2
+                54.11        100.00        1.9679    2   2   0         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

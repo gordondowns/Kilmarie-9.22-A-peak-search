@@ -1,0 +1,39 @@
+      Ganophyllite
+      Noe D C, Veblen D R
+      American Mineralogist 84 (1999) 1088-1098
+      Incommensurate modulation and the crystal structure of ganophyllite
+      _database_code_amcsd 0002250
+      CELL PARAMETERS:   5.5500 13.5390 25.1340   90.000   93.928   90.000
+      SPACE GROUP: I2/a      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1884.169
+      Density (g/cm3):      2.618
+      MAX. ABS. INTENSITY / VOLUME**2:      44.77712420    
+      RIR:      7.984
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                 8.19        100.00       12.5375    0   0   2         2
+                 8.62          8.53       11.9133    0   1   1         4
+                16.42          1.03        6.2687    0   0   4         2
+                20.12          2.01        5.1249    1   1   0         4
+                24.74          3.11        4.1792    0   0   6         2
+                26.05          3.17        3.9711    0   3   3         4
+                26.55          1.27        3.8986   -1   2   3         4
+                27.74          1.31        3.7342    1   2   3         4
+                29.96          2.28        3.4630    0   1   7         4
+                33.19          4.09        3.1344    0   0   8         2
+                36.51          4.58        2.8574    1   4   1         4
+                37.21          1.26        2.8057    0   3   7         4
+                38.09          2.75        2.7432   -2   0   2         2
+                38.72          9.39        2.7000    1   4   3         4
+                40.29          4.22        2.5992   -2   0   4         2
+                42.59          5.02        2.4648    1   4   5         4
+                44.10          2.62        2.3844   -2   0   6         2
+                46.05          1.39        2.2886   -1   4   7         4
+                47.14          1.06        2.2385    2   0   6         2
+                47.79          2.57        2.2100    1   4   7         4
+                52.00          1.27        2.0419   -1   4   9         4
+                54.04          1.09        1.9702    1   4   9         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

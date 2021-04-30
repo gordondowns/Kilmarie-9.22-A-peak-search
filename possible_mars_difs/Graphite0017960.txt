@@ -1,0 +1,22 @@
+      Graphite
+      Hassel O
+      Zeitschrift fur Physik 25 (1924) 317-337
+      Ueber die Kristallstruktur des Graphits.
+      _cod_database_code 1011060
+      _database_code_amcsd 0017960
+      CELL PARAMETERS:   2.4700  2.4700  6.7900   90.000   90.000  120.000
+      SPACE GROUP: P6_3mc    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     35.875
+      Density (g/cm3):      2.223
+      MAX. ABS. INTENSITY / VOLUME**2:      12.06928299    
+      RIR:      2.534
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                30.58        100.00        3.3950    0   0   2         1
+                49.48          3.28        2.1391    1   0   0         6
+                52.05         16.06        2.0402    1   0   1         6
+                59.29          3.20        1.8098    1   0   2         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

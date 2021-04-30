@@ -1,0 +1,30 @@
+      Caminite
+      Keefer K D, Hochella M F, de Jong B H W S
+      Acta Crystallographica B37 (1981) 1003-1006
+      The structure of the magnesium hydroxide sulfate hydrate MgSO4.1/3Mg(OH)2.1/3H2O
+      Locality: synthetic
+      _cod_database_code 1100075
+      _database_code_amcsd 0018250
+      CELL PARAMETERS:   5.2420  5.2420 12.9950   90.000   90.000   90.000
+      SPACE GROUP: I4_1/amd  
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    357.084
+      Density (g/cm3):      2.712
+      MAX. ABS. INTENSITY / VOLUME**2:      11.14168730    
+      RIR:      1.918
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.22          9.15        4.8614    1   0   1         8
+                31.10        100.00        3.3391    1   0   3         8
+                31.99          1.53        3.2487    0   0   4         2
+                32.29         90.05        3.2196    1   1   2         8
+                39.94         18.89        2.6210    2   0   0         4
+                43.22          1.56        2.4307    2   0   2         8
+                45.66          8.43        2.3071    2   1   1        16
+                51.47         16.30        2.0617    2   1   3        16
+                52.06         14.26        2.0399    2   0   4         8
+                57.20          7.84        1.8700    1   1   6         8
+                57.76          4.99        1.8533    2   2   0         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

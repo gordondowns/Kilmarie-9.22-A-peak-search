@@ -1,0 +1,29 @@
+      Sulphohalite
+      Sakamoto Y
+      Journal of Science of the Hiroshima University, Series A-II: Physics and Chemistry 32 (1968) 101-108
+      The size, atomic charges, and motion of the sulfate radical of
+      symmetry -43m in the crystal of sulfohalite, Na6ClF(SO4)2
+      Locality: not provided
+      _database_code_amcsd 0018630
+      CELL PARAMETERS:  10.0710 10.0710 10.0710   90.000   90.000   90.000
+      SPACE GROUP: Fm3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1021.452
+      Density (g/cm3):      2.500
+      MAX. ABS. INTENSITY / VOLUME**2:      9.767745448    
+      RIR:      1.824
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                17.71         11.28        5.8145    1   1   1         8
+                20.48          8.89        5.0355    2   0   0         6
+                29.12        100.00        3.5606    2   2   0        12
+                34.29         31.52        3.0365    3   1   1        24
+                35.87         73.50        2.9072    2   2   2         8
+                41.65         45.36        2.5178    4   0   0         6
+                46.84         13.59        2.2519    4   2   0        24
+                51.63          6.42        2.0557    4   2   2        24
+                55.01          5.62        1.9382    5   1   1        24
+                55.01         29.77        1.9382    3   3   3         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

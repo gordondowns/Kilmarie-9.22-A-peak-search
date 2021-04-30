@@ -1,0 +1,28 @@
+      Cristobalite
+      Downs R T, Palmer D C
+      American Mineralogist 79 (1994) 9-14
+      The pressure behavior of alpha cristobalite
+      P = room pressure
+      _database_code_amcsd 0001629
+
+      CELL PARAMETERS:   4.9717  4.9717  6.9223   90.000   90.000   90.000
+      SPACE GROUP: P4_12_12  
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    171.104
+      Density (g/cm3):      2.332
+      MAX. ABS. INTENSITY / VOLUME**2:      26.25121962    
+      RIR:      5.255
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                25.61        100.00        4.0381    1   0   1         8
+                33.19          8.93        3.1345    1   1   1         8
+                36.74         11.08        2.8406    1   0   2         8
+                42.21         13.93        2.4859    2   0   0         4
+                42.56          4.12        2.4664    1   1   2         8
+                50.03          2.72        2.1169    2   1   1         8
+                52.64          2.40        2.0191    2   0   2         8
+                55.30          5.02        1.9290    1   1   3         8
+                57.18          5.15        1.8707    2   1   2         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

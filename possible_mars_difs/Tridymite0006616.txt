@@ -1,0 +1,47 @@
+      Tridymite
+      Graetsch H, Topalovic-Dierdorf I
+      European Journal of Mineralogy 8 (1996) 103-113
+      29Si MAS NMR spectrum and superstructure of modulated tridymite L3-To(MX-1)
+      Sample: average crystal structure
+      Locality: synthetic
+      _database_code_amcsd 0006616
+      CELL PARAMETERS:   5.0070  8.6004  8.2169   90.000   91.512   90.000
+      SPACE GROUP: Cc        
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    353.715
+      Density (g/cm3):      2.256
+      MAX. ABS. INTENSITY / VOLUME**2:      7.961455835    
+      RIR:      1.647
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                23.88        100.00        4.3260    1   1   0         2
+                24.03         45.52        4.3002    0   2   0         2
+                25.18         97.35        4.1070    0   0   2         1
+                26.79         25.53        3.8641   -1   1   1         2
+                27.18         28.45        3.8097    0   2   1         2
+                27.31         29.48        3.7921    1   1   1         2
+                34.57         12.72        3.0130   -1   1   2         2
+                35.08         14.47        2.9700    0   2   2         2
+                35.39          7.60        2.9452    1   1   2         2
+                41.92         11.48        2.5026    2   0   0         1
+                42.18         17.12        2.4877    1   3   0         2
+                44.00          2.65        2.3896   -1   3   1         2
+                44.34          2.75        2.3722    1   3   1         2
+                45.03          5.16        2.3378   -1   1   3         2
+                45.61          4.99        2.3096    0   2   3         2
+                46.02          6.90        2.2901    1   1   3         2
+                48.90          1.01        2.1626   -2   0   2         1
+                49.45          1.26        2.1402   -1   3   2         2
+                50.07          2.29        2.1155    1   3   2         2
+                50.14          1.84        2.1125    2   0   2         1
+                50.37          2.18        2.1035   -2   2   1         2
+                50.98          1.90        2.0800    2   2   1         2
+                50.98          2.05        2.0800    0   4   1         2
+                51.69          2.77        2.0535    0   0   4         1
+                55.20          1.00        1.9321   -2   2   2         2
+                56.06          1.22        1.9049    0   4   2         2
+                57.14          1.04        1.8717   -1   1   4         2
+                57.77          2.66        1.8531    0   2   4         2
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

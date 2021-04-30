@@ -1,0 +1,24 @@
+      Hematite
+      Pauling L, Hendricks S B
+      Journal of the American Chemical Society 47 (1925) 781-790
+      Crystal structures of hematite and corundum
+      _database_code_amcsd 0014076
+      CELL PARAMETERS:   5.4200  5.4200  5.4200   55.280   55.280   55.280
+      SPACE GROUP: R-3c      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    100.236
+      Density (g/cm3):      5.290
+      MAX. ABS. INTENSITY / VOLUME**2:      38.87062832    
+      RIR:      3.430
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                28.18         37.86        3.6775    1   1   0         6
+                38.79        100.00        2.6959    2   1   1         6
+                41.71         80.47        2.5144    0  -1   1         6
+                46.05          2.38        2.2884    2   2   2         2
+                47.93         16.91        2.2037    2   1   0        12
+                51.10          1.55        2.0756    2   0   0         6
+                58.26         39.77        1.8388    2   2   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

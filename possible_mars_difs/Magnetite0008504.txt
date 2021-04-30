@@ -1,0 +1,24 @@
+      Magnetite
+      Yamanaka T, Shimazu H, Ota K
+      Physics and Chemistry of Minerals 28 (2001) 110-118
+      Electric conductivity of Fe2SiO4-Fe3O4 spinel solid solutions
+      Sample: Fe(3-x)SixO4, x = 0.288, synthesized at 1200 C, 10 GPa
+      _database_code_amcsd 0008504
+      CELL PARAMETERS:   8.3740  8.3740  8.3740   90.000   90.000   90.000
+      SPACE GROUP: Fd3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    587.217
+      Density (g/cm3):      5.066
+      MAX. ABS. INTENSITY / VOLUME**2:      58.39105308    
+      RIR:      5.381
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.34         11.38        4.8347    1   1   1         8
+                35.20         24.44        2.9607    2   2   0        12
+                41.53        100.00        2.5249    3   1   1        24
+                43.47          8.75        2.4174    2   2   2         8
+                50.63         24.04        2.0935    4   0   0         6
+                55.54          1.74        1.9211    3   3   1        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

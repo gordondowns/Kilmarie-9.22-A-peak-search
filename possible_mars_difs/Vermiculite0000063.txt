@@ -1,0 +1,26 @@
+      Vermiculite
+      Mathieson A M, Walker G F
+      American Mineralogist 39 (1954) 231-255
+      Crystal structure of magnesium-vermiculite
+      _database_code_amcsd 0000063
+      CELL PARAMETERS:   5.3300  9.1800 28.9000   90.000   97.000   90.000
+      SPACE GROUP: Cc        
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1403.520
+      Density (g/cm3):      1.171
+      MAX. ABS. INTENSITY / VOLUME**2:      48.72166531    
+      RIR:     19.415
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                 7.16        100.00       14.3423    0   0   2         1
+                14.34          2.44        7.1711    0   0   4         1
+                22.43          1.10        4.6026   -1   1   1         2
+                22.78          1.01        4.5323    0   2   1         2
+                28.91          1.69        3.5856    0   0   8         1
+                36.37          1.94        2.8685    0   0  10         1
+                39.50          1.36        2.6488    1   3   0         2
+                41.35          1.47        2.5355   -1   3   4         2
+                44.20          1.41        2.3793   -1   3   6         2
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

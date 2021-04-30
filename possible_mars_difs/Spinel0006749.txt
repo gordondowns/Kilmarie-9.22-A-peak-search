@@ -1,0 +1,24 @@
+      Spinel
+      Lucchesi S, Amoriello M, Della Giusta A
+      European Journal of Mineralogy 10 (1998) 473-482
+      Crystal chemistry of spinels from xenoliths of the
+      Alban Hills volcanic region
+      Sample: SP267e
+      Locality: xenoliths of the Alban Hills, Italy volcanic region
+      _database_code_amcsd 0006749
+      CELL PARAMETERS:   8.1017  8.1017  8.1017   90.000   90.000   90.000
+      SPACE GROUP: Fd3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    531.776
+      Density (g/cm3):      3.611
+      MAX. ABS. INTENSITY / VOLUME**2:      14.38785203    
+      RIR:      1.860
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                22.07         29.02        4.6775    1   1   1         8
+                36.42         34.71        2.8644    2   2   0        12
+                42.99        100.00        2.4428    3   1   1        24
+                52.46         51.26        2.0254    4   0   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

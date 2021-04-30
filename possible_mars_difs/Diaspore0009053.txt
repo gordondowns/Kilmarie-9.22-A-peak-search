@@ -1,0 +1,30 @@
+      Diaspore
+      Friedrich A, Wilson D J, Haussuhl E, Winkler B, Morgenroth W, Refson K, Milman V
+      Physics and Chemistry of Minerals 34 (2007) 145-157
+      High-pressure properties of diaspore, AlO(OH)
+      Sample: p = 3.41 GPa
+      _database_code_amcsd 0009053
+      CELL PARAMETERS:   4.3540  9.3690  2.8281   90.000   90.000   90.000
+      SPACE GROUP: Pbnm      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    115.366
+      Density (g/cm3):      3.453
+      MAX. ABS. INTENSITY / VOLUME**2:      9.109499880    
+      RIR:      1.231
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                22.03          8.68        4.6845    0   2   0         2
+                26.21        100.00        3.9485    1   1   0         4
+                32.60          4.96        3.1892    1   2   0         4
+                41.31         22.74        2.5377    1   3   0         4
+                43.40          1.63        2.4211    0   2   1         4
+                44.35          4.13        2.3717    1   0   1         4
+                44.94          8.91        2.3423    0   4   0         2
+                45.83         60.84        2.2992    1   1   1         8
+                50.05         43.43        2.1160    1   2   1         8
+                51.44         42.41        2.0627    1   4   0         4
+                56.58          1.83        1.8888    1   3   1         8
+                59.50          4.25        1.8039    0   4   1         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

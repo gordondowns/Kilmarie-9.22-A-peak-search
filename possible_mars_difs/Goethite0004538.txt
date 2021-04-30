@@ -1,0 +1,36 @@
+      Goethite
+      Alvarez M, Sileo E E, Rueda E H
+      American Mineralogist 93 (2008) 584-590
+      Structure and reactivity of synthetic Co-substituted goethites
+      Locality: synthetic
+      Sample: G0, 0 mol% Co
+      Note: changed OH(x) to match reported bond distances
+      _database_code_amcsd 0004538
+      CELL PARAMETERS:   4.6163  9.9564  3.0248   90.000   90.000   90.000
+      SPACE GROUP: Pbnm      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    139.025
+      Density (g/cm3):      4.196
+      MAX. ABS. INTENSITY / VOLUME**2:      30.12287673    
+      RIR:      3.351
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                20.72         12.30        4.9782    0   2   0         2
+                24.68        100.00        4.1880    1   1   0         4
+                30.67         10.98        3.3849    1   2   0         4
+                38.80         40.34        2.6947    1   3   0         4
+                40.52         23.39        2.5850    0   2   1         4
+                41.44          4.68        2.5300    1   0   1         4
+                42.15         14.06        2.4891    0   4   0         2
+                42.82         64.26        2.4521    1   1   1         8
+                45.64          3.12        2.3082    2   0   0         2
+                46.77          8.33        2.2555    1   2   1         8
+                46.92          2.70        2.2485    2   1   0         4
+                48.23         14.36        2.1909    1   4   0         4
+                50.62          1.08        2.0940    2   2   0         4
+                52.83          3.33        2.0121    1   3   1         8
+                55.52          5.66        1.9220    0   4   1         4
+                59.48         10.22        1.8045    2   1   1         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

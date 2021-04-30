@@ -1,0 +1,29 @@
+      Spessartine
+      Smyth J R, Madel R E, McCormick T C, Munoz J L, Rossman G R
+      American Mineralogist 75 (1990) 314-318
+      Crystal-structure refinement of a F-bearing spessartine garnet
+      _database_code_amcsd 0001299
+      CELL PARAMETERS:  11.6280 11.6280 11.6280   90.000   90.000   90.000
+      SPACE GROUP: Ia-3d     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1572.226
+      Density (g/cm3):      4.145
+      MAX. ABS. INTENSITY / VOLUME**2:      25.05539141    
+      RIR:      2.822
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.74          8.03        4.7471    2   1   1        24
+                25.15          1.26        4.1111    2   2   0        12
+                33.48          4.72        3.1077    3   2   1        48
+                35.87         34.78        2.9070    4   0   0         6
+                40.27        100.00        2.6001    4   2   0        24
+                42.33          2.46        2.4791    3   3   2        24
+                44.31         21.88        2.3736    4   2   2        24
+                46.22          9.52        2.2804    4   3   1        48
+                49.88         17.03        2.1230    5   2   1        48
+                51.63          3.21        2.0556    4   4   0        12
+                56.66         10.85        1.8863    6   1   1        24
+                56.66         10.78        1.8863    5   3   2        48
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,29 @@
+      Fougerite
+      Trolard F, Bourrie G, Abdelmoula M, Refait P, Feder F
+      Clays and Clay Minerals 55 (2007) 323-334
+      Fougerite, a new mineral of the pyroaurite-iowaite group: Description and
+      crystal structure
+      Locality: synthetic
+      _database_code_amcsd 0012240
+      CELL PARAMETERS:   3.1900  3.1900 23.8500   90.000   90.000  120.000
+      SPACE GROUP: R-3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    210.184
+      Density (g/cm3):      2.646
+      MAX. ABS. INTENSITY / VOLUME**2:      30.67288247    
+      RIR:      5.411
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                12.93        100.00        7.9500    0   0   3         2
+                26.03         48.20        3.9750    0   0   6         2
+                38.07          5.68        2.7443    1   0   1         6
+                38.85         33.51        2.6913    0   1   2         6
+                41.85          9.45        2.5066    1   0   4         6
+                43.98         22.17        2.3906    0   1   5         6
+                49.31          3.38        2.1459    1   0   7         6
+                52.43         22.61        2.0264    0   1   8         6
+                53.54          1.75        1.9875    0   0  12         2
+                59.45          7.44        1.8053    1   0  10         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

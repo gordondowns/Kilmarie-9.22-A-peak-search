@@ -1,0 +1,43 @@
+      Forsterite
+      Heuer M
+      Journal of Applied Crystallography 34 (2001) 271-279
+      The determination of site occupancies using a new strategy in Rietveld refinements
+      Note: results of the conventional refinement on single-crystal data
+      Locality: synthetic
+      _database_code_amcsd 0020682
+      CELL PARAMETERS:   4.7620 10.2350  5.9980   90.000   90.000   90.000
+      SPACE GROUP: Pbnm      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    292.337
+      Density (g/cm3):      3.361
+      MAX. ABS. INTENSITY / VOLUME**2:      6.005692104    
+      RIR:      0.834
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                20.15         21.06        5.1175    0   2   0         2
+                26.59         53.95        3.8931    0   2   1         4
+                27.78         18.42        3.7295    1   0   1         4
+                29.60         21.36        3.5041    1   1   1         8
+                29.76         13.18        3.4862    1   2   0         4
+                34.55          5.92        3.0140    1   2   1         8
+                34.73         15.27        2.9990    0   0   2         2
+                37.66         69.13        2.7734    1   3   0         4
+                40.48          2.95        2.5874    0   2   2         4
+                41.66         77.11        2.5173    1   3   1         8
+                42.62        100.00        2.4631    1   1   2         8
+                44.17          1.56        2.3810    2   0   0         2
+                44.71         12.62        2.3535    0   4   1         4
+                45.41          9.32        2.3191    2   1   0         4
+                46.37         36.23        2.2735    1   2   2         8
+                46.80         25.96        2.2540    1   4   0         4
+                48.89         16.36        2.1630    2   1   1         8
+                52.16          4.89        2.0362    1   3   2         8
+                54.58          2.47        1.9525    2   3   0         4
+                54.76          2.47        1.9465    0   4   2         4
+                56.85          5.68        1.8806    1   5   0         4
+                57.38          1.24        1.8648    2   0   2         4
+                59.13          4.24        1.8143    1   1   3         8
+                59.85          3.91        1.7945    1   5   1         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

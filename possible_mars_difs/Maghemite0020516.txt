@@ -1,0 +1,32 @@
+      Maghemite
+      Shmakov A N, Kryukova G N, Tsybulya S V, Chuvilin A L, Solovyeva L P
+      Journal of Applied Crystallography 28 (1995) 141-145
+      Vacancy ordering in gamma-Fe2O3: synchrotron x-ray powder diffraction and high-
+      resolution electron microscopy studies
+      Locality: Synthetic
+      _database_code_amcsd 0020516
+      CELL PARAMETERS:   8.3474  8.3474  8.3474   90.000   90.000   90.000
+      SPACE GROUP: P4_332    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    581.639
+      Density (g/cm3):      4.863
+      MAX. ABS. INTENSITY / VOLUME**2:      53.34215725    
+      RIR:      5.120
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                17.45          5.30        5.9025    1   1   0        12
+                21.41          2.29        4.8194    1   1   1         8
+                27.75          5.52        3.7331    2   1   0        24
+                30.46          5.69        3.4078    2   1   1        24
+                35.31         34.51        2.9513    2   2   0        12
+                37.53          1.31        2.7825    2   2   1        24
+                39.65          3.69        2.6397    3   1   0        24
+                41.67        100.00        2.5168    3   1   1        24
+                43.61          3.78        2.4097    2   2   2         8
+                45.49          1.87        2.3152    3   2   0        24
+                47.31          1.11        2.2309    3   2   1        24
+                50.80         17.23        2.0868    4   0   0         6
+                58.87          2.70        1.8216    4   2   1        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

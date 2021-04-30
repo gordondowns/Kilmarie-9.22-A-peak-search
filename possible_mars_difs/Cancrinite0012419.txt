@@ -1,0 +1,55 @@
+      Cancrinite
+      Rozenberg K A, Rastsvetaeva R K, Chukanov N V
+      Crystallography Reports 54 (2009) 793-799
+      Crystal structures of oxalate-bearing cancrinite with an unusual
+      arrangement of CO3 groups and sulfate-rich davyne
+      Locality: Kovdor massif, Kola Peninsula, Russia
+      Note: Bruker SMART CCD diffractometer
+      _database_code_amcsd 0012419
+      CELL PARAMETERS:  12.6880 12.6880  5.1890   90.000   90.000  120.000
+      SPACE GROUP: P6_3      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    723.437
+      Density (g/cm3):      2.259
+      MAX. ABS. INTENSITY / VOLUME**2:      5.799391214    
+      RIR:      1.199
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                 9.35          7.55       10.9881    1   0   0         6
+                16.22         73.73        6.3440    1   1   0         6
+                18.75          2.07        5.4941    2   0   0         6
+                22.00         78.50        4.6921    1   0   1         6
+                24.89          1.39        4.1531    1   2   0         6
+                24.89          9.26        4.1531    2   1   0         6
+                25.75          1.05        4.0165    1   1   1         6
+                27.45          3.14        3.7724    2   0   1         6
+                28.29         47.22        3.6627    3   0   0         6
+                32.05         51.71        3.2425    1   2   1         6
+                32.05         48.29        3.2425    2   1   1         6
+                34.16          1.11        3.0476    3   1   0         6
+                34.16          1.51        3.0476    1   3   0         6
+                34.81          4.10        2.9923    3   0   1         6
+                38.04         34.75        2.7470    4   0   0         6
+                39.83          6.75        2.6279    3   1   1         6
+                39.83         11.93        2.6279    1   3   1         6
+                40.37         24.93        2.5945    0   0   2         1
+                41.53          5.14        2.5251    1   0   2         6
+                41.60          1.44        2.5208    2   3   0         6
+                43.27         28.00        2.4278    4   0   1         6
+                43.77          1.59        2.4014    1   1   2         6
+                43.84          1.15        2.3978    1   4   0         6
+                46.50          4.85        2.2674    2   3   1         6
+                46.50          3.53        2.2674    3   2   1         6
+                48.57          2.61        2.1767    4   1   1         6
+                48.57          2.97        2.1767    1   4   1         6
+                50.02          8.51        2.1172    3   0   2         6
+                50.09         12.21        2.1147    3   3   0         6
+                52.51          3.03        2.0236    5   0   1         6
+                56.66          9.65        1.8862    4   0   2         6
+                58.06          1.44        1.8446    1   5   1         6
+                58.06          1.13        1.8446    5   1   1         6
+                59.35          2.30        1.8080    2   3   2         6
+                59.35          2.81        1.8080    3   2   2         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

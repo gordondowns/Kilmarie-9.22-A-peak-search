@@ -1,0 +1,22 @@
+      Coulsonite
+      Reuter B, Riedel E, Hug P, Arndt D, Geisler U, Behnke J
+      Zeitschrift fur Anorganische und Allgemeine Chemie 369 (1969) 306-312
+      Zur kristallchemie der vanadin(III)-spinelle
+      _database_code_amcsd 0015774
+      CELL PARAMETERS:   8.4530  8.4530  8.4530   90.000   90.000   90.000
+      SPACE GROUP: Fd3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    603.994
+      Density (g/cm3):      4.876
+      MAX. ABS. INTENSITY / VOLUME**2:      50.47311179    
+      RIR:      4.832
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.14          6.84        4.8803    1   1   1         8
+                34.86         36.78        2.9886    2   2   0        12
+                41.12        100.00        2.5487    3   1   1        24
+                43.04          4.86        2.4402    2   2   2         8
+                50.12         16.87        2.1133    4   0   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

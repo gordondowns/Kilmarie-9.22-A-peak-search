@@ -1,0 +1,51 @@
+      Dansite-(Mn)
+      Demartin F, Campostrini I, Castellano C, Gramaccioli C M, Russo M
+      Mineralogical Magazine 76 (2012) 2773-2783
+      D'ansite-(Mn), Na21Mn2+(SO4)10Cl3 and d'ansite-(Fe), Na21Fe2+(SO4)10Cl3,
+      two new minerals from volcanic fumaroles
+      Locality: Vesuvius, Naples, Italy
+      _database_code_amcsd 0019747
+      CELL PARAMETERS:  15.9291 15.9291 15.9291   90.000   90.000   90.000
+      SPACE GROUP: I-43d     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   4041.790
+      Density (g/cm3):      2.611
+      MAX. ABS. INTENSITY / VOLUME**2:      6.217597676    
+      RIR:      1.112
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                15.82         17.94        6.5030    2   1   1        12
+                18.29          1.60        5.6318    2   2   0        12
+                24.28         27.94        4.2572    3   2   1        24
+                25.98         31.03        3.9823    4   0   0         6
+                29.11         11.44        3.5619    4   2   0        24
+                30.57         97.83        3.3961    3   3   2        12
+                33.30         39.32        3.1240    4   3   1        24
+                33.30          7.00        3.1240    5   1   0        24
+                35.85         16.59        2.9082    5   2   1        24
+                37.07        100.00        2.8159    4   4   0        12
+                38.26          4.32        2.7318    5   3   0        24
+                40.54         20.92        2.5840    6   1   1        12
+                40.54         20.33        2.5840    5   3   2        24
+                41.64         27.03        2.5186    6   2   0        24
+                42.72         11.14        2.4579    5   4   1        24
+                44.81          3.73        2.3486    6   3   1        24
+                45.83          9.02        2.2992    4   4   4         4
+                46.83          1.72        2.2527    7   1   0        24
+                46.83          7.80        2.2527    5   4   3        24
+                48.78          4.06        2.1677    6   3   3        12
+                48.78          2.69        2.1677    7   2   1        24
+                48.78         12.22        2.1677    5   5   2        12
+                49.74          1.20        2.1286    6   4   2        24
+                52.53          7.80        2.0230    6   5   1        24
+                52.53         10.75        2.0230    7   3   2        24
+                53.43          4.27        1.9911    8   0   0         6
+                55.21          1.36        1.9317    8   2   0        24
+                56.09         19.90        1.9039    6   5   3        24
+                56.96          1.36        1.8773    8   2   2        12
+                57.82          2.91        1.8517    7   5   0        24
+                57.82          8.07        1.8517    7   4   3        24
+                59.51          1.72        1.8036    7   5   2        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

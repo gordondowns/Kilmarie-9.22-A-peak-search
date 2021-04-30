@@ -1,0 +1,20 @@
+      Villiaumite
+      Barth T, Lunde G
+      Zentralblatt fur Mineralogie und Geologie, A1927 (1927) 57-66
+      Ueber das Mineral Villiaumit
+      _cod_database_code 1011141
+      _database_code_amcsd 0018029
+      CELL PARAMETERS:   4.6140  4.6140  4.6140   90.000   90.000   90.000
+      SPACE GROUP: Fm3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     98.227
+      Density (g/cm3):      2.839
+      MAX. ABS. INTENSITY / VOLUME**2:      19.96256192    
+      RIR:      3.283
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                39.27          1.92        2.6639    1   1   1         8
+                45.66        100.00        2.3070    2   0   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,55 @@
+      Kanoite
+      Gordon W A, Peacor D R, Brown P E, Essene E J, Allard L F
+      American Mineralogist 66 (1981) 127-141
+      Exsolution relationship in a clinopyroxene of average composition
+      Ca0.43Mn0.69Mg0.82Si2O6: X-ray diffraction and analytical electron microscopy
+      _database_code_amcsd 0000806
+      CELL PARAMETERS:   9.7800  8.9300  5.3200   90.000  108.600   90.000
+      SPACE GROUP: P2_1/c    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    440.356
+      Density (g/cm3):      3.472
+      MAX. ABS. INTENSITY / VOLUME**2:      8.064734972    
+      RIR:      1.084
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                22.27          6.91        4.6346    2   0   0         2
+                23.06         14.75        4.4782   -1   1   1         4
+                23.53          2.75        4.3906    0   1   1         4
+                28.80          2.43        3.5999    1   1   1         4
+                30.71          1.04        3.3809   -1   2   1         4
+                31.07         17.60        3.3427    0   2   1         4
+                32.33         53.05        3.2155    2   2   0         4
+                34.34        100.00        3.0324   -2   2   1         4
+                35.45         46.77        2.9402   -3   1   1         4
+                35.71         39.23        2.9199    3   1   0         4
+                40.60         40.48        2.5804   -1   3   1         4
+                40.88          1.47        2.5633    0   3   1         4
+                41.60         50.89        2.5211    0   0   2         2
+                42.42         26.95        2.4742    2   2   1         4
+                43.51          2.78        2.4151   -2   3   1         4
+                44.31          2.37        2.3737    1   3   1         4
+                46.73          2.65        2.2572    1   0   2         2
+                46.89         17.44        2.2498    3   1   1         4
+                47.13          2.61        2.2391   -2   2   2         4
+                47.28          1.00        2.2325    0   4   0         2
+                48.13          7.78        2.1953    0   2   2         4
+                48.29          7.92        2.1884    1   1   2         4
+                49.17         34.29        2.1517   -3   3   1         4
+                49.36          4.51        2.1437    3   3   0         4
+                49.79          6.53        2.1266   -4   2   1         4
+                50.89          1.37        2.0835   -3   2   2         4
+                51.36         15.14        2.0656   -4   0   2         2
+                51.60          3.80        2.0568    4   2   0         4
+                52.02         13.54        2.0414    0   4   1         4
+                52.85          4.99        2.0113    2   4   0         4
+                53.69          1.12        1.9821   -1   3   2         4
+                54.14          9.40        1.9669    2   0   2         2
+                54.23          2.62        1.9641   -2   4   1         4
+                58.49          3.19        1.8322    3   3   1         4
+                59.10          4.27        1.8151    5   1   0         4
+                59.64          9.89        1.8000    2   2   2         4
+                59.70          2.49        1.7986    1   3   2         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

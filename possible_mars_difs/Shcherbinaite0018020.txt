@@ -1,0 +1,39 @@
+      Shcherbinaite
+      Ketelaar J
+      Zeitschrift fur Kristallographie 95 (1936) 9-27
+      Die Kristallstruktur des Vanadinpentoxyds
+      _cod_database_code 1011126
+      _database_code_amcsd 0018020
+      CELL PARAMETERS:  11.4800  4.3600  3.5500   90.000   90.000   90.000
+      SPACE GROUP: Pmn2_1    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    177.687
+      Density (g/cm3):      3.399
+      MAX. ABS. INTENSITY / VOLUME**2:      17.04401588    
+      RIR:      2.341
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                17.94         50.11        5.7400    2   0   0         2
+                23.70        100.00        4.3600    0   1   0         2
+                25.37         45.28        4.0759    1   1   0         4
+                29.88          7.75        3.4720    2   1   0         4
+                30.61         71.95        3.3915    1   0   1         2
+                36.27         23.71        2.8760    3   1   0         4
+                36.35         23.08        2.8700    4   0   0         2
+                37.95         25.44        2.7529    0   1   1         2
+                39.07         11.99        2.6770    1   1   1         4
+                40.24         32.34        2.6025    3   0   1         2
+                43.85          1.29        2.3972    4   1   0         4
+                47.23          6.45        2.2347    3   1   1         4
+                48.49         12.68        2.1800    0   2   0         2
+                49.41          9.55        2.1417    1   2   0         4
+                52.11          2.13        2.0380    2   2   0         4
+                53.56          9.89        1.9867    4   1   1         4
+                55.33          1.12        1.9279    5   0   1         2
+                55.79         12.71        1.9133    6   0   0         2
+                56.40          7.34        1.8942    3   2   0         4
+                57.61          8.96        1.8577    0   2   1         2
+                58.44          3.01        1.8338    1   2   1         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

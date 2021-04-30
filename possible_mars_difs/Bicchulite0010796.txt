@@ -1,0 +1,30 @@
+      Bicchulite
+      Sahl K, Chatterjee N D
+      Zeitschrift fur Kristallographie 146 (1977) 35-41
+      The crystal structure of bicchulite, Ca2[Al2SiO6](OH)2
+      Locality: synthetic
+      _database_code_amcsd 0010796
+      CELL PARAMETERS:   8.8250  8.8250  8.8250   90.000   90.000   90.000
+      SPACE GROUP: I-43m     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    687.296
+      Density (g/cm3):      2.804
+      MAX. ABS. INTENSITY / VOLUME**2:      11.25842711    
+      RIR:      1.874
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                23.41          1.45        4.4125    2   0   0         6
+                28.77         98.26        3.6028    2   1   1        12
+                33.34          9.83        3.1201    2   2   0        12
+                37.42        100.00        2.7907    3   1   0        24
+                41.14         25.25        2.5476    2   2   2         4
+                44.61         23.91        2.3586    3   2   1        24
+                47.87         11.41        2.2062    4   0   0         6
+                50.98         21.01        2.0801    3   3   0        12
+                50.98         31.90        2.0801    4   1   1        12
+                53.95          7.09        1.9733    4   2   0        24
+                56.82          2.99        1.8815    3   3   2        12
+                59.59          7.53        1.8014    4   2   2        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

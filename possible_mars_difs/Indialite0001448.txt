@@ -1,0 +1,44 @@
+      Indialite
+      Daniels P
+      American Mineralogist 77 (1992) 407-411
+      Structural effects of the incorporation of large-radius alkalis in high
+      cordierite
+      Locality: synthetic
+      _database_code_amcsd 0001448
+      CELL PARAMETERS:   9.8010  9.8010  9.3810   90.000   90.000  120.000
+      SPACE GROUP: P6/mcc    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    780.406
+      Density (g/cm3):      2.647
+      MAX. ABS. INTENSITY / VOLUME**2:      7.268760012    
+      RIR:      1.282
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                12.11         72.70        8.4879    1   0   0         6
+                21.05         10.87        4.9005    1   1   0         6
+                22.00          5.76        4.6905    0   0   2         2
+                24.35          6.32        4.2440    2   0   0         6
+                25.19         20.01        4.1054    1   0   2        12
+                30.64         94.64        3.3885    1   1   2        12
+                32.40          6.74        3.2081    2   1   0        12
+                33.05        100.00        3.1470    2   0   2        12
+                34.30         93.15        3.0355    2   1   1        24
+                36.89          3.37        2.8293    3   0   0         6
+                39.52          9.52        2.6480    2   1   2        24
+                42.86         10.22        2.4502    2   2   0         6
+                44.70          2.51        2.3541    3   1   0        12
+                44.88         13.37        2.3452    0   0   4         2
+                46.16          2.88        2.2833    3   1   1        24
+                46.65          2.75        2.2605    1   0   4        12
+                47.13          2.90        2.2393    2   1   3        24
+                48.68         10.27        2.1718    2   2   2        12
+                50.07          1.40        2.1155    1   1   4        12
+                50.36          3.33        2.1040    3   1   2        24
+                55.16          7.97        1.9333    4   0   2        12
+                56.84         12.00        1.8807    3   1   3        24
+                57.80          3.05        1.8522    4   1   0        12
+                59.03          1.90        1.8171    4   1   1        24
+                59.44         10.76        1.8056    3   0   4        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

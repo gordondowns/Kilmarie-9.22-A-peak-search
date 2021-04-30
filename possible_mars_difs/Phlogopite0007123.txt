@@ -1,0 +1,59 @@
+      Phlogopite
+      Brigatti M F, Caprilli E, Funiciello R, Giordano G, Mottana A, Poppi L
+      European Journal of Mineralogy 17 (2005) 611-621
+      Crystal chemisty of ferroan phlogopites from the Albano maar lake
+      (Colli Albani volcano, central Italy)
+      Locality: Colli Albani volcano, central Italy
+      Sample: CA2
+      _database_code_amcsd 0007123
+      CELL PARAMETERS:   5.3180  9.2030 10.2590   90.000   99.960   90.000
+      SPACE GROUP: C2/m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    494.524
+      Density (g/cm3):      2.913
+      MAX. ABS. INTENSITY / VOLUME**2:      4.201372194    
+      RIR:      0.673
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                10.16        100.00       10.1044    0   0   1         2
+                22.43         10.14        4.6015    0   2   0         2
+                22.68         12.12        4.5522    1   1   0         4
+                24.69          6.95        4.1877    0   2   1         4
+                26.30         35.13        3.9348    1   1   1         4
+                28.26         67.98        3.6671   -1   1   2         4
+                30.51         84.50        3.4020    0   2   2         4
+                30.83         53.12        3.3681    0   0   3         2
+                32.97         76.47        3.1543    1   1   2         4
+                35.63         52.44        2.9260   -1   1   3         4
+                38.46         27.14        2.7179    0   2   3         4
+                39.50          9.49        2.6489   -2   0   1         2
+                39.53         18.78        2.6471    1   3   0         4
+                39.97         45.43        2.6189    2   0   0         2
+                40.00         91.02        2.6174   -1   3   1         4
+                41.41         10.24        2.5317    1   1   3         4
+                41.51         11.54        2.5261    0   0   4         2
+                41.80          2.34        2.5092   -2   0   2         2
+                41.83          4.75        2.5075    1   3   1         4
+                43.14         16.85        2.4349    2   0   1         2
+                43.16         33.55        2.4338   -1   3   2         4
+                44.49          2.51        2.3648   -1   1   4         4
+                45.79          4.85        2.3008    0   4   0         2
+                45.90          9.49        2.2957   -2   2   1         4
+                46.32          9.26        2.2761    2   2   0         4
+                46.53          2.79        2.2661   -2   0   3         2
+                46.56          5.56        2.2648    1   3   2         4
+                47.03          8.94        2.2433    0   4   1         4
+                47.95          8.61        2.2029   -2   2   2         4
+                48.57         22.31        2.1764    2   0   2         2
+                48.59         44.54        2.1757   -1   3   3         4
+                49.15          7.30        2.1522    2   2   1         4
+                50.62          4.71        2.0939    0   4   2         4
+                52.25          1.82        2.0330   -2   2   3         4
+                52.58         17.13        2.0209    0   0   5         2
+                53.20         11.36        1.9991   -2   0   4         2
+                53.23         22.76        1.9981    1   3   3         4
+                55.79          2.25        1.9133    2   0   3         2
+                55.80          4.51        1.9129   -1   3   4         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

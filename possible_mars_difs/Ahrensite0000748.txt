@@ -1,0 +1,25 @@
+      Ahrensite
+      Finger L W, Hazen R M, Yagi T
+      American Mineralogist 64 (1979) 1002-1009
+      Crystal structures and electron densities of nickel and iron silicate spinels at
+      elevated temperature or pressure
+      Locality: synthetic
+      _database_code_amcsd 0000748
+      CELL PARAMETERS:   8.2360  8.2360  8.2360   90.000   90.000   90.000
+      SPACE GROUP: Fd3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    558.662
+      Density (g/cm3):      4.845
+      MAX. ABS. INTENSITY / VOLUME**2:      46.04548513    
+      RIR:      4.437
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.70         29.78        4.7551    1   1   1         8
+                35.81         10.83        2.9119    2   2   0        12
+                42.26        100.00        2.4832    3   1   1        24
+                44.23         12.87        2.3775    2   2   2         8
+                51.54         46.51        2.0590    4   0   0         6
+                56.56         13.55        1.8895    3   3   1        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

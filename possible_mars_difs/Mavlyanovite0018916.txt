@@ -1,0 +1,29 @@
+      Mavlyanovite
+      Aronsson B
+      Acta Chemica Scandinavica 14 (1960) 1414-1418
+      A note on the compositions and crystal structures of MnB2, Mn3Si, Mn5Si3 and FeSi2
+      Locality: synthetic
+      _database_code_amcsd 0018916
+      CELL PARAMETERS:   6.9100  6.9100  4.8140   90.000   90.000  120.000
+      SPACE GROUP: P6_3/mcm  
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    199.064
+      Density (g/cm3):      5.988
+      MAX. ABS. INTENSITY / VOLUME**2:      45.49279882    
+      RIR:      3.547
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                17.21          1.59        5.9842    1   0   0         6
+                30.03          4.12        3.4550    1   1   0         6
+                34.82         13.19        2.9921    2   0   0         6
+                37.19          9.24        2.8069    1   1   1        12
+                43.66         11.47        2.4070    0   0   2         2
+                46.63         45.16        2.2618    2   1   0        12
+                47.26         29.36        2.2331    1   0   2        12
+                51.86        100.00        2.0471    2   1   1        24
+                53.33         31.18        1.9947    3   0   0         6
+                53.90         67.43        1.9750    1   1   2        12
+                57.02          3.54        1.8755    2   0   2        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

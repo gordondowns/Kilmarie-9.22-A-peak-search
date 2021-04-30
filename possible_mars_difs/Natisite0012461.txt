@@ -1,0 +1,31 @@
+      Natisite
+      Egorov-Tismenko Y K, Simonov M A, Belov N V
+      Doklady Akademii Nauk SSSR 240 (1978) 78-80
+      The refinement of the crystal structure of the synthetic sodium titanosilicate
+      Na2(TiO)[SiO4]
+      Note: B11(Na) corrected
+      _database_code_amcsd 0012461
+      CELL PARAMETERS:   6.4850  6.4850  5.0987   90.000   90.000   90.000
+      SPACE GROUP: P4/nmm    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    214.427
+      Density (g/cm3):      3.127
+      MAX. ABS. INTENSITY / VOLUME**2:      19.28390498    
+      RIR:      2.879
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                20.22         25.92        5.0987    0   0   1         2
+                22.51          3.80        4.5856    1   1   0         4
+                25.81         12.61        4.0082    1   0   1         8
+                32.05         14.81        3.2425    2   0   0         4
+                38.19        100.00        2.7361    2   0   1         8
+                41.11          3.31        2.5494    0   0   2         2
+                41.60         10.38        2.5209    2   1   1        16
+                44.33         14.05        2.3726    1   0   2         8
+                45.96         14.40        2.2928    2   2   0         4
+                51.76          6.43        2.0507    3   1   0         8
+                53.46          6.85        1.9902    3   0   1         8
+                56.13          1.44        1.9026    3   1   1        16
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

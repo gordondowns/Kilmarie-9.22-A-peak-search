@@ -1,0 +1,20 @@
+      Wustite
+      Wyckoff R, Crittenden E
+      Zeitschrift fur Kristallographie 63 (1926) 144-147
+      Herstellung und Kristallstruktur von Ferrooxyd (Fe O).
+      _cod_database_code 1011198
+      _database_code_amcsd 0018069
+      CELL PARAMETERS:   4.3030  4.3030  4.3030   90.000   90.000   90.000
+      SPACE GROUP: Fm3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     79.674
+      Density (g/cm3):      5.989
+      MAX. ABS. INTENSITY / VOLUME**2:      72.94596147    
+      RIR:      5.686
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                42.24         69.89        2.4843    1   1   1         8
+                49.17        100.00        2.1515    2   0   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

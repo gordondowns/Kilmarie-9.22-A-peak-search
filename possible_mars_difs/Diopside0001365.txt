@@ -1,0 +1,45 @@
+      Diopside
+      Oberti R, Caporuscio F A
+      American Mineralogist 76 (1991) 1141-1152
+      Crystal chemistry of clinopyroxenes from mantle eclogites: A study of the key
+      role of the M2 site population by means of crystal-structure refinement
+      sample SBB 34, Di62Jd24, diopside - jadeite join
+      _database_code_amcsd 0001365
+      CELL PARAMETERS:   9.6620  8.8410  5.2530   90.000  106.780   90.000
+      SPACE GROUP: C2/c      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    429.614
+      Density (g/cm3):      3.354
+      MAX. ABS. INTENSITY / VOLUME**2:      8.726305199    
+      RIR:      1.215
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                16.10          1.31        6.3914    1   1   0         4
+                23.37          5.94        4.4205    0   2   0         2
+                31.28          9.13        3.3203    0   2   1         4
+                32.53         21.13        3.1957    2   2   0         4
+                34.97        100.00        2.9797   -2   2   1         4
+                35.81         33.66        2.9115    3   1   0         4
+                36.17         29.71        2.8835   -3   1   1         4
+                41.12         26.44        2.5486   -1   3   1         4
+                41.30          1.87        2.5380   -2   0   2         2
+                41.71         40.22        2.5147    0   0   2         2
+                42.27         38.54        2.4824    2   2   1         4
+                46.53         13.63        2.2661    3   1   1         4
+                48.12         10.84        2.1956    1   1   2         4
+                48.35          7.64        2.1858    0   2   2         4
+                49.69          7.03        2.1305    3   3   0         4
+                49.97         18.44        2.1194   -3   3   1         4
+                50.61          8.36        2.0941   -4   2   1         4
+                52.51         16.51        2.0235    0   4   1         4
+                52.70         11.24        2.0169   -4   0   2         2
+                53.69          6.35        1.9821    2   0   2         2
+                54.33          4.87        1.9606   -1   3   2         4
+                55.01          1.56        1.9383   -2   4   1         4
+                58.41          1.81        1.8347    3   3   1         4
+                59.25          5.08        1.8109    5   1   0         4
+                59.33          2.64        1.8086    2   2   2         4
+                59.77          2.63        1.7967    1   3   2         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

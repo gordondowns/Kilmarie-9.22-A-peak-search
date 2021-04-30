@@ -1,0 +1,39 @@
+      Diaoyudaoite
+      Felsche J
+      Zeitschrift fur Kristallographie 127 (1968) 94-100
+      The alkali problem in the crystal structure of beta alumina
+      _database_code_amcsd 0010660
+      CELL PARAMETERS:   5.5962  5.5962 22.5260   90.000   90.000  120.000
+      SPACE GROUP: P6_3/mmc  
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    610.944
+      Density (g/cm3):      3.216
+      MAX. ABS. INTENSITY / VOLUME**2:      20.68053300    
+      RIR:      3.001
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                 9.12        100.00       11.2630    0   0   2         2
+                18.29         23.92        5.6315    0   0   4         2
+                23.20         11.22        4.4518    1   0   2        12
+                25.40          2.75        4.0719    1   0   3        12
+                28.21          2.52        3.6734    1   0   4        12
+                37.07          1.84        2.8157    0   0   8         2
+                37.32          9.39        2.7981    1   1   0         6
+                39.01         22.44        2.6808    1   0   7        12
+                41.86         16.95        2.5058    1   1   4        12
+                43.14          1.46        2.4347    1   0   8        12
+                43.36          1.52        2.4232    2   0   0         6
+                43.62          7.11        2.4093    2   0   1        12
+                44.40          3.44        2.3690    2   0   2        12
+                45.68          2.24        2.3061    2   0   3        12
+                46.83          1.26        2.2526    0   0  10         2
+                47.03          6.18        2.2435    1   1   6        12
+                47.43          2.56        2.2259    2   0   4        12
+                49.60         10.67        2.1341    2   0   5        12
+                51.98          2.32        2.0427    1   0  10        12
+                52.17         12.39        2.0360    2   0   6        12
+                55.09          6.33        1.9358    2   0   7        12
+                58.33          2.41        1.8367    2   0   8        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

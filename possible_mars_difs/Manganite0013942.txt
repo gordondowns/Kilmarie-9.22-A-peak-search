@@ -1,0 +1,30 @@
+      Manganite
+      Kohler T, Armbruster T, Libowitzky E
+      Journal of Solid State Chemistry 133 (1997) 486-500
+      Hydrogen bonding and Jahn-Teller distortion in groutite, alpha-MnOOH,
+      and manganite, gamma-MnOOH, and their relations to the manganese
+      dioxides ramsdellite and pyrolusite
+      Locality: Nchwaning Mine, Kalahari manganese field, Republic of South Africa
+      Note: Uiso corrected
+      _database_code_amcsd 0013942
+      CELL PARAMETERS:   5.3040  5.2770  5.3040   90.000  114.380   90.000
+      SPACE GROUP: P2_1/c    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    135.217
+      Density (g/cm3):      4.319
+      MAX. ABS. INTENSITY / VOLUME**2:      36.78427257    
+      RIR:      3.975
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                30.48        100.00        3.4054   -1   1   1         4
+                39.66         26.22        2.6385    0   2   0         2
+                41.55         13.35        2.5239    1   1   1         4
+                43.50         19.79        2.4155    0   0   2         2
+                43.50         19.50        2.4155    2   0   0         2
+                46.44         10.22        2.2706   -1   2   1         4
+                47.36          2.86        2.2289   -2   0   2         2
+                48.10          4.47        2.1964    0   1   2         4
+                48.10          4.82        2.1964    2   1   0         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

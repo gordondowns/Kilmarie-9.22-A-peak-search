@@ -1,0 +1,25 @@
+      Oskarssonite
+      Daniel P, Bulou A, Rousseau M, Nouet J, Fourquet J, Leblanc M, Burriel R
+      Journal of Physics: Condensed Matter 2 (1990) 5663-5677
+      A study of the structural phase transitions in AlF3: X-ray powder
+      diffraction, DSC and Raman scattering investigations of the lattice
+      dynamics and phonon spectrum
+      _cod_database_code 1000467
+      _database_code_amcsd 0013259
+      CELL PARAMETERS:   4.9305  4.9305 12.4462   90.000   90.000  120.000
+      SPACE GROUP: R-3c      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    262.029
+      Density (g/cm3):      3.193
+      MAX. ABS. INTENSITY / VOLUME**2:      22.92965150    
+      RIR:      3.353
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                29.46        100.00        3.5208    0   1   2         6
+                41.71          2.63        2.5147    1   0   4         6
+                49.97         22.19        2.1193    1   1   3        12
+                51.13          2.87        2.0744    0   0   6         2
+                52.62          1.83        2.0194    2   0   2         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,28 @@
+      Elpasolite
+      Menzer G
+      Fortschritte der Mineralogie 17 (1932) 61-61
+      Ueber die Kristallstrukturen der Kryolithgruppe
+      _cod_database_code 1011068
+      _database_code_amcsd 0017967
+      CELL PARAMETERS:   8.0900  8.0900  8.0900   90.000   90.000   90.000
+      SPACE GROUP: Pa3       
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    529.475
+      Density (g/cm3):      3.037
+      MAX. ABS. INTENSITY / VOLUME**2:      13.52351586    
+      RIR:      2.078
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                22.10         18.97        4.6708    1   1   1         8
+                25.57          1.51        4.0450    2   0   0         6
+                28.65          1.62        3.6180    2   1   0        12
+                31.45          8.09        3.3027    2   1   1        24
+                36.48        100.00        2.8602    2   2   0        12
+                45.08         60.56        2.3354    2   2   2         8
+                48.91          1.67        2.1621    3   1   2        24
+                52.54         82.52        2.0225    4   0   0         6
+                56.00          3.09        1.9068    4   1   1        24
+                57.67          3.19        1.8560    3   3   1        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

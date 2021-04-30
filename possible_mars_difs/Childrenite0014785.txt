@@ -1,0 +1,60 @@
+      Childrenite
+      Giuseppetti G, Tadini C
+      Neues Jahrbuch fur Mineralogie, Monatshefte 1984 (1984) 263-271
+      The crystal structure of childrenite from Tavistock (SW England),
+      Ch89Eo11 term of childrenite-eosphorite series
+      Note: this is the prefered model
+      Locality: Tavistock, SW England
+      _database_code_amcsd 0014785
+      CELL PARAMETERS:  10.3950 13.3940  6.9180   90.000   90.000   90.000
+      SPACE GROUP: Bba2      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    963.198
+      Density (g/cm3):      3.168
+      MAX. ABS. INTENSITY / VOLUME**2:      9.636176515    
+      RIR:      1.420
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                15.36         41.09        6.6970    0   2   0         2
+                19.48          8.09        5.2908    1   1   1         4
+                19.83         29.99        5.1975    2   0   0         2
+                21.29         19.75        4.8455    2   1   0         4
+                23.66         32.76        4.3666    1   2   1         4
+                25.18         18.20        4.1060    2   2   0         4
+                29.39         24.45        3.5286    1   3   1         4
+                30.00         12.10        3.4590    0   0   2         1
+                30.65         28.42        3.3867    2   3   0         4
+                31.01         11.78        3.3485    0   4   0         2
+                33.87          3.06        3.0733    0   2   2         2
+                34.50          1.19        3.0184    3   1   1         4
+                36.03          8.19        2.8948    1   4   1         4
+                37.08         87.97        2.8153    2   1   2         4
+                37.08         12.03        2.8149    2   4   0         4
+                37.13         28.51        2.8118    3   2   1         4
+                40.30         13.04        2.5988    4   0   0         2
+                41.18          2.04        2.5453    3   3   1         4
+                43.25          5.42        2.4289    1   5   1         4
+                43.37         14.33        2.4227    4   2   0         4
+                43.42         25.11        2.4199    2   3   2         4
+                43.69          4.29        2.4059    0   4   2         2
+                44.16         28.42        2.3811    2   5   0         4
+                46.36          1.22        2.2741    3   4   1         4
+                46.98          1.54        2.2460    4   3   0         4
+                47.28         10.79        2.2323    0   6   0         2
+                47.56          1.48        2.2201    1   1   3         4
+                48.41          3.77        2.1833    2   4   2         4
+                49.60          4.31        2.1339    1   2   3         4
+                50.94          1.63        2.0814    1   6   1         4
+                51.04         15.66        2.0777    4   0   2         2
+                51.70          7.90        2.0530    4   4   0         4
+                52.89          3.06        2.0102    1   3   3         4
+                53.63         20.02        1.9844    4   2   2         4
+                54.31          5.73        1.9613    2   5   2         4
+                55.94          5.29        1.9085    5   2   1         4
+                56.74          2.49        1.8837    4   3   2         4
+                57.01          7.72        1.8756    0   6   2         2
+                57.26         11.40        1.8683    1   4   3         4
+                59.80          8.50        1.7956    2   7   0         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

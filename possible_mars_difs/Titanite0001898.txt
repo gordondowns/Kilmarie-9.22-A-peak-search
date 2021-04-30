@@ -1,0 +1,42 @@
+      Titanite
+      Hughes J M, Bloodaxe E S, Hanchar J M, Foord E E
+      American Mineralogist 82 (1997) 512-516
+      Incorporation of rare earth elements in titanite: Stabilization of the A2/a
+      dimorph by creation of antiphase boundaries
+      Sample: natural
+      _database_code_amcsd 0001898
+      CELL PARAMETERS:   7.0425  8.7155  6.5376   90.000  113.629   90.000
+      SPACE GROUP: A2/a      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    367.628
+      Density (g/cm3):      3.541
+      MAX. ABS. INTENSITY / VOLUME**2:      11.69055508    
+      RIR:      1.541
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                20.90         21.89        4.9362    0   1   1         4
+                23.71          1.37        4.3577    0   2   0         2
+                32.14        100.00        3.2336   -2   1   1         4
+                32.22          3.12        3.2260    2   0   0         2
+                34.78         71.71        2.9947    0   0   2         2
+                36.84          6.35        2.8328   -2   0   2         2
+                40.05         61.14        2.6139    0   3   1         4
+                40.10          1.43        2.6109   -1   2   2         4
+                40.39         46.56        2.5928    2   2   0         4
+                44.28          3.86        2.3751   -2   2   2         4
+                44.46          4.56        2.3661    2   1   1         4
+                46.08         17.86        2.2874    1   3   1         4
+                46.57         10.90        2.2645   -3   1   1         4
+                47.32          3.83        2.2307   -2   3   1         4
+                48.51          1.97        2.1789    0   4   0         2
+                50.35          9.23        2.1043   -1   1   3         4
+                50.81          4.06        2.0866    1   2   2         4
+                51.40          9.01        2.0643    1   4   0         4
+                51.51         17.25        2.0599   -2   1   3         4
+                53.85          1.94        1.9768   -3   2   2         4
+                54.77          6.62        1.9461    0   1   3         4
+                57.70          2.99        1.8552    2   0   2         2
+                59.44         10.04        1.8056    2   4   0         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

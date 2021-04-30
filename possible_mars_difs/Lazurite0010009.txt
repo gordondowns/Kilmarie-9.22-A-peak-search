@@ -1,0 +1,30 @@
+      Lazurite
+      Hassan I, Peterson R C, Grundy H D
+      Acta Crystallographica C41 (1985) 827-832
+      The structure of lazurite, ideally Na6Ca2(Al6Si6O24)S2, a member of the
+      sodalite group
+      Locality: Sary-Sang, Afghanistan
+      _database_code_amcsd 0010009
+      CELL PARAMETERS:   9.1050  9.1050  9.1050   90.000   90.000   90.000
+      SPACE GROUP: P-43n     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    754.814
+      Density (g/cm3):      2.427
+      MAX. ABS. INTENSITY / VOLUME**2:      13.22224573    
+      RIR:      2.543
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                15.98         16.28        6.4382    1   1   0        12
+                22.68          1.73        4.5525    2   0   0         6
+                27.87        100.00        3.7171    2   1   1        12
+                32.29          1.45        3.2191    2   2   0        12
+                36.23         11.52        2.8793    3   1   0        24
+                39.82         26.50        2.6284    2   2   2         4
+                43.17          6.84        2.4334    3   2   1        24
+                46.31          6.44        2.2762    4   0   0         6
+                49.30          1.06        2.1461    4   1   1        12
+                49.30         11.52        2.1461    3   3   0        12
+                54.92          1.77        1.9412    3   3   2        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

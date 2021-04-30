@@ -1,0 +1,30 @@
+      Almandine
+      Heritsch H
+      Zeitschrift fur Kristallographie 85 (1933) 392-403
+      Roentgenographische Untersuchungen an einem Granat aus der
+      Lieserschlucht bei Spittal a. d. Drau (Kaernten)
+      _cod_database_code 1010999
+      _database_code_amcsd 0017914
+      CELL PARAMETERS:  11.6680 11.6680 11.6680   90.000   90.000   90.000
+      SPACE GROUP: Ia3d      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1588.508
+      Density (g/cm3):      4.026
+      MAX. ABS. INTENSITY / VOLUME**2:      22.93756772    
+      RIR:      2.659
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.66          1.04        4.7634    2   1   1        24
+                33.36          2.10        3.1184    3   2   1        48
+                35.74         32.60        2.9170    4   0   0         6
+                40.13        100.00        2.6090    4   2   0        24
+                42.18          4.32        2.4876    3   3   2        24
+                44.15         26.33        2.3817    4   2   2        24
+                46.06         11.49        2.2883    4   3   1        48
+                49.69         13.70        2.1303    5   2   1        48
+                51.44          1.98        2.0626    4   4   0        12
+                56.45         10.27        1.8928    6   1   1        24
+                56.45         10.60        1.8928    5   3   2        48
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

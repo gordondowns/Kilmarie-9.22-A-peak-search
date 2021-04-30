@@ -1,0 +1,23 @@
+      Tetrataenite
+      Tagai T, Takeda H
+      Zeitschrift fur Kristallographie 210 (1995) 14-18
+      Superstructure of tetrataenite from the Saint Severin meteorite
+      Locality: Saint Severin meteorite, Charente, France
+      _database_code_amcsd 0011063
+      CELL PARAMETERS:   3.5810  3.5820  3.5870   90.000   90.040   90.000
+      SPACE GROUP: Pm        
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     46.011
+      Density (g/cm3):      8.263
+      MAX. ABS. INTENSITY / VOLUME**2:      90.28035098    
+      RIR:      5.100
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                51.26        100.00        2.0693   -1   1   1         2
+                51.29         98.71        2.0684    1   1   1         2
+                59.88         29.85        1.7935    0   0   2         1
+                59.97         30.22        1.7910    0   2   0         2
+                59.99         29.58        1.7905    2   0   0         1
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

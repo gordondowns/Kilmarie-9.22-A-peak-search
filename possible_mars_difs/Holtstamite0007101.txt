@@ -1,0 +1,49 @@
+      Holtstamite
+      Halenius U, Haussermann U, Harryson H
+      European Journal of Mineralogy 17 (2005) 375-382
+      Holtstamite, Ca3(Al,Mn3+)2(SiO4)3-x(H4O4)x, a new tetragonal hydrogarnet
+      from Wessels Mine, South Africa
+      Locality: Wessels Mine, South Africa
+      _database_code_amcsd 0007101
+      CELL PARAMETERS:  12.3370 12.3370 11.9300   90.000   90.000   90.000
+      SPACE GROUP: I4_1/acd  
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1815.765
+      Density (g/cm3):      3.315
+      MAX. ABS. INTENSITY / VOLUME**2:      5.728655093    
+      RIR:      0.807
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                16.69         16.08        6.1685    2   0   0         4
+                20.59          1.10        5.0077    2   1   1        16
+                20.95         22.42        4.9239    1   1   2         8
+                23.69         25.66        4.3618    2   2   0         4
+                24.10         13.29        4.2880    2   0   2         8
+                31.82         22.91        3.2650    3   1   2        16
+                33.74         59.68        3.0842    4   0   0         4
+                34.93         64.19        2.9825    0   0   4         2
+                35.93          1.28        2.9023    4   1   1        16
+                37.87         48.40        2.7586    4   2   0         8
+                38.14        100.00        2.7397    4   0   2         8
+                38.95         51.44        2.6851    2   0   4         8
+                40.05          2.48        2.6138    3   3   2         8
+                40.38         12.34        2.5937    3   2   3        16
+                41.89         75.09        2.5038    4   2   2        16
+                42.64         17.42        2.4620    2   2   4         8
+                43.49         20.27        2.4163    4   3   1        16
+                43.97          6.52        2.3909    4   1   3        16
+                44.39          9.21        2.3694    3   1   4        16
+                46.89         15.55        2.2498    5   2   1        16
+                47.06         25.83        2.2421    5   1   2        16
+                48.25         13.77        2.1900    2   1   5        16
+                53.19         20.72        1.9995    6   1   1        16
+                53.35         19.03        1.9941    5   3   2        16
+                53.61         13.83        1.9851    5   2   3        16
+                54.44          3.57        1.9571    3   2   5        16
+                54.63         14.40        1.9507    6   2   0         8
+                55.00         12.20        1.9386    1   1   6         8
+                56.46          7.10        1.8924    2   0   6         8
+                57.35          1.19        1.8655    4   1   5        16
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,28 @@
+      Pentlandite
+      Pearson A D, Buerger M J
+      American Mineralogist 41 (1956) 804-805
+      Confirmation of the crystal structure of pentlandite.
+      _database_code_amcsd 0000079
+      CELL PARAMETERS:  10.0300 10.0300 10.0300   90.000   90.000   90.000
+      SPACE GROUP: Fm3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1009.027
+      Density (g/cm3):      5.081
+      MAX. ABS. INTENSITY / VOLUME**2:      53.25809957    
+      RIR:      4.893
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                17.78         40.17        5.7908    1   1   1         8
+                20.56          6.41        5.0150    2   0   0         6
+                29.24          5.31        3.5461    2   2   0        12
+                34.43        100.00        3.0242    3   1   1        24
+                36.02         21.45        2.8954    2   2   2         8
+                41.83          7.84        2.5075    4   0   0         6
+                45.79          9.92        2.3010    3   3   1        24
+                47.05          2.73        2.2428    4   2   0        24
+                51.85          2.01        2.0474    4   2   2        24
+                55.26         23.91        1.9303    5   1   1        24
+                55.26          7.97        1.9303    3   3   3         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

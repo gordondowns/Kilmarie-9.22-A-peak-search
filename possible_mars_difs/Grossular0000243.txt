@@ -1,0 +1,29 @@
+      Grossular
+      Novak G A, Gibbs G V
+      American Mineralogist 56 (1971) 791-825
+      The crystal chemistry of the silicate garnets
+      sample Gr
+      Locality: Asbestos, Quebec, Canada
+      _database_code_amcsd 0000243
+      CELL PARAMETERS:  11.8450 11.8450 11.8450   90.000   90.000   90.000
+      SPACE GROUP: Ia-3d     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1661.901
+      Density (g/cm3):      3.600
+      MAX. ABS. INTENSITY / VOLUME**2:      17.96214568    
+      RIR:      2.329
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                35.19         36.01        2.9613    4   0   0         6
+                39.51        100.00        2.6486    4   2   0        24
+                41.52          6.67        2.5254    3   3   2        24
+                43.46         18.14        2.4179    4   2   2        24
+                45.33         13.83        2.3230    4   3   1        48
+                48.90         12.50        2.1626    5   2   1        48
+                50.62          3.10        2.0939    4   4   0        12
+                55.53          9.47        1.9215    5   3   2        48
+                55.53         10.75        1.9215    6   1   1        24
+                57.10          1.28        1.8729    6   2   0        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

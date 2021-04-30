@@ -1,0 +1,38 @@
+      Berdesinskiite
+      Armbruster T, Galuskin E V, Reznitsky L Z, Sklyarov E V
+      European Journal of Mineralogy 21 (2009) 885-891
+      X-ray structural investigation of the oxyvanite (V3O5) - berdesinskiite (V2TiO5)
+      series: V4+ substituting for octahedrally coordinated Ti4+
+      Locality: Pereval marble quarry, Sludyanka complex, south of Lake Baikal, Russia
+      Sample: III-9-11
+      _database_code_amcsd 0007331
+      CELL PARAMETERS:  10.0448  5.0393  6.9890   90.000  111.486   90.000
+      SPACE GROUP: C2/c      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    329.190
+      Density (g/cm3):      4.658
+      MAX. ABS. INTENSITY / VOLUME**2:      13.62333201    
+      RIR:      1.365
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                22.09         47.31        4.6734    2   0   0         2
+                23.29         20.07        4.4357    1   1   0         4
+                31.54         72.66        3.2941   -2   0   2         2
+                31.96         17.83        3.2517    0   0   2         2
+                36.33         71.75        2.8712   -1   1   2         4
+                39.48        100.00        2.6500    3   1   0         4
+                41.62         40.23        2.5196    0   2   0         2
+                42.60         11.51        2.4643   -3   1   2         4
+                43.25         54.83        2.4289    1   1   2         4
+                44.81          9.19        2.3485   -4   0   2         2
+                45.05          5.77        2.3367    4   0   0         2
+                45.75          1.17        2.3028    2   0   2         2
+                47.47         18.59        2.2239    3   1   1         4
+                47.55         19.55        2.2203   -2   2   1         4
+                47.61          4.05        2.2178    2   2   0         4
+                50.55         15.30        2.0967   -1   1   3         4
+                53.14         26.71        2.0013   -2   2   2         4
+                53.42          4.31        1.9917    0   2   2         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

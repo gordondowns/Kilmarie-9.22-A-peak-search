@@ -1,0 +1,44 @@
+      Diopside
+      Nazzareni S, Molin G, Skogby H, Dal Negro A
+      European Journal of Mineralogy 16 (2004) 443-449
+      Crystal chemistry of Ti3+-Ti4+-bearing synthetic diopsides
+      Sample: Di64
+      _database_code_amcsd 0007068
+      CELL PARAMETERS:   9.7480  8.9260  5.2640   90.000  105.890   90.000
+      SPACE GROUP: C2/c      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    440.523
+      Density (g/cm3):      3.258
+      MAX. ABS. INTENSITY / VOLUME**2:      8.471072366    
+      RIR:      1.214
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                23.14          4.27        4.4630    0   2   0         2
+                28.28          1.53        3.6643    1   1   1         4
+                31.02          9.85        3.3479    0   2   1         4
+                32.15         22.85        3.2324    2   2   0         4
+                34.81        100.00        2.9927   -2   2   1         4
+                35.33         28.26        2.9496    3   1   0         4
+                36.03         32.70        2.8947   -3   1   1         4
+                40.83         23.48        2.5665   -1   3   1         4
+                41.33          2.07        2.5366   -2   0   2         2
+                41.42         40.18        2.5314    0   0   2         2
+                41.66         40.29        2.5174    2   2   1         4
+                43.97          1.12        2.3912    1   3   1         4
+                45.75         15.28        2.3029    3   1   1         4
+                47.58          9.88        2.2192    1   1   2         4
+                47.97          8.36        2.2019    0   2   2         4
+                49.09          8.77        2.1549    3   3   0         4
+                49.62         17.67        2.1332   -3   3   1         4
+                50.26          8.46        2.1077   -4   2   1         4
+                52.00         17.33        2.0420    0   4   1         4
+                52.69         11.04        2.0171   -4   0   2         2
+                52.91          6.81        2.0093    2   0   2         2
+                54.01          6.59        1.9714   -1   3   2         4
+                57.53          2.03        1.8603    3   3   1         4
+                58.39          5.80        1.8351    5   1   0         4
+                58.49          2.61        1.8321    2   2   2         4
+                59.09          3.15        1.8153    1   3   2         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

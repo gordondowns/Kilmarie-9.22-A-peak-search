@@ -1,0 +1,43 @@
+      Fayalite
+      Birle J D, Gibbs G V, Moore P B, Smith J V
+      American Mineralogist 53 (1968) 807-824
+      Crystal structures of natural olivines
+      Note: variety hortonolite
+      _database_code_amcsd 0000174
+      CELL PARAMETERS:   4.7870 10.3410  6.0440   90.000   90.000   90.000
+      SPACE GROUP: Pbnm      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    299.192
+      Density (g/cm3):      3.830
+      MAX. ABS. INTENSITY / VOLUME**2:      9.986502964    
+      RIR:      1.217
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                19.94         12.94        5.1705    0   2   0         2
+                23.78          2.13        4.3441    1   1   0         4
+                26.34         23.18        3.9290    0   2   1         4
+                27.60          8.90        3.7526    1   0   1         4
+                29.40         42.44        3.5275    1   1   1         8
+                29.53          8.29        3.5127    1   2   0         4
+                34.28          4.51        3.0370    1   2   1         8
+                34.46          9.45        3.0220    0   0   2         2
+                37.33         82.54        2.7973    1   3   0         4
+                40.13         16.23        2.6090    0   2   2         4
+                40.52          4.46        2.5852    0   4   0         2
+                41.30         69.07        2.5386    1   3   1         8
+                42.30        100.00        2.4808    1   1   2         8
+                43.92          7.84        2.3935    2   0   0         2
+                44.25         12.94        2.3769    0   4   1         4
+                45.15          7.99        2.3319    2   1   0         4
+                46.00         21.14        2.2909    1   2   2         8
+                46.35         17.22        2.2747    1   4   0         4
+                48.59         10.73        2.1756    2   1   1         8
+                51.71          5.76        2.0528    1   3   2         8
+                54.17          1.01        1.9660    2   3   0         4
+                54.22          2.44        1.9645    0   4   2         4
+                56.26          3.94        1.8986    1   5   0         4
+                58.65          7.48        1.8277    1   1   3         8
+                59.23          5.27        1.8113    1   5   1         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

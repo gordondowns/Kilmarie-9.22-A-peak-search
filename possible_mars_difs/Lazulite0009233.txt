@@ -1,0 +1,50 @@
+      Lazulite
+      Lindberg M L, Christ C L
+      Acta Crystallographica 12 (1959) 695-697
+      Crystal structures of the isostructural minerals lazulite,
+      scorzalite and barbosalite
+      _database_code_amcsd 0009233
+      CELL PARAMETERS:   7.1600  7.2600  7.2400   90.000  120.670   90.000
+      SPACE GROUP: P2_1/c    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    323.703
+      Density (g/cm3):      3.080
+      MAX. ABS. INTENSITY / VOLUME**2:      8.430770223    
+      RIR:      1.278
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                16.72          5.49        6.1585    1   0   0         2
+                21.78          9.77        4.7391   -1   1   1         4
+                21.83          4.47        4.7267    0   1   1         4
+                21.98          3.91        4.6964    1   1   0         4
+                28.55          1.94        3.6300    0   2   0         2
+                32.08        100.00        3.2396   -1   1   2         4
+                32.38          5.42        3.2104   -2   1   1         4
+                32.50         53.98        3.1988    1   1   1         4
+                33.17         46.26        3.1361    0   2   1         4
+                33.26          9.90        3.1279   -2   0   2         2
+                33.27          4.26        3.1272    1   2   0         4
+                33.80         42.55        3.0792    2   0   0         2
+                40.88          3.59        2.5632   -1   2   2         4
+                41.12         25.15        2.5487   -2   2   1         4
+                44.75          2.78        2.3515   -3   0   2         2
+                44.82          3.18        2.3482    2   2   0         4
+                46.76          3.75        2.2557    0   3   1         4
+                46.81          2.67        2.2535   -2   1   3         4
+                46.84          7.48        2.2523    1   3   0         4
+                47.17          1.54        2.2371   -3   1   2         4
+                47.48          4.12        2.2236   -3   1   1         4
+                47.62          1.51        2.2171    2   1   1         4
+                51.71          1.69        2.0528    3   0   0         2
+                52.84          7.35        2.0118   -1   3   2         4
+                53.05          3.78        2.0042   -3   1   3         4
+                53.12          4.69        2.0020    1   3   1         4
+                53.61          8.76        1.9848   -2   2   3         4
+                53.89          8.79        1.9754    3   1   0         4
+                54.16          1.09        1.9664    1   2   2         4
+                54.35          9.05        1.9598    2   2   1         4
+                59.10          5.20        1.8150    0   4   0         2
+                59.57          6.73        1.8019    0   2   3         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,24 @@
+      Spinel
+      Fregola R A, Bosi F, Skogby H, Halenius U
+      American Mineralogist 97 (2012) 1821-1827
+      Cation ordering over short-range and long-range scales
+      in the MgAl2O4-CuAl2O4 series
+      Sample: CuAl30bw
+      Locality: synthetic
+      _database_code_amcsd 0019565
+      CELL PARAMETERS:   8.0857  8.0857  8.0857   90.000   90.000   90.000
+      SPACE GROUP: Fd3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    528.631
+      Density (g/cm3):      3.693
+      MAX. ABS. INTENSITY / VOLUME**2:      15.54392287    
+      RIR:      1.965
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                22.11         24.22        4.6683    1   1   1         8
+                36.50         35.68        2.8587    2   2   0        12
+                43.08        100.00        2.4379    3   1   1        24
+                52.57         46.67        2.0214    4   0   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

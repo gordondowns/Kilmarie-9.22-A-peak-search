@@ -1,0 +1,23 @@
+      Pyrolusite
+      Wyckoff R W G
+      Crystal Structures 1 (1963) 239-444
+      Second edition. Interscience Publishers, New York, New York
+      Note: beta phase of MnO2, rutile structure
+      _database_code_amcsd 0011760
+      CELL PARAMETERS:   4.3960  4.3960  2.8710   90.000   90.000   90.000
+      SPACE GROUP: P4_2/mnm  
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     55.482
+      Density (g/cm3):      5.203
+      MAX. ABS. INTENSITY / VOLUME**2:      50.18327977    
+      RIR:      4.502
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                33.47        100.00        3.1084    1   1   0         4
+                43.73         53.77        2.4038    1   0   1         8
+                48.06          9.25        2.1980    2   0   0         4
+                50.23         12.93        2.1091    1   1   1         8
+                54.17          3.95        1.9660    2   1   0         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

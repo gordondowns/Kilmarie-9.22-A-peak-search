@@ -1,0 +1,24 @@
+      Trevorite
+      Blesa M C, Amador U, Moran E, Menendez N, Tornero J D, Rodriguez-Carvajal J
+      Solid State Ionics 63 (1993) 429-436
+      Synthesis and characterization of nickel and magnesium ferrites obtained from
+      alpha-NaFeO2
+      Locality: synthetic
+      _database_code_amcsd 0015511
+      CELL PARAMETERS:   8.3473  8.3473  8.3473   90.000   90.000   90.000
+      SPACE GROUP: Fd-3m     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    581.618
+      Density (g/cm3):      5.546
+      MAX. ABS. INTENSITY / VOLUME**2:      56.44091419    
+      RIR:      4.750
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.41          9.88        4.8193    1   1   1         8
+                35.31         26.84        2.9512    2   2   0        12
+                41.67        100.00        2.5168    3   1   1        24
+                43.61         22.41        2.4097    2   2   2         8
+                50.80         34.75        2.0868    4   0   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

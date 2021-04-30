@@ -1,0 +1,56 @@
+      Orthominasragrite
+      Hawthorne F C, Schindler M, Grice J D, Haynes P
+      The Canadian Mineralogist 39 (2001) 1325-1331
+      Orthominasragrite, VO(SO4)(H2O)5, a new mineral species from Temple
+      Mountain, Emery county, Utah, U.S.A.
+      Locality: Temple Mountain, Emery county, Utah, USA
+      _database_code_amcsd 0005743
+      CELL PARAMETERS:   7.2420  9.3190  6.1920   90.000   90.000   90.000
+      SPACE GROUP: Pmn2_1    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    417.887
+      Density (g/cm3):      2.011
+      MAX. ABS. INTENSITY / VOLUME**2:      11.93317005    
+      RIR:      2.770
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                11.02          1.75        9.3190    0   1   0         2
+                18.01          2.43        5.7183    1   1   0         4
+                21.93        100.00        4.7063    1   0   1         2
+                22.15         36.57        4.6595    0   2   0         2
+                24.61          1.21        4.2009    1   1   1         4
+                26.41          1.14        3.9185    1   2   0         4
+                27.82          7.74        3.7231    0   2   1         2
+                28.62          8.77        3.6210    2   0   0         2
+                30.76          2.34        3.3752    2   1   0         4
+                31.37         30.56        3.3112    1   2   1         4
+                33.61          7.52        3.0960    0   0   2         1
+                35.16          1.49        2.9635    2   1   1         4
+                35.48          7.15        2.9381    0   1   2         2
+                36.49         22.84        2.8592    2   2   0         4
+                38.39          2.43        2.7226    1   1   2         4
+                40.34         10.33        2.5958    2   2   1         4
+                40.40          3.53        2.5925    1   3   1         4
+                40.62          4.96        2.5787    0   2   2         2
+                43.24          5.64        2.4293    1   2   2         4
+                44.63          6.59        2.3577    2   3   0         4
+                46.20          1.42        2.2815    2   1   2         4
+                47.94          1.54        2.2033    2   3   1         4
+                48.19          1.53        2.1928    0   3   2         2
+                48.34          2.86        2.1863    3   1   1         4
+                48.48          1.44        2.1805    0   4   1         2
+                50.45          2.35        2.1005    2   2   2         4
+                50.77          1.39        2.0879    1   4   1         4
+                52.46          6.22        2.0255    3   2   1         4
+                52.74          1.05        2.0152    0   1   3         2
+                53.61          2.95        1.9850    1   0   3         2
+                54.37          3.15        1.9593    2   4   0         4
+                56.63          2.44        1.8871    0   2   3         2
+                57.27          2.82        1.8680    2   4   1         4
+                58.70          3.57        1.8262    1   2   3         4
+                58.86          4.84        1.8217    3   3   1         4
+                59.26          3.15        1.8105    4   0   0         2
+                59.54          3.53        1.8029    1   4   2         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

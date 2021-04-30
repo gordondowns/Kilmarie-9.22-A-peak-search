@@ -1,0 +1,25 @@
+      Anorthite
+      Klein S, Korekawa M
+      Neues Jahrbuch fur Mineralogie, Monatshefte 1976 (1976) 66-69
+      Die gemittelte Struktur des Labradorits
+      _cod_database_code 1008757
+      _database_code_amcsd 0016634
+      CELL PARAMETERS:   8.1760 12.8410 14.2070   93.530  116.270   89.770
+      SPACE GROUP: C-1       
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1334.526
+      Density (g/cm3):      2.693
+      MAX. ABS. INTENSITY / VOLUME**2:     0.2010803818E-01
+      RIR:      0.003
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                15.99          4.67        6.4342   -1   1   0         2
+                16.06         13.11        6.4062    0   2   0         2
+                16.19        100.00        6.3557    0   0   2         2
+                16.36          3.03        6.2918    1   1   0         2
+                17.64         55.85        5.8370   -1  -1   2         2
+                18.29         20.37        5.6326   -1   1   2         2
+                25.58          1.01        4.0435   -2   0   2         2
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

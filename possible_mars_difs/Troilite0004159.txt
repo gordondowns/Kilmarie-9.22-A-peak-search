@@ -1,0 +1,30 @@
+      Troilite
+      Skala R, Cisarova I, Drabek M
+      American Mineralogist 91 (2006) 917-921
+      Inversion twinning in troilite
+      Sample: Georgetown
+      _database_code_amcsd 0004159
+      CELL PARAMETERS:   5.9650  5.9650 11.7590   90.000   90.000  120.000
+      SPACE GROUP: P-62c     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    362.345
+      Density (g/cm3):      4.834
+      MAX. ABS. INTENSITY / VOLUME**2:      46.56388519    
+      RIR:      4.497
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                19.96          2.95        5.1658    1   0   0         6
+                21.82          8.25        4.7296    1   0   1        12
+                33.32          1.44        3.1225    1   0   3        12
+                34.93         43.75        2.9825    1   1   0         3
+                35.46          7.54        2.9397    0   0   4         2
+                39.33         38.25        2.6598    1   1   2         6
+                41.02          1.12        2.5550    1   0   4        12
+                41.57          6.01        2.5228    2   0   1        12
+                49.04          5.87        2.1568    2   0   3        12
+                49.44          3.73        2.1404    1   0   5        12
+                50.62        100.00        2.0937    1   1   4         6
+                55.39          3.87        1.9261    2   1   1        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

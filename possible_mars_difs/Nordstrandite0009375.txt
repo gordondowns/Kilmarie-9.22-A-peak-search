@@ -1,0 +1,42 @@
+      Nordstrandite
+      Bosmans H J
+      Acta Crystallographica B26 (1970) 649-652
+      Unit cell and crystal structure of nordstrandite, Al(OH)3
+      Locality: synthetic
+      _database_code_amcsd 0009375
+      CELL PARAMETERS:   5.1140  5.0820  5.1270   70.270   74.000   58.470
+      SPACE GROUP: P-1       
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    106.089
+      Density (g/cm3):      2.347
+      MAX. ABS. INTENSITY / VOLUME**2:      9.045180197    
+      RIR:      1.799
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.55        100.00        4.7891    0   0   1         2
+                23.89         16.88        4.3256    1   0   0         2
+                24.56         12.98        4.2093    0   1   0         2
+                24.83         12.16        4.1632    1   1   0         2
+                26.58         12.19        3.8940    1   1   1         2
+                28.69         12.79        3.6127    0   1   1         2
+                30.28          4.59        3.4275    1   0   1         2
+                34.37          3.46        3.0293   -1   0   1         2
+                36.67          4.25        2.8460    0  -1   1         2
+                38.65          1.79        2.7052   -1  -1   1         2
+                42.26          6.77        2.4832    2   1   1         2
+                42.76          4.09        2.4556    2   1   0         2
+                43.90          2.65        2.3945    0   0   2         2
+                43.96         24.82        2.3916    1   2   0         2
+                45.16          3.24        2.3313    0   1   2         2
+                46.46         26.74        2.2694   -1   1   1         2
+                49.31          1.19        2.1458    1  -1   1         2
+                52.68         24.41        2.0174    2   1   2         2
+                53.37          1.04        1.9932   -1   0   2         2
+                54.74          1.15        1.9470    2   2   2         2
+                56.24         21.11        1.8993   -1  -2   1         2
+                56.68          1.32        1.8857   -2   0   1         2
+                59.02          1.36        1.8173   -1  -1   2         2
+                59.41          1.09        1.8064    0   2   2         2
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

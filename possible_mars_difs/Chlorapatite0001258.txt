@@ -1,0 +1,48 @@
+      Chlorapatite
+      Hughes J M, Cameron M, Crowley K D
+      American Mineralogist 74 (1989) 870-876
+      Structural variations in natural F, OH, and Cl apatites
+      Locality: Kragero, Norway
+      _database_code_amcsd 0001258
+      CELL PARAMETERS:   9.5980  9.5980  6.7760   90.000   90.000  120.000
+      SPACE GROUP: P6_3/m    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    540.587
+      Density (g/cm3):      3.187
+      MAX. ABS. INTENSITY / VOLUME**2:      10.32113506    
+      RIR:      1.512
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                12.36          7.80        8.3121    1   0   0         6
+                19.63          6.17        5.2520    1   0   1        12
+                26.43          3.27        3.9163    1   1   1        12
+                29.27          4.74        3.5428    2   0   1        12
+                30.64         22.01        3.3880    0   0   2         2
+                33.11          8.66        3.1417    1   2   0         6
+                36.61         67.90        2.8502    1   2   1        12
+                36.61         32.10        2.8502    2   1   1        12
+                37.70         75.94        2.7707    3   0   0         6
+                37.74         71.51        2.7678    1   1   2        12
+                39.86         11.17        2.6260    2   0   2        12
+                40.86          3.56        2.5646    3   0   1        12
+                45.70          1.39        2.3054    1   3   0         6
+                45.70         16.26        2.3054    3   1   0         6
+                45.73          6.67        2.3037    2   1   2        12
+                48.43          6.79        2.1825    3   1   1        12
+                49.34          3.63        2.1448    3   0   2        12
+                51.03          1.06        2.0780    4   0   0         6
+                51.95          4.87        2.0436    1   1   3        12
+                53.62          2.17        1.9845    2   0   3        12
+                54.41         35.70        1.9581    2   2   2        12
+                55.99          1.53        1.9069    3   2   0         6
+                56.02          4.05        1.9060    1   3   2        12
+                56.02          3.17        1.9060    3   1   2        12
+                58.37          3.13        1.8356    3   2   1        12
+                58.37          2.40        1.8356    2   3   1        12
+                58.43         16.57        1.8339    1   2   3        12
+                58.43          9.30        1.8339    2   1   3        12
+                59.14          2.91        1.8139    1   4   0         6
+                59.14          1.66        1.8139    4   1   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

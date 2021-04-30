@@ -1,0 +1,22 @@
+      Linzhiite
+      Aronsson B
+      Acta Chemica Scandinavica 14 (1960) 1414-1418
+      A note on the compositions and crystal structures of MnB2, Mn3Si, Mn5Si3 and FeSi2
+      Locality: synthetic
+      _database_code_amcsd 0018915
+      CELL PARAMETERS:   2.6840  2.6840  5.1280   90.000   90.000   90.000
+      SPACE GROUP: P4/mmm    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     36.941
+      Density (g/cm3):      5.034
+      MAX. ABS. INTENSITY / VOLUME**2:      41.10545522    
+      RIR:      3.811
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                20.11         95.23        5.1280    0   0   1         2
+                44.23         77.30        2.3780    1   0   1         8
+                56.28         55.95        1.8979    1   1   0         4
+                57.74        100.00        1.8540    1   0   2         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

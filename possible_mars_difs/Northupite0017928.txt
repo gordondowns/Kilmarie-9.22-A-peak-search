@@ -1,0 +1,38 @@
+      Northupite
+      Shiba H, Watanabe T
+      Comptes Rendus Hebdomadaires des Seances de l'Academie des Sciences 193 (1931) 1421-1423
+      Les structures des cristaux de Northupite, de Northupite bromee et de
+      Tychite.
+      _cod_database_code 1011021
+      _database_code_amcsd 0017928
+      CELL PARAMETERS:  14.0500 14.0500 14.0500   90.000   90.000   90.000
+      SPACE GROUP: Fd3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   2773.505
+      Density (g/cm3):      2.383
+      MAX. ABS. INTENSITY / VOLUME**2:      6.836323113    
+      RIR:      1.339
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                12.67         78.51        8.1118    1   1   1         8
+                20.76         15.94        4.9674    2   2   0        12
+                24.40          4.25        4.2362    3   1   1        24
+                25.50          3.07        4.0559    2   2   2         8
+                29.53         30.12        3.5125    4   0   0         6
+                32.25         20.01        3.2233    3   3   1        24
+                36.37         20.70        2.8679    4   2   2        24
+                38.67         40.45        2.7039    5   1   1        24
+                38.67         57.68        2.7039    3   3   3         8
+                42.25        100.00        2.4837    4   4   0        12
+                44.29          4.95        2.3749    5   3   1        48
+                44.95          1.67        2.3417    4   4   2        24
+                47.52          5.01        2.2215    6   2   0        24
+                49.39         10.56        2.1426    5   3   3        24
+                50.00         36.29        2.1181    6   2   2        24
+                52.39         12.06        2.0279    4   4   4         8
+                54.13          5.91        1.9674    7   1   1        24
+                56.95          1.77        1.8775    6   4   2        48
+                58.60          4.76        1.8292    7   3   1        48
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

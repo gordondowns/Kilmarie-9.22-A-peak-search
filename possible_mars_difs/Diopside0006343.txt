@@ -1,0 +1,49 @@
+      Diopside
+      Dal Negro A, Manoli S, Secco L, Piccirillo E M
+      European Journal of Mineralogy 1 (1989) 105-121
+      Megacrystic clinopyroxenes from Victoria (Australia):
+      Crystal chemical comparisons of pyroxenes from high and low pressure regimes
+      Sample: Fr-3
+      Locality: Victoria, Australia
+      _database_code_amcsd 0006343
+      CELL PARAMETERS:   9.6900  8.8370  5.2760   90.000  106.710   90.000
+      SPACE GROUP: C2/c      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    432.709
+      Density (g/cm3):      3.380
+      MAX. ABS. INTENSITY / VOLUME**2:      8.686649088    
+      RIR:      1.200
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                16.08          1.24        6.3999    1   1   0         4
+                22.24          1.49        4.6404    2   0   0         2
+                23.38          4.31        4.4185    0   2   0         2
+                31.22          6.98        3.3263    0   2   1         4
+                32.49         22.79        3.1999    2   2   0         4
+                34.91        100.00        2.9841   -2   2   1         4
+                35.71         33.43        2.9199    3   1   0         4
+                36.08         31.47        2.8907   -3   1   1         4
+                41.10         29.45        2.5502   -1   3   1         4
+                41.14          1.51        2.5479   -2   0   2         2
+                41.50         41.22        2.5266    0   0   2         2
+                42.15         40.39        2.4895    2   2   1         4
+                46.34         14.02        2.2748    3   1   1         4
+                47.85          1.09        2.2072   -2   2   2         4
+                47.89         10.68        2.2055    1   1   2         4
+                48.17          7.82        2.1933    0   2   2         4
+                49.62          7.55        2.1333    3   3   0         4
+                49.91         19.74        2.1218   -3   3   1         4
+                50.50          9.48        2.0984   -4   2   1         4
+                51.67          1.01        2.0542    4   2   0         4
+                52.49         16.79        2.0242    0   4   1         4
+                52.52         11.85        2.0231   -4   0   2         2
+                53.42          7.62        1.9915    2   0   2         2
+                54.20          5.47        1.9650   -1   3   2         4
+                54.99          1.21        1.9391   -2   4   1         4
+                58.25          1.83        1.8390    3   3   1         4
+                59.05          4.94        1.8165    5   1   0         4
+                59.08          2.96        1.8156    2   2   2         4
+                59.58          2.55        1.8018    1   3   2         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

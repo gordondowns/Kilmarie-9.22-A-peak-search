@@ -1,0 +1,31 @@
+      Ramsdellite
+      Kondrashev Y D, Zaslavskii A I
+      Izvestiya Akademii Nauk SSSR 15 (1951) 179-186
+      The structure of the modifications of manganese oxide
+      _database_code_amcsd 0017793
+      CELL PARAMETERS:   9.3200  4.4600  2.8500   90.000   90.000   90.000
+      SPACE GROUP: Pnam      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    118.467
+      Density (g/cm3):      4.874
+      MAX. ABS. INTENSITY / VOLUME**2:      42.56121496    
+      RIR:      4.077
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                22.15          4.74        4.6600    2   0   0         2
+                25.71        100.00        4.0231    1   1   0         4
+                32.26          1.67        3.2221    2   1   0         4
+                41.12         38.94        2.5492    3   1   0         4
+                43.21         23.52        2.4313    2   0   1         4
+                45.19          6.04        2.3300    4   0   0         2
+                45.28         31.43        2.3256    1   1   1         8
+                47.33          4.35        2.2300    0   2   0         2
+                49.58         14.19        2.1347    2   1   1         8
+                51.37          3.19        2.0652    4   1   0         4
+                52.85          1.09        2.0115    2   2   0         4
+                56.21          9.90        1.9000    3   1   1         8
+                59.22          1.79        1.8116    3   2   0         4
+                59.50          2.09        1.8039    4   0   1         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,25 @@
+      Perovskite
+      Yamanaka T, Hirai M, Komatsu Y
+      American Mineralogist 87 (2002) 1183-1189
+      Structure change of Ca1-xSrxTiO3 perovskite with composition and pressure
+      Sample: Ca.5Sr.5TiO3, x = 0.5
+      _database_code_amcsd 0002892
+      CELL PARAMETERS:   5.4677  5.4713  7.7390   90.000   90.000   90.000
+      SPACE GROUP: Pbnm      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    231.515
+      Density (g/cm3):      4.582
+      MAX. ABS. INTENSITY / VOLUME**2:      50.93989276    
+      RIR:      5.190
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                38.20         20.54        2.7357    0   2   0         2
+                38.20         79.46        2.7354    1   1   2         8
+                38.23         20.32        2.7339    2   0   0         2
+                47.25          8.72        2.2338    0   2   2         4
+                47.27          8.55        2.2328    2   0   2         4
+                55.12         15.73        1.9347    0   0   4         2
+                55.15         32.52        1.9338    2   2   0         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

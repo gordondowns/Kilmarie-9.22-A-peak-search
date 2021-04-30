@@ -1,0 +1,45 @@
+      Forsterite
+      Bragg W, Brown G
+      Zeitschrift fur Kristallographie 63 (1926) 538-556
+      Die Struktur des Olivins.
+      _cod_database_code 1010497
+      _database_code_amcsd 0017413
+      CELL PARAMETERS:   4.7550 10.2100  5.9850   90.000   90.000   90.000
+      SPACE GROUP: Pbnm      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    290.563
+      Density (g/cm3):      3.360
+      MAX. ABS. INTENSITY / VOLUME**2:      5.748501482    
+      RIR:      0.799
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                20.20          8.58        5.1050    0   2   0         2
+                23.97          1.47        4.3105    1   1   0         4
+                26.65         20.16        3.8840    0   2   1         4
+                27.82         17.74        3.7230    1   0   1         4
+                29.66         20.91        3.4977    1   1   1         8
+                29.82         13.21        3.4795    1   2   0         4
+                34.62          1.81        3.0081    1   2   1         8
+                34.81         13.49        2.9925    0   0   2         2
+                37.74         67.86        2.7675    1   3   0         4
+                40.58          2.76        2.5816    0   2   2         4
+                41.75         82.01        2.5120    1   3   1         8
+                42.71        100.00        2.4582    1   1   2         8
+                44.82         20.57        2.3479    0   4   1         4
+                45.48          3.75        2.3155    2   1   0         4
+                46.47         38.56        2.2688    1   2   2         8
+                46.91         29.76        2.2490    1   4   0         4
+                48.98         11.30        2.1596    2   1   1         8
+                50.33          3.97        2.1052    1   4   1         8
+                54.68          5.53        1.9490    2   3   0         4
+                54.90          7.83        1.9420    0   4   2         4
+                56.99          5.96        1.8763    1   5   0         4
+                57.60          1.94        1.8582    0   2   3         4
+                58.23          1.92        1.8396    1   0   3         4
+                58.52          3.42        1.8313    2   1   2         8
+                59.26          2.74        1.8105    1   1   3         8
+                59.72          1.23        1.7978    1   4   2         8
+                60.00          3.52        1.7904    1   5   1         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

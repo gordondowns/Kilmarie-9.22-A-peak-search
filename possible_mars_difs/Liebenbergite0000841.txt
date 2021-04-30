@@ -1,0 +1,42 @@
+      Liebenbergite
+      Bish D L
+      American Mineralogist 66 (1981) 770-776
+      Cation ordering in synthetic and natural Ni-Mg olivine
+      synthetic
+      _database_code_amcsd 0000841
+      CELL PARAMETERS:   4.7366 10.1640  5.9322   90.000   90.000   90.000
+      SPACE GROUP: Pbnm      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    285.593
+      Density (g/cm3):      4.199
+      MAX. ABS. INTENSITY / VOLUME**2:      15.10209683    
+      RIR:      1.679
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                20.29         35.59        5.0820    0   2   0         2
+                24.07         21.62        4.2933    1   1   0         4
+                26.82         18.44        3.8594    0   2   1         4
+                27.99          7.08        3.7014    1   0   1         4
+                29.83         23.95        3.4780    1   1   1         8
+                29.94          5.36        3.4650    1   2   0         4
+                34.82          2.82        2.9920    1   2   1         8
+                37.91         71.38        2.7556    1   3   0         4
+                40.91         21.10        2.5617    0   2   2         4
+                41.25          6.99        2.5410    0   4   0         2
+                41.98         45.76        2.4992    1   3   1         8
+                43.04        100.00        2.4403    1   1   2         8
+                44.42          8.68        2.3683    2   0   0         2
+                45.07          6.82        2.3357    0   4   1         4
+                45.67          3.80        2.3065    2   1   0         4
+                46.81         15.85        2.2533    1   2   2         8
+                47.13         10.58        2.2391    1   4   0         4
+                49.21          7.07        2.1497    2   1   1         8
+                49.29          2.81        2.1466    2   2   0         4
+                52.64         13.62        2.0188    1   3   2         8
+                54.92          1.02        1.9411    2   3   0         4
+                55.27          4.73        1.9297    0   4   2         4
+                57.27          8.22        1.8680    1   5   0         4
+                59.79          3.98        1.7961    1   1   3         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

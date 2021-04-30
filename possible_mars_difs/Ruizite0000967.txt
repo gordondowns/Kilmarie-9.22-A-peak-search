@@ -1,0 +1,51 @@
+      Ruizite
+      Moore P B, Shen J, Araki T
+      American Mineralogist 70 (1985) 171-181
+      Crystal chemistry of the (M2)3+ phi2 sheet: Structural principles and crystal
+      structures of ruizite, macfallite and orientite
+      Locality: Nchwaning mine, Kalahari manganese field, South Africa
+      _database_code_amcsd 0000967
+      CELL PARAMETERS:   9.0640  6.1710 11.9760   90.000   91.400   90.000
+      SPACE GROUP: C2/m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    669.665
+      Density (g/cm3):      2.689
+      MAX. ABS. INTENSITY / VOLUME**2:      26.12525241    
+      RIR:      4.535
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                 8.58        100.00       11.9724    0   0   1         2
+                20.22         18.48        5.1005    1   1   0         4
+                21.88          2.84        4.7159   -1   1   1         4
+                22.79          2.93        4.5306    2   0   0         2
+                24.59         19.03        4.2035    2   0   1         2
+                25.92          3.28        3.9908    0   0   3         2
+                26.84          1.19        3.8563    1   1   2         4
+                28.35          4.95        3.6558   -2   0   2         2
+                29.04          1.68        3.5709    2   0   2         2
+                33.32         13.86        3.1223    1   1   3         4
+                33.73          3.97        3.0855    0   2   0         2
+                34.35          2.68        3.0317   -2   0   3         2
+                34.87          4.56        2.9879    0   2   1         4
+                35.22          6.09        2.9591    2   0   3         2
+                38.10         11.20        2.7426    0   2   2         4
+                38.53          2.77        2.7129    3   1   0         4
+                39.35          5.93        2.6584   -3   1   1         4
+                39.74          2.99        2.6334    3   1   1         4
+                40.32          6.05        2.5971   -1   1   4         4
+                40.83          1.79        2.5661    1   1   4         4
+                41.10          8.77        2.5503    2   2   0         4
+                41.51          7.29        2.5259   -2   0   4         2
+                41.94          1.52        2.5013   -2   2   1         4
+                42.11          1.92        2.4916   -3   1   2         4
+                42.19          1.80        2.4873    2   2   1         4
+                45.09         10.14        2.3347    2   2   2         4
+                49.49          3.61        2.1387   -2   0   5         2
+                49.56          2.54        2.1357    2   2   3         4
+                53.43          2.30        1.9911   -4   0   3         2
+                53.51          1.31        1.9885    3   1   4         4
+                56.48          1.83        1.8917    0   2   5         4
+                58.64          1.19        1.8279   -4   0   4         2
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

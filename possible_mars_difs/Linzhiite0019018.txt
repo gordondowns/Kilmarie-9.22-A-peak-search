@@ -1,0 +1,22 @@
+      Linzhiite
+      Phragmen G
+      Jernkontorets Annaler 107 (1923) 121-131
+      Om jarn-kisellegeringarnas byggnad
+      Locality: synthetic
+      _database_code_amcsd 0019018
+      CELL PARAMETERS:   2.6900  2.6900  5.0800   90.000   90.000   90.000
+      SPACE GROUP: P4/mmm    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     36.759
+      Density (g/cm3):      5.059
+      MAX. ABS. INTENSITY / VOLUME**2:      50.61389682    
+      RIR:      4.670
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                20.30        100.00        5.0800    0   0   1         2
+                44.24         49.12        2.3773    1   0   1         8
+                56.15         45.00        1.9021    1   1   0         4
+                57.99         81.09        1.8468    1   0   2         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

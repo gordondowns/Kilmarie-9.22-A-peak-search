@@ -1,0 +1,40 @@
+      Maricite
+      Le Page Y, Donnay G
+      The Canadian Mineralogist 15 (1977) 518-521
+      The crystal structure of the new mineral maricite, NaFePO4
+      _database_code_amcsd 0005143
+      CELL PARAMETERS:   6.8610  8.9870  5.0450   90.000   90.000   90.000
+      SPACE GROUP: Pmnb      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    311.074
+      Density (g/cm3):      3.686
+      MAX. ABS. INTENSITY / VOLUME**2:      11.48406742    
+      RIR:      1.454
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                22.98         17.45        4.4935    0   2   0         2
+                23.48         33.50        4.3992    0   1   1         4
+                27.55          8.87        3.7590    1   2   0         4
+                27.98         36.15        3.7033    1   1   1         8
+                30.25          1.19        3.4305    2   0   0         2
+                30.94          7.76        3.3555    0   2   1         4
+                38.33         82.95        2.7267    2   2   0         4
+                38.65        100.00        2.7052    2   1   1         8
+                40.67         95.82        2.5758    0   3   1         4
+                41.57         29.39        2.5225    0   0   2         2
+                43.26         14.18        2.4286    0   1   2         4
+                43.82         12.71        2.3988    2   2   1         8
+                46.96          2.80        2.2468    0   4   0         2
+                48.03          4.12        2.1996    0   2   2         4
+                50.60         11.97        2.0946    1   2   2         8
+                50.90          5.96        2.0830    3   0   1         4
+                51.52          5.89        2.0598    2   3   1         8
+                52.10          3.17        2.0382    3   2   0         4
+                52.35          1.04        2.0292    3   1   1         8
+                53.69          1.90        1.9822    2   1   2         8
+                55.28          1.43        1.9295    0   3   2         4
+                56.88         27.36        1.8795    2   4   0         4
+                57.82         43.81        1.8517    2   2   2         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

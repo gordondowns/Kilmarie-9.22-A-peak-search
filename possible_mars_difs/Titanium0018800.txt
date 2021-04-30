@@ -1,0 +1,22 @@
+      Titanium
+      Glavatskikh S F, Gorshkov A I
+      Doklady Akademii Nauk SSSR 327 (1992) 123-127
+      Natural analog of alpha-titanium in the exhalation products of
+      the Great Tolbachik Fissure Eruption (Kamchatka)
+      Locality: Great Tolbachik Fissure Eruption (Kamchatka)
+      _database_code_amcsd 0018800
+      CELL PARAMETERS:   2.9500  2.9500  4.6800   90.000   90.000  120.000
+      SPACE GROUP: P6_3/mmc  
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     35.271
+      Density (g/cm3):      4.506
+      MAX. ABS. INTENSITY / VOLUME**2:      63.15664601    
+      RIR:      6.542
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                41.02         25.66        2.5548    1   0   0         6
+                44.98         25.67        2.3400    0   0   2         2
+                47.05        100.00        2.2424    1   0   1        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

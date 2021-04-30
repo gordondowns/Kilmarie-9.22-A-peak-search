@@ -1,0 +1,58 @@
+      Weddellite
+      Izatulina A, Gurzhiy V, Frank-Kamenetskaya O
+      American Mineralogist 99 (2014) 2-7
+      Weddellite from renal stones: Structure refinement and dependence of
+      crystal chemical features on H2O content.
+      Note: Sample 12
+      Locality: oxalic renal stones of St. Petersburg citizens aged 24-65 years
+      _database_code_amcsd 0020082
+      CELL PARAMETERS:  12.3567 12.3567  7.3573   90.000   90.000   90.000
+      SPACE GROUP: I4/m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1123.372
+      Density (g/cm3):      2.001
+      MAX. ABS. INTENSITY / VOLUME**2:      6.399087755    
+      RIR:      1.493
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                11.76          9.79        8.7375    1   1   0         4
+                16.28          2.89        6.3216    1   0   1         8
+                16.66        100.00        6.1783    2   0   0         4
+                23.38         32.09        4.4185    1   2   1         8
+                23.65          1.42        4.3688    2   2   0         4
+                26.49         11.74        3.9075    1   3   0         4
+                28.17          8.20        3.6786    0   0   2         2
+                28.84          1.88        3.5940    3   0   1         8
+                30.62          2.27        3.3904    1   1   2         8
+                32.90          4.11        3.1608    2   0   2         8
+                33.49          1.19        3.1066    3   2   1         8
+                33.69         14.02        3.0892    4   0   0         4
+                37.10         14.13        2.8139    2   2   2         8
+                37.63         87.10        2.7755    1   4   1         8
+                37.81          2.24        2.7630    4   2   0         4
+                43.36         11.24        2.4233    1   5   0         4
+                43.69         12.34        2.4055    1   0   3         8
+                44.47          2.45        2.3657    4   0   2         8
+                44.93          2.60        2.3427    4   3   1         8
+                44.93          4.01        2.3427    3   4   1         8
+                46.16          1.76        2.2835    3   3   2         8
+                47.07         25.96        2.2416    2   1   3         8
+                47.80          1.27        2.2093    4   2   2         8
+                47.80          7.83        2.2093    2   4   2         8
+                49.97          4.28        2.1192    5   3   0         4
+                49.97         10.00        2.1192    3   5   0         4
+                52.51          6.91        2.0237    5   1   2         8
+                53.34          3.57        1.9944    2   3   3         8
+                54.40          4.22        1.9582    6   1   1         8
+                54.40         10.95        1.9582    1   6   1         8
+                54.54          1.72        1.9538    2   6   0         4
+                54.54          1.40        1.9538    6   2   0         4
+                56.28          6.66        1.8980    1   4   3         8
+                56.28         11.88        1.8980    4   1   3         8
+                58.24          1.31        1.8393    0   0   4         2
+                58.35          1.67        1.8363    3   5   2         8
+                58.35         13.71        1.8363    5   3   2         8
+                59.75          1.42        1.7970    6   0   2         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

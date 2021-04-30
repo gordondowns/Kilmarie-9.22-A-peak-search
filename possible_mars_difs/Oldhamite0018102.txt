@@ -1,0 +1,21 @@
+      Oldhamite
+      Oftedal I
+      Zeitschrift fur Physikalische Chemie 128 (1927) 135-158
+      Die Gitterkonstanten von Ca O, Ca S, Ca Se, Ca Te.
+      _cod_database_code 1011236
+      _database_code_amcsd 0018102
+      CELL PARAMETERS:   5.6860  5.6860  5.6860   90.000   90.000   90.000
+      SPACE GROUP: Fm3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    183.832
+      Density (g/cm3):      2.606
+      MAX. ABS. INTENSITY / VOLUME**2:      33.05010759    
+      RIR:      5.920
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                31.65          2.43        3.2828    1   1   1         8
+                36.70        100.00        2.8430    2   0   0         6
+                52.88         60.21        2.0103    2   2   0        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

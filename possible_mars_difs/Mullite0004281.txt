@@ -1,0 +1,38 @@
+      Mullite
+      Popovic J, Tkalcec E, Grzeta B, Kurajica S, Schmauch J
+      American Mineralogist 92 (2007) 408-411
+      Cobalt incorporation in mullite
+      Sample: MU1
+      _database_code_amcsd 0004281
+      CELL PARAMETERS:   7.5618  7.6882  2.8860   90.000   90.000   90.000
+      SPACE GROUP: Pbam      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    167.782
+      Density (g/cm3):      3.166
+      MAX. ABS. INTENSITY / VOLUME**2:      5.965628040    
+      RIR:      0.879
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                19.12         54.79        5.3911    1   1   0         4
+                27.39          2.42        3.7809    2   0   0         2
+                30.29         65.25        3.4267    1   2   0         4
+                30.60        100.00        3.3928    2   1   0         4
+                36.14         19.00        2.8860    0   0   1         2
+                38.79         43.38        2.6956    2   2   0         4
+                41.20         51.45        2.5444    1   1   1         8
+                43.28         14.86        2.4271    1   3   0         4
+                43.89          1.25        2.3952    3   1   0         4
+                45.93         18.83        2.2941    2   0   1         4
+                47.85         64.48        2.2074    1   2   1         8
+                48.06          1.89        2.1983    2   1   1         8
+                49.92         23.37        2.1213    2   3   0         4
+                50.26          3.09        2.1079    3   2   0         4
+                54.05          1.12        1.9699    2   2   1         8
+                55.51          1.18        1.9220    0   4   0         2
+                56.52          7.47        1.8905    4   0   0         2
+                58.11         11.11        1.8431    3   1   1         8
+                58.37          1.85        1.8358    4   1   0         4
+                59.75          1.56        1.7970    3   3   0         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,29 @@
+      Quartz
+      Wei
+      Zeitschrift fur Kristallographie 92 (1935) 355-362
+      Die Bindung im Quarz
+      _cod_database_code 1011097
+      _database_code_amcsd 0017992
+      CELL PARAMETERS:   4.9130  4.9130  5.4040   90.000   90.000  120.000
+      SPACE GROUP: P3_121    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    112.964
+      Density (g/cm3):      2.649
+      MAX. ABS. INTENSITY / VOLUME**2:      24.25313956    
+      RIR:      4.274
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                24.29         22.37        4.2548    1   0   0         6
+                31.06         73.34        3.3430    1   0   1         6
+                31.06         26.66        3.3430    0   1   1         6
+                42.74          7.68        2.4565    1   1   0         3
+                46.21          7.07        2.2809    0   1   2         6
+                46.21          1.61        2.2809    1   0   2         6
+                47.19          4.29        2.2363    1   1   1         6
+                49.77          6.17        2.1274    2   0   0         6
+                53.77          2.01        1.9795    0   2   1         6
+                53.77          1.01        1.9795    2   0   1         6
+                59.01         10.54        1.8176    1   1   2         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

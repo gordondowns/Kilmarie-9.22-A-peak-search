@@ -1,0 +1,31 @@
+      Lepidocrocite
+      Goldsztaub M
+      Bulletin de la Societe Francaise de Mineralogie 58 (1935) 6-6
+      Etude de quelques derives de l'oxyde ferrique (Fe O.OH, FeO2Na, FeOCl)
+      determination de leurs structures.
+      _cod_database_code 1011088
+      _database_code_amcsd 0017984
+      CELL PARAMETERS:   3.8700 12.4000  3.0600   90.000   90.000   90.000
+      SPACE GROUP: Amam      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    146.843
+      Density (g/cm3):      3.973
+      MAX. ABS. INTENSITY / VOLUME**2:      49.26071917    
+      RIR:      5.788
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                16.60        100.00        6.2000    0   2   0         2
+                31.65         34.96        3.2829    1   2   0         4
+                35.07          2.39        2.9709    0   1   1         4
+                42.69         39.75        2.4594    0   3   1         4
+                43.43          5.85        2.4195    1   4   0         4
+                44.65         14.88        2.3566    1   1   1         8
+                51.09         10.58        2.0757    1   3   1         8
+                51.33          2.40        2.0667    0   6   0         2
+                55.11         14.26        1.9350    2   0   0         2
+                55.37         23.60        1.9267    0   5   1         4
+                57.97          6.28        1.8471    2   2   0         4
+                58.82          4.12        1.8230    1   6   0         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

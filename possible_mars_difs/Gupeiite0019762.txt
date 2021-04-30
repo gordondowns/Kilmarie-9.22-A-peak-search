@@ -1,0 +1,21 @@
+      Gupeiite
+      Buschow K H J, van Engen P G, Jongebreur R
+      Journal of Magnetism and Magnetic Materials 38 (1983) 1-22
+      Magneto-optical properties of metallic ferromagnetic materials
+      Locality: synthetic
+      _database_code_amcsd 0019762
+      CELL PARAMETERS:   5.6620  5.6620  5.6620   90.000   90.000   90.000
+      SPACE GROUP: Fm3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    181.514
+      Density (g/cm3):      7.157
+      MAX. ABS. INTENSITY / VOLUME**2:      166.7830468    
+      RIR:     10.878
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                31.78          6.48        3.2690    1   1   1         8
+                36.87          3.28        2.8310    2   0   0         6
+                53.12        100.00        2.0018    2   2   0        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

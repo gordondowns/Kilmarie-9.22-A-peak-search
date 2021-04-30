@@ -1,0 +1,23 @@
+      Brucite
+      Zigan F, Rothbauer R
+      Neues Jahrbuch fur Mineralogie, Monatshefte 1967 (1967) 137-143
+      Neutronenbeugungsmessungen am Brucit
+      _cod_database_code 1000054
+      _database_code_amcsd 0014731
+      CELL PARAMETERS:   3.1420  3.1420  4.7660   90.000   90.000  120.000
+      SPACE GROUP: P-3m1     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     40.747
+      Density (g/cm3):      2.376
+      MAX. ABS. INTENSITY / VOLUME**2:      11.80612113    
+      RIR:      2.319
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.65         71.07        4.7660    0   0   1         2
+                38.41          3.02        2.7211    1   0   0         6
+                44.52         99.30        2.3630    0   1   1         6
+                59.91         29.86        1.7927    0   1   2         6
+                59.91         13.69        1.7927    1   0   2         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

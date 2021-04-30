@@ -1,0 +1,21 @@
+      Manganosite
+      Ott H
+      Zeitschrift fur Kristallographie 63 (1926) 222-230
+      Die Strukturen von Mn O, Mn S, Ag F, Ni S, Sn I4, Sr Cl2, Ba F2,
+      Praezisionsmessungen einiger Alkalihalogenide.
+      _cod_database_code 1010989
+      _database_code_amcsd 0017904
+      CELL PARAMETERS:   4.4800  4.4800  4.4800   90.000   90.000   90.000
+      SPACE GROUP: Fm3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     89.915
+      Density (g/cm3):      5.239
+      MAX. ABS. INTENSITY / VOLUME**2:      60.60870542    
+      RIR:      5.400
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                40.50         64.10        2.5865    1   1   1         8
+                47.11        100.00        2.2400    2   0   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

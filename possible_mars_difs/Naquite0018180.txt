@@ -1,0 +1,24 @@
+      Naquite
+      Wever F, Moeller H
+      Zeitschrift fur Kristallographie 75 (1930) 362-365
+      Ueber den Kristallbau des Eisensilizides FeSi
+      _cod_database_code 1011343
+      _database_code_amcsd 0018180
+      CELL PARAMETERS:   4.4670  4.4670  4.4670   90.000   90.000   90.000
+      SPACE GROUP: P2_13     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     89.135
+      Density (g/cm3):      6.253
+      MAX. ABS. INTENSITY / VOLUME**2:      79.76987734    
+      RIR:      5.955
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                32.93         21.52        3.1586    1   1   0        12
+                40.62         17.98        2.5790    1   1   1         4
+                47.25          4.50        2.2335    2   0   0         6
+                53.24         11.78        1.9977    2   0   1        12
+                53.24         88.22        1.9977    2   1   0        12
+                58.79         50.78        1.8236    2   1   1        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

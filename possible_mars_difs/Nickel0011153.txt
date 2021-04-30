@@ -1,0 +1,19 @@
+      Nickel
+      Wyckoff R W G
+      Crystal Structures 1 (1963) 7-83
+      Second edition. Interscience Publishers, New York, New York
+      Cubic closest packed, ccp, structure
+      _database_code_amcsd 0011153
+      CELL PARAMETERS:   3.5239  3.5239  3.5239   90.000   90.000   90.000
+      SPACE GROUP: Fm3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     43.758
+      Density (g/cm3):      8.908
+      MAX. ABS. INTENSITY / VOLUME**2:      205.1464609    
+      RIR:     10.751
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                52.21        100.00        2.0345    1   1   1         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

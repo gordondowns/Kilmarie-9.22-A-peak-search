@@ -1,0 +1,31 @@
+      Maghemite
+      Shin HS
+      Journal of the Korean Ceramic Society 35 (1998) 1113-1119
+      A study on the structure of maghemite (gamma-Fe2O3)
+      I. Rietveld analysis of powder XRD patterns
+      Locality: Synthetic
+      _database_code_amcsd 0020518
+      CELL PARAMETERS:   8.3457  8.3457  8.3457   90.000   90.000   90.000
+      SPACE GROUP: P4_332    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    581.284
+      Density (g/cm3):      4.834
+      MAX. ABS. INTENSITY / VOLUME**2:      51.89279187    
+      RIR:      5.011
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                17.45          4.76        5.9013    1   1   0        12
+                21.41          2.44        4.8184    1   1   1         8
+                27.75          5.80        3.7323    2   1   0        24
+                30.46          5.14        3.4071    2   1   1        24
+                35.32         35.27        2.9507    2   2   0        12
+                37.54          1.19        2.7819    2   2   1        24
+                39.65          2.48        2.6391    3   1   0        24
+                41.68        100.00        2.5163    3   1   1        24
+                43.62          3.66        2.4092    2   2   2         8
+                45.50          1.56        2.3147    3   2   0        24
+                50.81         16.73        2.0864    4   0   0         6
+                58.88          1.93        1.8212    4   2   1        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

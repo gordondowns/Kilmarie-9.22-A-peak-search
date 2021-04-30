@@ -1,0 +1,47 @@
+      Chlorartinite
+      Sugimoto K, Dinnebier R E, Schlecht T
+      Powder Diffraction 22 (2007) 64-67
+      Crystal structure of dehydrated chlorartinite by X-ray powder diffraction
+      Note: this is a dehydrated chlorartinite
+      Locality: synthetic
+      _database_code_amcsd 0019538
+      CELL PARAMETERS:  22.6791 22.6791  7.2234   90.000   90.000  120.000
+      SPACE GROUP: R3c       
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   3217.522
+      Density (g/cm3):      1.862
+      MAX. ABS. INTENSITY / VOLUME**2:      24.26199164    
+      RIR:      6.084
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                 9.06        100.00       11.3396    1   1   0         6
+                15.72          3.00        6.5469    3   0   0         3
+                23.75          1.39        4.3492    1   3   1         6
+                24.11          3.36        4.2859    4   1   0         6
+                27.08          3.18        3.8231    3   2   1         6
+                29.19          1.26        3.5521    0   1   2         3
+                30.62          5.12        3.3897    2   0   2         3
+                31.46          5.87        3.3014    2   4   1         6
+                32.00          5.93        3.2477    1   2   2         6
+                32.81          1.36        3.1698    5   1   1         6
+                33.07          4.73        3.1450    5   2   0         6
+                35.36         10.93        2.9478    4   3   1         6
+                35.84          1.13        2.9094    0   4   2         3
+                37.75          1.71        2.7668    1   6   1         6
+                40.03          1.61        2.6154    3   5   1         6
+                40.25          2.38        2.6015    7   1   0         6
+                40.46          1.42        2.5885    4   2   2         6
+                41.13          1.03        2.5485    6   2   1         6
+                43.66          1.67        2.4072    3   4   2         6
+                44.67          1.26        2.3553    1   1   3         6
+                45.69          1.13        2.3055    6   1   2         6
+                47.65          1.68        2.2162    2   2   3         6
+                48.24          2.61        2.1905    8   1   1         6
+                49.19          1.86        2.1508    4   6   1         6
+                50.48          1.07        2.0992    4   1   3         6
+                52.32          3.88        2.0304    8   0   2         3
+                53.22          1.76        1.9986    7   2   2         6
+                55.84          1.31        1.9118    5   2   3         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

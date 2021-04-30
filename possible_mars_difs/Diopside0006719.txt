@@ -1,0 +1,46 @@
+      Diopside
+      Redhammer G J
+      European Journal of Mineralogy 10 (1998) 439-452
+      Mossbauer spectroscopy and Rietveld refinement on synthetic
+      ferri-Tschermak's molecule CaFe3+(Fe3+Si)O6 substituted diopside
+      Sample: fts6/#2
+      _database_code_amcsd 0006719
+      CELL PARAMETERS:   9.7433  8.9410  5.2511   90.000  105.936   90.000
+      SPACE GROUP: C2/c      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    439.869
+      Density (g/cm3):      3.327
+      MAX. ABS. INTENSITY / VOLUME**2:      9.246568106    
+      RIR:      1.297
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                23.10          3.31        4.4705    0   2   0         2
+                28.33          2.07        3.6580    1   1   1         4
+                31.02         10.65        3.3471    0   2   1         4
+                32.14         24.03        3.2341    2   2   0         4
+                34.80        100.00        2.9932   -2   2   1         4
+                35.35         27.29        2.9483    3   1   0         4
+                36.04         33.13        2.8935   -3   1   1         4
+                36.74          1.08        2.8401    1   3   0         4
+                40.79         23.82        2.5684   -1   3   1         4
+                41.41          1.97        2.5316   -2   0   2         2
+                41.53         40.62        2.5246    0   0   2         2
+                41.69         40.92        2.5154    2   2   1         4
+                45.82         15.01        2.2997    3   1   1         4
+                47.70          8.92        2.2140    1   1   2         4
+                47.95          1.30        2.2029   -2   2   2         4
+                48.06          8.12        2.1983    0   2   2         4
+                49.06          8.21        2.1561    3   3   0         4
+                49.59         16.78        2.1344   -3   3   1         4
+                50.26          8.01        2.1077   -4   2   1         4
+                51.95         16.71        2.0439    0   4   1         4
+                52.75         11.18        2.0149   -4   0   2         2
+                53.05          6.53        2.0044    2   0   2         2
+                54.05          6.90        1.9701   -1   3   2         4
+                57.55          2.17        1.8596    3   3   1         4
+                58.43          5.77        1.8339    5   1   0         4
+                58.60          2.67        1.8290    2   2   2         4
+                59.16          3.07        1.8134    1   3   2         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

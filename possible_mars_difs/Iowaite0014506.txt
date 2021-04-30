@@ -1,0 +1,24 @@
+      Iowaite
+      Braithwaite R S W, Dunn P J, Pritchard R G, Paar W H
+      Mineralogical Magazine 58 (1994) 79-85
+      Iowaite, a re-investigation
+      Locality: Palabora open pit mine, Phalaborwa, Transvaal
+      _database_code_amcsd 0014506
+      CELL PARAMETERS:   3.1183  3.1183 24.1130   90.000   90.000  120.000
+      SPACE GROUP: R-3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    203.057
+      Density (g/cm3):      2.089
+      MAX. ABS. INTENSITY / VOLUME**2:      21.40666985    
+      RIR:      4.784
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                12.79        100.00        8.0377    0   0   3         2
+                25.74         24.00        4.0188    0   0   6         2
+                39.72         16.26        2.6352    0   1   2         6
+                44.66         21.01        2.3563    0   1   5         6
+                52.85         18.79        2.0113    0   1   8         6
+                59.69          4.14        1.7986    1   0  10         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

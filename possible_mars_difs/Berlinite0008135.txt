@@ -1,0 +1,28 @@
+      Berlinite
+      Christie D M, Chelikowsky J R
+      Physics and Chemistry of Minerals 25 (1998) 222-226
+      Structural properties of alpha-berlinite (AlPO4)
+      Sample: V = 65.59, theoretical
+      _database_code_amcsd 0008135
+      CELL PARAMETERS:   4.6314  4.6314 10.5930   90.000   90.000  120.000
+      SPACE GROUP: P3_121    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    196.777
+      Density (g/cm3):      3.087
+      MAX. ABS. INTENSITY / VOLUME**2:      22.98571980    
+      RIR:      3.476
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                25.79         21.05        4.0109    1   0   0         6
+                27.61          2.29        3.7510    1   0   1         6
+                29.37          1.24        3.5310    0   0   3         2
+                32.51         82.50        3.1975    0   1   2         6
+                32.51         17.50        3.1975    1   0   2         6
+                45.48         14.25        2.3157    1   1   0         3
+                47.79         11.91        2.2100    1   0   4         6
+                47.79          4.86        2.2100    0   1   4         6
+                49.91          5.96        2.1218    1   1   2         6
+                53.02          9.23        2.0055    2   0   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

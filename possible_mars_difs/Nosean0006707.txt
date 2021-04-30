@@ -1,0 +1,37 @@
+      Nosean
+      Gesing T M, Buhl J-C
+      European Journal of Mineralogy 10 (1998) 71-77
+      Crystal structure of a carbonate-nosean Na8[AlSiO4]6CO3
+      _database_code_amcsd 0006707
+      CELL PARAMETERS:   9.0010  9.0010  9.0010   90.000   90.000   90.000
+      SPACE GROUP: P23       
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    729.243
+      Density (g/cm3):      2.182
+      MAX. ABS. INTENSITY / VOLUME**2:      10.68557996    
+      RIR:      2.286
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                11.41         29.22        9.0010    1   0   0         6
+                16.17         92.37        6.3647    1   1   0        12
+                19.84          4.72        5.1967    1   1   1         4
+                22.95          1.77        4.5005    2   0   0         6
+                25.70          2.73        4.0254    2   0   1        12
+                28.20        100.00        3.6746    2   1   1        12
+                34.72          1.89        3.0003    2   2   1        12
+                36.66         11.68        2.8464    3   0   1        12
+                36.66          6.95        2.8464    3   1   0        12
+                38.52          1.02        2.7139    3   1   1        12
+                40.30         45.88        2.5984    2   2   2         4
+                43.69          4.63        2.4056    3   1   2        12
+                43.69          1.91        2.4056    3   2   1        12
+                46.88          4.83        2.2503    4   0   0         6
+                49.91          8.35        2.1216    3   3   0        12
+                49.91         17.58        2.1216    4   1   1        12
+                51.38          1.65        2.0650    3   3   1        12
+                54.22          1.43        1.9642    4   2   1        12
+                55.61          3.12        1.9190    3   3   2        12
+                58.31          2.58        1.8373    4   2   2        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

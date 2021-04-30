@@ -1,0 +1,25 @@
+      Spinel
+      Carraro A
+      European Journal of Mineralogy 15 (2003) 681-688
+      Crystal chemistry of Cr-spinels from a suite of spinel peridotite mantle
+      xenoliths from the Predazzo Area (Dolomites, Northern Italy)
+      Sample: CRSP3
+      Locality: Predazzo area, Dolomites, Northern Italy
+      _database_code_amcsd 0007011
+      CELL PARAMETERS:   8.2139  8.2139  8.2139   90.000   90.000   90.000
+      SPACE GROUP: Fd3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    554.177
+      Density (g/cm3):      4.070
+      MAX. ABS. INTENSITY / VOLUME**2:      24.30894852    
+      RIR:      2.788
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.76         31.51        4.7423    1   1   1         8
+                35.91         28.44        2.9041    2   2   0        12
+                42.38        100.00        2.4766    3   1   1        24
+                44.36          1.59        2.3711    2   2   2         8
+                51.69         40.26        2.0535    4   0   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

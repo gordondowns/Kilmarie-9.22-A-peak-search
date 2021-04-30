@@ -1,0 +1,53 @@
+      Staurolite
+      Hawthorne F C, Ungaretti L, Oberti R, Caucia F, Callegari A
+      The Canadian Mineralogist 31 (1993) 551-582
+      The crystal chemistry of staurolite. I. Crystal structure and site populations
+      Sample Code: EH-6/4
+      Locality: Emery Hill, New York, USA
+      _database_code_amcsd 0005304
+      CELL PARAMETERS:   7.8831 16.6225  5.6602   90.000   90.012   90.000
+      SPACE GROUP: C2/m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    741.695
+      Density (g/cm3):      3.740
+      MAX. ABS. INTENSITY / VOLUME**2:      5.764209712    
+      RIR:      0.719
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                12.37         12.86        8.3112    0   2   0         2
+                14.44         20.14        7.1227    1   1   0         4
+                24.88         10.70        4.1556    0   4   0         2
+                26.25          1.48        3.9416    2   0   0         2
+                29.11         12.48        3.5614    2   2   0         4
+                29.31          3.20        3.5385   -1   3   1         4
+                29.31          3.18        3.5380    1   3   1         4
+                32.13          1.55        3.2349   -2   0   1         2
+                32.14          1.54        3.2342    2   0   1         2
+                33.98         10.08        3.0632    1   5   0         4
+                34.55         36.51        3.0146   -2   2   1         4
+                34.55         36.74        3.0141    2   2   1         4
+                36.48          7.09        2.8598    2   4   0         4
+                36.88         18.27        2.8301    0   0   2         2
+                37.70         30.51        2.7704    0   6   0         2
+                38.81         38.32        2.6941   -1   5   1         4
+                38.81         38.43        2.6939    1   5   1         4
+                39.04          8.51        2.6790    0   2   2         4
+                40.35          2.18        2.5955    3   1   0         4
+                41.06         15.34        2.5526   -2   4   1         4
+                41.06         15.28        2.5523    2   4   1         4
+                43.78         50.04        2.4008   -1   3   2         4
+                43.79         49.96        2.4005    1   3   2         4
+                44.30         39.85        2.3742    3   3   0         4
+                44.59         21.38        2.3594   -3   1   1         4
+                44.60         21.20        2.3591    3   1   1         4
+                45.83          4.55        2.2991   -2   0   2         2
+                45.84          4.51        2.2987    2   0   2         2
+                46.37          1.48        2.2737    1   7   0         4
+                46.52          7.30        2.2665    2   6   0         4
+                50.21         13.28        2.1099   -1   7   1         4
+                50.21         13.34        2.1098    1   7   1         4
+                53.76         49.37        1.9797    0   6   2         4
+                54.03         25.37        1.9708    4   0   0         2
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

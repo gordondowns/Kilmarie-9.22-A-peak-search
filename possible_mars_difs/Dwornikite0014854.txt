@@ -1,0 +1,40 @@
+      Dwornikite
+      Wildner M, Giester G
+      Neues Jahrbuch fur Mineralogie, Monatshefte 1991 (1991) 296-306
+      The crystal structures of kieserite-type compounds.
+      I. Crystal structures of Me(II)SO4*H2O (Me = Mn,Fe,Co,Ni,Zn)
+      Locality: synthetic
+      _database_code_amcsd 0014854
+      CELL PARAMETERS:   6.8240  7.5940  7.4570   90.000  117.790   90.000
+      SPACE GROUP: C2/c      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    341.862
+      Density (g/cm3):      3.356
+      MAX. ABS. INTENSITY / VOLUME**2:      15.97254281    
+      RIR:      2.222
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.73         33.50        4.7488   -1   1   1         4
+                21.84         57.95        4.7256    1   1   0         4
+                27.27         13.99        3.7970    0   2   0         2
+                31.13        100.00        3.3358   -1   1   2         4
+                31.36         20.56        3.3118    1   1   1         4
+                31.57         32.02        3.2908    0   2   1         4
+                34.50         48.51        3.0185    2   0   0         2
+                41.31         16.05        2.5378   -2   2   1         4
+                42.14         49.32        2.4901    0   2   2         4
+                44.30          3.63        2.3744   -2   2   2         4
+                44.52          2.94        2.3628    2   2   0         4
+                45.10         15.82        2.3344    1   3   0         4
+                45.10          5.65        2.3343    1   1   2         4
+                49.13         20.37        2.1531   -3   1   2         4
+                50.68          8.78        2.0916   -1   3   2         4
+                50.83          4.63        2.0856    1   3   1         4
+                52.65         10.09        2.0185   -2   2   3         4
+                53.05          1.15        2.0043    2   2   1         4
+                54.80         14.75        1.9452    3   1   0         4
+                56.12          1.80        1.9029    0   2   3         4
+                56.26          4.16        1.8985    0   4   0         2
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

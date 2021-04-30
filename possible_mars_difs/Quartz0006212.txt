@@ -1,0 +1,29 @@
+      Quartz
+      Antao S M, Hassan I, Wang J, Lee P L, Toby B H
+      The Canadian Mineralogist 46 (2008) 1501-1509
+      State-of-the-art high-resolution powder x-ray diffraction (HRPXRD) illustrated
+      with Rietveld structure refinement of quartz, sodalite, tremolite, and meionite
+      Locality: not specified
+      _database_code_amcsd 0006212
+      CELL PARAMETERS:   4.9134  4.9134  5.4051   90.000   90.000  120.000
+      SPACE GROUP: P3_221    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    113.008
+      Density (g/cm3):      2.648
+      MAX. ABS. INTENSITY / VOLUME**2:      25.54638766    
+      RIR:      4.503
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                24.29         20.48        4.2552    1   0   0         6
+                31.06         69.91        3.3434    0   1   1         6
+                31.06         30.09        3.3434    1   0   1         6
+                42.74          6.98        2.4567    1   1   0         3
+                46.21          1.01        2.2813    0   1   2         6
+                46.21          6.03        2.2813    1   0   2         6
+                47.19          3.21        2.2365    1   1   1         6
+                49.76          5.19        2.1276    2   0   0         6
+                53.76          2.14        1.9797    2   0   1         6
+                59.00         12.16        1.8179    1   1   2         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

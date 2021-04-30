@@ -1,0 +1,38 @@
+      Bassanite
+      Abriel W, Nesper R
+      Zeitschrift fur Kristallographie 205 (1993) 99-113
+      Bestimmung der Kristallstruktur von CaSO4(H2O)0.5 mit
+      Rontgenbeugungsmethoden und mit Potentialprofil-Rechnungen
+      Locality: synthetic
+      _database_code_amcsd 0019828
+      CELL PARAMETERS:   6.9370  6.9370  6.3450   90.000   90.000  120.000
+      SPACE GROUP: P3_121    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    264.427
+      Density (g/cm3):      2.754
+      MAX. ABS. INTENSITY / VOLUME**2:      9.542659738    
+      RIR:      1.617
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                17.14         98.90        6.0076    1   0   0         6
+                23.68          4.06        4.3624    0   1   1         6
+                29.91         53.58        3.4685    1   1   0         3
+                34.21         13.36        3.0434    1   1   1         6
+                34.68         97.65        3.0038    2   0   0         6
+                37.22         26.19        2.8054    0   1   2         6
+                37.22         73.81        2.8054    1   0   2         6
+                38.50          9.16        2.7149    2   0   1         6
+                44.96          6.93        2.3410    1   1   2         6
+                46.43          4.12        2.2707    2   1   0         6
+                48.46          4.80        2.1812    2   0   2         6
+                49.51         15.90        2.1379    2   1   1         6
+                49.51          1.50        2.1379    1   2   1         6
+                50.08          9.33        2.1150    0   0   3         2
+                53.10          1.85        2.0025    3   0   0         6
+                55.91          4.83        1.9097    0   3   1         6
+                55.91          3.21        1.9097    3   0   1         6
+                58.00         51.80        1.8465    1   2   2         6
+                58.00          5.31        1.8465    2   1   2         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

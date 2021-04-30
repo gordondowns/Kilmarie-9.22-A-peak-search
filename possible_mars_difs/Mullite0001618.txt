@@ -1,0 +1,35 @@
+      Mullite
+      Balzar D, Ledbetter H
+      American Mineralogist 78 (1993) 1192-1196
+      Crystal structure and compressibility of 3:2 mullite
+      _database_code_amcsd 0001618
+      CELL PARAMETERS:   7.5434  7.6918  2.8840   90.000   90.000   90.000
+      SPACE GROUP: Pbam      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    167.336
+      Density (g/cm3):      3.169
+      MAX. ABS. INTENSITY / VOLUME**2:      6.116060499    
+      RIR:      0.901
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                19.13         48.80        5.3857    1   1   0         4
+                27.46          3.06        3.7717    2   0   0         2
+                30.29         64.41        3.4263    1   2   0         4
+                30.65        100.00        3.3865    2   1   0         4
+                36.16         18.43        2.8840    0   0   1         2
+                38.83         38.59        2.6928    2   2   0         4
+                41.23         50.85        2.5424    1   1   1         8
+                43.28         16.15        2.4275    1   3   0         4
+                43.99          1.85        2.3900    3   1   0         4
+                46.00         18.54        2.2910    2   0   1         4
+                47.87         59.74        2.2064    1   2   1         8
+                49.94         17.15        2.1204    2   3   0         4
+                50.34          3.03        2.1046    3   2   0         4
+                54.10          1.07        1.9682    2   2   1         8
+                56.68          6.06        1.8858    4   0   0         2
+                58.21          8.41        1.8402    3   1   1         8
+                58.51          1.53        1.8316    4   1   0         4
+                59.82          1.81        1.7952    3   3   0         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

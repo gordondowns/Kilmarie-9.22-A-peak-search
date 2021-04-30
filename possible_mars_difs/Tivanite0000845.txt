@@ -1,0 +1,45 @@
+      Tivanite
+      Grey I E, Nickel E H
+      American Mineralogist 66 (1981) 866-871
+      Tivanite, a new oxyhydroxide mineral from Western Australia,
+      and its structural relationship to rutile and diaspore
+      Locality: Lake View mine, Kalgoorlie, Western Australia
+      _database_code_amcsd 0000845
+      CELL PARAMETERS:   7.4940  4.5520 10.0050   90.000  129.790   90.000
+      SPACE GROUP: P2_1/c    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    262.251
+      Density (g/cm3):      3.718
+      MAX. ABS. INTENSITY / VOLUME**2:      11.96842774    
+      RIR:      1.503
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                17.89         19.85        5.7584    1   0   0         2
+                20.63          7.13        4.9993   -1   0   2         2
+                26.42         22.97        3.9169    0   1   1         4
+                26.68         99.00        3.8800   -1   1   1         4
+                27.93          9.94        3.7098   -2   0   2         2
+                29.03          1.72        3.5710    1   1   0         4
+                35.49          1.16        2.9369    0   1   2         4
+                36.27          4.75        2.8757   -2   1   2         4
+                36.79         15.88        2.8369    1   1   1         4
+                37.35        100.00        2.7952   -2   1   1         4
+                39.71         72.89        2.6356   -1   1   3         4
+                40.24          5.22        2.6021   -2   1   3         4
+                41.36         27.11        2.5346    1   0   2         2
+                41.97         15.26        2.4996   -2   0   4         2
+                42.73         19.62        2.4572   -3   0   2         2
+                45.32          1.83        2.3235   -1   0   4         2
+                46.32          7.58        2.2760    0   2   0         2
+                46.59          3.59        2.2635   -3   0   4         2
+                47.26         15.04        2.2331    0   1   3         4
+                47.69         10.67        2.2144    1   1   2         4
+                48.23          6.86        2.1910   -2   1   4         4
+                48.58          2.72        2.1759   -1   2   1         4
+                48.91          7.38        2.1623   -3  -1   2         4
+                51.21          1.09        2.0714   -1   2   2         4
+                52.44         10.88        2.0259    2   1   1         4
+                55.52          1.92        1.9219    0   0   4         2
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,28 @@
+      Geikielite
+      Wechsler B A, Von Dreele R B
+      Acta Crystallographica B45 (1989) 542-549
+      Structure refinements of Mg2TiO4, MgTiO3 and MgTi2O5 by time-of-flight neutron
+      powder diffraction
+      Locality: synthetic
+      _database_code_amcsd 0009834
+      CELL PARAMETERS:   5.0548  5.0548 13.8992   90.000   90.000  120.000
+      SPACE GROUP: R-3       
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    307.557
+      Density (g/cm3):      3.892
+      MAX. ABS. INTENSITY / VOLUME**2:      15.06820714    
+      RIR:      1.807
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                22.28         23.59        4.6331    0   0   3         2
+                24.76         26.22        4.1754    1   0   1         6
+                27.97         38.36        3.7040    0   1   2         6
+                38.40        100.00        2.7216    1   0   4         6
+                41.49         55.24        2.5274    1   1   0         6
+                47.59         50.40        2.2187    2  -1   3         6
+                47.59          6.85        2.2187    1   1   3         6
+                57.81         41.88        1.8520    0   2   4         6
+                59.34          2.22        1.8083    1   0   7         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

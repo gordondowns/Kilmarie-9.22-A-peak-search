@@ -1,0 +1,23 @@
+      Linzhiite
+      Li G, Shi N, Xiong M, Ma Z, Bai W, Fang Q
+      Frontiers of Earth Science in China 1 (2007) 21-25
+      X-ray diffraction investigation of native Si-Fe alloy minerals from Luobusha, Tibet
+      Locality: Luobusha, Tibet
+      _database_code_amcsd 0019717
+      CELL PARAMETERS:   2.7250  2.7250  5.2020   90.000   90.000   90.000
+      SPACE GROUP: P4/mmm    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     38.628
+      Density (g/cm3):      4.815
+      MAX. ABS. INTENSITY / VOLUME**2:      39.92870996    
+      RIR:      3.871
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                19.82         91.50        5.2020    0   0   1         2
+                43.53         78.78        2.4139    1   0   1         8
+                55.36         56.20        1.9269    1   1   0         4
+                56.82        100.00        1.8815    1   0   2         8
+                59.39         18.06        1.8069    1   1   1         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,60 @@
+      Lizardite
+      Auzende A L, Pellenq R J M, Devouard B, Baronnet A, Grauby O
+      Physics and Chemistry of Minerals 33 (2006) 266-275
+      Atomistic calculations of structural and elastic properties
+      of serpentine minerals: the case of lizardite
+      Note: 1T polytype
+      Note: Hypothetical structure derived
+      using semi-empirical potentials
+      _database_code_amcsd 0009030
+      CELL PARAMETERS:   5.4340  5.4340  7.1530   90.000   90.000  120.000
+      SPACE GROUP: P1        
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    182.919
+      Density (g/cm3):      2.515
+      MAX. ABS. INTENSITY / VOLUME**2:      8.784113946    
+      RIR:      1.630
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                14.38         72.94        7.1530    0   0   1         1
+                21.93         12.03        4.7060    1   0   0         1
+                21.93         12.02        4.7060   -1   1   0         1
+                21.93         12.03        4.7060    0   1   0         1
+                26.32          6.46        3.9314    1   0   1         1
+                26.32          6.46        3.9314   -1   0   1         1
+                26.32          6.46        3.9314    0  -1   1         1
+                26.32          6.46        3.9314   -1   1   1         1
+                26.32          6.46        3.9314    0   1   1         1
+                26.32          6.46        3.9314    1  -1   1         1
+                28.99         36.87        3.5765    0   0   2         1
+                36.64          2.41        2.8475    0   1   2         1
+                36.64          2.41        2.8475    1   0   2         1
+                36.64          2.41        2.8475    0  -1   2         1
+                36.64          2.41        2.8475   -1   0   2         1
+                36.64          2.41        2.8475   -1   1   2         1
+                36.64          2.41        2.8475    1  -1   2         1
+                38.47          1.37        2.7170    1   1   0         1
+                38.47          1.37        2.7170   -1   2   0         1
+                38.47          1.37        2.7170   -2   1   0         1
+                41.27          3.64        2.5399    1   1   1         1
+                41.27         29.69        2.5399   -1   2   1         1
+                41.27         29.69        2.5399   -1  -1   1         1
+                41.27         29.69        2.5399    2  -1   1         1
+                41.27          3.64        2.5399   -2   1   1         1
+                41.27          3.64        2.5399    1  -2   1         1
+                44.10          4.50        2.3843    0   0   3         1
+                48.88          3.58        2.1635    1   1   2         1
+                48.88         11.59        2.1635   -1  -1   2         1
+                48.88         11.59        2.1635    2  -1   2         1
+                48.88          3.58        2.1635    1  -2   2         1
+                48.88          3.58        2.1635   -2   1   2         1
+                48.88         11.59        2.1635   -1   2   2         1
+                59.93          1.45        1.7921    1   1   3         1
+                59.93          5.86        1.7921   -1   2   3         1
+                59.93          5.86        1.7921   -1  -1   3         1
+                59.93          1.45        1.7921   -2   1   3         1
+                59.93          5.86        1.7921    2  -1   3         1
+                59.93          1.45        1.7921    1  -2   3         1
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

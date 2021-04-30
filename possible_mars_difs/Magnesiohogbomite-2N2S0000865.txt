@@ -1,0 +1,40 @@
+      Magnesiohogbomite-2N2S
+      Gatehouse B M, Grey I E
+      American Mineralogist 67 (1982) 373-380
+      The crystal structure of hogbomite-8H
+      _database_code_amcsd 0000865
+      CELL PARAMETERS:   5.7340  5.7340 18.3890   90.000   90.000  120.000
+      SPACE GROUP: P6_3mc    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    523.605
+      Density (g/cm3):      3.914
+      MAX. ABS. INTENSITY / VOLUME**2:      9.199027243    
+      RIR:      1.097
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                11.17         22.39        9.1945    0   0   2         1
+                21.52          5.95        4.7941    1   0   1         6
+                22.46          9.77        4.5972    0   0   4         1
+                23.64          3.64        4.3693    1   0   2         6
+                26.83          5.77        3.8585    1   0   3         6
+                30.77         11.66        3.3735    1   0   4         6
+                33.96          1.39        3.0648    0   0   6         1
+                35.26         36.00        2.9555    1   0   5         6
+                36.39         47.18        2.8670    1   1   0         6
+                38.18         11.24        2.7370    1   1   2         6
+                40.15         76.47        2.6081    1   0   6         6
+                42.26          1.84        2.4829    2   0   0         6
+                42.67         30.06        2.4606    2   0   1         6
+                43.18        100.00        2.4327    1   1   4         6
+                43.86         32.58        2.3970    2   0   2         6
+                45.35         14.22        2.3221    1   0   7         6
+                45.78          8.38        2.3013    2   0   3         6
+                45.84          1.25        2.2986    0   0   8         1
+                48.38         11.46        2.1846    2   0   4         6
+                50.82          1.66        2.0860    1   0   8         6
+                51.57         28.85        2.0578    2   0   5         6
+                55.29         14.78        1.9293    2   0   6         6
+                57.29          1.35        1.8672    2   1   1        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

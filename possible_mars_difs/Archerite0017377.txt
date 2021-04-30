@@ -1,0 +1,32 @@
+      Archerite
+      West J
+      Zeitschrift fur Kristallographie 74 (1930) 306-335
+      A quantitative X-ray analysis of the structure of potassium dihydrogen
+      phosphate (KH2PO4)
+      _cod_database_code 1010458
+      _database_code_amcsd 0017377
+      CELL PARAMETERS:   7.4300  7.4300  6.9700   90.000   90.000   90.000
+      SPACE GROUP: I-42d     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    384.778
+      Density (g/cm3):      2.349
+      MAX. ABS. INTENSITY / VOLUME**2:      12.48036410    
+      RIR:      2.480
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                20.28         14.53        5.0834    1   0   1         8
+                27.89        100.00        3.7150    2   0   0         4
+                34.73         13.80        2.9994    2   1   1         8
+                35.90         76.77        2.9042    1   1   2         4
+                39.85         22.48        2.6269    2   2   0         4
+                41.24          5.74        2.5417    2   0   2         8
+                44.79          2.37        2.3496    3   1   0         8
+                45.11         10.29        2.3337    3   0   1         8
+                47.62          6.94        2.2175    1   0   3         8
+                53.87         10.55        1.9762    3   2   1         8
+                54.71         50.73        1.9482    3   1   2         8
+                56.08          1.78        1.9041    2   1   3         8
+                57.62          1.42        1.8575    4   0   0         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

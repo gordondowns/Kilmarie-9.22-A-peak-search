@@ -1,0 +1,20 @@
+      Sylvite
+      Ahtee M
+      Annales Academiae Scientiarum Fennicae Series A6: Physica 313 (1969) 1-11
+      Lattice constants of some binary alkali halide solid solutions.
+      _database_code_amcsd 0011994
+      CELL PARAMETERS:   6.2788  6.2788  6.2788   90.000   90.000   90.000
+      SPACE GROUP: Fm3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    247.531
+      Density (g/cm3):      2.000
+      MAX. ABS. INTENSITY / VOLUME**2:      25.60471975    
+      RIR:      5.976
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                33.13        100.00        3.1394    2   0   0         6
+                47.56         61.88        2.2199    2   2   0        12
+                59.19         18.74        1.8125    2   2   2         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

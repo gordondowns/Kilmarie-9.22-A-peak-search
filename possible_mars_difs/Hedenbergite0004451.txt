@@ -1,0 +1,50 @@
+      Hedenbergite
+      Nestola F, Tribaudino M, Ballaran T B, Liebske C, Bruno M
+      American Mineralogist 92 (2007) 1492-1501
+      The crystal structures of pyroxenes along the jadeite - hedenbergite and
+      jadeite - aegirine joins
+      Locality: synthetic
+      Sample: Jd0Hd100
+      _database_code_amcsd 0004451
+      CELL PARAMETERS:   9.8447  9.0234  5.2509   90.000  104.862   90.000
+      SPACE GROUP: C2/c      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    450.847
+      Density (g/cm3):      3.657
+      MAX. ABS. INTENSITY / VOLUME**2:      13.62261426    
+      RIR:      1.739
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                15.72         24.63        6.5475    1   1   0         4
+                21.69         11.67        4.7577    2   0   0         2
+                22.89          6.05        4.5117    0   2   0         2
+                23.45          1.95        4.4054   -1   1   1         4
+                31.74          9.35        3.2738    2   2   0         4
+                34.68        100.00        3.0031   -2   2   1         4
+                34.81         38.94        2.9923    3   1   0         4
+                35.92         10.87        2.9033   -3   1   1         4
+                40.54         34.48        2.5839   -1   3   1         4
+                41.04         47.60        2.5534    2   2   1         4
+                41.31         41.64        2.5376    0   0   2         2
+                41.60          2.26        2.5208   -1   1   2         4
+                44.21          2.83        2.3788    4   0   0         2
+                44.95          4.74        2.3416    3   1   1         4
+                47.18         13.19        2.2368    1   1   2         4
+                47.60          1.02        2.2182   -3   1   2         4
+                47.75          2.48        2.2118    0   2   2         4
+                48.43          4.42        2.1825    3   3   0         4
+                49.28         23.02        2.1472   -3   3   1         4
+                49.91         13.52        2.1216   -4   2   1         4
+                51.47          5.15        2.0614    0   4   1         4
+                52.25          9.86        2.0330    2   0   2         2
+                52.83         12.65        2.0120   -4   0   2         2
+                53.82          3.36        1.9779   -1   3   2         4
+                54.12          1.93        1.9677   -2   4   1         4
+                56.61          5.40        1.8877    3   3   1         4
+                57.76          1.05        1.8535    2   2   2         4
+                58.52          1.48        1.8315    1   3   2         4
+                58.80          2.17        1.8235    2   4   1         4
+                59.48          3.83        1.8044    4   2   1         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,22 @@
+      Cacoxenite
+      Moore P B, Shen J
+      Nature 306 (1983) 356-358
+      An X-ray structural study of cacoxenite, a mineral phosphate
+      Locality: Avant's Claim, near Shady, Polk County, Arkansas, USA
+      _database_code_amcsd 0014677
+      CELL PARAMETERS:  27.5590 27.5590 10.5500   90.000   90.000  120.000
+      SPACE GROUP: P6_3/m    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   6939.209
+      Density (g/cm3):      1.755
+      MAX. ABS. INTENSITY / VOLUME**2:      217.5254818    
+      RIR:     57.860
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                 4.30        100.00       23.8668    1   0   0         6
+                 7.45          1.37       13.7795    1   1   0         6
+                 8.60          7.17       11.9334    2   0   0         6
+                15.00          1.03        6.8562    1   2   1        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

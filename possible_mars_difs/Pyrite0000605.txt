@@ -1,0 +1,23 @@
+      Pyrite
+      Bayliss P
+      American Mineralogist 62 (1977) 1168-1172
+      Crystal structure refinement of a weakly anisotropic pyrite
+      cubic model
+      _database_code_amcsd 0000605
+      CELL PARAMETERS:   5.4166  5.4166  5.4166   90.000   90.000   90.000
+      SPACE GROUP: Pa3       
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    158.921
+      Density (g/cm3):      5.014
+      MAX. ABS. INTENSITY / VOLUME**2:      32.15868866    
+      RIR:      2.994
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                33.27         41.40        3.1273    1   1   1         8
+                38.60        100.00        2.7083    2   0   0         6
+                43.37         56.96        2.4224    2   1   0        12
+                47.76         46.86        2.2113    2   1   1        24
+                55.73         52.01        1.9151    2   2   0        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

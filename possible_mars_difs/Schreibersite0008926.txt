@@ -1,0 +1,33 @@
+      Schreibersite
+      Skala R, Cisarova I
+      Physics and Chemistry of Minerals 31 (2005) 721-732
+      Crystal structure of meteoritic schreibersites: determination of absolute structure
+      Sample: Hex River Mts cl#1
+      _database_code_amcsd 0008926
+      CELL PARAMETERS:   9.0470  9.0470  4.4600   90.000   90.000   90.000
+      SPACE GROUP: I-4       
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    365.043
+      Density (g/cm3):      7.339
+      MAX. ABS. INTENSITY / VOLUME**2:      47.23279660    
+      RIR:      3.004
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                25.86          1.42        4.0003    1   0   1         4
+                34.76          5.19        2.9966    1   2   1         4
+                41.99         20.03        2.4982    3   0   1         4
+                46.63          2.66        2.2617    4   0   0         4
+                47.33          2.10        2.2300    0   0   2         2
+                48.33         40.81        2.1869    2   3   1         4
+                48.33         59.19        2.1869    3   2   1         4
+                49.64         27.29        2.1324    3   3   0         4
+                50.31         54.16        2.1057    1   1   2         4
+                52.53         34.92        2.0230    4   2   0         4
+                52.53          1.12        2.0230    2   4   0         4
+                53.17         12.64        2.0002    2   0   2         4
+                54.09         68.44        1.9688    1   4   1         4
+                54.09         19.68        1.9688    4   1   1         4
+                58.59         20.57        1.8293    2   2   2         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

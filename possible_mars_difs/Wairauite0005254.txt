@@ -1,0 +1,19 @@
+      Wairauite
+      Bayliss P
+      The Canadian Mineralogist 28 (1990) 751-755
+      Revised unit cell dimensions, space group,
+      and chemical formula of some metallic minerals
+      _database_code_amcsd 0005254
+      CELL PARAMETERS:   2.8570  2.8570  2.8570   90.000   90.000   90.000
+      SPACE GROUP: Pm-3m     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     23.320
+      Density (g/cm3):      8.172
+      MAX. ABS. INTENSITY / VOLUME**2:      226.2739159    
+      RIR:     12.926
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                52.60        100.00        2.0202    1   1   0        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

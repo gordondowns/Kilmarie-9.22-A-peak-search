@@ -1,0 +1,25 @@
+      Millerite
+      Grice J D, Ferguson R B
+      The Canadian Mineralogist 12 (1974) 248-252
+      Crystal structure refinement of millerite (B-NiS)
+      _database_code_amcsd 0005097
+      CELL PARAMETERS:   9.6071  9.6071  3.1434   90.000   90.000  120.000
+      SPACE GROUP: R3m       
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    251.255
+      Density (g/cm3):      5.398
+      MAX. ABS. INTENSITY / VOLUME**2:      24.07138400    
+      RIR:      2.082
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.48         77.06        4.8035    1   1   0         6
+                35.45         55.74        2.9405    1   0   1         3
+                37.66        100.00        2.7733    3   0   0         3
+                41.82         57.25        2.5079    0   2   1         3
+                43.76         11.97        2.4018    2   2   0         6
+                47.49         45.38        2.2232    2   1   1         6
+                57.53         77.90        1.8601    1   3   1         6
+                59.08         11.22        1.8156    4   1   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

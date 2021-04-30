@@ -1,0 +1,27 @@
+      Ilmenite
+      Barth T F W, Posnjak E
+      Zeitschrift fur Kristallographie 88 (1934) 265-270
+      The crystal structure of ilmenite
+      Locality: Quincy, Massachusetts, USA
+      _database_code_amcsd 0010536
+      CELL PARAMETERS:   5.5200  5.5200  5.5200   54.830   54.830   54.830
+      SPACE GROUP: R-3       
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    104.617
+      Density (g/cm3):      4.815
+      MAX. ABS. INTENSITY / VOLUME**2:      34.39129911    
+      RIR:      3.334
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                22.08          1.59        4.6752    1   1   1         2
+                24.61          1.87        4.2001    1   0   0         6
+                27.78         22.92        3.7284    1   1   0         6
+                38.10        100.00        2.7427    2   1   1         6
+                41.24         64.38        2.5416    0  -1   1         6
+                47.27          5.22        2.2330    2   0   1         6
+                47.27         16.09        2.2330    2   1   0         6
+                50.46          1.00        2.1001    2   0   0         6
+                57.39         35.97        1.8642    2   2   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

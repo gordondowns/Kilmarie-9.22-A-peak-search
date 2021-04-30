@@ -1,0 +1,23 @@
+      Magnesioferrite
+      Barth T, Posnjak E
+      Zeitschrift fur Kristallographie 82 (1932) 325-341
+      Spinel structures: with and without variate atom equipoints
+      _cod_database_code 1011241
+      _database_code_amcsd 0018107
+      CELL PARAMETERS:   8.3600  8.3600  8.3600   90.000   90.000   90.000
+      SPACE GROUP: Fd3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    584.277
+      Density (g/cm3):      4.546
+      MAX. ABS. INTENSITY / VOLUME**2:      42.64130463    
+      RIR:      4.378
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.38          3.61        4.8266    1   1   1         8
+                35.26         46.70        2.9557    2   2   0        12
+                41.60        100.00        2.5206    3   1   1        24
+                43.54          2.41        2.4133    2   2   2         8
+                50.72         14.31        2.0900    4   0   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

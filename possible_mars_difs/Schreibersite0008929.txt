@@ -1,0 +1,32 @@
+      Schreibersite
+      Skala R, Cisarova I
+      Physics and Chemistry of Minerals 31 (2005) 721-732
+      Crystal structure of meteoritic schreibersites: determination of absolute structure
+      Sample: Odessa cl#1
+      _database_code_amcsd 0008929
+      CELL PARAMETERS:   9.0600  9.0600  4.4598   90.000   90.000   90.000
+      SPACE GROUP: I-4       
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    366.076
+      Density (g/cm3):      7.296
+      MAX. ABS. INTENSITY / VOLUME**2:      48.31726804    
+      RIR:      3.092
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                25.85          1.41        4.0013    1   0   1         4
+                34.73          4.92        2.9989    1   2   1         4
+                41.95         19.17        2.5006    3   0   1         4
+                46.56          2.41        2.2650    4   0   0         4
+                47.34          2.14        2.2299    0   0   2         2
+                48.27         40.77        2.1892    2   3   1         4
+                48.27         59.23        2.1892    3   2   1         4
+                49.57         27.69        2.1355    3   3   0         4
+                50.31         53.84        2.1060    1   1   2         4
+                52.44         34.88        2.0259    4   2   0         4
+                53.16         12.79        2.0006    2   0   2         4
+                54.02         68.74        1.9711    1   4   1         4
+                54.02         20.25        1.9711    4   1   1         4
+                58.57         21.21        1.8301    2   2   2         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

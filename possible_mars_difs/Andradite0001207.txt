@@ -1,0 +1,29 @@
+      Andradite
+      Hazen R M, Finger L W
+      American Mineralogist 74 (1989) 352-359
+      High-pressure crystal chemistry of andradite and pyrope: Revised procedures for
+      high-pressure diffraction experiments
+      sample in air
+      _database_code_amcsd 0001207
+      CELL PARAMETERS:  12.0310 12.0310 12.0310   90.000   90.000   90.000
+      SPACE GROUP: Ia-3d     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1741.427
+      Density (g/cm3):      3.876
+      MAX. ABS. INTENSITY / VOLUME**2:      16.59364060    
+      RIR:      1.998
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                24.30         25.43        4.2536    2   2   0        12
+                34.63         76.35        3.0078    4   0   0         6
+                38.87        100.00        2.6902    4   2   0        24
+                40.85          9.18        2.5650    3   3   2        24
+                42.75         76.43        2.4558    4   2   2        24
+                44.59         15.24        2.3595    4   3   1        48
+                48.10         13.24        2.1966    5   2   1        48
+                54.60         10.96        1.9517    5   3   2        48
+                54.60         11.16        1.9517    6   1   1        24
+                56.14         14.84        1.9023    6   2   0        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

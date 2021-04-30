@@ -1,0 +1,20 @@
+      Nickel
+      Davey W P
+      Physical Review 25 (1925) 753-761
+      Lattice constants of twelve common metals
+      Locality: synthetic
+      Note: lattice parameter is average of runs 1 & 2
+      _database_code_amcsd 0015121
+      CELL PARAMETERS:   3.4990  3.4990  3.4990   90.000   90.000   90.000
+      SPACE GROUP: Fm3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     42.838
+      Density (g/cm3):      9.099
+      MAX. ABS. INTENSITY / VOLUME**2:      208.8867120    
+      RIR:     10.716
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                52.60        100.00        2.0201    1   1   1         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

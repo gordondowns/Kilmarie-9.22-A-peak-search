@@ -1,0 +1,30 @@
+      Knorringite
+      Juhin A, Morin G, Elkaim E, Frost D J, Fialin M, Juillot F, Calas G
+      American Mineralogist 95 (2010) 59-63
+      Structure refinement of a synthetic knorringite, Mg3(Cr0.8Mg0.1Si0.1)2(SiO4)3
+      Locality: synthetic
+      _database_code_amcsd 0004999
+      CELL PARAMETERS:  11.5935 11.5935 11.5935   90.000   90.000   90.000
+      SPACE GROUP: Ia-3d     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1558.274
+      Density (g/cm3):      3.792
+      MAX. ABS. INTENSITY / VOLUME**2:      10.09118086    
+      RIR:      1.242
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.80          8.69        4.7330    2   1   1        24
+                25.23         42.95        4.0989    2   2   0        12
+                33.58          6.80        3.0985    3   2   1        48
+                35.98        100.00        2.8984    4   0   0         6
+                40.40         93.56        2.5924    4   2   0        24
+                42.46         34.41        2.4717    3   3   2        24
+                44.45         79.56        2.3665    4   2   2        24
+                46.37         24.72        2.2737    4   3   1        48
+                50.04          9.83        2.1167    5   2   1        48
+                56.84          6.94        1.8807    5   3   2        48
+                56.84          9.95        1.8807    6   1   1        24
+                58.46         24.87        1.8331    6   2   0        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

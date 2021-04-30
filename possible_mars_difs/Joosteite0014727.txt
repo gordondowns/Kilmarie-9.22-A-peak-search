@@ -1,0 +1,66 @@
+      Joosteite
+      Keller P, Lissner F, Schleid T
+      Neues Jahrbuch fur Mineralogie, Abhandlungen 184 (2007) 225-230
+      The crystal structure of joosteite, (Mn2+,Mn3+,Fe3+)2[PO4]O, from the Helikon II mine,
+      Karibib (Namibia), and its relationship to stanekite, (Fe3+,Mn2+,Fe2+,Mg)2[PO4]O
+      Note: M1 and M2 Fe/Mn occupancies not determined, below are estimates
+      Locality: Helikon II mine, Karibib, Namibia
+      _database_code_amcsd 0014727
+      CELL PARAMETERS:  11.8880  6.4090  9.8040   90.000  106.170   90.000
+      SPACE GROUP: I2/a      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    717.418
+      Density (g/cm3):      4.011
+      MAX. ABS. INTENSITY / VOLUME**2:      9.509401003    
+      RIR:      1.107
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                18.04          2.96        5.7089    2   0   0         2
+                18.43         18.79        5.5887    1   1   0         4
+                21.92          1.62        4.7081    0   0   2         2
+                24.45         10.30        4.2278   -2   1   1         4
+                26.75          1.19        3.8700   -1   1   2         4
+                28.70         32.66        3.6115    2   1   1         4
+                30.71         34.26        3.3808    1   1   2         4
+                32.29         71.25        3.2188    2   0   2         2
+                32.44          2.61        3.2045    0   2   0         2
+                34.73         95.23        2.9995   -1   2   1         4
+                36.55          5.92        2.8544    4   0   0         2
+                37.03         50.14        2.8188    0   1   3         4
+                37.11        100.00        2.8127   -4   0   2         2
+                37.37         15.84        2.7944    2   2   0         4
+                38.79          5.50        2.6955   -4   1   1         4
+                39.50          9.75        2.6491    0   2   2         4
+                40.92         24.38        2.5611   -2   2   2         4
+                42.26          9.01        2.4833   -3   2   1         4
+                43.26          2.60        2.4283    3   1   2         4
+                43.28         14.11        2.4275   -2   0   4         2
+                44.52         13.27        2.3631    4   1   1         4
+                44.70          1.59        2.3540    0   0   4         2
+                45.63          3.33        2.3087    2   1   3         4
+                46.06          2.06        2.2880   -1   2   3         4
+                46.16          8.30        2.2837   -1   1   4         4
+                46.34          6.87        2.2748    3   2   1         4
+                46.43          1.62        2.2710    2   2   2         4
+                48.36         16.50        2.1852   -5   1   2         4
+                49.67          1.50        2.1314    4   2   0         4
+                49.81          1.01        2.1257   -3   2   3         4
+                49.90          2.62        2.1219    1   2   3         4
+                50.11          8.83        2.1139   -4   2   2         4
+                50.46          6.57        2.0999    1   3   0         4
+                50.89         19.02        2.0834    0   3   1         4
+                51.22          1.61        2.0708    1   1   4         4
+                53.47         13.69        1.9897    2   0   4         2
+                55.11          4.21        1.9350   -2   2   4         4
+                55.60          5.34        1.9194    2   3   1         4
+                55.94          1.74        1.9086   -5   2   1         4
+                56.12          3.09        1.9030    6   0   0         2
+                56.31          2.11        1.8972    0   2   4         4
+                56.62          7.54        1.8875   -6   1   1         4
+                57.44          1.46        1.8629    3   3   0         4
+                57.96          1.09        1.8475   -5   1   4         4
+                59.39          5.30        1.8068    0   1   5         4
+                59.65          5.78        1.7997   -6   1   3         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,31 @@
+      Andradite
+      Woodland A B, Ross C R
+      Physics and Chemistry of Minerals 21 (1994) 117-132
+      A crystallographic and Mossbauer spectroscopy study of Fe3Al2Si3O12-Fe3Fe2Si3O12,
+      (Almandine-"Skiagite") and Ca3Fe2Si3O12-Fe3Fe2Si3O12 (Andradite-"Skiagite") garnet solid solutions
+      Sample: and64
+      _database_code_amcsd 0007865
+      CELL PARAMETERS:  11.9503 11.9503 11.9503   90.000   90.000   90.000
+      SPACE GROUP: Ia-3d     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1706.619
+      Density (g/cm3):      4.191
+      MAX. ABS. INTENSITY / VOLUME**2:      22.09266825    
+      RIR:      2.461
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.15          2.73        4.8787    2   1   1        24
+                24.46         12.23        4.2251    2   2   0        12
+                32.55          2.48        3.1939    3   2   1        48
+                34.87         65.88        2.9876    4   0   0         6
+                39.14        100.00        2.6722    4   2   0        24
+                41.14          4.40        2.5478    3   3   2        24
+                43.06         68.59        2.4393    4   2   2        24
+                44.91         11.35        2.3436    4   3   1        48
+                48.44         15.05        2.1818    5   2   1        48
+                55.00         10.65        1.9386    6   1   1        24
+                55.00         11.40        1.9386    5   3   2        48
+                56.56          9.09        1.8895    6   2   0        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

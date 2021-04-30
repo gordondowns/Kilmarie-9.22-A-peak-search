@@ -1,0 +1,23 @@
+      Graphite
+      Trucano P, Chen R
+      Nature 258 (1975) 136-137
+      Structure of graphite by neutron diffraction
+      Locality: undefined
+      Note: natural crystals
+      _database_code_amcsd 0014675
+      CELL PARAMETERS:   2.4640  2.4640  6.7110   90.000   90.000  120.000
+      SPACE GROUP: P6_3/mmc  
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     35.286
+      Density (g/cm3):      2.261
+      MAX. ABS. INTENSITY / VOLUME**2:      11.85434746    
+      RIR:      2.448
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                30.94        100.00        3.3555    0   0   2         2
+                49.60          3.32        2.1339    1   0   0         6
+                52.23         16.05        2.0336    1   0   1        12
+                59.62          3.14        1.8006    1   0   2        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

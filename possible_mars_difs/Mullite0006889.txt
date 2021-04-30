@@ -1,0 +1,39 @@
+      Mullite
+      Voll D, Lengauer C, Beran A, Schneider H
+      European Journal of Mineralogy 13 (2001) 591-604
+      Infrared band assignment and structural refinement of
+      Al-Si, Al-Ge, and Ga-Ge mullites
+      Sample: Al-Si powder data
+      _database_code_amcsd 0006889
+      CELL PARAMETERS:   7.5655  7.6883  2.8851   90.000   90.000   90.000
+      SPACE GROUP: Pbam      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    167.814
+      Density (g/cm3):      3.145
+      MAX. ABS. INTENSITY / VOLUME**2:      5.406425541    
+      RIR:      0.802
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                19.11         62.83        5.3925    1   1   0         4
+                27.38          2.47        3.7827    2   0   0         2
+                30.28         62.90        3.4271    1   2   0         4
+                30.58        100.00        3.3942    2   1   0         4
+                36.15         20.10        2.8851    0   0   1         2
+                38.78         43.72        2.6963    2   2   0         4
+                41.20         52.32        2.5439    1   1   1         8
+                43.28         14.75        2.4273    1   3   0         4
+                43.87          1.37        2.3962    3   1   0         4
+                45.93         20.84        2.2940    2   0   1         4
+                47.85         61.53        2.2071    1   2   1         8
+                48.06          2.20        2.1983    2   1   1         8
+                49.91         21.80        2.1217    2   3   0         4
+                50.24          3.06        2.1086    3   2   0         4
+                55.51          1.21        1.9221    0   4   0         2
+                56.49          6.91        1.8914    4   0   0         2
+                57.44          1.04        1.8629    1   4   0         4
+                58.10         10.37        1.8433    3   1   1         8
+                58.34          1.18        1.8366    4   1   0         4
+                59.73          1.44        1.7975    3   3   0         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,29 @@
+      Quartz
+      Ikuta D, Kawame N, Banno S, Hirajima T, Ito K, Rakovan J F, Downs R T, Tamada O
+      American Mineralogist 92 (2007) 57-63
+      First in situ X-ray diffraction identification of coesite and retrograde quartz on a glass
+      thin section of an ultrahigh-pressure metamorphic rock and their crystal structure details
+      Locality: Yangkou meta-igneous complex in the middle part of the Sulu UHP terrain, eastern China
+      Note: Sample is on a thin section
+      _database_code_amcsd 0004265
+      CELL PARAMETERS:   4.9230  4.9230  5.4090   90.000   90.000  120.000
+      SPACE GROUP: P3_221    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    113.529
+      Density (g/cm3):      2.636
+      MAX. ABS. INTENSITY / VOLUME**2:      24.45200465    
+      RIR:      4.330
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                24.24         20.10        4.2634    1   0   0         6
+                31.01         29.93        3.3484    1   0   1         6
+                31.01         70.07        3.3484    0   1   1         6
+                42.65          6.22        2.4615    1   1   0         3
+                46.15          5.57        2.2838    1   0   2         6
+                47.10          2.75        2.2404    1   1   1         6
+                49.66          4.38        2.1317    2   0   0         6
+                53.66          1.67        1.9833    2   0   1         6
+                58.91         10.92        1.8204    1   1   2         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

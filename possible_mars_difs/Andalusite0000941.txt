@@ -1,0 +1,47 @@
+      Andalusite
+      Ralph R L, Finger L W, Hazen R M, Ghose S
+      American Mineralogist 69 (1984) 513-519
+      Compressibility and crystal structure of andalusite at high pressure
+      37 kbar continuous scan
+      _database_code_amcsd 0000941
+      CELL PARAMETERS:   7.7049  7.8375  5.5262   90.000   90.000   90.000
+      SPACE GROUP: Pnnm      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    333.711
+      Density (g/cm3):      3.225
+      MAX. ABS. INTENSITY / VOLUME**2:      5.344815245    
+      RIR:      0.774
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                18.75        100.00        5.4945    1   1   0         4
+                22.86         67.15        4.5164    0   1   1         4
+                23.00         98.18        4.4906    1   0   1         4
+                26.41          2.55        3.9188    0   2   0         2
+                26.56         51.73        3.8963    1   1   1         8
+                26.87          4.53        3.8524    2   0   0         2
+                29.70         32.74        3.4929    1   2   0         4
+                30.01         25.13        3.4574    2   1   0         4
+                37.81         22.30        2.7631    0   0   2         2
+                38.03         66.12        2.7472    2   2   0         4
+                42.42          5.13        2.4741    1   3   0         4
+                42.52         33.23        2.4685    1   1   2         8
+                42.68          3.69        2.4600    2   2   1         8
+                43.03         22.71        2.4406    3   1   0         4
+                44.54         10.65        2.3619    0   3   1         4
+                45.21         11.14        2.3291    3   0   1         4
+                46.71         37.59        2.2582    0   2   2         4
+                46.71         18.46        2.2582    1   3   1         8
+                47.28         25.45        2.2326    3   1   1         8
+                48.80         24.11        2.1670    1   2   2         8
+                49.00         25.48        2.1585    2   1   2         8
+                49.26         30.83        2.1481    3   2   0         4
+                54.37          5.92        1.9594    0   4   0         2
+                55.38          3.30        1.9262    4   0   0         2
+                57.18          4.44        1.8706    4   1   0         4
+                58.11          8.34        1.8432    1   3   2         8
+                59.79          6.66        1.7959    1   4   1         8
+                59.89          7.19        1.7932    0   1   3         4
+                59.95          3.39        1.7916    1   0   3         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

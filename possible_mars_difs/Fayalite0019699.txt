@@ -1,0 +1,44 @@
+      Fayalite
+      Redfern S A T, Knight K S, Henderson C M B, Wood B J
+      Mineralogical Magazine 62 (1998) 607-615
+      Fe-Mn cation ordering in fayalite-tephroite (FexMn1-x)2SiO4 olivines:
+      A neutron diffraction study
+      Locality: synthetic
+      _database_code_amcsd 0019699
+      CELL PARAMETERS:   4.8486 10.5555  6.1405   90.000   90.000   90.000
+      SPACE GROUP: Pbnm      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    314.266
+      Density (g/cm3):      4.295
+      MAX. ABS. INTENSITY / VOLUME**2:      15.28133729    
+      RIR:      1.661
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                19.53          9.72        5.2777    0   2   0         2
+                23.44         10.17        4.4060    1   1   0         4
+                25.85          9.39        4.0025    0   2   1         4
+                27.21          4.47        3.8053    1   0   1         4
+                28.96         60.24        3.5798    1   1   1         8
+                29.04          5.90        3.5706    1   2   0         4
+                33.72          3.83        3.0867    1   2   1         8
+                33.90          5.81        3.0703    0   0   2         2
+                36.64         92.72        2.8477    1   3   0         4
+                39.42         33.39        2.6539    0   2   2         4
+                39.66         11.03        2.6389    0   4   0         2
+                40.55         64.19        2.5834    1   3   1         8
+                41.63        100.00        2.5190    1   1   2         8
+                43.33         13.41        2.4245    0   4   1         4
+                43.34         15.00        2.4243    2   0   0         2
+                44.53          6.59        2.3628    2   1   0         4
+                45.23         11.48        2.3280    1   2   2         8
+                45.44         11.15        2.3178    1   4   0         4
+                47.90          6.11        2.2052    2   1   1         8
+                50.77          6.05        2.0879    1   3   2         8
+                51.15          1.79        2.0736    2   2   1         8
+                53.14          2.25        2.0013    0   4   2         4
+                55.09          2.71        1.9356    1   5   0         4
+                57.66         10.17        1.8563    1   1   3         8
+                58.01          5.67        1.8460    1   5   1         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

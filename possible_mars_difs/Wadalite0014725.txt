@@ -1,0 +1,33 @@
+      Wadalite
+      Mihajlovic T, Lengauer C L, Ntaflos T, Lolitsch U, Tillmanns E
+      Neues Jahrbuch fur Mineralogie, Abhandlungen 179 (2004) 265-294
+      Two new minerals, rondorfite, Ca8Mg[SiO4]4Cl2, and almarudite,
+      K(box,Na)2(Mn,Fe,Mg)2(Be,Al)3[Si12O30], and a study of iron-rich wadalite,
+      Ca12[(Al8Si4Fe2)O32]C16, from the Bellerberg (Bellberg) volcano, Eifel, Germany
+      Locality: Bellerberg volcano lava field, 2 km N of Mayen,
+      Eastern Eifel volcanic area, Eifel, Germany
+      _database_code_amcsd 0014725
+      CELL PARAMETERS:  12.0343 12.0343 12.0343   90.000   90.000   90.000
+      SPACE GROUP: I-43d     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1742.860
+      Density (g/cm3):      3.096
+      MAX. ABS. INTENSITY / VOLUME**2:      16.36332517    
+      RIR:      2.467
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.00         16.44        4.9130    2   1   1        12
+                24.29          2.67        4.2548    2   2   0        12
+                32.32         10.46        3.2163    3   2   1        24
+                34.62         40.60        3.0086    4   0   0         6
+                38.86        100.00        2.6910    4   2   0        24
+                40.84          6.22        2.5657    3   3   2        12
+                42.74         44.47        2.4565    4   2   2        12
+                44.58          3.94        2.3601    4   3   1        24
+                44.58          9.76        2.3601    5   1   0        24
+                48.08         15.19        2.1972    5   2   1        24
+                51.41          2.80        2.0639    5   3   0        24
+                54.58          5.60        1.9522    5   3   2        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

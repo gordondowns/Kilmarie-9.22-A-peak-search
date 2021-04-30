@@ -1,0 +1,37 @@
+      Wadsleyite
+      Finger L W, Hazen R M, Zhang J, Ko J, Navrotsky A
+      Physics and Chemistry of Minerals 19 (1993) 361-368
+      The effect of Fe on the crystal structure of wadsleyite
+      beta-(Mg1-xFex)2SiO4, 0.00<=x<=0.40
+      Sample: Fe00
+      _database_code_amcsd 0007734
+      CELL PARAMETERS:   5.6921 11.4600  8.2530   90.000   90.000   90.000
+      SPACE GROUP: Imma      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    538.355
+      Density (g/cm3):      3.471
+      MAX. ABS. INTENSITY / VOLUME**2:      5.535067322    
+      RIR:      0.744
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                32.41         47.39        3.2074    1   1   2         8
+                36.41         14.71        2.8650    0   4   0         2
+                36.66         14.60        2.8461    2   0   0         2
+                39.10         52.98        2.6750    0   1   3         4
+                39.97         60.97        2.6193    2   1   1         8
+                41.70         19.75        2.5148    1   3   2         8
+                42.37         36.43        2.4769    1   0   3         4
+                42.97        100.00        2.4443    1   4   1         8
+                44.71          4.65        2.3534    0   4   2         4
+                44.92          1.81        2.3429    2   0   2         4
+                47.28         13.02        2.2324    0   3   3         4
+                47.82          3.17        2.2084    0   5   1         4
+                48.03         31.65        2.1997    2   3   1         8
+                51.42         36.84        2.0633    0   0   4         2
+                52.63         81.91        2.0191    2   4   0         4
+                55.81          4.68        1.9125    1   1   4         8
+                56.54          4.40        1.8900    1   5   2         8
+                57.07          2.15        1.8737    1   4   3         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

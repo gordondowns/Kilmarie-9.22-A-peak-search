@@ -1,0 +1,29 @@
+      Lazurite
+      Hassan I, Peterson R C, Grundy H D
+      Acta Crystallographica C41 (1985) 827-832
+      The structure of lazurite, ideally Na6Ca2(Al6Si6O24)S2, a member of the
+      sodalite group
+      Locality: Baffin Island
+      _database_code_amcsd 0010010
+      CELL PARAMETERS:   9.0540  9.0540  9.0540   90.000   90.000   90.000
+      SPACE GROUP: P-43n     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    742.201
+      Density (g/cm3):      2.173
+      MAX. ABS. INTENSITY / VOLUME**2:      10.36063283    
+      RIR:      2.226
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                16.07         16.37        6.4021    1   1   0        12
+                22.81          2.30        4.5270    2   0   0         6
+                28.03        100.00        3.6963    2   1   1        12
+                32.48          1.93        3.2011    2   2   0        12
+                36.44         11.99        2.8631    3   1   0        24
+                40.06         29.90        2.6137    2   2   2         4
+                43.42         14.58        2.4198    3   2   1        24
+                46.59          9.60        2.2635    4   0   0         6
+                49.60          7.99        2.1340    3   3   0        12
+                55.26          2.07        1.9303    3   3   2        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

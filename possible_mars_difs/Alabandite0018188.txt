@@ -1,0 +1,22 @@
+      Alabandite
+      Ott H
+      Zeitschrift fur Kristallographie 63 (1926) 222-230
+      Die Strukturen von Mn O, Mn S, Ag F, Ni S, Sn I4, Sr Cl2, Ba F2,
+      Praezisionsmessungen einiger Alkalihalogenide.
+      _cod_database_code 1011351
+      _database_code_amcsd 0018188
+      CELL PARAMETERS:   5.2400  5.2400  5.2400   90.000   90.000   90.000
+      SPACE GROUP: Fm3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    143.878
+      Density (g/cm3):      4.016
+      MAX. ABS. INTENSITY / VOLUME**2:      59.56139989    
+      RIR:      6.923
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                34.42         13.51        3.0253    1   1   1         8
+                39.96        100.00        2.6200    2   0   0         6
+                57.79         60.06        1.8526    2   2   0        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

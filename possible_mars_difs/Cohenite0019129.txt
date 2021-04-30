@@ -1,0 +1,31 @@
+      Cohenite
+      Fasiska E J, Jeffery G A
+      Acta Crystallographica 19 (1965) 463-471
+      On the cementite structure
+      _database_code_amcsd 0019129
+      CELL PARAMETERS:   5.0598  6.7462  4.5074   90.000   90.000   90.000
+      SPACE GROUP: Pnma      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    153.857
+      Density (g/cm3):      7.738
+      MAX. ABS. INTENSITY / VOLUME**2:      39.49758484    
+      RIR:      2.383
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                34.58          2.42        3.0116    1   1   1         8
+                41.44          2.99        2.5299    2   0   0         2
+                44.14         29.47        2.3825    1   2   1         8
+                44.41         23.54        2.3688    2   1   0         4
+                46.81         18.36        2.2537    0   0   2         2
+                47.88         17.44        2.2062    2   0   1         4
+                50.54         57.32        2.0969    2   1   1         8
+                51.55         57.38        2.0587    1   0   2         4
+                52.50         54.99        2.0239    2   2   0         4
+                52.83        100.00        2.0122    0   3   1         4
+                54.08         49.75        1.9691    1   1   2         8
+                57.07          1.18        1.8739    0   2   2         4
+                57.21         33.31        1.8698    1   3   1         8
+                58.00         42.33        1.8463    2   2   1         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

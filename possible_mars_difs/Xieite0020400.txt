@@ -1,0 +1,34 @@
+      Xieite
+      Ishii T, Kojitani H, Tsukamoto S, Fujino K, Mori D, Inaguma Y, Tsujino N,
+      Yoshino T, Yamazaki D, Higo Y, Funakoshi K, Akaogi M
+      American Mineralogist 99 (2014) 1788-1797
+      High-pressure phase transitions in FeCr2O4 and structure analysis of new post-
+      spinel FeCr2O4 and Fe2Cr2O5 phases with meteoritical and petrological implications
+      Locality: Synthetic
+      _database_code_amcsd 0020400
+      CELL PARAMETERS:   2.8844  9.5207  9.7532   90.000   90.000   90.000
+      SPACE GROUP: Cmcm      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    267.842
+      Density (g/cm3):      5.550
+      MAX. ABS. INTENSITY / VOLUME**2:      35.59548714    
+      RIR:      2.994
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.15          2.88        4.8766    0   0   2         2
+                30.47          3.08        3.4064    0   2   2         4
+                37.84          5.38        2.7605    1   1   0         4
+                38.95        100.00        2.6847    0   2   3         4
+                39.39         24.94        2.6562    1   1   1         8
+                43.08          1.93        2.4383    0   0   4         2
+                43.75         20.34        2.4023    1   1   2         8
+                44.18         16.37        2.3802    0   4   0         2
+                48.72         11.11        2.1702    0   2   4         4
+                49.59          9.90        2.1345    1   3   0         4
+                50.85         43.43        2.0852    1   3   1         8
+                54.49         39.10        1.9554    1   3   2         8
+                58.66          9.03        1.8275    1   1   4         8
+                59.46          1.83        1.8050    0   2   5         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

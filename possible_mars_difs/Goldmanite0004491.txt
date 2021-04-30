@@ -1,0 +1,29 @@
+      Goldmanite
+      Uher P, Kovacik M, Kubis M, Shtukenberg A, Ozdin D
+      American Mineralogist 93 (2008) 63-73
+      Metamorphic vanadian-chromian silicate mineralization in carbon-rich amphicole
+      schists from the Male Karpaty Mountains, Western Carpathians, Slovakia
+      Locality: Pezinok-Pernek crystalline complex, Male Karpaty Mountains, Slovakia
+      _database_code_amcsd 0004491
+      CELL PARAMETERS:  12.0010 12.0010 12.0010   90.000   90.000   90.000
+      SPACE GROUP: Ia-3d     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1728.432
+      Density (g/cm3):      3.727
+      MAX. ABS. INTENSITY / VOLUME**2:      16.76651527    
+      RIR:      2.100
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                24.36          6.16        4.2430    2   2   0        12
+                34.72         56.21        3.0003    4   0   0         6
+                38.97        100.00        2.6835    4   2   0        24
+                40.96          8.34        2.5586    3   3   2        24
+                42.87         45.53        2.4497    4   2   2        24
+                44.71         14.79        2.3536    4   3   1        48
+                48.23         13.02        2.1911    5   2   1        48
+                54.75         11.00        1.9468    6   1   1        24
+                54.75         10.48        1.9468    5   3   2        48
+                56.30          6.76        1.8975    6   2   0        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

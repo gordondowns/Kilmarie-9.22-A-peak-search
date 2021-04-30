@@ -1,0 +1,28 @@
+      Bunsenite
+      Taguchi H
+      Solid State Communications 108 (1998) 635-639
+      Relationship between crystal structure and electrical properties
+      of murdochite-type Ni6+2xMn1-xO8
+      Locality: Synthetic
+      Sample Number: x = 0.0
+      _database_code_amcsd 0015491
+      CELL PARAMETERS:   8.3200  8.3200  8.3200   90.000   90.000   90.000
+      SPACE GROUP: Fm3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    575.930
+      Density (g/cm3):      6.170
+      MAX. ABS. INTENSITY / VOLUME**2:      76.70162455    
+      RIR:      5.803
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.48         20.85        4.8036    1   1   1         8
+                24.85         11.77        4.1600    2   0   0         6
+                35.43          9.28        2.9416    2   2   0        12
+                41.81          6.12        2.5086    3   1   1        24
+                43.76         66.49        2.4018    2   2   2         8
+                50.98        100.00        2.0800    4   0   0         6
+                55.94          1.33        1.9087    3   3   1        24
+                57.52          5.11        1.8604    4   2   0        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

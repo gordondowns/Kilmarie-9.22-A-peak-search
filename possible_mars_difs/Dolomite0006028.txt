@@ -1,0 +1,32 @@
+      Dolomite
+      Drits V A, McCarty D K, Sakharov B, Milliken K L
+      The Canadian Mineralogist 43 (2005) 1255-1290
+      New insight into structural and compositional
+      variability in some ancient excess-Ca dolomite
+      Locality: Lea County, New Mexico, USA
+      Sample: M236-098, Phase I
+      _database_code_amcsd 0006028
+      CELL PARAMETERS:   4.8141  4.8141 16.0392   90.000   90.000  120.000
+      SPACE GROUP: R-3       
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    321.917
+      Density (g/cm3):      2.870
+      MAX. ABS. INTENSITY / VOLUME**2:      15.83308394    
+      RIR:      2.575
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                25.63          1.73        4.0350    1   0   1         6
+                28.01          5.47        3.6991    0   1   2         6
+                36.09        100.00        2.8900    1   0   4         6
+                39.13          4.70        2.6732    0   0   6         2
+                41.23          5.01        2.5424    0   1   5         6
+                43.66         10.69        2.4070    1   1   0         6
+                48.14          7.39        2.1949    2  -1   3         6
+                48.14         21.14        2.1949    1   1   3         6
+                51.32          3.72        2.0672    0   2   1         6
+                52.68         13.50        2.0175    2   0   2         6
+                57.89          4.85        1.8496    0   2   4         6
+                59.40         16.70        1.8068    0   1   8         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

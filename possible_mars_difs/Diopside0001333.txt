@@ -1,0 +1,49 @@
+      Diopside
+      Raudsepp M, Hawthorne F C, Turnock A C
+      American Mineralogist 75 (1990) 1274-1281
+      Crystal chemistry of synthetic pyroxenes on the join CaNiSi2O6-CaMgSi2O6
+      (diopside): A Rietveld refinement study
+      sample Ni100, CaNiSi2O6
+      _database_code_amcsd 0001333
+      CELL PARAMETERS:   9.7359  8.8932  5.2284   90.000  105.830   90.000
+      SPACE GROUP: C2/c      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    435.524
+      Density (g/cm3):      3.827
+      MAX. ABS. INTENSITY / VOLUME**2:      14.68329557    
+      RIR:      1.791
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                15.96         40.07        6.4493    1   1   0         4
+                22.04         14.12        4.6833    2   0   0         2
+                23.23          8.08        4.4466    0   2   0         2
+                23.55          3.56        4.3859   -1   1   1         4
+                32.23          6.18        3.2247    2   2   0         4
+                34.95        100.00        2.9810   -2   2   1         4
+                35.38         41.39        2.9459    3   1   0         4
+                36.13          9.98        2.8866   -3   1   1         4
+                41.01         42.09        2.5554   -1   3   1         4
+                41.70         40.67        2.5151    0   0   2         2
+                41.80         48.98        2.5090    2   2   1         4
+                41.82          2.07        2.5081   -1   1   2         4
+                44.15          1.44        2.3817    1   3   1         4
+                44.95          4.03        2.3417    4   0   0         2
+                45.87          4.44        2.2973    3   1   1         4
+                47.68          1.81        2.2149   -3   1   2         4
+                47.86         16.16        2.2071    1   1   2         4
+                48.27          2.24        2.1891    0   2   2         4
+                49.21          4.52        2.1498    3   3   0         4
+                49.79         25.51        2.1264   -3   3   1         4
+                50.39         14.19        2.1028   -4   2   1         4
+                52.23          4.72        2.0335    0   4   1         4
+                52.93         14.40        2.0088   -4   0   2         2
+                53.18         10.19        2.0000    2   0   2         2
+                54.33          3.36        1.9607   -1   3   2         4
+                54.79          3.16        1.9453   -2   4   1         4
+                56.46          1.66        1.8925   -5   1   1         4
+                57.71          6.71        1.8549    3   3   1         4
+                59.41          1.18        1.8064    1   3   2         4
+                59.85          2.34        1.7944    2   4   1         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,26 @@
+      Pentlandite
+      Alsen N
+      Geologiska Foreningens i Stockholm Forhandlingar 47 (1925) 19-73
+      Roentgenographische Untersuchungen der Kristallstrukturen von
+      Magnetkies, Breithauptit, Pentlandit, Millerit und verwandten
+      Verbindungen
+      _cod_database_code 1011181
+      _database_code_amcsd 0018056
+      CELL PARAMETERS:  10.0400 10.0400 10.0400   90.000   90.000   90.000
+      SPACE GROUP: Fm3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1012.048
+      Density (g/cm3):      4.690
+      MAX. ABS. INTENSITY / VOLUME**2:      68.15269755    
+      RIR:      6.784
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                17.77         24.89        5.7966    1   1   1         8
+                34.40         12.30        3.0272    3   1   1        24
+                35.98        100.00        2.8983    2   2   2         8
+                41.79         11.17        2.5100    4   0   0         6
+                45.74          4.87        2.3033    3   3   1        24
+                55.20          2.55        1.9322    5   1   1        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

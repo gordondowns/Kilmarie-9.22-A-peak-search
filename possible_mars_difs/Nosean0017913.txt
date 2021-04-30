@@ -1,0 +1,40 @@
+      Nosean
+      Barth T
+      Zeitschrift fur Kristallographie 83 (1932) 405-414
+      The Structures of the Minerals of the Sodalite Family
+      _cod_database_code 1010998
+      _database_code_amcsd 0017913
+      CELL PARAMETERS:   9.0500  9.0500  9.0500   90.000   90.000   90.000
+      SPACE GROUP: P-43m     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    741.218
+      Density (g/cm3):      2.227
+      MAX. ABS. INTENSITY / VOLUME**2:      11.51073869    
+      RIR:      2.412
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                11.35         80.35        9.0500    1   0   0         6
+                16.08         49.31        6.3993    1   1   0        12
+                19.73         15.97        5.2250    1   1   1         4
+                22.82          8.41        4.5250    2   0   0         6
+                25.56          2.26        4.0473    2   1   0        24
+                28.04        100.00        3.6946    2   1   1        12
+                34.52          1.59        3.0167    3   0   0         6
+                34.52          2.84        3.0167    2   2   1        12
+                36.45         25.84        2.8619    3   1   0        24
+                38.30          6.00        2.7287    3   1   1        12
+                40.08         31.41        2.6125    2   2   2         4
+                41.79          1.51        2.5100    3   2   0        24
+                43.44          6.38        2.4187    3   2   1        24
+                46.61          4.08        2.2625    4   0   0         6
+                48.14          1.06        2.1949    4   1   0        24
+                49.62          4.35        2.1331    4   1   1        12
+                49.62         15.74        2.1331    3   3   0        12
+                51.08          6.40        2.0762    3   3   1        12
+                53.91          2.30        1.9749    4   2   1        24
+                55.28          6.36        1.9295    3   3   2        12
+                57.97          2.90        1.8473    4   2   2        12
+                59.28          2.58        1.8100    4   3   0        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

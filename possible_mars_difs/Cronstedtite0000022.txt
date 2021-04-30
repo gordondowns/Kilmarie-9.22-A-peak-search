@@ -1,0 +1,27 @@
+      Cronstedtite
+      Hendricks S B
+      American Mineralogist 24 (1939) 529-539
+      Random structures of layer minerals as illustrated by cronstedtite
+      (2FeO.Fe2O3.SiO2.2H2O). Possible iron content of kaolin
+      _database_code_amcsd 0000022
+      CELL PARAMETERS:   3.1600  3.1600 21.2500   90.000   90.000  120.000
+      SPACE GROUP: R3        
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    183.765
+      Density (g/cm3):      3.946
+      MAX. ABS. INTENSITY / VOLUME**2:      27.12190452    
+      RIR:      3.209
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                14.52         18.37        7.0833    0   0   3         1
+                29.28        100.00        3.5417    0   0   6         1
+                38.51         38.71        2.7142    1   0   1         3
+                39.48          5.17        2.6501    0   1   2         3
+                43.18         67.34        2.4328    1   0   4         3
+                44.56          4.07        2.3611    0   0   9         1
+                45.79         32.74        2.3009    0   1   5         3
+                52.26          5.41        2.0326    1   0   7         3
+                56.02          6.96        1.9060    0   1   8         3
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

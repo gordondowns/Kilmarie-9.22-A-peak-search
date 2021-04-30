@@ -1,0 +1,25 @@
+      Cattierite
+      Nowack E, Schwarzenbach D, Hahn T
+      Acta Crystallographica B47 (1991) 650-659
+      Charge densities in CoS2 and NiS2 (pyrite structure)
+      Note: multipole model
+      Locality: synthetic
+      _database_code_amcsd 0009852
+      CELL PARAMETERS:   5.5385  5.5385  5.5385   90.000   90.000   90.000
+      SPACE GROUP: Pa3       
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    169.893
+      Density (g/cm3):      4.811
+      MAX. ABS. INTENSITY / VOLUME**2:      36.44538329    
+      RIR:      3.537
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                32.51         35.07        3.1977    1   1   1         8
+                37.72        100.00        2.7692    2   0   0         6
+                42.37         43.29        2.4769    2   1   0        12
+                46.64         37.56        2.2611    2   1   1        24
+                54.41         49.65        1.9582    2   2   0        12
+                58.01          1.06        1.8462    2   2   1        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

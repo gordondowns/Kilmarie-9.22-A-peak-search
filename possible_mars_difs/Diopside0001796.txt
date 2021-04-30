@@ -1,0 +1,44 @@
+      Diopside
+      Harlow G E
+      American Mineralogist 81 (1996) 632-638
+      Structure refinement of a natural K-rich diopside: The effect of K on the
+      average structure
+      _database_code_amcsd 0001796
+      CELL PARAMETERS:   9.7476  8.9478  5.2622   90.000  106.056   90.000
+      SPACE GROUP: C2/c      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    441.063
+      Density (g/cm3):      3.287
+      MAX. ABS. INTENSITY / VOLUME**2:      8.337674856    
+      RIR:      1.184
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                23.08          4.06        4.4739    0   2   0         2
+                28.32          1.57        3.6596    1   1   1         4
+                30.99         10.11        3.3508    0   2   1         4
+                32.13         25.28        3.2351    2   2   0         4
+                34.75        100.00        2.9975   -2   2   1         4
+                35.35         31.54        2.9481    3   1   0         4
+                35.99         33.46        2.8973   -3   1   1         4
+                40.74         27.66        2.5714   -1   3   1         4
+                41.31          1.83        2.5376   -2   0   2         2
+                41.47         41.25        2.5285    0   0   2         2
+                41.69         40.73        2.5157    2   2   1         4
+                45.83         15.14        2.2990    3   1   1         4
+                47.65         10.09        2.2159    1   1   2         4
+                47.85          1.25        2.2073   -2   2   2         4
+                47.99          8.29        2.2012    0   2   2         4
+                49.04          8.00        2.1568    3   3   0         4
+                49.54         19.02        2.1366   -3   3   1         4
+                50.22          8.76        2.1096   -4   2   1         4
+                51.90         16.60        2.0457    0   4   1         4
+                52.64         11.54        2.0189   -4   0   2         2
+                53.03          7.33        2.0052    2   0   2         2
+                53.96          6.08        1.9731   -1   3   2         4
+                57.54          2.19        1.8598    3   3   1         4
+                58.44          5.67        1.8337    5   1   0         4
+                58.58          2.74        1.8298    2   2   2         4
+                59.10          2.81        1.8149    1   3   2         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

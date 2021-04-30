@@ -1,0 +1,19 @@
+      Nickel
+      Hull A W
+      Physical Review 10 (1917) 661-696
+      A new method of x-ray crystal analysis
+      Locality: synthetic
+      _database_code_amcsd 0015113
+      CELL PARAMETERS:   3.5200  3.5200  3.5200   90.000   90.000   90.000
+      SPACE GROUP: Fm3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     43.614
+      Density (g/cm3):      8.937
+      MAX. ABS. INTENSITY / VOLUME**2:      205.7235258    
+      RIR:     10.745
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                52.27        100.00        2.0323    1   1   1         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

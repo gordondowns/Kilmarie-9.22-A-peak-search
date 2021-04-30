@@ -1,0 +1,29 @@
+      Cobaltpentlandite
+      Lindqvist M, Lindqvist D, Westgren A
+      Svensk Kemisk Tidskrift 48 (1936) 156-160
+      The crystal structure of Co9 S8 and of pentlandite (Ni Fe)9 S8
+      _cod_database_code 1011206
+      _database_code_amcsd 0018076
+      CELL PARAMETERS:   9.9270  9.9270  9.9270   90.000   90.000   90.000
+      SPACE GROUP: Fm3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    978.260
+      Density (g/cm3):      5.342
+      MAX. ABS. INTENSITY / VOLUME**2:      54.99297383    
+      RIR:      4.805
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                17.97         40.41        5.7314    1   1   1         8
+                20.78          6.44        4.9635    2   0   0         6
+                29.55          5.32        3.5097    2   2   0        12
+                34.80        100.00        2.9931    3   1   1        24
+                36.40         21.35        2.8657    2   2   2         8
+                42.29          7.85        2.4818    4   0   0         6
+                46.29          9.88        2.2774    3   3   1        24
+                47.56          2.72        2.2197    4   2   0        24
+                52.43          1.99        2.0263    4   2   2        24
+                55.88         23.72        1.9105    5   1   1        24
+                55.88          7.91        1.9105    3   3   3         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

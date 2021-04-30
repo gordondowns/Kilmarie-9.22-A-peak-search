@@ -1,0 +1,31 @@
+      Pyrope
+      Nakatsuka A, Yoshiasa A, Yamanaka T, Ohtaka O, Katsura T, Ito E
+      American Mineralogist 84 (1999) 1135-1143
+      Symmetry change of majorite solid-solution in the system Mg3Al2Si3O12-MgSiO3
+      Sample: x = .38
+      _database_code_amcsd 0002258
+      CELL PARAMETERS:  11.4833 11.4833 11.4833   90.000   90.000   90.000
+      SPACE GROUP: Ia-3d     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1514.259
+      Density (g/cm3):      3.531
+      MAX. ABS. INTENSITY / VOLUME**2:      9.714739500    
+      RIR:      1.284
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                22.02          7.17        4.6880    2   1   1        24
+                25.47          1.51        4.0600    2   2   0        12
+                33.92          7.14        3.0690    3   2   1        48
+                36.34         58.46        2.8708    4   0   0         6
+                40.80        100.00        2.5677    4   2   0        24
+                42.89         35.32        2.4482    3   3   2        24
+                44.90         23.41        2.3440    4   2   2        24
+                46.84         25.56        2.2521    4   3   1        48
+                50.55         11.19        2.0966    5   2   1        48
+                52.33          2.26        2.0300    4   4   0        12
+                57.44          6.53        1.8628    5   3   2        48
+                57.44         10.90        1.8628    6   1   1        24
+                59.08          7.24        1.8157    6   2   0        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

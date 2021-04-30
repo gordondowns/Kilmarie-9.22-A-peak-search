@@ -1,0 +1,50 @@
+      Phlogopite
+      Brigatti M F, Medici L, Poppi L, Vaccaro C
+      The Canadian Mineralogist 39 (2001) 1333-1345
+      Crystal chemistry of trioctahedral micas - 1M from the Alto Paranaiba
+      Igneous Province, Southeastern Brazil
+      Sample: Ma1, titanian
+      Locality: Alto Paranaiba Igneous Province, Southeastern Brazil
+      _database_code_amcsd 0005752
+      CELL PARAMETERS:   5.3170  9.2080 10.1180   90.000  100.150   90.000
+      SPACE GROUP: C2/m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    487.614
+      Density (g/cm3):      4.285
+      MAX. ABS. INTENSITY / VOLUME**2:      109.8736703    
+      RIR:     11.969
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                10.31        100.00        9.9597    0   0   1         2
+                20.71         11.52        4.9798    0   0   2         2
+                22.42          4.43        4.6040    0   2   0         2
+                22.69          1.89        4.5501    1   1   0         4
+                23.47          7.21        4.4014   -1   1   1         4
+                24.74          3.38        4.1791    0   2   1         4
+                28.40         10.30        3.6490   -1   1   2         4
+                31.28         13.57        3.3199    0   0   3         2
+                33.25          9.02        3.1288    1   1   2         4
+                38.83          3.20        2.6928    0   2   3         4
+                39.52          1.55        2.6476    1   3   0         4
+                40.00         14.16        2.6174   -1   3   1         4
+                40.01          7.19        2.6169    2   0   0         2
+                41.87          1.38        2.5055   -2   0   2         2
+                41.89          2.73        2.5039    1   3   1         4
+                42.14          3.47        2.4899    0   0   4         2
+                43.24         10.48        2.4292   -1   3   2         4
+                43.27          5.31        2.4280    2   0   1         2
+                44.97          1.41        2.3405   -1   1   4         4
+                45.90          1.47        2.2956   -2   2   1         4
+                46.72          2.33        2.2577   -2   0   3         2
+                46.76          4.56        2.2559    1   3   2         4
+                47.04          2.53        2.2429    0   4   1         4
+                48.82          7.05        2.1662   -1   3   3         4
+                48.85          3.55        2.1647    2   0   2         2
+                49.27          1.11        2.1477    2   2   1         4
+                53.55          2.14        1.9872   -2   0   4         2
+                53.60          4.22        1.9855    1   3   3         4
+                56.20          2.61        1.9003   -1   3   4         4
+                56.25          1.32        1.8989    2   0   3         2
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

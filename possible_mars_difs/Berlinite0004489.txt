@@ -1,0 +1,29 @@
+      Berlinite
+      Onac B P, Effenberger H S
+      American Mineralogist 92 (2007) 1998-2001
+      Re-examination of berlinite (AlPO4) from the Cioclovina Cave, Romania
+      Locality: Cioclovina Cave, Romania
+      _database_code_amcsd 0004489
+      CELL PARAMETERS:   4.9458  4.9458 10.9526   90.000   90.000  120.000
+      SPACE GROUP: P3_121    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    232.018
+      Density (g/cm3):      2.618
+      MAX. ABS. INTENSITY / VOLUME**2:      24.12978730    
+      RIR:      4.302
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                24.13         21.21        4.2832    1   0   0         6
+                25.94          1.88        3.9890    1   0   1         6
+                30.77         71.69        3.3738    0   1   2         6
+                30.77         28.31        3.3738    1   0   2         6
+                42.44          7.30        2.4729    1   1   0         3
+                45.66          1.14        2.3070    0   1   4         6
+                45.66          6.81        2.3070    1   0   4         6
+                46.80          3.71        2.2538    1   1   2         6
+                49.41          5.77        2.1416    2   0   0         6
+                53.33          1.79        1.9945    2   0   2         6
+                58.39         10.51        1.8352    1   1   4         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

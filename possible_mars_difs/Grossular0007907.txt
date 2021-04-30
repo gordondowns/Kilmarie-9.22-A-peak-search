@@ -1,0 +1,30 @@
+      Grossular
+      Quartieri S, Chaboy J, Merli M, Oberti R, Ungaretti L
+      Physics and Chemistry of Minerals 22 (1995) 159-169
+      Local structural environment of calcium in garnets:
+      A combined structure-refinement and XANES investigation
+      Note: sample GRO
+      Locality: Val di Fassa, Italy
+      _database_code_amcsd 0007907
+      CELL PARAMETERS:  11.8710 11.8710 11.8710   90.000   90.000   90.000
+      SPACE GROUP: Ia-3d     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1672.869
+      Density (g/cm3):      3.621
+      MAX. ABS. INTENSITY / VOLUME**2:      17.88996742    
+      RIR:      2.306
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                35.11         39.11        2.9678    4   0   0         6
+                39.42        100.00        2.6544    4   2   0        24
+                41.43          7.26        2.5309    3   3   2        24
+                43.36         22.45        2.4232    4   2   2        24
+                45.23         14.35        2.3281    4   3   1        48
+                48.79         12.85        2.1673    5   2   1        48
+                50.50          2.29        2.0985    4   4   0        12
+                55.40          9.89        1.9257    5   3   2        48
+                55.40         11.14        1.9257    6   1   1        24
+                56.97          2.07        1.8770    6   2   0        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

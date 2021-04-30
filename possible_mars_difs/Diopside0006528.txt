@@ -1,0 +1,50 @@
+      Diopside
+      Tribaudino M, Molin G M, Bruno E
+      European Journal of Mineralogy 6 (1994) 77-86
+      Effect of Al on enstatite solubility in CMAS clinopyroxenes:
+      2 - Crystal chemical considerations
+      Sample: Di75En10CaTs15
+      _database_code_amcsd 0006528
+      CELL PARAMETERS:   9.7070  8.8630  5.2670   90.000  106.270   90.000
+      SPACE GROUP: C2/c      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    434.989
+      Density (g/cm3):      2.991
+      MAX. ABS. INTENSITY / VOLUME**2:      6.206012452    
+      RIR:      0.968
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                16.02          3.43        6.4220    1   1   0         4
+                22.15          6.57        4.6591    2   0   0         2
+                23.31         20.58        4.4315    0   2   0         2
+                23.43          9.84        4.4077   -1   1   1         4
+                28.43          1.80        3.6452    1   1   1         4
+                31.16         28.23        3.3326    0   2   1         4
+                32.37         12.60        3.2110    2   2   0         4
+                34.92        100.00        2.9838   -2   2   1         4
+                35.56         47.08        2.9313    3   1   0         4
+                36.10         22.80        2.8889   -3   1   1         4
+                41.04         22.17        2.5539   -1   3   1         4
+                41.27          9.66        2.5403   -2   0   2         2
+                41.48         35.12        2.5280    0   0   2         2
+                41.95         38.44        2.5008    2   2   1         4
+                44.26          5.06        2.3762    1   3   1         4
+                46.08         10.06        2.2871    3   1   1         4
+                47.76         15.63        2.2113    1   1   2         4
+                48.11          5.06        2.1959    0   2   2         4
+                49.44          5.56        2.1407    3   3   0         4
+                49.85         16.15        2.1240   -3   3   1         4
+                50.46          6.46        2.1001   -4   2   1         4
+                52.35         13.86        2.0294    0   4   1         4
+                52.67          8.85        2.0179   -4   0   2         2
+                53.19          4.84        1.9996    2   0   2         2
+                54.18          4.55        1.9658   -1   3   2         4
+                54.89          4.06        1.9423   -2   4   1         4
+                56.58          2.78        1.8888   -5   1   1         4
+                58.34          2.80        1.8364   -4   2   2         4
+                58.79          6.32        1.8238    5   1   0         4
+                58.83          1.31        1.8226    2   2   2         4
+                59.40          1.39        1.8067    1   3   2         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

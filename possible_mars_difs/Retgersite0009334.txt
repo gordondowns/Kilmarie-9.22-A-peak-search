@@ -1,0 +1,51 @@
+      Retgersite
+      Rousseau B, Maes S T, Lenstra A T H
+      Acta Crystallographica A56 (2000) 300-307
+      Systematic intensity errors and model imperfection
+      as the consequence of spectral truncation
+      Locality: synthetic
+      _database_code_amcsd 0009334
+      CELL PARAMETERS:   6.7820  6.7820 18.2740   90.000   90.000   90.000
+      SPACE GROUP: P4_12_12  
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    840.522
+      Density (g/cm3):      2.077
+      MAX. ABS. INTENSITY / VOLUME**2:      15.93805797    
+      RIR:      3.582
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                16.19          9.73        6.3582    1   0   1         8
+                22.25          7.34        4.6385    1   1   1         8
+                22.60         32.84        4.5685    0   0   4         2
+                22.78          1.03        4.5318    1   0   3         8
+                24.34        100.00        4.2463    1   1   2         8
+                27.49          4.86        3.7680    1   1   3         8
+                30.61          9.15        3.3910    2   0   0         4
+                31.15          4.69        3.3341    2   0   1         8
+                32.71          1.96        3.1791    2   0   2         8
+                34.33          1.13        3.0330    2   1   0         8
+                35.17         15.14        2.9628    2   0   3         8
+                35.87          2.38        2.9068    1   1   5         8
+                36.24          2.02        2.8786    2   1   2         8
+                37.59          1.54        2.7784    1   0   6         8
+                38.39         16.13        2.7229    2   0   4         8
+                40.75         12.12        2.5710    1   1   6         8
+                41.50          5.04        2.5268    2   1   4         8
+                45.10         10.76        2.3340    2   1   5         8
+                45.96          1.15        2.2929    1   1   7         8
+                47.03          1.20        2.2436    3   0   1         8
+                49.70          6.66        2.1300    3   1   1         8
+                49.87          3.42        2.1231    2   2   4         8
+                49.97          3.83        2.1194    3   0   3         8
+                50.77          4.76        2.0879    3   1   2         8
+                52.44          1.30        2.0262    3   0   4         8
+                52.53          3.37        2.0229    3   1   3         8
+                53.80          3.66        1.9786    2   1   7         8
+                54.91          1.11        1.9414    3   1   4         8
+                56.39          5.24        1.8945    2   0   8         8
+                56.83          1.94        1.8810    3   2   0         8
+                57.89          4.51        1.8497    3   1   5         8
+                58.76          2.75        1.8247    2   1   8         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

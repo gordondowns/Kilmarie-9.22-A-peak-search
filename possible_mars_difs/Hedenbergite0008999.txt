@@ -1,0 +1,51 @@
+      Hedenbergite
+      Heuer M, Huber A L, Bromiley G D, Fehr K T, Bente K
+      Physics and Chemistry of Minerals 32 (2005) 552-563
+      Characterization of synthetic hedenbergite (CaFeSi2O6)-petedunnite (CaZnSi2O6)
+      solid solution series by X-ray single crystal diffraction
+      Sample: hd8b41a
+      _database_code_amcsd 0008999
+      CELL PARAMETERS:   9.8605  9.0304  5.2690   90.000  105.138   90.000
+      SPACE GROUP: C2/c      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    452.894
+      Density (g/cm3):      3.668
+      MAX. ABS. INTENSITY / VOLUME**2:      14.09505436    
+      RIR:      1.794
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                15.71         27.23        6.5512    1   1   0         4
+                21.68         12.36        4.7592    2   0   0         2
+                22.87          6.18        4.5152    0   2   0         2
+                23.36          2.53        4.4208   -1   1   1         4
+                31.72          8.17        3.2756    2   2   0         4
+                34.59        100.00        3.0113   -2   2   1         4
+                34.80         38.58        2.9934    3   1   0         4
+                35.80          9.68        2.9124   -3   1   1         4
+                40.47         34.49        2.5883   -1   3   1         4
+                41.05         47.06        2.5529    2   2   1         4
+                41.22         40.50        2.5431    0   0   2         2
+                41.46          2.31        2.5290   -1   1   2         4
+                43.43          1.10        2.4193    1   3   1         4
+                44.19          3.09        2.3796    4   0   0         2
+                44.98          4.23        2.3400    3   1   1         4
+                46.72          1.02        2.2576    0   4   0         2
+                47.13         13.30        2.2389    1   1   2         4
+                47.38          1.17        2.2278   -3   1   2         4
+                47.65          2.31        2.2158    0   2   2         4
+                48.40          4.02        2.1837    3   3   0         4
+                49.17         22.83        2.1517   -3   3   1         4
+                49.79         13.66        2.1264   -4   2   1         4
+                51.42          4.73        2.0635    0   4   1         4
+                52.24          9.65        2.0331    2   0   2         2
+                52.59         12.70        2.0206   -4   0   2         2
+                53.68          3.10        1.9824   -1   3   2         4
+                54.02          1.97        1.9709   -2   4   1         4
+                55.76          1.17        1.9142   -5   1   1         4
+                56.62          5.51        1.8874    3   3   1         4
+                58.46          1.32        1.8331    1   3   2         4
+                58.78          2.04        1.8240    2   4   1         4
+                59.52          3.78        1.8034    4   2   1         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

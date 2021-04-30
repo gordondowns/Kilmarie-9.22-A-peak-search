@@ -1,0 +1,52 @@
+      Laihunite
+      Ferrifayalite Research Group
+      Acta Geologica Sinica 50 (1976) 161-175
+      Ferrifayalite and its crystal structure
+      Locality: Liaoning Province, China
+      Note: Reported SiO bond lengths of 1.9 could not be reproduced
+      _database_code_amcsd 0011976
+      CELL PARAMETERS:   4.8080 10.1710  5.8240   90.000   90.000   90.000
+      SPACE GROUP: P2_1/b    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    284.806
+      Density (g/cm3):      4.101
+      MAX. ABS. INTENSITY / VOLUME**2:      16.27101369    
+      RIR:      1.852
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                17.68         33.88        5.8240    0   0   1         2
+                20.28          5.66        5.0855    0   2   0         2
+                23.77          3.62        4.3468    1   1   0         4
+                27.03          8.09        3.8306    0  -2   1         2
+                27.03         35.99        3.8306    0   2   1         2
+                29.69          6.81        3.4938    1   2   0         4
+                29.78          6.04        3.4835    1  -1   1         4
+                29.78         93.96        3.4835    1   1   1         4
+                34.77          1.84        2.9960    1  -2   1         4
+                34.77          4.71        2.9960    1   2   1         4
+                35.81         15.89        2.9120    0   0   2         2
+                37.70         33.45        2.7708    1   3   0         4
+                41.22          4.84        2.5427    0   4   0         2
+                41.49          9.50        2.5270    0   2   2         2
+                41.49          2.85        2.5270    0  -2   2         2
+                41.93         63.94        2.5020    1  -3   1         4
+                41.93         14.32        2.5020    1   3   1         4
+                43.43         43.51        2.4193    1  -1   2         4
+                43.43         11.04        2.4193    1   1   2         4
+                43.72          6.37        2.4040    2   0   0         2
+                44.99          2.53        2.3395    2   1   0         4
+                45.18          2.16        2.3303    0  -4   1         2
+                45.18         12.35        2.3303    0   4   1         2
+                46.94          9.80        2.2478    1   4   0         4
+                47.18          3.25        2.2369    1   2   2         4
+                47.18          6.62        2.2369    1  -2   2         4
+                47.51          1.67        2.2221    2   0   1         4
+                48.64          1.42        2.1734    2   2   0         4
+                48.70          4.29        2.1709    2   1   1         4
+                48.70          3.68        2.1709    2  -1   1         4
+                52.16          8.04        2.0362    2  -2   1         4
+                52.16          2.63        2.0362    2   2   1         4
+                57.74          5.38        1.8539    2   0   2         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,25 @@
+      Bohmite
+      Hill R J
+      Clays and Clay Minerals 29 (1981) 435-445
+      Hydrogen atoms in boehmite: A single crystal X-ray diffraction and
+      molecular orbital study
+      Locality: Tveidalen, Langesundsfjorden, Norway
+      _database_code_amcsd 0019146
+      CELL PARAMETERS:   3.6930 12.2210  2.8650   90.000   90.000   90.000
+      SPACE GROUP: Amam      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    129.304
+      Density (g/cm3):      3.033
+      MAX. ABS. INTENSITY / VOLUME**2:      18.20098624    
+      RIR:      2.801
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                16.85        100.00        6.1105    0   2   0         2
+                32.90         43.99        3.1606    1   2   0         4
+                44.91         35.48        2.3435    0   3   1         4
+                53.79          4.06        1.9787    1   3   1         8
+                57.55         28.43        1.8595    0   5   1         4
+                58.00         18.36        1.8465    2   0   0         2
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,26 @@
+      Daubreelite
+      Raccah P M, Bouchard R J, Wold A
+      Journal of Applied Physics 37 (1966) 1436-1437
+      Crystallographic study of chromium spinels
+      Locality: synthetic
+      _database_code_amcsd 0012905
+      CELL PARAMETERS:   9.9950  9.9950  9.9950   90.000   90.000   90.000
+      SPACE GROUP: Fd-3m     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    998.501
+      Density (g/cm3):      3.832
+      MAX. ABS. INTENSITY / VOLUME**2:      32.13218710    
+      RIR:      3.914
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                17.85         14.35        5.7706    1   1   1         8
+                29.35         34.76        3.5338    2   2   0        12
+                34.56        100.00        3.0136    3   1   1        24
+                36.15          1.53        2.8853    2   2   2         8
+                41.98         51.37        2.4987    4   0   0         6
+                52.05         11.29        2.0402    4   2   2        24
+                55.47         41.75        1.9235    5   1   1        24
+                55.47          3.48        1.9235    3   3   3         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

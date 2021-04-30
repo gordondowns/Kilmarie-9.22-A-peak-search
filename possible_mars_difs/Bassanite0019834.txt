@@ -1,0 +1,42 @@
+      Bassanite
+      Schmidt H, Paschke I, Freyer D, Voigt W
+      Acta Crystallographica B67 (2011) 467-475
+      Water channel structure of bassanite at high air humidity:
+      crystal structure of CaSO4*0.625H2O
+      Note: at 75% humidity
+      Locality: synthetic
+      _database_code_amcsd 0019834
+      CELL PARAMETERS:  13.8690 13.8690 12.7189   90.000   90.000  120.000
+      SPACE GROUP: P3_221    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   2118.705
+      Density (g/cm3):      2.772
+      MAX. ABS. INTENSITY / VOLUME**2:      9.648565996    
+      RIR:      1.625
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                17.14         80.04        6.0055    2   0   0         6
+                23.66          3.89        4.3663    0   2   2         6
+                29.92         55.67        3.4673    2   2   0         3
+                34.20         10.70        3.0442    2   2   2         6
+                34.69         96.00        3.0027    4   0   0         6
+                37.15         24.67        2.8101    0   2   4         6
+                37.15         75.33        2.8101    2   0   4         6
+                38.50          7.75        2.7153    4   0   2         6
+                40.21          1.59        2.6044    1   2   4         6
+                44.91          7.89        2.3435    2   2   4         6
+                46.45          5.29        2.2698    4   2   0         6
+                47.35          2.35        2.2294    1   4   3         6
+                48.41          4.64        2.1831    4   0   4         6
+                49.51          2.76        2.1378    2   4   2         6
+                49.51         16.40        2.1378    4   2   2         6
+                49.96          8.36        2.1198    0   0   6         2
+                52.34          1.21        2.0295    3   3   3         6
+                53.12          1.32        2.0018    6   0   0         6
+                55.91          4.18        1.9095    0   6   2         6
+                55.91          2.20        1.9095    6   0   2         6
+                57.96         50.62        1.8474    2   4   4         6
+                57.96          6.46        1.8474    4   2   4         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

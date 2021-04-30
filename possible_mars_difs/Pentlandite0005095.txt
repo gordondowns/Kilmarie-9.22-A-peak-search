@@ -1,0 +1,29 @@
+      Pentlandite
+      Rajamani V, Prewitt C T
+      The Canadian Mineralogist 12 (1973) 178-187
+      Crystal chemistry of natural pentlandite
+      Locality: Frood Mine, Ontario, Canada
+      _database_code_amcsd 0005095
+      CELL PARAMETERS:  10.0380 10.0380 10.0380   90.000   90.000   90.000
+      SPACE GROUP: Fm3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1011.443
+      Density (g/cm3):      5.048
+      MAX. ABS. INTENSITY / VOLUME**2:      51.23144299    
+      RIR:      4.738
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                17.77         27.90        5.7954    1   1   1         8
+                20.55          5.30        5.0190    2   0   0         6
+                29.22          5.65        3.5490    2   2   0        12
+                34.41        100.00        3.0266    3   1   1        24
+                35.99         22.79        2.8977    2   2   2         8
+                41.80          8.45        2.5095    4   0   0         6
+                45.75         17.79        2.3029    3   3   1        24
+                47.01          3.19        2.2446    4   2   0        24
+                51.81          1.87        2.0490    4   2   2        24
+                55.21         31.63        1.9318    5   1   1        24
+                55.21          6.06        1.9318    3   3   3         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

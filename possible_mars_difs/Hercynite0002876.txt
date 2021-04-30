@@ -1,0 +1,24 @@
+      Hercynite
+      Andreozzi G B, Lucchesi S
+      American Mineralogist 87 (2002) 1113-1120
+      Intersite distribution of Fe2+ and Mg in the spinel (sensu stricto) -
+      hercynite series by single-crystal X-ray diffraction
+      Sample: He4b/d
+      _database_code_amcsd 0002876
+      CELL PARAMETERS:   8.1071  8.1071  8.1071   90.000   90.000   90.000
+      SPACE GROUP: Fd3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    532.840
+      Density (g/cm3):      3.775
+      MAX. ABS. INTENSITY / VOLUME**2:      17.74659781    
+      RIR:      2.195
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                22.05         11.01        4.6806    1   1   1         8
+                36.40         44.89        2.8663    2   2   0        12
+                42.96        100.00        2.4444    3   1   1        24
+                52.42         33.81        2.0268    4   0   0         6
+                57.54          1.21        1.8599    3   3   1        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

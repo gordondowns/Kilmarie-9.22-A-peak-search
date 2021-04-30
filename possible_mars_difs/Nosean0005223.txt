@@ -1,0 +1,29 @@
+      Nosean
+      Hassan I, Grundy H D
+      The Canadian Mineralogist 27 (1989) 165-172
+      The structure of nosean, ideally Na8(Al6Si6O24)SO4.H2O
+      Note: O2 z-coordinate has been corrected according to the ICSD
+      _database_code_amcsd 0005223
+      CELL PARAMETERS:   9.0840  9.0840  9.0840   90.000   90.000   90.000
+      SPACE GROUP: P-43n     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    749.603
+      Density (g/cm3):      2.245
+      MAX. ABS. INTENSITY / VOLUME**2:      11.70077622    
+      RIR:      2.433
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                16.02         39.91        6.4234    1   1   0        12
+                22.73          3.91        4.5420    2   0   0         6
+                25.46          1.23        4.0625    2   1   0        24
+                27.94        100.00        3.7085    2   1   1        12
+                36.31         13.14        2.8726    3   1   0        24
+                39.92         24.98        2.6223    2   2   2         4
+                43.27          8.93        2.4278    3   2   1        24
+                46.43          6.64        2.2710    4   0   0         6
+                49.43          1.04        2.1411    4   1   1        12
+                49.43         12.68        2.1411    3   3   0        12
+                55.06          2.68        1.9367    3   3   2        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,54 @@
+      Fluorapatite
+      Hughes J M, Nekvasil H, Ustunisik G, Lindsley D H, Coraor A E, Vaughn J, Phillips B L,
+      McCubbin F M, Woerner W R
+      American Mineralogist 99 (2014) 369-376
+      Solid solution in the fluorapatite-chlorapatite binary system: High-precision crystal
+      structure refinements of synthetic F-Cl apatite.
+      Note: Sample HNF5CL5-8
+      Locality: Synthetic
+      _database_code_amcsd 0020114
+      CELL PARAMETERS:   9.5101  9.5101  6.8300   90.000   90.000  120.000
+      SPACE GROUP: P6_3/m    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    534.960
+      Density (g/cm3):      3.178
+      MAX. ABS. INTENSITY / VOLUME**2:      10.06497886    
+      RIR:      1.478
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                12.48          9.47        8.2360    1   0   0         6
+                19.61          4.88        5.2574    1   0   1        12
+                25.11          2.21        4.1180    2   0   0         6
+                26.52          5.00        3.9024    1   1   1        12
+                29.41          3.15        3.5266    2   0   1        12
+                30.39         31.09        3.4150    0   0   2         2
+                32.97          4.60        3.1546    1   0   2        12
+                33.42         11.11        3.1129    2   1   0         6
+                36.84         31.10        2.8326    1   2   1        12
+                36.84         68.90        2.8326    2   1   1        12
+                37.65         54.49        2.7738    1   1   2        12
+                38.06         70.86        2.7453    3   0   0         6
+                39.82         19.55        2.6287    2   0   2        12
+                41.15          3.81        2.5473    3   0   1        12
+                45.80          2.56        2.3006    1   2   2        12
+                45.80          2.89        2.3006    2   1   2        12
+                46.14          2.56        2.2843    3   1   0         6
+                46.14         17.63        2.2843    1   3   0         6
+                48.81          5.43        2.1663    1   3   1        12
+                49.46          1.54        2.1397    3   0   2        12
+                51.54          1.25        2.0590    4   0   0         6
+                51.69          4.56        2.0534    1   1   3        12
+                53.39          2.92        1.9924    2   0   3        12
+                54.61         30.43        1.9512    2   2   2        12
+                56.26          6.01        1.8987    1   3   2        12
+                56.26          5.15        1.8987    3   1   2        12
+                56.56          1.30        1.8895    2   3   0         6
+                58.30         19.48        1.8376    2   1   3        12
+                58.30          9.63        1.8376    1   2   3        12
+                58.89          2.78        1.8211    2   3   1        12
+                58.89          2.54        1.8211    3   2   1        12
+                59.74          2.05        1.7972    1   4   0         6
+                59.74          2.51        1.7972    4   1   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

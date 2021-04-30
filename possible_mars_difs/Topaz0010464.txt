@@ -1,0 +1,48 @@
+      Topaz
+      Chen J, Lager G A, Kunz M, Hansen T C, Ulmer P
+      Acta Crystallographica E61 (2005) i253-i255
+      A Rietveld refinement using neutron powder diffraction data of a
+      fully deuterated topaz, Al2SiO4(OD)2
+      Locality: synthetic
+      _database_code_amcsd 0010464
+      CELL PARAMETERS:   4.7282  8.9320  8.4309   90.000   90.000   90.000
+      SPACE GROUP: Pbnm      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    356.056
+      Density (g/cm3):      3.359
+      MAX. ABS. INTENSITY / VOLUME**2:      5.384854137    
+      RIR:      0.748
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                23.12          5.48        4.4660    0   2   0         2
+                24.74          7.02        4.1788    1   1   0         4
+                26.22          3.38        3.9465    0   2   1         4
+                27.66         58.94        3.7441    1   1   1         8
+                32.01         72.51        3.2467    1   2   0         4
+                33.96         27.69        3.0655    0   2   2         4
+                34.37         15.50        3.0298    1   2   1         8
+                35.11        100.00        2.9677    1   1   2         8
+                41.62         23.41        2.5194    1   3   0         4
+                43.50          5.50        2.4158    1   0   3         4
+                43.53         19.45        2.4140    1   3   1         8
+                44.21         51.87        2.3786    0   2   3         4
+                44.50          1.36        2.3641    2   0   0         2
+                45.15          6.36        2.3320    1   1   3         8
+                46.12          1.85        2.2854    2   1   0         4
+                47.27          8.39        2.2330    0   4   0         2
+                47.88         11.98        2.2058    2   1   1         8
+                49.00          5.41        2.1586    0   4   1         4
+                49.83         52.51        2.1248    1   2   3         8
+                50.73         29.16        2.0894    2   2   0         4
+                52.63          4.60        2.0191    1   4   0         4
+                52.92          7.64        2.0091    2   1   2         8
+                53.95          5.06        1.9732    0   4   2         4
+                54.24          4.15        1.9636    1   4   1         8
+                56.80         20.05        1.8819    1   1   4         8
+                57.00         21.52        1.8759    1   3   3         8
+                57.83          8.66        1.8514    2   3   0         4
+                58.89          6.37        1.8210    1   4   2         8
+                59.34          4.85        1.8083    2   3   1         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

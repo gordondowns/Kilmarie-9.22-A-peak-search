@@ -1,0 +1,54 @@
+      Hydroxylapatite
+      Sudarsanan K, Young R A
+      Acta Crystallographica B25 (1969) 1534-1543
+      Significant precision in crystal structural details: Holly Springs
+      hydroxyapatite
+      Locality: Holly Springs, Cherokee County, Georgia, USA
+      Sample: X-23-6
+      _database_code_amcsd 0009354
+      CELL PARAMETERS:   9.4240  9.4240  6.8790   90.000   90.000  120.000
+      SPACE GROUP: P6_3/m    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    529.086
+      Density (g/cm3):      3.153
+      MAX. ABS. INTENSITY / VOLUME**2:      10.54253747    
+      RIR:      1.561
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                12.59         13.45        8.1614    1   0   0         6
+                19.60          4.12        5.2598    1   0   1        12
+                21.90          2.11        4.7120    1   1   0         6
+                25.34          5.95        4.0807    2   0   0         6
+                26.63          5.86        3.8874    1   1   1        12
+                29.55          2.18        3.5096    2   0   1        12
+                30.17         35.06        3.4395    0   0   2         2
+                32.81          7.92        3.1695    1   0   2        12
+                33.74         14.39        3.0847    2   1   0         6
+                37.09         30.45        2.8147    1   2   1        12
+                37.09         69.55        2.8147    2   1   1        12
+                37.59         48.65        2.7781    1   1   2        12
+                38.42         61.11        2.7205    3   0   0         6
+                39.80         21.50        2.6299    2   0   2        12
+                41.44          3.89        2.5298    3   0   1        12
+                45.88          1.32        2.2964    1   2   2        12
+                45.88          3.61        2.2964    2   1   2        12
+                46.59          4.31        2.2636    3   1   0         6
+                46.59         16.49        2.2636    1   3   0         6
+                47.36          1.75        2.2289    2   2   1        12
+                49.20          1.42        2.1502    3   1   1        12
+                49.20          4.39        2.1502    1   3   1        12
+                49.61          1.10        2.1337    3   0   2        12
+                51.46          4.55        2.0618    1   1   3        12
+                52.04          1.02        2.0404    4   0   0         6
+                53.20          3.55        1.9990    2   0   3        12
+                54.84         29.87        1.9437    2   2   2        12
+                56.51          5.16        1.8908    3   1   2        12
+                56.51          7.28        1.8908    1   3   2        12
+                57.12          1.36        1.8724    2   3   0         6
+                58.21         22.49        1.8403    2   1   3        12
+                58.21          9.86        1.8403    1   2   3        12
+                59.40          2.92        1.8066    3   2   1        12
+                59.40          2.81        1.8066    2   3   1        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,23 @@
+      Oskarssonite
+      Jacobsen M J, Balic-Zunic T, Mitolo D, Katerinopoulou A, Garavelli A, Jakobsson S P
+      Mineralogical Magazine 78 (2014) 215-222
+      Oskarssonite, AlF3, a new fumarolic mineral from Eldfell volcano, Heimaey, Iceland
+      Locality: Eldfell volcano, Heimaey, Iceland
+      _database_code_amcsd 0020042
+      CELL PARAMETERS:   4.9817  4.9817 12.3870   90.000   90.000  120.000
+      SPACE GROUP: R-3c      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    266.227
+      Density (g/cm3):      3.088
+      MAX. ABS. INTENSITY / VOLUME**2:      22.54892397    
+      RIR:      3.408
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                29.29        100.00        3.5401    0   1   2         6
+                41.69          1.90        2.5158    1   0   4         6
+                49.63         10.58        2.1328    1   1   3        12
+                51.39          1.92        2.0645    0   0   6         2
+                52.13          2.56        2.0371    2   0   2         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

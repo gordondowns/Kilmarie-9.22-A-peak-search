@@ -1,0 +1,27 @@
+      Daubreelite
+      Riedel E, Karl R, Rackwitz R
+      Journal of Solid State Chemistry 40 (1981) 255-265
+      Mossbauer studies of thiospinels. V. The systems Cu1-xFexMe2S4  (Me=Cr,Rh) and
+      Cu1-xFexCr2(S.7Se.3)4
+      Locality: synthetic
+      _database_code_amcsd 0013428
+      CELL PARAMETERS:   9.9570  9.9570  9.9570   90.000   90.000   90.000
+      SPACE GROUP: Fd3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    987.155
+      Density (g/cm3):      3.897
+      MAX. ABS. INTENSITY / VOLUME**2:      34.14886156    
+      RIR:      4.090
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                17.92          9.97        5.7487    1   1   1         8
+                29.46         34.34        3.5203    2   2   0        12
+                34.70        100.00        3.0021    3   1   1        24
+                36.29          1.60        2.8743    2   2   2         8
+                42.15         48.48        2.4892    4   0   0         6
+                52.26         11.80        2.0325    4   2   2        24
+                55.70         37.33        1.9162    5   1   1        24
+                55.70          4.24        1.9162    3   3   3         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

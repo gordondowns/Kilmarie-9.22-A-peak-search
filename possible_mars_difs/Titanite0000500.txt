@@ -1,0 +1,43 @@
+      Titanite
+      Speer J A, Gibbs G V
+      American Mineralogist 61 (1976) 238-247
+      The crystal structure of synthetic titanite, CaTiOSiO4, and the domain textures
+      of natural titanites
+      _database_code_amcsd 0000500
+      CELL PARAMETERS:   7.0690  8.7220  6.5660   90.000  113.860   90.000
+      SPACE GROUP: P2_1/a    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    370.234
+      Density (g/cm3):      3.516
+      MAX. ABS. INTENSITY / VOLUME**2:      11.75175014    
+      RIR:      1.560
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                20.85         23.55        4.9460    0   1   1         4
+                23.69          1.33        4.3610    0   2   0         2
+                32.02        100.00        3.2460   -2   1   1         4
+                32.15          3.18        3.2324    2   0   0         2
+                34.35          1.04        3.0310    2   1   0         4
+                34.69         72.27        3.0024    0   0   2         2
+                36.64          6.55        2.8481   -2   0   2         2
+                39.97          1.26        2.6193   -1   2   2         4
+                40.01         63.31        2.6168    0   3   1         4
+                40.33         45.33        2.5969    2   2   0         4
+                44.10          3.78        2.3846   -2   2   2         4
+                44.41          4.36        2.3685    2   1   1         4
+                46.03         17.59        2.2893    1   3   1         4
+                46.40         10.72        2.2721   -3   1   1         4
+                47.20          4.50        2.2357   -2   3   1         4
+                48.48          2.39        2.1805    0   4   0         2
+                50.15          9.68        2.1122   -1   1   3         4
+                50.74          4.27        2.0892    1   2   2         4
+                51.25         16.66        2.0699   -2   1   3         4
+                51.35          9.81        2.0661    1   4   0         4
+                53.61          2.00        1.9849   -3   2   2         4
+                54.62          6.84        1.9509    0   1   3         4
+                56.92          1.22        1.8784    2   3   1         4
+                57.64          3.22        1.8570    2   0   2         2
+                59.37          9.53        1.8077    2   4   0         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

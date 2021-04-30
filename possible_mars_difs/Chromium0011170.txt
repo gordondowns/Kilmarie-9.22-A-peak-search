@@ -1,0 +1,21 @@
+      Chromium
+      Wyckoff R W G
+      Crystal Structures 1 (1963) 7-83
+      Second edition. Interscience Publishers, New York, New York
+      Hexagonal closest packed, hcp, structure
+      _database_code_amcsd 0011170
+      CELL PARAMETERS:   2.7220  2.7220  4.4270   90.000   90.000  120.000
+      SPACE GROUP: P6_3/mmc  
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     28.406
+      Density (g/cm3):      6.078
+      MAX. ABS. INTENSITY / VOLUME**2:      99.25597174    
+      RIR:      7.623
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                44.63         25.53        2.3573    1   0   0         6
+                47.71         27.55        2.2135    0   0   2         2
+                50.96        100.00        2.0807    1   0   1        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

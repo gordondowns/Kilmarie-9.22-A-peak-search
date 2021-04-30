@@ -1,0 +1,26 @@
+      Magnesiochromite
+      O'Neill H St C, Dollase W A
+      Physics and Chemistry of Minerals 20 (1994) 541-555
+      Crystal structures and cation distributions in simple spinels from powder XRD
+      structural refinements: MgCr2O4, ZnCr2O4, Fe3O4 and the temperature dependence
+      of the cation distribution in ZnAl2O4
+      Sample: MgCr2O4/900, results from data collected at UCLA (CuKalpha radiation)
+      _database_code_amcsd 0007762
+      CELL PARAMETERS:   8.3341  8.3341  8.3341   90.000   90.000   90.000
+      SPACE GROUP: Fd-3m     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    578.863
+      Density (g/cm3):      4.412
+      MAX. ABS. INTENSITY / VOLUME**2:      33.42229890    
+      RIR:      3.536
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.44         74.11        4.8117    1   1   1         8
+                35.37         11.74        2.9465    2   2   0        12
+                41.74        100.00        2.5128    3   1   1        24
+                43.69         11.91        2.4058    2   2   2         8
+                50.89         56.46        2.0835    4   0   0         6
+                55.83          5.49        1.9120    3   3   1        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

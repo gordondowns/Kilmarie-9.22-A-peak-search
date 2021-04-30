@@ -1,0 +1,36 @@
+      Antarcticite
+      Leclaire A, Borel M
+      Acta Crystallographica B33 (1977) 2938-2940
+      Le dichlorure et le dibromure de calcium hexahydrates
+      _cod_database_code 1001770
+      _database_code_amcsd 0009607
+      CELL PARAMETERS:   7.8760  7.8760  3.9540   90.000   90.000  120.000
+      SPACE GROUP: P321      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    212.412
+      Density (g/cm3):      1.712
+      MAX. ABS. INTENSITY / VOLUME**2:      4.821777301    
+      RIR:      1.314
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                15.08         67.44        6.8208    1   0   0         6
+                26.17          3.10        3.9540    0   0   1         2
+                26.28         89.51        3.9380    1   1   0         3
+                30.34          3.85        3.4208    0   1   1         6
+                30.34         64.03        3.4208    1   0   1         6
+                30.43          3.48        3.4104    2   0   0         6
+                37.42         79.66        2.7902    1   1   1         6
+                40.56         51.69        2.5825    0   2   1         6
+                40.56         13.56        2.5825    2   0   1         6
+                40.63          9.58        2.5780    2   1   0         6
+                46.37         64.55        2.2736    3   0   0         6
+                48.98         72.77        2.1595    2   1   1         6
+                48.98         27.23        2.1595    1   2   1         6
+                53.84         19.25        1.9770    0   0   2         2
+                54.02          1.39        1.9710    0   3   1         6
+                54.02          1.37        1.9710    3   0   1         6
+                54.08          4.85        1.9690    2   2   0         3
+                56.25         12.56        1.8988    0   1   2         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,66 @@
+      Thaumasite
+      Pekov I V, Chukanov N V, Britvin S N, Kabalov Y K, Gottlicher J, Yapaskurt V O,
+      Zadov A E, Krivovichev S V, Schuller W, Ternes B
+      Mineralogical Magazine 76 (2012) 1133-1152
+      The sulfite anion in ettringite-group minerals: a new mineral species
+      hielscherite, Ca3Si(OH)6(SO4)(SO3)*11H2O, and the thaumasite-hielscherite
+      solid-solution series
+      Note: sample Zb-01, single crystal
+      Locality: Zeilberg basalt quarry, Maroldsweisach, Franconia, Bavaria
+      _database_code_amcsd 0019543
+      CELL PARAMETERS:  11.0700 11.0700 10.4397   90.000   90.000  120.000
+      SPACE GROUP: P6_3      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1107.934
+      Density (g/cm3):      1.783
+      MAX. ABS. INTENSITY / VOLUME**2:      7.874602478    
+      RIR:      2.061
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                10.72        100.00        9.5869    1   0   0         6
+                14.57          2.36        7.0612    1   0   1         6
+                18.61         37.46        5.5350    1   1   0         6
+                21.09          9.83        4.8902    1   1   1         6
+                21.53          2.83        4.7935    2   0   0         6
+                22.52         20.51        4.5844    1   0   2         6
+                23.72          1.98        4.3562    2   0   1         6
+                27.27         39.50        3.7975    1   1   2         6
+                28.60          1.92        3.6235    2   1   0         6
+                29.37         10.87        3.5306    2   0   2         6
+                30.32          6.28        3.4232    1   2   1         6
+                30.32         14.26        3.4232    2   1   1         6
+                31.76          2.00        3.2711    1   0   3         6
+                32.53          9.10        3.1956    3   0   0         6
+                35.38          1.91        2.9460    1   1   3         6
+                38.35         22.85        2.7254    3   0   2         6
+                39.35          1.43        2.6589    1   3   0         6
+                40.12          6.70        2.6099    0   0   4         1
+                40.66          4.86        2.5767    1   3   1         6
+                40.66          2.00        2.5767    3   1   1         6
+                41.79         14.20        2.5099    1   2   3         6
+                41.79          7.09        2.5099    2   1   3         6
+                44.40          1.13        2.3693    1   3   2         6
+                44.40          3.11        2.3693    3   1   2         6
+                45.97          2.52        2.2922    2   0   4         6
+                48.03          3.33        2.1994    3   2   0         6
+                48.03          1.03        2.1994    2   3   0         6
+                48.53          2.37        2.1781    4   0   2         6
+                48.82         20.36        2.1660    2   2   3         6
+                49.16          6.13        2.1521    2   3   1         6
+                50.13          4.71        2.1128    3   1   3         6
+                50.13          6.06        2.1128    1   3   3         6
+                50.67          1.18        2.0920    4   1   0         6
+                52.05          1.26        2.0401    1   0   5         6
+                52.42          3.71        2.0268    2   3   2         6
+                53.94          1.35        1.9739    4   0   3         6
+                54.54          1.74        1.9536    1   1   5         6
+                54.90          2.98        1.9419    4   1   2         6
+                55.66          5.68        1.9174    5   0   0         6
+                57.45          1.12        1.8626    3   1   4         6
+                59.04          1.51        1.8168    3   3   1         6
+                59.31          2.12        1.8091    2   1   5         6
+                59.31          2.04        1.8091    1   2   5         6
+                59.65          1.41        1.7998    5   0   2         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

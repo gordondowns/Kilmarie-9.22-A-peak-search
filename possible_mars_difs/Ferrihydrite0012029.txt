@@ -1,0 +1,25 @@
+      Ferrihydrite
+      Jansen E, Kyek A, Schafer W, Schwertmann U
+      Applied Physics A74 (2002) S1004-S1006
+      The structure of six-line ferrihydrite
+      Locality: synthetic
+      Sample: defect-free refinement
+      _database_code_amcsd 0012029
+      CELL PARAMETERS:   2.9550  2.9550  9.3700   90.000   90.000  120.000
+      SPACE GROUP: P-31c     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     70.857
+      Density (g/cm3):      2.934
+      MAX. ABS. INTENSITY / VOLUME**2:      7.540223587    
+      RIR:      1.200
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                22.03         74.18        4.6850    0   0   2         2
+                40.95         76.31        2.5591    1   0   0         6
+                42.52         43.89        2.4687    1   0   1        12
+                44.93         15.42        2.3425    0   0   4         2
+                46.98         25.19        2.2459    1   0   2        12
+                53.77        100.00        1.9795    1   0   3        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

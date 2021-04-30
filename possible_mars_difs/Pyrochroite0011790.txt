@@ -1,0 +1,25 @@
+      Pyrochroite
+      Wyckoff R W G
+      Crystal Structures 1 (1963) 239-444
+      Second edition. Interscience Publishers, New York, New York
+      Note: cadmium iodide structure
+      _database_code_amcsd 0011790
+      CELL PARAMETERS:   3.3400  3.3400  4.6800   90.000   90.000  120.000
+      SPACE GROUP: P-3m1     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     45.214
+      Density (g/cm3):      3.192
+      MAX. ABS. INTENSITY / VOLUME**2:      31.03141607    
+      RIR:      4.538
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                22.05         80.29        4.6800    0   0   1         2
+                36.05         31.88        2.8925    1   0   0         6
+                42.67          9.82        2.4605    1   0   1         6
+                42.67         90.18        2.4605    0   1   1         6
+                44.98          2.06        2.3400    0   0   2         2
+                58.95         22.37        1.8192    1   0   2         6
+                58.95         22.37        1.8192    0   1   2         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

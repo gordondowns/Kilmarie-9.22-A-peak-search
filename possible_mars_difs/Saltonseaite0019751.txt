@@ -1,0 +1,50 @@
+      Saltonseaite
+      Kampf A R, Mills S J, Nestola F, Ciriotti M E, Kasatkin A V
+      American Mineralogist 98 (2012) 231-235
+      Saltonseaite, K3NaMn2+Cl6, the Mn analogue of rinneite from the Salton Sea, California
+      Locality: Salton Sea, California, USA
+      _database_code_amcsd 0019751
+      CELL PARAMETERS:  12.0966 12.0966 13.9555   90.000   90.000  120.000
+      SPACE GROUP: R-3c      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1768.490
+      Density (g/cm3):      2.298
+      MAX. ABS. INTENSITY / VOLUME**2:      9.724905282    
+      RIR:      1.976
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                17.02         32.10        6.0483    1   1   0         6
+                17.73         51.49        5.8074    0   1   2         6
+                24.68          2.90        4.1890    2   0   2         6
+                27.18          6.00        3.8092    2   1   1        12
+                28.10         11.75        3.6874    1   1   3        12
+                29.71         25.59        3.4920    3   0   0         6
+                30.13          1.21        3.4437    1   2   2        12
+                31.38          9.75        3.3101    1   0   4         6
+                34.43          5.60        3.0241    2   2   0         6
+                35.91         18.93        2.9037    0   2   4         6
+                36.68         62.20        2.8445    1   3   1        12
+                38.99         29.98        2.6823    3   1   2        12
+                39.99         55.60        2.6177    2   1   4        12
+                41.35        100.00        2.5355    2   2   3        12
+                44.41          4.73        2.3685    3   2   1        12
+                45.27         10.07        2.3259    0   0   6         2
+                46.10          7.59        2.2860    4   1   0        12
+                46.21          7.79        2.2813    1   2   5        12
+                46.40          2.82        2.2723    2   3   2        12
+                47.27          8.34        2.2327    1   3   4        12
+                48.70          5.75        2.1709    1   1   6        12
+                50.60          2.79        2.0945    4   0   4         6
+                51.74          1.30        2.0517    1   4   3        12
+                52.72          1.52        2.0161    3   3   0         6
+                52.81          2.11        2.0128    3   1   5        12
+                53.78         27.53        1.9792    3   2   4        12
+                55.09          1.90        1.9358    3   0   6         6
+                57.38          2.55        1.8647    5   1   1        12
+                58.09          9.35        1.8437    2   2   6        12
+                58.88          1.10        1.8212    2   3   5        12
+                59.04          1.04        1.8167    1   5   2        12
+                59.78          1.17        1.7962    0   5   4         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

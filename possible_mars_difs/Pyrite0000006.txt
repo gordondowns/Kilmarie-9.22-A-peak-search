@@ -1,0 +1,24 @@
+      Pyrite
+      Ramsdell L S
+      American Mineralogist 10 (1925) 281-304
+      The crystal structures of some metallic sulfides
+      Locality: natural, unknown
+      _database_code_amcsd 0000006
+      CELL PARAMETERS:   5.3800  5.3800  5.3800   90.000   90.000   90.000
+      SPACE GROUP: Pa3       
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    155.721
+      Density (g/cm3):      5.117
+      MAX. ABS. INTENSITY / VOLUME**2:      34.77776469    
+      RIR:      3.173
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                33.50        100.00        3.1061    1   1   1         8
+                38.87         17.80        2.6900    2   0   0         6
+                43.68         68.12        2.4060    2   1   0        12
+                48.10         27.11        2.1964    2   1   1        24
+                56.15         65.56        1.9021    2   2   0        12
+                59.89          9.26        1.7933    2   2   1        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

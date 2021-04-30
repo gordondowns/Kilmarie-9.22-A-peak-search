@@ -1,0 +1,41 @@
+      Titanite
+      Liferovich R P, Mitchell R H
+      The Canadian Mineralogist 44 (2006) 1089-1097
+      Solid solutions of niobium in synthetic titanite
+      Sample: AlNb2
+      _database_code_amcsd 0006101
+      CELL PARAMETERS:   7.0594  8.7188  6.5651   90.000  113.747   90.000
+      SPACE GROUP: A2/a      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    369.866
+      Density (g/cm3):      3.607
+      MAX. ABS. INTENSITY / VOLUME**2:      13.13725057    
+      RIR:      1.700
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                20.85         28.24        4.9479    0   1   1         4
+                23.70          2.75        4.3594    0   2   0         2
+                32.06        100.00        3.2416   -2   1   1         4
+                32.17          1.46        3.2308    2   0   0         2
+                34.67         75.32        3.0046    0   0   2         2
+                36.69          4.39        2.8444   -2   0   2         2
+                39.98          1.15        2.6184   -1   2   2         4
+                40.01         62.32        2.6163    0   3   1         4
+                40.35         43.16        2.5957    2   2   0         4
+                44.14          4.68        2.3822   -2   2   2         4
+                44.40          5.65        2.3694    2   1   1         4
+                46.03         13.94        2.2895    1   3   1         4
+                46.46          9.52        2.2694   -3   1   1         4
+                47.25          2.61        2.2338   -2   3   1         4
+                48.49          3.09        2.1797    0   4   0         2
+                50.15          7.75        2.1124   -1   1   3         4
+                50.71          3.70        2.0905    1   2   2         4
+                51.29         17.77        2.0684   -2   1   3         4
+                51.37          8.53        2.0654    1   4   0         4
+                53.69          1.89        1.9823   -3   2   2         4
+                54.58          8.03        1.9522    0   1   3         4
+                57.59          1.78        1.8584    2   0   2         2
+                59.39         10.08        1.8069    2   4   0         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

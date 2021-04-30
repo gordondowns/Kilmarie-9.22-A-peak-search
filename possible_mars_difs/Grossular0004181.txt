@@ -1,0 +1,31 @@
+      Grossular
+      Oberti R, Quartieri S, Dalconi M C, Boscherini F, Iezzi G, Boiocchi M,
+      Eeckhout S G
+      American Mineralogist 91 (2006) 1230-1239
+      Site preference and local geometry of Sc in garnets: Part I.
+      Multifarious mechanisms in the pyrope-grossular join
+      Locality: synthetic
+      Sample: prp
+      _database_code_amcsd 0004181
+      CELL PARAMETERS:  11.8830 11.8830 11.8830   90.000   90.000   90.000
+      SPACE GROUP: Ia-3d     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1677.947
+      Density (g/cm3):      3.611
+      MAX. ABS. INTENSITY / VOLUME**2:      18.12008494    
+      RIR:      2.342
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                35.07         36.91        2.9708    4   0   0         6
+                39.37        100.00        2.6571    4   2   0        24
+                41.38          7.32        2.5335    3   3   2        24
+                43.31         20.06        2.4256    4   2   2        24
+                45.18         13.97        2.3304    4   3   1        48
+                48.74         12.50        2.1695    5   2   1        48
+                50.44          2.77        2.1006    4   4   0        12
+                55.34         10.79        1.9277    6   1   1        24
+                55.34          9.53        1.9277    5   3   2        48
+                56.90          1.52        1.8789    6   2   0        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

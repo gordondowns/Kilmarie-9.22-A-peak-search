@@ -1,0 +1,35 @@
+      Fluormayenite
+      Galuskin E V, Gfeller F, Armbruster T, Galuskina I O, Vapnik Y, Dulski M, Murashko M,
+      Dzierzanowski P, Sharygin V V, Krivovichev S V, Wirth R
+      European Journal of Mineralogy 27 (2015) 123-136
+      Mayenite supergroup, part III: fluormayenite, Ca12Al14O32[[]4F2], and
+      fluorkyuygenite, Ca12Al14O32[(H2O)4F2], two new minerals from pyrometamorphic
+      rocks of the Hatrurim Complex, South Levant
+      Locality: Jabel Harmun, Judean Mountains, Palestinian Autonomy, Israel
+      _database_code_amcsd 0020495
+      CELL PARAMETERS:  11.9894 11.9894 11.9894   90.000   90.000   90.000
+      SPACE GROUP: I-43d     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1723.425
+      Density (g/cm3):      2.767
+      MAX. ABS. INTENSITY / VOLUME**2:      8.782986971    
+      RIR:      1.482
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.08        100.00        4.8947    2   1   1        12
+                24.38          6.46        4.2389    2   2   0        12
+                27.31         11.95        3.7914    3   1   0        24
+                32.44         27.11        3.2043    3   2   1        24
+                34.75         49.20        2.9973    4   0   0         6
+                39.01         98.88        2.6809    4   2   0        24
+                41.00         15.42        2.5561    3   3   2        12
+                42.91         44.95        2.4473    4   2   2        12
+                44.75          6.96        2.3513    5   1   0        24
+                48.28         38.78        2.1890    5   2   1        24
+                51.61          3.87        2.0562    5   3   0        24
+                54.81          2.84        1.9449    6   1   1        12
+                54.81         24.32        1.9449    5   3   2        24
+                57.88          3.45        1.8500    5   4   1        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

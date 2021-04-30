@@ -1,0 +1,24 @@
+      Eskolaite
+      Saalfeld H
+      Zeitschrift fur Kristallographie 120 (1964) 342-348
+      Strukturuntersuchungen im system Al2O3-Cr2O3
+      _database_code_amcsd 0010608
+      CELL PARAMETERS:   5.3590  5.3590  5.3590   55.130   55.130   55.130
+      SPACE GROUP: R-3c      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     96.502
+      Density (g/cm3):      5.230
+      MAX. ABS. INTENSITY / VOLUME**2:      27.88029838    
+      RIR:      2.489
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                28.55         66.08        3.6307    1   1   0         6
+                39.26        100.00        2.6646    2   1   1         6
+                42.32         90.42        2.4799    0  -1   1         6
+                46.56          6.14        2.2649    2   2   2         2
+                48.60         26.06        2.1753    2   1   0        12
+                51.84          5.26        2.0478    2   0   0         6
+                59.09         35.90        1.8153    2   2   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

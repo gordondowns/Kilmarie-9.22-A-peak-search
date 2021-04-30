@@ -1,0 +1,38 @@
+      Lizardite
+      Laurora A, Brigatti M F, Malferrari D, Galli E, Rossi A
+      The Canadian Mineralogist 49 (2011) 1045-1054
+      The crystal chemistry of lizardite-1T from northern
+      Apennines ophiolites near Modena, Italy
+      Note: Pompeano 4, polytype 1T
+      Locality: Pompeano, Modena Apennines, Italy
+      _database_code_amcsd 0018973
+      CELL PARAMETERS:   5.3244  5.3244  7.2680   90.000   90.000  120.000
+      SPACE GROUP: P31m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    178.438
+      Density (g/cm3):      2.540
+      MAX. ABS. INTENSITY / VOLUME**2:      7.607449358    
+      RIR:      1.398
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                14.15        100.00        7.2680    0   0   1         1
+                22.39         33.36        4.6111    1   0   0         6
+                26.58         58.86        3.8936    1   0   1         6
+                28.52         60.96        3.6340    0   0   2         1
+                36.56         14.49        2.8542    1   0   2         6
+                39.30          5.42        2.6622    1   1   0         3
+                41.97         85.19        2.4998    2  -1   1         3
+                41.97         14.20        2.4998    1   1   1         3
+                43.37          2.80        2.4227    0   0   3         1
+                45.69          1.11        2.3055    2   0   0         6
+                48.07          3.10        2.1976    2   0   1         6
+                49.27         38.57        2.1476    2  -1   2         3
+                49.27          6.11        2.1476    1   1   2         3
+                49.34          4.43        2.1447    1   0   3         6
+                54.75          4.49        1.9468    2   0   2         6
+                59.03          2.31        1.8170    0   0   4         1
+                59.94         27.40        1.7918    2  -1   3         3
+                59.94          1.93        1.7918    1   1   3         3
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

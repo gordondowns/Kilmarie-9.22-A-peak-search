@@ -1,0 +1,32 @@
+      Braunite
+      de Villiers J P R
+      American Mineralogist 65 (1980) 756-765
+      The crystal structure of braunite II and its relation to bixbyite and braunite
+      Locality: Wessels mine, near Hotazel, South Africa
+      _database_code_amcsd 0000788
+      CELL PARAMETERS:   9.4310  9.4310 37.7740   90.000   90.000   90.000
+      SPACE GROUP: I4_1/acd  
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   3359.761
+      Density (g/cm3):      4.837
+      MAX. ABS. INTENSITY / VOLUME**2:      56.59875065    
+      RIR:      5.463
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                22.55          1.73        4.5779    1   1   6         8
+                24.50          1.25        4.2188    2   0   4         8
+                24.66          1.08        4.1916    2   1   1        16
+                28.14          7.29        3.6826    2   1   5        16
+                31.61          1.52        3.2867    1   1  10         8
+                38.37        100.00        2.7237    2   2   8         8
+                44.56          5.72        2.3609    0   0  16         2
+                44.63         12.02        2.3577    4   0   0         4
+                50.56          1.79        2.0961    3   3   6         8
+                50.96          5.53        2.0808    3   2  11        16
+                53.15          2.67        2.0008    3   1  14        16
+                55.71          1.00        1.9158    3   3  10         8
+                57.35          2.95        1.8654    4   3   3        16
+                59.74          2.62        1.7973    4   1  13        16
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

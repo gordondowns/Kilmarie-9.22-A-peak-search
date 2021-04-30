@@ -1,0 +1,24 @@
+      Spinel
+      Bosi F, Halenius U, Andreozzi G B, Skogby H, Lucchesi S
+      American Mineralogist 92 (2007) 27-33
+      Structural refinement and crystal chemistry of Mn-doped spinel: A case for
+      tetrahedrally coordinated Mn3+ in an oxygen-based structure
+      Sample: MgMn20
+      _database_code_amcsd 0004263
+      CELL PARAMETERS:   8.1413  8.1413  8.1413   90.000   90.000   90.000
+      SPACE GROUP: Fd3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    539.612
+      Density (g/cm3):      3.412
+      MAX. ABS. INTENSITY / VOLUME**2:      11.62043964    
+      RIR:      1.590
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.96         44.65        4.7004    1   1   1         8
+                36.24         30.19        2.8784    2   2   0        12
+                42.77        100.00        2.4547    3   1   1        24
+                44.78          1.33        2.3502    2   2   2         8
+                52.18         64.92        2.0353    4   0   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

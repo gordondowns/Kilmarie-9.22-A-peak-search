@@ -1,0 +1,50 @@
+      Hydroxylapatite
+      Wilson R M, Elliot J C, Dowker S E P
+      American Mineralogist 84 (1999) 1406-1414
+      Rietveld refinement of the crystallographic structure of human dental
+      enamel apatites
+      Sample: RE1 - enamel
+      _database_code_amcsd 0002288
+      CELL PARAMETERS:   9.4564  9.4564  6.8821   90.000   90.000  120.000
+      SPACE GROUP: P6_3/m    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    532.971
+      Density (g/cm3):      2.925
+      MAX. ABS. INTENSITY / VOLUME**2:      9.089113114    
+      RIR:      1.451
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                12.55         10.78        8.1895    1   0   0         6
+                19.56          5.39        5.2687    1   0   1        12
+                25.25          4.12        4.0947    2   0   0         6
+                26.56          5.86        3.8971    1   1   1        12
+                30.16         33.36        3.4411    0   0   2         2
+                32.78          7.84        3.1724    1   0   2        12
+                33.62         18.06        3.0953    2   1   0         6
+                36.97         28.43        2.8229    1   2   1        12
+                36.97         71.57        2.8229    2   1   1        12
+                37.54         51.83        2.7822    1   1   2        12
+                38.28         63.23        2.7298    3   0   0         6
+                39.73         23.11        2.6344    2   0   2        12
+                41.31          3.85        2.5375    3   0   1        12
+                45.78          2.05        2.3013    2   1   2        12
+                46.42          3.63        2.2714    3   1   0         6
+                46.42         17.85        2.2714    1   3   0         6
+                47.20          1.54        2.2359    2   2   1        12
+                49.04          4.82        2.1569    1   3   1        12
+                49.04          1.44        2.1569    3   1   1        12
+                49.49          1.61        2.1386    3   0   2        12
+                51.41          3.61        2.0639    1   1   3        12
+                51.85          1.10        2.0474    4   0   0         6
+                53.14          2.65        2.0014    2   0   3        12
+                54.70         28.51        1.9485    2   2   2        12
+                56.36          5.03        1.8956    3   1   2        12
+                56.36          7.86        1.8956    1   3   2        12
+                56.91          1.14        1.8788    2   3   0         6
+                58.12         25.59        1.8430    2   1   3        12
+                58.12          7.34        1.8430    1   2   3        12
+                59.19          2.91        1.8125    3   2   1        12
+                59.19          1.73        1.8125    2   3   1        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

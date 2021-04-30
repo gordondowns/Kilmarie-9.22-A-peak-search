@@ -1,0 +1,42 @@
+      Magnesiohogbomite-2N4S
+      Hejny C, Armbruster T
+      American Mineralogist 87 (2002) 277-292
+      Polysomatism in hogbomite: The crystal structures of 10T, 12H, 14T and 24R polysomes
+      Note: Data represents a model, not experiment
+      Note: Coordinates of M9, M11, O11,O12, H have been altered
+      according to Shimura et al (2012)
+      Sample: polytype 12H
+      _database_code_amcsd 0002755
+      CELL PARAMETERS:   5.7000  5.7000 27.6000   90.000   90.000  120.000
+      SPACE GROUP: P6_3mc    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    776.586
+      Density (g/cm3):      3.651
+      MAX. ABS. INTENSITY / VOLUME**2:      7.774304255    
+      RIR:      0.994
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.23          4.66        4.8592    1   0   1         6
+                22.21          7.13        4.6479    1   0   2         6
+                22.44          4.03        4.6000    0   0   6         1
+                23.75         16.15        4.3498    1   0   3         6
+                28.16         10.01        3.6796    1   0   5         6
+                33.78         15.67        3.0807    1   0   7         6
+                36.61         24.65        2.8500    1   1   0         6
+                36.91          9.26        2.8278    1   0   8         6
+                40.20         24.33        2.6049    1   0   9         6
+                42.71          8.63        2.4584    2   0   1         6
+                43.24         24.02        2.4296    2   0   2         6
+                43.37        100.00        2.4227    1   1   6         6
+                43.63         21.75        2.4090    1   0  10         6
+                44.11         11.19        2.3839    2   0   3         6
+                45.31          1.42        2.3240    2   0   4         6
+                46.82          7.36        2.2532    2   0   5         6
+                47.18          4.04        2.2367    1   0  11         6
+                50.67         22.32        2.0921    2   0   7         6
+                52.97         54.40        2.0074    2   0   8         6
+                55.49         23.90        1.9228    2   0   9         6
+                58.54          1.00        1.8308    1   0  14         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

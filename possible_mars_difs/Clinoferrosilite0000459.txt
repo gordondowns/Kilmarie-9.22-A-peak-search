@@ -1,0 +1,47 @@
+      Clinoferrosilite
+      Ohashi Y, Burnham C W, Finger L W
+      American Mineralogist 60 (1975) 423-434
+      The effect of Ca-Fe substitution on the clinopyroxene crystal structure
+      Fs80Wo20
+      _database_code_amcsd 0000459
+      CELL PARAMETERS:   9.7600  9.0570  5.2340   90.000  106.300   90.000
+      SPACE GROUP: C2/c      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    444.070
+      Density (g/cm3):      3.852
+      MAX. ABS. INTENSITY / VOLUME**2:      12.02239248    
+      RIR:      1.457
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                15.80         32.17        6.5113    1   1   0         4
+                22.04         26.39        4.6838    2   0   0         2
+                22.80          1.58        4.5285    0   2   0         2
+                31.92         25.79        3.2557    2   2   0         4
+                34.56        100.00        3.0136   -2   2   1         4
+                35.30         51.72        2.9520    3   1   0         4
+                35.91         17.35        2.9039   -3   1   1         4
+                40.40         62.57        2.5923   -1   3   1         4
+                41.66         43.44        2.5172    2   2   1         4
+                41.72          4.50        2.5140   -1   1   2         4
+                41.76         47.09        2.5118    0   0   2         2
+                43.67          5.53        2.4066    1   3   1         4
+                44.94          3.11        2.3419    4   0   0         2
+                45.95          5.68        2.2932    3   1   1         4
+                47.41          1.81        2.2267   -3   1   2         4
+                47.84          1.12        2.2079   -2   2   2         4
+                47.94         13.22        2.2036    1   1   2         4
+                48.10          3.09        2.1965    0   2   2         4
+                48.71          2.09        2.1704    3   3   0         4
+                49.18         35.88        2.1511   -3   3   1         4
+                50.01         14.54        2.1176   -4   2   1         4
+                51.40          4.63        2.0643    0   4   1         4
+                52.65         17.14        2.0186   -4   0   2         2
+                53.38         13.52        1.9929    2   0   2         2
+                53.83          1.26        1.9774   -1   3   2         4
+                53.91          2.88        1.9749   -2   4   1         4
+                57.39          6.11        1.8644    3   3   1         4
+                58.78          3.41        1.8241    2   2   2         4
+                59.16          4.23        1.8133    2   4   1         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

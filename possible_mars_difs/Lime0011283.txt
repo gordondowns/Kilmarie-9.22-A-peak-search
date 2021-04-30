@@ -1,0 +1,20 @@
+      Lime
+      Wyckoff R W G
+      Crystal Structures 1 (1963) 85-237
+      Second edition. Interscience Publishers, New York, New York
+      rocksalt structure
+      _database_code_amcsd 0011283
+      CELL PARAMETERS:   4.8105  4.8105  4.8105   90.000   90.000   90.000
+      SPACE GROUP: Fm3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    111.319
+      Density (g/cm3):      3.346
+      MAX. ABS. INTENSITY / VOLUME**2:      31.66342104    
+      RIR:      4.418
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                37.60         38.76        2.7773    1   1   1         8
+                43.70        100.00        2.4053    2   0   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

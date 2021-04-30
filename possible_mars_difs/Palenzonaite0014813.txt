@@ -1,0 +1,33 @@
+      Palenzonaite
+      Basso R
+      Neues Jahrbuch fur Mineralogie, Monatshefte 1987 (1987) 136-144
+      The crystal structure of palenzonaite, a new vanadate garnet from
+      Val Graveglia (Northern Apennines, Italy)
+      Locality: Val Graveglia, Northern Apennines, Italy
+      _database_code_amcsd 0014813
+      CELL PARAMETERS:  12.5340 12.5340 12.5340   90.000   90.000   90.000
+      SPACE GROUP: Ia3d      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1969.106
+      Density (g/cm3):      3.806
+      MAX. ABS. INTENSITY / VOLUME**2:      22.26529191    
+      RIR:      2.731
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                20.15         10.51        5.1170    2   1   1        24
+                23.31          3.68        4.4314    2   2   0        12
+                31.00          6.49        3.3499    3   2   1        48
+                33.20         53.82        3.1335    4   0   0         6
+                37.25        100.00        2.8027    4   2   0        24
+                39.14         18.54        2.6723    3   3   2        24
+                40.96         63.52        2.5585    4   2   2        24
+                42.71         10.17        2.4581    4   3   1        48
+                46.05          1.82        2.2884    5   2   1        48
+                52.24          1.81        2.0333    5   3   2        48
+                52.24          2.98        2.0333    6   1   1        24
+                53.70          5.13        1.9818    6   2   0        24
+                57.94          1.35        1.8480    6   3   1        48
+                59.31          7.78        1.8091    4   4   4         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

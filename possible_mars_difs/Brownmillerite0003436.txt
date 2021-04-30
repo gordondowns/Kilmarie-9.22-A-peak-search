@@ -1,0 +1,41 @@
+      Brownmillerite
+      Redhammer G J, Tippelt G, Roth G, Amthauer G
+      American Mineralogist 89 (2004) 405-420
+      Structural variations in the brownmillerite series Ca2(Fe2-xAlx)O5:
+      Single-crystal X-ray diffraction at 25 deg C and high temperature
+      X-ray powder diffraction (25 C <= T <= 1000 C)
+      Sample: bht120_6
+      Locality: synthetic
+      _database_code_amcsd 0003436
+      CELL PARAMETERS:   5.3569 14.5407  5.5735   90.000   90.000   90.000
+      SPACE GROUP: I2mb      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    434.137
+      Density (g/cm3):      3.810
+      MAX. ABS. INTENSITY / VOLUME**2:      20.00269399    
+      RIR:      2.451
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                14.14         28.66        7.2703    0   2   0         2
+                19.81          3.19        5.2043    0   1   1         4
+                26.80          6.79        3.8622    1   0   1         2
+                28.33         12.15        3.6574    0   3   1         4
+                28.51          4.30        3.6352    0   4   0         2
+                30.43          3.82        3.4108    1   2   1         4
+                37.47         34.74        2.7868    0   0   2         2
+                39.05         43.97        2.6785    2   0   0         1
+                39.53        100.00        2.6471    1   4   1         4
+                40.63         10.14        2.5783    0   5   1         4
+                43.10          3.75        2.4373    1   1   2         4
+                47.75          3.18        2.2116    0   4   2         4
+                48.94          5.47        2.1609    2   3   1         4
+                49.05          2.90        2.1563    2   4   0         2
+                51.71         21.56        2.0528    1   6   1         4
+                55.23         41.90        1.9311    2   0   2         2
+                56.75          2.68        1.8836    1   5   2         4
+                57.32         10.10        1.8664    2   2   2         4
+                59.01         17.49        1.8176    0   8   0         2
+                59.75          1.50        1.7970    2   6   0         2
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

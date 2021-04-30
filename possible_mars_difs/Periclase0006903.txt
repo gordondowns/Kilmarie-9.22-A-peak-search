@@ -1,0 +1,21 @@
+      Periclase
+      Boiocchi M, Caucia F, Merli M, Prella D, Ungaretti L
+      European Journal of Mineralogy 13 (2001) 871-881
+      Crystal-chemical reasons for the immiscibility of periclase and wustite
+      under lithospheric P,T conditions
+      Sample: Per.3363
+      _database_code_amcsd 0006903
+      CELL PARAMETERS:   4.2178  4.2178  4.2178   90.000   90.000   90.000
+      SPACE GROUP: Fm-3m     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     75.034
+      Density (g/cm3):      3.685
+      MAX. ABS. INTENSITY / VOLUME**2:      26.58251156    
+      RIR:      3.368
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                43.13         13.15        2.4351    1   1   1         8
+                50.23        100.00        2.1089    2   0   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

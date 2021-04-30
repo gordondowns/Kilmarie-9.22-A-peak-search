@@ -1,0 +1,27 @@
+      Perovskite
+      Barth T
+      Norsk Geologisk Tidsskrift 8 (1925) 201-216
+      Die Kristallstruktur von Perowskit und verwandter Verbindungen
+      _cod_database_code 1011210
+      _database_code_amcsd 0018079
+      CELL PARAMETERS:   5.3020  5.3660  3.7770   90.000   90.000   90.000
+      SPACE GROUP: Cmmm      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    107.458
+      Density (g/cm3):      4.201
+      MAX. ABS. INTENSITY / VOLUME**2:      24.80348704    
+      RIR:      2.756
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                27.42          6.98        3.7770    0   0   1         2
+                27.46         13.90        3.7715    1   1   0         4
+                38.98         25.41        2.6830    0   2   0         2
+                39.20        100.00        2.6688    1   1   1         8
+                39.47         24.49        2.6510    2   0   0         2
+                48.31          8.54        2.1873    0   2   1         4
+                48.73          8.25        2.1699    2   0   1         4
+                56.59         26.13        1.8885    0   0   2         2
+                56.68         51.96        1.8858    2   2   0         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

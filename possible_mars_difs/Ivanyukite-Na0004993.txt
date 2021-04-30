@@ -1,0 +1,46 @@
+      Ivanyukite-Na
+      Yakovenchuk V N, Nikolaev A P, Selivanova E A, Pakhomovsky Y A,
+      Korchak J A, Spiridonova D V, Zalkind O A, Krivovichev S V
+      American Mineralogist 94 (2009) 1450-1458
+      Ivanyukite-Na-T, ivanyukite-Na-C, ivanyukite-K, and ivanyukite-Cu:
+      New microporous titanosilicates from the Khibiny massif
+      (Kola Peninsula, Russia) and crystal structure of ivanyukite-Na-T
+      Locality: Koashva Mountain, Khibiny Massif, Kola Peninsula, Russia
+      Note: trigonal polytype, Ivanyukite-Na-T
+      _database_code_amcsd 0004993
+      CELL PARAMETERS:  10.9210 10.9210 13.8850   90.000   90.000  120.000
+      SPACE GROUP: R3m       
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1434.172
+      Density (g/cm3):      2.453
+      MAX. ABS. INTENSITY / VOLUME**2:      24.20710150    
+      RIR:      4.607
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                13.15        100.00        7.8168    1   0   1         3
+                18.41          3.80        5.5966    0   1   2         3
+                18.87          1.84        5.4605    1   1   0         6
+                22.30          1.21        4.6283    0   0   3         1
+                23.07          5.07        4.4764    0   2   1         3
+                26.48          3.07        3.9084    2   0   2         3
+                29.97          1.17        3.4618    2   1   1         6
+                31.89          8.34        3.2587    1   0   4         3
+                32.72         15.43        3.1782    1   2   2         6
+                32.99         11.27        3.1526    3   0   0         3
+                37.31          4.04        2.7983    0   2   4         3
+                38.28          6.17        2.7302    2   2   0         6
+                40.19          1.02        2.6056    0   3   3         3
+                40.19          8.21        2.6056    3   0   3         3
+                42.13          4.00        2.4903    2   1   4         6
+                42.79          6.44        2.4538    3   1   2         6
+                43.90          6.81        2.3946    2   0   5         3
+                44.75          3.88        2.3516    2   2   3         6
+                45.17          1.61        2.3309    4   0   1         3
+                54.52          5.43        1.9542    4   0   4         3
+                55.99          3.82        1.9069    3   1   5         6
+                56.70          1.50        1.8850    4   1   3         6
+                58.22          3.18        1.8399    3   2   4         6
+                58.74          1.21        1.8250    5   0   2         3
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,22 @@
+      Galaxite
+      Essene E J, Peacor D R
+      American Mineralogist 68 (1983) 449-455
+      Crystal chemistry and petrology of coexisting galaxite and jacobsite and other
+      spinel solution and solvi
+      _database_code_amcsd 0000895
+      CELL PARAMETERS:   8.1810  8.1810  8.1810   90.000   90.000   90.000
+      SPACE GROUP: Fd3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    547.544
+      Density (g/cm3):      4.120
+      MAX. ABS. INTENSITY / VOLUME**2:      24.64079713    
+      RIR:      2.792
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                36.06         65.68        2.8924    2   2   0        12
+                42.56        100.00        2.4667    3   1   1        24
+                51.91         15.82        2.0452    4   0   0         6
+                56.97          4.31        1.8769    3   3   1        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

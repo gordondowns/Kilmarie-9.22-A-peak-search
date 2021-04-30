@@ -1,0 +1,48 @@
+      Diopside
+      Bindi L, Safonov O G, Litvin Y A, Perchuk L L, Menchetti S
+      European Journal of Mineralogy 14 (2002) 929-934
+      Ultrahigh potassium content in the clinopyroxene structure:
+      an X-ray single-crystal study
+      Sample: K2
+      _database_code_amcsd 0006948
+      CELL PARAMETERS:   9.7440  8.9040  5.2730   90.000  106.140   90.000
+      SPACE GROUP: C2/c      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    439.457
+      Density (g/cm3):      3.269
+      MAX. ABS. INTENSITY / VOLUME**2:      8.141155254    
+      RIR:      1.163
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                23.20          3.41        4.4520    0   2   0         2
+                23.39          1.02        4.4160   -1   1   1         4
+                28.33          2.04        3.6580    1   1   1         4
+                31.05         11.59        3.3439    0   2   1         4
+                32.22         29.70        3.2256    2   2   0         4
+                34.81        100.00        2.9930   -2   2   1         4
+                35.40         30.48        2.9445    3   1   0         4
+                35.99         36.77        2.8972   -3   1   1         4
+                36.89          1.15        2.8292    1   3   0         4
+                40.88         24.33        2.5634   -1   3   1         4
+                41.22          2.70        2.5428   -2   0   2         2
+                41.40         42.72        2.5326    0   0   2         2
+                41.76         40.74        2.5115    2   2   1         4
+                44.07          1.23        2.3861    1   3   1         4
+                45.87         15.94        2.2972    3   1   1         4
+                47.62          7.55        2.2173    1   1   2         4
+                47.83          1.44        2.2080   -2   2   2         4
+                47.99          8.01        2.2013    0   2   2         4
+                49.20          9.33        2.1504    3   3   0         4
+                49.66         17.65        2.1318   -3   3   1         4
+                50.27          9.14        2.1075   -4   2   1         4
+                52.11         18.65        2.0379    0   4   1         4
+                52.57         11.15        2.0214   -4   0   2         2
+                53.00          8.49        2.0061    2   0   2         2
+                54.02          7.28        1.9711   -1   3   2         4
+                57.68          1.81        1.8556    3   3   1         4
+                58.50          7.83        1.8319    5   1   0         4
+                58.60          2.63        1.8290    2   2   2         4
+                59.18          2.75        1.8128    1   3   2         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

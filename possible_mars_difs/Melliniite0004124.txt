@@ -1,0 +1,25 @@
+      Melliniite
+      Pratesi G, Bindi L, Moggi-Cecchi V
+      American Mineralogist 91 (2006) 451-454
+      Icosahedral coordination of phosphorus in the crystal structure of melliniite,
+      a new phosphide mineral from the Northwest Africa 1054 acapulcoite
+      _database_code_amcsd 0004124
+      CELL PARAMETERS:   6.0250  6.0250  6.0250   90.000   90.000   90.000
+      SPACE GROUP: P2_13     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    218.711
+      Density (g/cm3):      7.924
+      MAX. ABS. INTENSITY / VOLUME**2:      93.36600828    
+      RIR:      5.500
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                29.82          3.55        3.4785    1   1   1         4
+                38.81         13.95        2.6945    2   0   1        12
+                42.68          4.35        2.4597    2   1   1        12
+                52.94        100.00        2.0083    2   2   1        12
+                56.05         23.43        1.9053    3   1   0        12
+                56.05         34.23        1.9053    3   0   1        12
+                59.04         19.03        1.8166    3   1   1        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

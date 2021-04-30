@@ -1,0 +1,50 @@
+      Osumilite
+      Armbruster T, Oberhansli R
+      American Mineralogist 73 (1988) 585-594
+      Crystal chemistry of double-ring silicates: Structural, chemical, and optical
+      variation in osumilites
+      Sample: Norway
+      _database_code_amcsd 0001150
+      CELL PARAMETERS:  10.1040 10.1040 14.3060   90.000   90.000  120.000
+      SPACE GROUP: P6/mcc    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1264.840
+      Density (g/cm3):      2.606
+      MAX. ABS. INTENSITY / VOLUME**2:      7.068832152    
+      RIR:      1.266
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                11.74          4.45        8.7503    1   0   0         6
+                14.38         39.49        7.1530    0   0   2         2
+                18.60         14.68        5.5381    1   0   2        12
+                20.41         53.67        5.0520    1   1   0         6
+                23.61         10.34        4.3752    2   0   0         6
+                25.06         38.73        4.1266    1   1   2        12
+                27.75         42.71        3.7323    2   0   2        12
+                28.99         21.82        3.5765    0   0   4         2
+                31.37         12.40        3.3106    1   0   4        12
+                31.41          6.53        3.3073    2   1   0        12
+                32.26        100.00        3.2223    2   1   1        24
+                34.70          9.61        3.0020    2   1   2        24
+                35.72         49.86        2.9191    1   1   4        12
+                35.74          4.02        2.9168    3   0   0         6
+                37.72         48.21        2.7690    2   0   4        12
+                38.46          8.94        2.7177    2   1   3        24
+                41.51         14.86        2.5260    2   2   0         6
+                43.29          6.46        2.4269    3   1   0        12
+                43.94          3.33        2.3927    3   1   1        24
+                44.15          7.21        2.3818    2   2   2        12
+                48.90          8.54        2.1629    3   1   3        24
+                50.67          3.93        2.0919    4   0   2        12
+                51.42          1.44        2.0633    2   2   4        12
+                52.94         10.77        2.0082    3   1   4        24
+                52.96          1.40        2.0075    3   2   0        12
+                55.91          1.37        1.9095    4   1   0        12
+                56.45          3.49        1.8927    4   1   1        24
+                57.33          1.88        1.8662    4   0   4        12
+                57.85         17.56        1.8508    3   1   5        24
+                58.01          4.33        1.8460    3   0   6        12
+                58.05          1.04        1.8449    4   1   2        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

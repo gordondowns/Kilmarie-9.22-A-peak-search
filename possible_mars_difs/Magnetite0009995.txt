@@ -1,0 +1,24 @@
+      Magnetite
+      Fleet M E
+      Acta Crystallographica C40 (1984) 1491-1493
+      The structure of magnetite: two annealed natural magnetites,
+      Fe3.005O4 and Fe2.96Mg0.04O4
+      Note: Sample No.2741, Fe2.96, annealed at 1073 K for 7 days
+      _database_code_amcsd 0009995
+      CELL PARAMETERS:   8.3975  8.3975  8.3975   90.000   90.000   90.000
+      SPACE GROUP: Fd3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    592.175
+      Density (g/cm3):      5.166
+      MAX. ABS. INTENSITY / VOLUME**2:      64.45881508    
+      RIR:      5.825
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.28          8.32        4.8483    1   1   1         8
+                35.10         28.51        2.9690    2   2   0        12
+                41.41        100.00        2.5319    3   1   1        24
+                43.34          8.02        2.4241    2   2   2         8
+                50.48         20.01        2.0994    4   0   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

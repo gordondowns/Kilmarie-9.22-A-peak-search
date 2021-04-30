@@ -1,0 +1,41 @@
+      Tuperssuatsiaite
+      Camara F, Garvie L A J, Devouard B, Groy T L, Buseck P R
+      American Mineralogist 87 (2002) 1458-1463
+      The structure of Mn-tuperssuatsiaite, a palygorskite-related mineral
+      _database_code_amcsd 0002916
+      CELL PARAMETERS:  14.0340 17.8410  5.2650   90.000  103.670   90.000
+      SPACE GROUP: C2/m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1280.912
+      Density (g/cm3):      2.329
+      MAX. ABS. INTENSITY / VOLUME**2:      42.25225686    
+      RIR:      8.469
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                 9.48        100.00       10.8342    1   1   0         4
+                11.52          1.30        8.9205    0   2   0         2
+                19.02          1.26        5.4171    2   2   0         4
+                23.16          2.31        4.4602    0   4   0         2
+                23.27          4.35        4.4379    0   2   1         4
+                25.06          3.75        4.1262   -2   2   1         4
+                27.75          3.83        3.7325    2   4   0         4
+                28.70          1.44        3.6114    3   3   0         4
+                29.08          2.95        3.5660    1   3   1         4
+                30.41          3.98        3.4132    2   2   1         4
+                30.45          6.79        3.4091    4   0   0         2
+                30.88          1.22        3.3619    0   4   1         4
+                31.95          1.01        3.2520   -3   3   1         4
+                32.28          1.43        3.2202   -2   4   1         4
+                34.50          1.16        3.0190   -4   2   1         4
+                35.40          1.64        2.9443   -1   5   1         4
+                38.78          2.46        2.6960    5   1   0         4
+                39.83          6.87        2.6277   -3   5   1         4
+                40.97          1.74        2.5579    0   0   2         2
+                41.86          3.81        2.5057   -2   6   1         4
+                43.97          3.09        2.3911    1   1   2         4
+                45.35          1.17        2.3220    3   5   1         4
+                48.47          1.22        2.1809   -4   6   1         4
+                49.33          1.06        2.1451   -5   5   1         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

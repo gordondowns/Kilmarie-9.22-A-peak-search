@@ -1,0 +1,20 @@
+      Periclase
+      Wyckoff R
+      Zeitschrift fur Kristallographie 62 (1925) 529-539
+      Die Kristallstruktur von Silberphosphat und Silberarsenat, Ag3 X O4
+      _cod_database_code 1011117
+      _database_code_amcsd 0018012
+      CELL PARAMETERS:   4.2110  4.2110  4.2110   90.000   90.000   90.000
+      SPACE GROUP: Fm3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     74.672
+      Density (g/cm3):      3.585
+      MAX. ABS. INTENSITY / VOLUME**2:      23.55630031    
+      RIR:      3.068
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                43.21         11.14        2.4312    1   1   1         8
+                50.32        100.00        2.1055    2   0   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

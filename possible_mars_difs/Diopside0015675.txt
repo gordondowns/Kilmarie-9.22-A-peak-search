@@ -1,0 +1,45 @@
+      Diopside
+      Mottana A, Rossi G, Kracher A, Kurat G
+      Tschermaks Mineralogische und Petrographische Mitteilungen 26 (1979) 187-201
+      Violan revisited: Mn-bearing Omphacite and Diopside
+      Locality: manganese deposit of Praborna, St Marcel, Aosta Valley, Italy
+      _database_code_amcsd 0015675
+      CELL PARAMETERS:   9.7260  8.9070  5.2560   90.000  106.100   90.000
+      SPACE GROUP: C2/c      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    437.466
+      Density (g/cm3):      3.289
+      MAX. ABS. INTENSITY / VOLUME**2:      8.705838329    
+      RIR:      1.236
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                23.19          3.94        4.4535    0   2   0         2
+                28.39          1.95        3.6509    1   1   1         4
+                31.09          9.42        3.3401    0   2   1         4
+                32.24         23.11        3.2237    2   2   0         4
+                34.85        100.00        2.9889   -2   2   1         4
+                35.45         27.83        2.9402    3   1   0         4
+                36.07         34.25        2.8912   -3   1   1         4
+                40.90         23.85        2.5619   -1   3   1         4
+                41.36          2.02        2.5347   -2   0   2         2
+                41.53         40.29        2.5249    0   0   2         2
+                41.82         40.33        2.5083    2   2   1         4
+                44.10          1.06        2.3846    1   3   1         4
+                45.95         16.22        2.2933    3   1   1         4
+                47.75          9.54        2.2118    1   1   2         4
+                47.95          1.18        2.2029   -2   2   2         4
+                48.10          8.96        2.1965    0   2   2         4
+                49.23          9.09        2.1491    3   3   0         4
+                49.71         17.57        2.1298   -3   3   1         4
+                50.35          8.40        2.1042   -4   2   1         4
+                52.12         18.09        2.0375    0   4   1         4
+                52.72         11.32        2.0159   -4   0   2         2
+                53.14          6.72        2.0013    2   0   2         2
+                54.12          7.00        1.9678   -1   3   2         4
+                57.75          2.04        1.8538    3   3   1         4
+                58.60          6.07        1.8291    5   1   0         4
+                58.73          2.60        1.8254    2   2   2         4
+                59.28          3.23        1.8099    1   3   2         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

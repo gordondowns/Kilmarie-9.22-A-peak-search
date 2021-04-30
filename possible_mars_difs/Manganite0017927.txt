@@ -1,0 +1,25 @@
+      Manganite
+      Garrido J
+      Comptes Rendus Hebdomadaires des Seances de l'Academie des Sciences 200 (1935) 69-71
+      Structure cristalline de la manganite.
+      _cod_database_code 1011020
+      _database_code_amcsd 0017927
+      CELL PARAMETERS:   4.4200  5.2300  2.8700   90.000   90.000   90.000
+      SPACE GROUP: Pnnm      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     66.345
+      Density (g/cm3):      4.351
+      MAX. ABS. INTENSITY / VOLUME**2:      39.20119043    
+      RIR:      4.206
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                30.75        100.00        3.3759    1   1   0         4
+                40.04          9.89        2.6150    0   2   0         2
+                41.68         66.88        2.5161    0   1   1         4
+                43.66         36.44        2.4071    1   0   1         4
+                46.87          6.02        2.2506    1   2   0         4
+                47.79          2.63        2.2100    2   0   0         2
+                48.33         13.33        2.1866    1   1   1         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

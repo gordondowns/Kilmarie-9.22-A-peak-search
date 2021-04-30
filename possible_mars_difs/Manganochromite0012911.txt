@@ -1,0 +1,23 @@
+      Manganochromite
+      Raccah P M, Bouchard R J, Wold A
+      Journal of Applied Physics 37 (1966) 1436-1437
+      Locality: synthetic
+      Crystallographic study of chromium spinels
+      _database_code_amcsd 0012911
+      CELL PARAMETERS:   8.4370  8.4370  8.4370   90.000   90.000   90.000
+      SPACE GROUP: Fd-3m     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    600.571
+      Density (g/cm3):      4.930
+      MAX. ABS. INTENSITY / VOLUME**2:      52.21824700    
+      RIR:      4.944
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.18         13.81        4.8711    1   1   1         8
+                34.93         33.26        2.9829    2   2   0        12
+                41.21        100.00        2.5439    3   1   1        24
+                43.13          7.47        2.4356    2   2   2         8
+                50.22         19.84        2.1093    4   0   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

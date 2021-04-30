@@ -1,0 +1,24 @@
+      Iowaite
+      Allmann R, Donnay J D H
+      American Mineralogist 54 (1969) 296-299
+      About the structure of iowaite
+      _database_code_amcsd 0000189
+      CELL PARAMETERS:   3.1190  3.1190 24.5200   90.000   90.000  120.000
+      SPACE GROUP: R-3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    206.577
+      Density (g/cm3):      1.912
+      MAX. ABS. INTENSITY / VOLUME**2:      19.50518484    
+      RIR:      4.762
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                12.58        100.00        8.1733    0   0   3         2
+                25.31         29.89        4.0867    0   0   6         2
+                39.67         26.76        2.6379    0   1   2         6
+                42.46          2.39        2.4718    1   0   4         6
+                44.46         11.84        2.3660    0   1   5         6
+                52.43         28.37        2.0265    0   1   8         6
+                59.08          7.62        1.8155    1   0  10         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,33 @@
+      Andradite
+      Armbruster T
+      European Journal of Mineralogy 7 (1995) 1221-1225
+      Structure refinement of hydrous andradite,
+      Ca3Fe1.54Mn0.02Al0.26(SiO4)1.65(O4H4)1.35, from the Wessels mine,
+      Kalahari manganese field, South Africa
+      Note: reported coordinates of Ca and Y-site made no sense, they have been changed
+      Locality: Wessels mine, Kalahari manganese field, South Africa
+      _database_code_amcsd 0006606
+      CELL PARAMETERS:  12.3400 12.3400 12.3400   90.000   90.000   90.000
+      SPACE GROUP: Ia-3d     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1879.081
+      Density (g/cm3):      2.659
+      MAX. ABS. INTENSITY / VOLUME**2:      11.58254668    
+      RIR:      2.033
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                20.47         17.02        5.0378    2   1   1        24
+                23.68         39.82        4.3628    2   2   0        12
+                31.50         10.87        3.2980    3   2   1        48
+                33.74         70.95        3.0850    4   0   0         6
+                37.86         85.44        2.7593    4   2   0        24
+                41.63        100.00        2.5189    4   2   2        24
+                43.42          5.17        2.4201    4   3   1        48
+                46.82         15.08        2.2530    5   2   1        48
+                48.45          1.81        2.1814    4   4   0        12
+                53.12          9.45        2.0018    5   3   2        48
+                53.12          8.38        2.0018    6   1   1        24
+                54.62         11.36        1.9511    6   2   0        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

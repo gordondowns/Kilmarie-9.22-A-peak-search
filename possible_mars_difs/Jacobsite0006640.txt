@@ -1,0 +1,24 @@
+      Jacobsite
+      Lucchesi S, Russo U, Della Giusta A
+      European Journal of Mineralogy 9 (1997) 31-42
+      Crystal chemistry and cation distribution in some
+      Mn-rich natural and synthetic spinels
+      Sample: JBS4
+      _database_code_amcsd 0006640
+      CELL PARAMETERS:   8.4956  8.4956  8.4956   90.000   90.000   90.000
+      SPACE GROUP: Fd3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    613.172
+      Density (g/cm3):      4.895
+      MAX. ABS. INTENSITY / VOLUME**2:      54.31323148    
+      RIR:      5.179
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.03         14.43        4.9049    1   1   1         8
+                34.68         29.43        3.0036    2   2   0        12
+                40.91        100.00        2.5615    3   1   1        24
+                42.81          8.42        2.4525    2   2   2         8
+                49.85         21.88        2.1239    4   0   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

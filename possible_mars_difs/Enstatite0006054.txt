@@ -1,0 +1,51 @@
+      Enstatite
+      Tribaudino M, Nestola F, Meneghini C
+      The Canadian Mineralogist 43 (2005) 1411-1421
+      Rietveld refinement of clinopyroxenes with intermediate
+      Ca-content along the join diopside-enstatite
+      Locality: synthetic
+      Sample: Di40En60
+      _database_code_amcsd 0006054
+      CELL PARAMETERS:   9.7042  8.8805  5.2423   90.000  108.084   90.000
+      SPACE GROUP: P2_1/c    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    429.455
+      Density (g/cm3):      3.202
+      MAX. ABS. INTENSITY / VOLUME**2:      7.020731964    
+      RIR:      1.023
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                16.09          1.55        6.3977    1   1   0         4
+                23.26          4.07        4.4402    0   2   0         2
+                23.37          1.43        4.4197   -1   1   1         4
+                31.33         27.11        3.3152    0   2   1         4
+                32.50         33.80        3.1989    2   2   0         4
+                33.85          1.16        3.0749    3   0   0         2
+                34.70        100.00        3.0017   -2   2   1         4
+                35.54          1.37        2.9330    1   2   1         4
+                35.85         32.24        2.9087   -3   1   1         4
+                35.89         46.88        2.9057    3   1   0         4
+                40.94         25.69        2.5596   -1   3   1         4
+                41.14          5.15        2.5478   -2   0   2         2
+                41.19          3.44        2.5450    0   3   1         4
+                42.11         39.84        2.4917    0   0   2         2
+                42.64         23.95        2.4618    2   2   1         4
+                43.90          3.52        2.3947   -2   3   1         4
+                47.10         11.98        2.2404    3   1   1         4
+                47.18          2.96        2.2370    1   0   2         2
+                48.66          3.46        2.1729    0   2   2         4
+                48.74          8.09        2.1692    1   1   2         4
+                49.61         26.81        2.1338   -3   3   1         4
+                49.64          3.23        2.1326    3   3   0         4
+                50.25          4.53        2.1082   -4   2   1         4
+                51.61          1.10        2.0562   -3   2   2         4
+                51.87          1.39        2.0466    4   2   0         4
+                52.14         10.49        2.0368   -4   0   2         2
+                52.39         12.50        2.0280    0   4   1         4
+                53.16          3.10        2.0004    2   4   0         4
+                54.55          6.89        1.9533    2   0   2         2
+                54.67          5.00        1.9494   -2   4   1         4
+                59.41          6.30        1.8064    5   1   0         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

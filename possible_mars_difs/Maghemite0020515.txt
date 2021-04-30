@@ -1,0 +1,34 @@
+      Maghemite
+      Sinha K P, Sinha A P B
+      Zeitschrift fur Anorganische und Allgemeine Chemie 293 (1957) 228-232
+      Ein Fehlstellenuberstruktur - Modell fur gamma-Fe2O3
+      Locality: Synthetic
+      _database_code_amcsd 0020515
+      CELL PARAMETERS:   8.3500  8.3500  8.3500   90.000   90.000   90.000
+      SPACE GROUP: P-43m     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    582.183
+      Density (g/cm3):      4.850
+      MAX. ABS. INTENSITY / VOLUME**2:      44.04677851    
+      RIR:      4.239
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                12.31         11.13        8.3500    1   0   0         6
+                17.44          2.82        5.9043    1   1   0        12
+                21.40          3.14        4.8209    1   1   1         4
+                27.74          2.52        3.7342    2   1   0        24
+                30.45          8.72        3.4089    2   1   1        12
+                35.30         53.04        2.9522    2   2   0        12
+                37.52          3.62        2.7833    3   0   0         6
+                37.52          8.70        2.7833    2   2   1        12
+                39.63          7.68        2.6405    3   1   0        24
+                41.65        100.00        2.5176    3   1   1        12
+                43.60          3.12        2.4104    2   2   2         4
+                47.30          4.92        2.2316    3   2   1        24
+                50.78         14.77        2.0875    4   0   0         6
+                52.46          3.15        2.0252    3   2   2        12
+                52.46          5.23        2.0252    4   1   0        24
+                54.11          2.94        1.9681    4   1   1        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

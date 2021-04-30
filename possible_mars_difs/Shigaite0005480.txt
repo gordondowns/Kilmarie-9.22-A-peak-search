@@ -1,0 +1,43 @@
+      Shigaite
+      Cooper M A, Hawthorne F C
+      The Canadian Mineralogist 34 (1996) 91-97
+      The crystal structure of shigaite, [AlMn2(OH)6]3(SO4)2Na(H2O)6{H2O}6, a
+      hydrotalcite-group mineral
+      _database_code_amcsd 0005480
+      CELL PARAMETERS:   9.5120  9.5120 33.0740   90.000   90.000  120.000
+      SPACE GROUP: R-3       
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   2591.559
+      Density (g/cm3):      2.206
+      MAX. ABS. INTENSITY / VOLUME**2:      23.22154402    
+      RIR:      4.913
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                 9.31        100.00       11.0247    0   0   3         2
+                13.95          3.07        7.3735    0   1   2         6
+                17.65          1.40        5.8358    1   0   4         6
+                18.69         28.60        5.5123    0   0   6         2
+                19.99          2.28        5.1577    0   1   5         6
+                21.70          2.70        4.7560    1   1   0         6
+                23.66          6.16        4.3670    2  -1   3         6
+                23.66          4.89        4.3670    1   1   3         6
+                25.23          1.50        4.0985    1   0   7         6
+                25.88          1.52        3.9967    2   0   2         6
+                28.20         21.13        3.6749    0   0   9         2
+                29.67          1.39        3.4964    2   0   5         6
+                34.02          3.91        3.0598   -1   3   2         6
+                35.86          1.31        2.9079    1   1   9         6
+                37.05          1.32        2.8171   -1   3   5         6
+                38.05          7.10        2.7459    3   0   0         6
+                39.26         12.02        2.6645    0   3   3         6
+                40.28          2.27        2.5998    2   1   7         6
+                42.72         16.17        2.4578    0   3   6         6
+                42.72          3.96        2.4578    3   0   6         6
+                45.30          2.45        2.3245    2   2   3         6
+                48.03         12.45        2.1997    0   3   9         6
+                54.80         11.30        1.9453    0   3  12         6
+                54.80          1.93        1.9453    3   0  12         6
+                58.31          1.00        1.8374    0   0  18         2
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

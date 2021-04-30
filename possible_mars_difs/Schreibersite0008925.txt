@@ -1,0 +1,33 @@
+      Schreibersite
+      Skala R, Cisarova I
+      Physics and Chemistry of Minerals 31 (2005) 721-732
+      Crystal structure of meteoritic schreibersites: determination of absolute structure
+      Sample: Carlton
+      _database_code_amcsd 0008925
+      CELL PARAMETERS:   9.0575  9.0575  4.4622   90.000   90.000   90.000
+      SPACE GROUP: I-4       
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    366.071
+      Density (g/cm3):      7.299
+      MAX. ABS. INTENSITY / VOLUME**2:      43.93246601    
+      RIR:      2.810
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                25.84          1.35        4.0028    1   0   1         4
+                34.73          5.23        2.9992    1   2   1         4
+                41.95         19.95        2.5006    3   0   1         4
+                46.57          2.67        2.2644    4   0   0         4
+                47.31          2.19        2.2311    0   0   2         2
+                48.27         40.72        2.1890    2   3   1         4
+                48.27         59.28        2.1890    3   2   1         4
+                49.58         27.13        2.1349    3   3   0         4
+                50.28         53.44        2.1069    1   1   2         4
+                52.46         34.18        2.0253    4   2   0         4
+                52.46          1.10        2.0253    2   4   0         4
+                53.14         12.32        2.0014    2   0   2         4
+                54.03         67.16        1.9709    1   4   1         4
+                54.03         19.35        1.9709    4   1   1         4
+                58.55         19.98        1.8306    2   2   2         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

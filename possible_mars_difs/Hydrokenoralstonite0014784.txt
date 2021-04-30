@@ -1,0 +1,25 @@
+      Hydrokenoralstonite
+      Effenberger H, Kluger F
+      Neues Jahrbuch fur Mineralogie, Monatshefte 1984 (1984) 97-108
+      Ralstonite: a contribution to the knowledge of composition and crystal structure
+      Locality: Ivigtut, Greenland
+      _database_code_amcsd 0014784
+      CELL PARAMETERS:   9.9100  9.9100  9.9100   90.000   90.000   90.000
+      SPACE GROUP: Fd3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    973.242
+      Density (g/cm3):      2.552
+      MAX. ABS. INTENSITY / VOLUME**2:      12.56827565    
+      RIR:      2.299
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                18.00        100.00        5.7215    1   1   1         8
+                34.87         43.06        2.9880    3   1   1        24
+                36.47         36.26        2.8608    2   2   2         8
+                42.36          2.94        2.4775    4   0   0         6
+                46.37          7.55        2.2735    3   3   1        24
+                52.53         13.42        2.0229    4   2   2        24
+                55.98         23.54        1.9072    3   3   3         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

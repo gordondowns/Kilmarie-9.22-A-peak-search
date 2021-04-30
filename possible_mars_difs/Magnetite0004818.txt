@@ -1,0 +1,24 @@
+      Magnetite
+      Bosi F, Halenius U, Skogby H
+      American Mineralogist 94 (2009) 181-189
+      Crystal chemistry of the magnetite-ulvospinel series
+      Locality: synthetic
+      Note: FeTi10Ai
+      _database_code_amcsd 0004818
+      CELL PARAMETERS:   8.4145  8.4145  8.4145   90.000   90.000   90.000
+      SPACE GROUP: Fd3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    595.779
+      Density (g/cm3):      5.129
+      MAX. ABS. INTENSITY / VOLUME**2:      63.96273887    
+      RIR:      5.822
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.24          7.71        4.8581    1   1   1         8
+                35.02         29.09        2.9750    2   2   0        12
+                41.32        100.00        2.5371    3   1   1        24
+                43.25          7.64        2.4291    2   2   2         8
+                50.37         19.72        2.1036    4   0   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

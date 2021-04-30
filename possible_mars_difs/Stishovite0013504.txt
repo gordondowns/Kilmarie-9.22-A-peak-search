@@ -1,0 +1,22 @@
+      Stishovite
+      Hill R J, Newton M D, Gibbs G V
+      Journal of Solid State Chemistry 47 (1983) 185-200
+      A crystal chemical study of stishovite
+      Locality: synthetic
+      _database_code_amcsd 0013504
+      CELL PARAMETERS:   4.1773  4.1773  2.6655   90.000   90.000   90.000
+      SPACE GROUP: P4_2/mnm  
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     46.513
+      Density (g/cm3):      4.290
+      MAX. ABS. INTENSITY / VOLUME**2:      19.31970577    
+      RIR:      2.103
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                35.28        100.00        2.9538    1   1   0         4
+                46.95         24.35        2.2470    1   0   1         8
+                53.79         38.80        1.9789    1   1   1         8
+                57.26         14.51        1.8681    2   1   0         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

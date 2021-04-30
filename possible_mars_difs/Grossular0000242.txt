@@ -1,0 +1,31 @@
+      Grossular
+      Novak G A, Gibbs G V
+      American Mineralogist 56 (1971) 791-825
+      The crystal chemistry of the silicate garnets
+      sample Mn-Gr
+      Locality: unknown
+      _database_code_amcsd 0000242
+      CELL PARAMETERS:  11.6900 11.6900 11.6900   90.000   90.000   90.000
+      SPACE GROUP: Ia-3d     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1597.510
+      Density (g/cm3):      3.955
+      MAX. ABS. INTENSITY / VOLUME**2:      21.64306960    
+      RIR:      2.554
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.62          2.78        4.7724    2   1   1        24
+                25.02          1.17        4.1330    2   2   0        12
+                33.30          2.49        3.1243    3   2   1        48
+                35.67         34.76        2.9225    4   0   0         6
+                40.05        100.00        2.6140    4   2   0        24
+                42.10          3.54        2.4923    3   3   2        24
+                44.06         18.75        2.3862    4   2   2        24
+                45.97         11.24        2.2926    4   3   1        48
+                49.59         16.08        2.1343    5   2   1        48
+                51.34          3.23        2.0665    4   4   0        12
+                56.33         11.16        1.8964    5   3   2        48
+                56.33         11.43        1.8964    6   1   1        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,37 @@
+      Zunyite
+      Louisnathan S J, Gibbs G V
+      American Mineralogist 57 (1972) 1089-1108
+      Aluminium-silicon distribution in zunyite
+      _database_code_amcsd 0000290
+      CELL PARAMETERS:  13.8600 13.8600 13.8600   90.000   90.000   90.000
+      SPACE GROUP: F-43m     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   2662.500
+      Density (g/cm3):      2.874
+      MAX. ABS. INTENSITY / VOLUME**2:      8.083879502    
+      RIR:      1.313
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                12.85        100.00        8.0021    1   1   1         4
+                14.84          3.94        6.9300    2   0   0         6
+                21.05          2.30        4.9002    2   2   0        12
+                24.74         89.04        4.1789    3   1   1        12
+                25.86         50.77        4.0010    2   2   2         4
+                32.70         14.30        3.1797    3   3   1        12
+                36.89         38.98        2.8292    4   2   2        12
+                39.22         42.77        2.6674    5   1   1        12
+                39.22         56.98        2.6674    3   3   3         4
+                42.86          8.39        2.4501    4   4   0        12
+                44.93          5.78        2.3428    5   3   1        24
+                48.22          1.76        2.1915    6   2   0        24
+                50.11         19.66        2.1136    5   3   3        12
+                50.73          4.41        2.0895    6   2   2        12
+                53.16         25.90        2.0005    4   4   4         4
+                54.93          1.46        1.9408    7   1   1        12
+                54.93          7.17        1.9408    5   5   1        12
+                57.80         14.09        1.8521    6   4   2        24
+                59.48         12.36        1.8044    5   5   3        12
+                59.48          1.22        1.8044    7   3   1        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

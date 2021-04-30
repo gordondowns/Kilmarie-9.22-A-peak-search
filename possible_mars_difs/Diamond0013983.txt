@@ -1,0 +1,26 @@
+      Diamond
+      Fayos J
+      Journal of Solid State Chemistry 148 (1999) 278-285
+      Possible 3D carbon structures as progressive intermediates in graphite
+      to diamond phase transition
+      Note: mathematical model, phase: diam_cr43_ch
+      _database_code_amcsd 0013983
+      CELL PARAMETERS:   4.9640  5.1630  4.3870   90.000   90.000   90.000
+      SPACE GROUP: Cmma      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    112.435
+      Density (g/cm3):      2.838
+      MAX. ABS. INTENSITY / VOLUME**2:      4.013633052    
+      RIR:      0.660
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                23.55          1.57        4.3870    0   0   1         2
+                37.67         43.40        2.7729    1   1   1         8
+                40.58        100.00        2.5815    0   2   0         2
+                47.45          2.36        2.2249    0   2   1         4
+                48.17         19.74        2.1935    0   0   2         2
+                48.96         48.32        2.1602    2   0   1         4
+                57.20         10.76        1.8701    1   1   2         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

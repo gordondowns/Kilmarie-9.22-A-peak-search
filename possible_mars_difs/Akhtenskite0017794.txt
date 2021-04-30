@@ -1,0 +1,20 @@
+      Akhtenskite
+      Kondrashev Y D, Zaslavskii A I
+      Izvestiya Akademii Nauk SSSR 15 (1951) 179-186
+      The structure of the modifications of manganese oxide
+      _database_code_amcsd 0017794
+      CELL PARAMETERS:   2.7860  2.7860  4.4120   90.000   90.000  120.000
+      SPACE GROUP: P6_3mc    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     29.657
+      Density (g/cm3):      4.867
+      MAX. ABS. INTENSITY / VOLUME**2:      13.64384025    
+      RIR:      1.309
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                43.56        100.00        2.4127    1   0   0         6
+                47.88          9.40        2.2060    0   0   2         1
+                50.03         59.06        2.1169    1   0   1         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

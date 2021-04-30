@@ -1,0 +1,25 @@
+      Guyanaite
+      Christensen N, Hansen P, Lehmann M S
+      Journal of Solid State Chemistry 19 (1976) 299-304
+      Isotope effects in the bonds of beta-CrOOH and beta-CrOOD
+      Locality: synthetic
+      _database_code_amcsd 0013341
+      CELL PARAMETERS:   4.8620  4.2980  2.9950   90.000   90.000   90.000
+      SPACE GROUP: Pnnm      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     62.586
+      Density (g/cm3):      4.510
+      MAX. ABS. INTENSITY / VOLUME**2:      31.47079618    
+      RIR:      3.257
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                32.28        100.00        3.2202    1   1   0         4
+                41.10         20.61        2.5500    1   0   1         4
+                42.73         59.00        2.4572    0   1   1         4
+                43.21         17.88        2.4310    2   0   0         2
+                48.18         15.59        2.1931    1   1   1         8
+                49.23          3.08        2.1490    0   2   0         2
+                50.05          9.75        2.1160    2   1   0         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

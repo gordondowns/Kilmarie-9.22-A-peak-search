@@ -1,0 +1,31 @@
+      Andradite
+      Armbruster T, Birrer J, Libowitzky E, Beran A
+      European Journal of Mineralogy 10 (1998) 907-921
+      Crystal chemistry of Ti-bearing andradites
+      Note: sample NAMIB
+      Locality: Okahandja, Namibia
+      _database_code_amcsd 0006759
+      CELL PARAMETERS:  11.7640 11.7640 11.7640   90.000   90.000   90.000
+      SPACE GROUP: Ia-3d     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1628.040
+      Density (g/cm3):      3.920
+      MAX. ABS. INTENSITY / VOLUME**2:      21.82656121    
+      RIR:      2.599
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.48          1.54        4.8026    2   1   1        24
+                33.08          1.58        3.1441    3   2   1        48
+                35.44         38.12        2.9410    4   0   0         6
+                39.79        100.00        2.6305    4   2   0        24
+                41.82          4.40        2.5081    3   3   2        24
+                43.77         24.48        2.4013    4   2   2        24
+                45.66         11.55        2.3071    4   3   1        48
+                49.26         14.11        2.1478    5   2   1        48
+                50.99          2.22        2.0796    4   4   0        12
+                55.95         10.13        1.9084    5   3   2        48
+                55.95         10.58        1.9084    6   1   1        24
+                57.53          1.36        1.8601    6   2   0        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

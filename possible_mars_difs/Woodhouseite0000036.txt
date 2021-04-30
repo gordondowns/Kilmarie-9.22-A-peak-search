@@ -1,0 +1,32 @@
+      Woodhouseite
+      Pabst A
+      American Mineralogist 32 (1947) 16-30
+      Some computations on svanbergite, woodhouseite and alunite
+      _database_code_amcsd 0000036
+      CELL PARAMETERS:   6.7500  6.7500  6.7500   62.070   62.070   62.070
+      SPACE GROUP: R-3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    227.532
+      Density (g/cm3):      2.978
+      MAX. ABS. INTENSITY / VOLUME**2:      11.20687970    
+      RIR:      1.757
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                18.22         17.48        5.6522    1   0   0         6
+                21.30         32.34        4.8431    1   1   0         6
+                29.81         29.06        3.4800    0  -1   1         6
+                35.16         33.63        2.9634    1  -1   1         6
+                35.59        100.00        2.9289    2   1   0        12
+                36.43          2.92        2.8635    2   2   1         6
+                36.93          1.82        2.8261    2   0   0         6
+                38.55         12.99        2.7118    2   2   2         2
+                43.39          3.18        2.4216    2   2   0         6
+                47.76          3.79        2.2112    3   1   1         6
+                48.16         11.04        2.1938    2  -1   1        12
+                48.76         36.47        2.1687    3   2   2         6
+                53.53          2.26        1.9877    3   1   0        12
+                56.73          1.20        1.8841    3   0   0         6
+                56.73         31.50        1.8841    2  -1   2         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

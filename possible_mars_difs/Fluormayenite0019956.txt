@@ -1,0 +1,34 @@
+      Fluormayenite
+      Yu Q, Sugita S, Feng X, Mi J
+      Cement and Concrete Research 27 (1997) 1439-1449
+      On the preparation of single crystals of 11CaO*7Al2O3*CaF2
+      and the confirmation of its crystal structure
+      Locality: synthetic
+      _database_code_amcsd 0019956
+      CELL PARAMETERS:  11.9810 11.9810 11.9810   90.000   90.000   90.000
+      SPACE GROUP: I-43d     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1719.805
+      Density (g/cm3):      2.720
+      MAX. ABS. INTENSITY / VOLUME**2:      12.07108214    
+      RIR:      2.072
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.09        100.00        4.8912    2   1   1        12
+                24.40          3.94        4.2359    2   2   0        12
+                27.33          6.73        3.7887    3   1   0        24
+                32.47         13.32        3.2021    3   2   1        24
+                34.78         24.76        2.9952    4   0   0         6
+                39.04         73.86        2.6790    4   2   0        24
+                41.03          4.57        2.5544    3   3   2        12
+                42.94         33.55        2.4456    4   2   2        12
+                44.79          6.04        2.3497    5   1   0        24
+                48.31         33.61        2.1874    5   2   1        24
+                50.00          1.28        2.1180    4   4   0        12
+                51.65          3.06        2.0547    5   3   0        24
+                54.85         23.62        1.9436    5   3   2        24
+                54.85          5.58        1.9436    6   1   1        12
+                57.92          2.54        1.8487    5   4   1        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

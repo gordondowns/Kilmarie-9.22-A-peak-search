@@ -1,0 +1,24 @@
+      Ulvospinel
+      Sedler I K, Feenstra A, Peters T
+      European Journal of Mineralogy 6 (1994) 873-885
+      An X-ray powder diffraction study of synthetic (Fe,Mn)2TiO4 spinel
+      Sample: D-17
+      _database_code_amcsd 0006569
+      CELL PARAMETERS:   8.5570  8.5570  8.5570   90.000   90.000   90.000
+      SPACE GROUP: Fd3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    626.563
+      Density (g/cm3):      4.735
+      MAX. ABS. INTENSITY / VOLUME**2:      49.49101347    
+      RIR:      4.879
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                20.88         23.93        4.9404    1   1   1         8
+                34.42         23.47        3.0254    2   2   0        12
+                40.60        100.00        2.5800    3   1   1        24
+                42.49         10.75        2.4702    2   2   2         8
+                49.47         28.28        2.1393    4   0   0         6
+                54.26          1.37        1.9631    3   3   1        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

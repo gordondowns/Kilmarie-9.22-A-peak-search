@@ -1,0 +1,25 @@
+      Guyanaite
+      Pernet M, Berthet-Colominas C, Alario-Franco M, Christensen A
+      Physica Status Solidi A43 (1977) 81-88
+      Etude par diffraction neutronique de l'oxyhydroxyde de chrome beta-CrO OH
+      _cod_database_code 1008756
+      _database_code_amcsd 0016633
+      CELL PARAMETERS:   4.8580  4.2920  2.9550   90.000   90.000   90.000
+      SPACE GROUP: P2_1nm    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     61.613
+      Density (g/cm3):      4.581
+      MAX. ABS. INTENSITY / VOLUME**2:      34.04056557    
+      RIR:      3.469
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                32.32        100.00        3.2165    1   1   0         2
+                41.53         19.27        2.5246    1   0   1         2
+                43.16         50.01        2.4339    0   1   1         4
+                43.25         17.69        2.4290    2   0   0         1
+                48.58         14.27        2.1761    1   1   1         4
+                49.31          2.92        2.1460    0   2   0         2
+                50.10          8.83        2.1139    2   1   0         2
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

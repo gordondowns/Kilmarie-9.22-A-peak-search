@@ -1,0 +1,31 @@
+      Pyrope
+      Nestola F, Merli M, Nimis P, Parisatto M, Kopylova M,
+      De Stefano A, Longo M, Ziberna L, Manghnani M
+      European Journal of Mineralogy 24 (2012) 599-606
+      In situ analysis of garnet inclusion in diamond using
+      single-crystal X-ray diffraction and X-ray micro-tomography
+      Note: uncorrected for pressure inside the diamond
+      Locality: inclusion in diamond, Jericho kimberlite, Slave Craton, Canada
+      _database_code_amcsd 0019353
+      CELL PARAMETERS:  11.5826 11.5825 11.5826   90.000   90.000   90.000
+      SPACE GROUP: Ia3d      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1553.869
+      Density (g/cm3):      3.834
+      MAX. ABS. INTENSITY / VOLUME**2:      17.42339218    
+      RIR:      2.121
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                36.01         39.67        2.8956    4   0   0         6
+                40.44        100.00        2.5899    4   2   0        24
+                42.51          9.40        2.4694    3   3   2        24
+                44.50         20.79        2.3643    4   2   2        24
+                46.42         13.99        2.2715    4   3   1        48
+                50.09         13.39        2.1147    5   2   1        48
+                51.85          3.02        2.0475    4   4   0        12
+                56.90         10.29        1.8789    6   1   1        24
+                56.90          8.65        1.8789    5   3   2        48
+                58.52          1.50        1.8314    6   2   0        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

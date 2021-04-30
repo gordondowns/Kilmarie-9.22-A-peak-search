@@ -1,0 +1,32 @@
+      Huntite
+      Dollase W A, Reeder R J
+      American Mineralogist 71 (1986) 163-166
+      Crystal structure refinement of huntite, CaMg3(CO3)4, with X-ray powder data
+      _database_code_amcsd 0001006
+      CELL PARAMETERS:   9.5027  9.5027  7.8212   90.000   90.000  120.000
+      SPACE GROUP: R32       
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    611.643
+      Density (g/cm3):      2.875
+      MAX. ABS. INTENSITY / VOLUME**2:      12.44759284    
+      RIR:      2.021
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                18.17          1.44        5.6693    1   0   1         6
+                28.46          2.02        3.6416    0   2   1         6
+                36.08         18.81        2.8903    2   1   1         6
+                36.82        100.00        2.8346    2   0   2         6
+                38.09          2.36        2.7432    3   0   0         6
+                40.16          8.76        2.6071    0   0   3         2
+                43.15          9.13        2.4343    1   2   2         6
+                44.27         10.32        2.3757    2   2   0         3
+                46.11          5.44        2.2856    1   1   3         6
+                48.23          7.37        2.1911    1   3   1         6
+                53.47          7.43        1.9897    4   0   1         6
+                54.01         22.83        1.9713    3   1   2         6
+                58.38          1.12        1.8353    3   2   1         6
+                58.90          2.43        1.8208    0   4   2         6
+                59.80          1.08        1.7958    4   1   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

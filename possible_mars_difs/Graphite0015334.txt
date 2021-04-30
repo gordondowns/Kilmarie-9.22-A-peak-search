@@ -1,0 +1,22 @@
+      Graphite
+      Lipson H, Stokes A R
+      Proceedings of the Royal Society of London A181 (1942) 101-105
+      The structure of graphite
+      Locality: Ceylon, Bavaria
+      Note: phase: graphite 3R
+      _database_code_amcsd 0015334
+      CELL PARAMETERS:   3.6350  3.6350  3.6350   39.490   39.490   39.490
+      SPACE GROUP: R-3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     17.485
+      Density (g/cm3):      2.281
+      MAX. ABS. INTENSITY / VOLUME**2:      12.09637291    
+      RIR:      2.476
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                31.02        100.00        3.3470    1   1   1         2
+                50.96         12.95        2.0808    1   0   0         6
+                54.39          8.35        1.9585    1   1   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

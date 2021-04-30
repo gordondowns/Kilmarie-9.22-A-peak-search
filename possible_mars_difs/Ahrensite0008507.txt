@@ -1,0 +1,25 @@
+      Ahrensite
+      Yamanaka T, Shimazu H, Ota K
+      Physics and Chemistry of Minerals 28 (2001) 110-118
+      Electric conductivity of Fe2SiO4-Fe3O4 spinel solid solutions
+      Sample: Fe(3-x)SixO4, x = 1.000, synthesized at 1200 C, 10 GPa
+      Locality: synthetic
+      _database_code_amcsd 0008507
+      CELL PARAMETERS:   8.2374  8.2374  8.2374   90.000   90.000   90.000
+      SPACE GROUP: Fd3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    558.947
+      Density (g/cm3):      4.842
+      MAX. ABS. INTENSITY / VOLUME**2:      45.20933143    
+      RIR:      4.358
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.70         28.04        4.7559    1   1   1         8
+                35.80         11.50        2.9124    2   2   0        12
+                42.25        100.00        2.4837    3   1   1        24
+                44.23         12.81        2.3779    2   2   2         8
+                51.53         44.00        2.0594    4   0   0         6
+                56.55         12.69        1.8898    3   3   1        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

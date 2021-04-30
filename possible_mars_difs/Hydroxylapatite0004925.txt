@@ -1,0 +1,52 @@
+      Hydroxylapatite
+      Lee Y J, Stephens P W, Tang Y, Li W, Phillips B L, Parise J B, Reeder R J
+      American Mineralogist 94 (2009) 666-675
+      Arsenate substitution in hydroxylapatite: Structural characterization of the
+      Ca5(PxAs1-xO4)3OH solid solution
+      Sample: As11
+      Locality: synthetic
+      _database_code_amcsd 0004925
+      CELL PARAMETERS:   9.4655  9.4655  6.9068   90.000   90.000  120.000
+      SPACE GROUP: P6_3/m    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    535.913
+      Density (g/cm3):      3.196
+      MAX. ABS. INTENSITY / VOLUME**2:      11.16684555    
+      RIR:      1.631
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                12.54         15.95        8.1974    1   0   0         6
+                19.51          4.13        5.2819    1   0   1        12
+                21.81          4.35        4.7327    1   1   0         6
+                25.23          5.12        4.0987    2   0   0         6
+                26.51         11.04        3.9041    1   1   1        12
+                29.42          2.12        3.5248    2   0   1        12
+                30.05         37.11        3.4534    0   0   2         2
+                32.67          6.67        3.1825    1   0   2        12
+                33.59         14.46        3.0983    2   1   0         6
+                36.92         30.43        2.8269    1   2   1        12
+                36.92         69.57        2.8269    2   1   1        12
+                37.43         48.46        2.7897    1   1   2        12
+                38.25         62.00        2.7325    3   0   0         6
+                39.63         23.38        2.6409    2   0   2        12
+                41.26          4.34        2.5408    3   0   1        12
+                45.68          1.04        2.3062    1   2   2        12
+                45.68          3.50        2.3062    2   1   2        12
+                46.37          4.83        2.2735    3   1   0         6
+                46.37         14.68        2.2735    1   3   0         6
+                47.14          2.63        2.2386    2   2   1        12
+                48.98          5.47        2.1595    1   3   1        12
+                48.98          1.05        2.1595    3   1   1        12
+                51.24          2.79        2.0703    1   1   3        12
+                52.97          3.48        2.0073    2   0   3        12
+                54.59         29.45        1.9521    2   2   2        12
+                56.25          5.30        1.8990    1   3   2        12
+                56.25          4.52        1.8990    3   1   2        12
+                56.85          1.18        1.8806    2   3   0         6
+                57.95          9.71        1.8479    1   2   3        12
+                57.95         23.17        1.8479    2   1   3        12
+                59.12          2.70        1.8145    3   2   1        12
+                59.12          2.79        1.8145    2   3   1        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

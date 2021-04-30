@@ -1,0 +1,29 @@
+      Lepidocrocite
+      Ewing F
+      Journal of Chemical Physics 3 (1935) 420-424
+      The Crystal Structure of Lepidocrocite
+      _cod_database_code 1011026
+      _database_code_amcsd 0017932
+      CELL PARAMETERS:   3.8700 12.5100  3.0600   90.000   90.000   90.000
+      SPACE GROUP: Amam      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    148.146
+      Density (g/cm3):      3.938
+      MAX. ABS. INTENSITY / VOLUME**2:      42.22613658    
+      RIR:      5.006
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                16.46        100.00        6.2550    0   2   0         2
+                31.57         63.37        3.2910    1   2   0         4
+                35.05          3.23        2.9724    0   1   1         4
+                42.55         45.23        2.4670    0   3   1         4
+                43.18          8.18        2.4325    1   4   0         4
+                44.63         14.62        2.3573    1   1   1         8
+                50.85          3.03        2.0850    0   6   0         2
+                50.97          2.41        2.0803    1   3   1         8
+                55.05         19.57        1.9369    0   5   1         4
+                55.11         16.35        1.9350    2   0   0         2
+                57.93          5.98        1.8486    2   2   0         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

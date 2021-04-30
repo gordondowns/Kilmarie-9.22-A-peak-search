@@ -1,0 +1,26 @@
+      Marcasite
+      Buerger M J
+      American Mineralogist 16 (1931) 361-395
+      The crystal structure of marcasite
+      Locality: Joplin, Missouri, USA
+      _database_code_amcsd 0000008
+      CELL PARAMETERS:   3.3700  4.4400  5.3900   90.000   90.000   90.000
+      SPACE GROUP: Pmnn      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     80.649
+      Density (g/cm3):      4.940
+      MAX. ABS. INTENSITY / VOLUME**2:      26.41668367    
+      RIR:      2.496
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                30.28         67.39        3.4270    0   1   1         4
+                36.51          3.00        2.8575    1   0   1         4
+                38.80         28.93        2.6950    0   0   2         2
+                38.96        100.00        2.6843    1   1   0         4
+                43.74         43.87        2.4028    1   1   1         8
+                45.73         37.78        2.3038    0   1   2         4
+                51.71          4.20        2.0527    0   2   1         4
+                56.15         36.47        1.9019    1   1   2         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

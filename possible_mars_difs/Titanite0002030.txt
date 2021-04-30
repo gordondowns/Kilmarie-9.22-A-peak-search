@@ -1,0 +1,41 @@
+      Titanite
+      Chrosch J, Colombo M, Malcherek T, Salje E K H, Groat L A, Bismayer U
+      American Mineralogist 83 (1998) 1083-1091
+      Thermal annealing behaviour of radiation damaged titanite
+      Sample is heated Cardiff titanite, 1123 K for 3 days
+      _database_code_amcsd 0002030
+      CELL PARAMETERS:   7.0469  8.6901  6.5372   90.000  113.944   90.000
+      SPACE GROUP: A2/a      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    365.876
+      Density (g/cm3):      3.460
+      MAX. ABS. INTENSITY / VOLUME**2:      11.22585467    
+      RIR:      1.515
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                20.95          2.63        4.9233    0   1   1         4
+                21.71          1.76        4.7527   -1   1   1         4
+                28.78         11.06        3.6020    1   2   0         4
+                30.52          1.12        3.4009    1   1   1         4
+                32.12         70.89        3.2359   -2   1   1         4
+                32.28          7.35        3.2202    2   0   0         2
+                34.87         42.06        2.9873    0   0   2         2
+                36.76          7.51        2.8385   -2   0   2         2
+                40.17        100.00        2.6065    0   3   1         4
+                40.49         42.80        2.5872    2   2   0         4
+                44.26          1.98        2.3764   -2   2   2         4
+                44.62          6.05        2.3578    2   1   1         4
+                46.24         16.37        2.2798    1   3   1         4
+                46.56          9.63        2.2649   -3   1   1         4
+                48.66          1.88        2.1725    0   4   0         2
+                50.39          8.63        2.1026   -1   1   3         4
+                51.46          8.39        2.0618   -2   1   3         4
+                54.92          7.22        1.9412    0   1   3         4
+                55.43          2.12        1.9247    3   2   0         4
+                57.18          7.15        1.8705    2   3   1         4
+                57.95          3.39        1.8478    2   0   2         2
+                59.35          3.64        1.8082   -1   4   2         4
+                59.61          7.22        1.8010    2   4   0         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

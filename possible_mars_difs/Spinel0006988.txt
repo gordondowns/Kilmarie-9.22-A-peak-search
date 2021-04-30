@@ -1,0 +1,24 @@
+      Spinel
+      Lavina B, Koneva A, Della Giusta A
+      European Journal of Mineralogy 15 (2003) 435-441
+      Cation distribution and cooling rates of Cr-substituted Mg-Al spinel
+      from the Olkhon metamorphic complex, Russia
+      Sample: T4-2E
+      Locality: Olkhon metamorphic complex, Russia
+      _database_code_amcsd 0006988
+      CELL PARAMETERS:   8.1172  8.1172  8.1172   90.000   90.000   90.000
+      SPACE GROUP: Fd3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    534.834
+      Density (g/cm3):      3.683
+      MAX. ABS. INTENSITY / VOLUME**2:      12.28923076    
+      RIR:      1.558
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                22.02         49.71        4.6865    1   1   1         8
+                36.35         31.44        2.8699    2   2   0        12
+                42.91        100.00        2.4474    3   1   1        24
+                52.35         48.90        2.0293    4   0   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

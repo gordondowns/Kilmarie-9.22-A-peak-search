@@ -1,0 +1,65 @@
+      Hydroxylchondrodite
+      Pekov I V, Gerasimova E I, Chukanov N V, Kabalov Y K, Zubkova N V,
+      Zadov A E, Yapaskurt V O, Gekimyants V M, Pushcharovskii D Y
+      Doklady Akademii Nauk 436 (2011) 526-532
+      Hydroxylchondrodite Mg5(SiO4)2(OH)2: a new mineral of the humite group
+      and its crystal structure
+      Locality: Perovskitovaya Kop', Chuvashskie Mountains, Southern Urals, Russia
+      _database_code_amcsd 0018887
+      CELL PARAMETERS:   7.8800  4.7260 10.2900   90.000  109.040   90.000
+      SPACE GROUP: P2_1/c    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    362.244
+      Density (g/cm3):      3.102
+      MAX. ABS. INTENSITY / VOLUME**2:      2.476748729    
+      RIR:      0.373
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                13.80         16.86        7.4489    1   0   0         2
+                21.21          1.33        4.8635    0   0   2         2
+                21.22         99.17        4.8628   -1   0   2         2
+                24.31          3.00        4.2508    0   1   1         4
+                25.93         33.07        3.9906    1   1   0         4
+                26.25         10.30        3.9418   -1   1   1         4
+                27.81         20.41        3.7244    2   0   0         2
+                29.01         45.33        3.5735    1   0   2         2
+                29.02         16.31        3.5726   -2   0   2         2
+                29.77         52.98        3.4843    1   1   1         4
+                30.63         24.94        3.3894    0   1   2         4
+                30.63          6.53        3.3891   -1   1   2         4
+                34.45         79.76        3.0231   -2   1   1         4
+                35.64          2.60        2.9252    2   1   0         4
+                36.61          2.99        2.8504    1   1   2         4
+                36.61         11.76        2.8499   -2   1   2         4
+                37.79         67.13        2.7639   -1   1   3         4
+                39.12         68.06        2.6736    0   1   3         4
+                39.92         94.46        2.6221    2   1   1         4
+                40.62          3.16        2.5787    2   0   2         2
+                40.63          4.58        2.5781   -3   0   2         2
+                41.68        100.00        2.5161   -2   1   3         4
+                42.26         14.27        2.4830    3   0   0         2
+                43.20         15.48        2.4318    0   0   4         2
+                43.20          2.39        2.4314   -2   0   4         2
+                45.28         34.98        2.3254    1   1   3         4
+                45.89         27.66        2.2962    0   2   1         4
+                46.00         47.22        2.2910   -3   1   1         4
+                46.59         46.47        2.2636    2   1   2         4
+                46.60         52.70        2.2633   -3   1   2         4
+                46.68         50.27        2.2595   -1   1   4         4
+                47.03          3.47        2.2435   -1   2   1         4
+                49.25         10.60        2.1482    1   2   1         4
+                49.78          3.83        2.1269   -3   1   3         4
+                50.04         13.79        2.1164   -3   0   4         2
+                52.45          9.21        2.0255   -2   2   1         4
+                52.55          4.34        2.0221    3   1   1         4
+                54.16          1.75        1.9665   -4   0   2         2
+                54.90          5.03        1.9418   -1   2   3         4
+                56.76          9.10        1.8831   -1   1   5         4
+                57.75          3.75        1.8536   -2   1   5         4
+                59.07          4.82        1.8158    3   1   2         4
+                59.08          1.38        1.8156   -4  -1   2         4
+                59.54          3.82        1.8028   -4  -1   1         4
+                59.68          8.58        1.7990    0   1   5         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

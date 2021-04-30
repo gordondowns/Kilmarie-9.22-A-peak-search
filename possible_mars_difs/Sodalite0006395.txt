@@ -1,0 +1,30 @@
+      Sodalite
+      Han S, Smith J V, Pluth J J, Richardson J W
+      European Journal of Mineralogy 2 (1990) 787-798
+      Crystal structure of MAPO-20 sodalite: theoretical analysis
+      of three-color ordering of Mg, Al and P in a sodalite unit
+      Sample: X-ray refinement
+      _database_code_amcsd 0006395
+      CELL PARAMETERS:   9.0437  9.0437  9.0437   90.000   90.000   90.000
+      SPACE GROUP: P-43n     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    739.671
+      Density (g/cm3):      1.642
+      MAX. ABS. INTENSITY / VOLUME**2:      21.44266296    
+      RIR:      6.094
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                16.09        100.00        6.3949    1   1   0        12
+                22.84         12.62        4.5219    2   0   0         6
+                25.57          3.04        4.0445    2   1   0        24
+                28.06         36.45        3.6921    2   1   1        12
+                32.52          8.44        3.1974    2   2   0        12
+                36.48          8.43        2.8599    3   1   0        24
+                40.10         10.67        2.6107    2   2   2         4
+                43.47          1.12        2.4170    3   2   1        24
+                46.65          3.40        2.2609    4   0   0         6
+                49.66          1.39        2.1316    3   3   0        12
+                55.32          2.13        1.9281    3   3   2        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

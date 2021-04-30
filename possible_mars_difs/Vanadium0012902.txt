@@ -1,0 +1,19 @@
+      Vanadium
+      Straumanis M E
+      Journal of Applied Physics 30 (1959) 1965-1969
+      Absorption correction in precision determination of lattice parameters
+      Locality: synthetic
+      _database_code_amcsd 0012902
+      CELL PARAMETERS:   3.0236  3.0236  3.0236   90.000   90.000   90.000
+      SPACE GROUP: Im3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     27.642
+      Density (g/cm3):      6.119
+      MAX. ABS. INTENSITY / VOLUME**2:      130.8299025    
+      RIR:      9.980
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                49.50        100.00        2.1380    1   1   0        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

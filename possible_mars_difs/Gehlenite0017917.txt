@@ -1,0 +1,38 @@
+      Gehlenite
+      Raaz F
+      Sitzungsberichte der Akademie der Wissenschaften in Wien 139 (1930) 645-672
+      Ueber den Feinbau des Gehlenit. Ein Beitrag zur Kenntnis der Melilithe
+      _cod_database_code 1011002
+      _database_code_amcsd 0017917
+      CELL PARAMETERS:   7.6900  7.6900  5.1000   90.000   90.000   90.000
+      SPACE GROUP: P-42_1m   
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    301.594
+      Density (g/cm3):      3.019
+      MAX. ABS. INTENSITY / VOLUME**2:      16.14076878    
+      RIR:      2.496
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                20.22          4.48        5.1000    0   0   1         2
+                24.32          1.77        4.2502    1   0   1         8
+                27.85         21.82        3.7199    1   1   1         4
+                30.17          1.21        3.4391    2   1   0         8
+                33.90         18.57        3.0702    2   0   1         8
+                36.59        100.00        2.8514    2   1   1         8
+                38.45          7.22        2.7188    2   2   0         4
+                41.10          3.12        2.5500    0   0   2         2
+                43.20         16.35        2.4318    3   1   0         8
+                43.41          5.24        2.4204    1   0   2         8
+                43.81         11.49        2.3992    2   2   1         4
+                45.63          3.21        2.3087    1   1   2         4
+                46.01          8.00        2.2903    3   0   1         8
+                48.13          2.59        2.1950    3   1   1         8
+                51.83         10.02        2.0483    2   1   2         8
+                54.12          1.91        1.9677    3   2   1         8
+                55.50          9.00        1.9225    4   0   0         4
+                57.36          1.75        1.8651    4   1   0         8
+                57.54          1.90        1.8599    2   2   2         4
+                59.19          9.06        1.8126    3   3   0         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

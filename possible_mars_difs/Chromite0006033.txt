@@ -1,0 +1,25 @@
+      Chromite
+      Lenaz D, Princivalle F
+      The Canadian Mineralogist 43 (2005) 1305-1314
+      The crystal chemistry of detrital chromian spinel from the
+      southeastern Alps and Outer Dinarides: The discrimination of
+      supplies from areas of similar tectonic setting?
+      Sample: CL 1
+      _database_code_amcsd 0006033
+      CELL PARAMETERS:   8.2837  8.2837  8.2837   90.000   90.000   90.000
+      SPACE GROUP: Fd-3m     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    568.425
+      Density (g/cm3):      4.330
+      MAX. ABS. INTENSITY / VOLUME**2:      32.36108290    
+      RIR:      3.489
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.58         20.21        4.7826    1   1   1         8
+                35.59         32.08        2.9287    2   2   0        12
+                42.00        100.00        2.4976    3   1   1        24
+                43.97          2.76        2.3913    2   2   2         8
+                51.22         29.30        2.0709    4   0   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

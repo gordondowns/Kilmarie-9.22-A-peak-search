@@ -1,0 +1,44 @@
+      Forsterite
+      Liang J, Hawthorne F C
+      The Canadian Mineralogist 32 (1994) 541-552
+      Characterization of fine-grained mixtures of rock-forming minerals by Rietveld
+      structure refinement: olivine + pyroxene
+      Sample: P6 Rietveld, 59.9% olivine
+      _database_code_amcsd 0005402
+      CELL PARAMETERS:   4.7644 10.2370  5.9975   90.000   90.000   90.000
+      SPACE GROUP: Pbnm      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    292.517
+      Density (g/cm3):      3.337
+      MAX. ABS. INTENSITY / VOLUME**2:      6.142109567    
+      RIR:      0.859
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                20.14         18.64        5.1185    0   2   0         2
+                26.58         52.07        3.8934    0   2   1         4
+                27.77         16.45        3.7305    1   0   1         4
+                29.59         20.89        3.5051    1   1   1         8
+                29.75         13.52        3.4874    1   2   0         4
+                34.55          5.75        3.0148    1   2   1         8
+                34.74         15.37        2.9987    0   0   2         2
+                37.65         65.90        2.7742    1   3   0         4
+                40.48          3.08        2.5874    0   2   2         4
+                41.65         76.51        2.5179    1   3   1         8
+                42.62        100.00        2.4633    1   1   2         8
+                44.14          1.34        2.3822    2   0   0         2
+                44.70         12.00        2.3539    0   4   1         4
+                45.39          8.59        2.3202    2   1   0         4
+                46.37         37.92        2.2737    1   2   2         8
+                46.79         26.48        2.2546    1   4   0         4
+                48.87         16.40        2.1639    2   1   1         8
+                52.15          4.12        2.0364    1   3   2         8
+                54.55          2.02        1.9533    2   3   0         4
+                54.75          2.35        1.9467    0   4   2         4
+                56.83          6.19        1.8811    1   5   0         4
+                57.36          1.57        1.8653    2   0   2         4
+                58.39          1.10        1.8351    2   1   2         8
+                59.13          4.07        1.8143    1   1   3         8
+                59.83          4.91        1.7949    1   5   1         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

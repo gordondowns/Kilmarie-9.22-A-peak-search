@@ -1,0 +1,26 @@
+      Bixbyite
+      Zachariasen W
+      Zeitschrift fur Kristallographie 67 (1928) 455-464
+      Ueber die Kristallstruktur von Bixbyit, sowie vom kuenstlichen Mn2 O3.
+      _cod_database_code 1011264
+      _database_code_amcsd 0018124
+      CELL PARAMETERS:   9.3500  9.3500  9.3500   90.000   90.000   90.000
+      SPACE GROUP: I2_13     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    817.400
+      Density (g/cm3):      5.160
+      MAX. ABS. INTENSITY / VOLUME**2:      64.45973157    
+      RIR:      5.831
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                38.74        100.00        2.6991    2   2   2         4
+                41.98          4.70        2.4989    3   2   1        12
+                41.98          5.54        2.4989    3   1   2        12
+                45.03         15.61        2.3375    4   0   0         6
+                47.93          3.02        2.2038    4   1   1        12
+                53.37          1.18        1.9934    3   3   2        12
+                58.44          4.48        1.8337    4   3   1        12
+                58.44          3.75        1.8337    4   1   3        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

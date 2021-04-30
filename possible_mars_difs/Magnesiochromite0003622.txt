@@ -1,0 +1,24 @@
+      Magnesiochromite
+      Bosi F, Andreozzi G B, Ferrini V, Lucchesi S
+      American Mineralogist 89 (2004) 1367-1373
+      Behavior of cation vacany in kenotetrahedral Cr-spinels from Albanian eastern belt ophiolites
+      Sample: Shb4b, Provenance is Shebenik massif, Sequence is cumulate
+      _database_code_amcsd 0003622
+      CELL PARAMETERS:   8.2991  8.2991  8.2991   90.000   90.000   90.000
+      SPACE GROUP: Fd3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    571.601
+      Density (g/cm3):      4.337
+      MAX. ABS. INTENSITY / VOLUME**2:      31.51050221    
+      RIR:      3.392
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.53         44.35        4.7915    1   1   1         8
+                35.53         20.85        2.9342    2   2   0        12
+                41.92        100.00        2.5023    3   1   1        24
+                43.88          6.18        2.3957    2   2   2         8
+                51.12         42.59        2.0748    4   0   0         6
+                56.09          1.35        1.9039    3   3   1        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

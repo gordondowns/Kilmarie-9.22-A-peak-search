@@ -1,0 +1,23 @@
+      Negevite
+      Donohue P C, Bither T A, Young H S
+      Inorganic Chemistry 7 (1968) 998-1001
+      High-pressure synthesis of pyrite-type nickel diphosphide and nickel diarsenide
+      Locality: synthetic
+      _database_code_amcsd 0012676
+      CELL PARAMETERS:   5.4706  5.4706  5.4706   90.000   90.000   90.000
+      SPACE GROUP: Pa3       
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    163.721
+      Density (g/cm3):      4.894
+      MAX. ABS. INTENSITY / VOLUME**2:      38.74690000    
+      RIR:      3.696
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                32.93         49.25        3.1585    1   1   1         8
+                38.20        100.00        2.7353    2   0   0         6
+                42.92         37.85        2.4465    2   1   0        12
+                47.26         32.50        2.2334    2   1   1        24
+                55.14         52.66        1.9341    2   2   0        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

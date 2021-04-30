@@ -1,0 +1,28 @@
+      Stichtite
+      Mills S J, Whitfield P S, Wilson S A, Woodhouse J N, Dipple G M,
+      Raudsepp M, Francis C A
+      American Mineralogist 96 (2011) 179-187
+      The crystal structure of stichtite, re-examination of barbertonite, and the
+      nature of polytypism in MgCr hydrotalcites
+      Note: 3R1 polytype of stichtite
+      Locality: Tasmania, Australia
+      _database_code_amcsd 0018330
+      CELL PARAMETERS:   3.0955  3.0955 23.5042   90.000   90.000  120.000
+      SPACE GROUP: R-3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    195.049
+      Density (g/cm3):      2.148
+      MAX. ABS. INTENSITY / VOLUME**2:      18.47190018    
+      RIR:      4.014
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                13.12        100.00        7.8347    0   0   3         2
+                26.42         38.67        3.9174    0   0   6         2
+                39.28          5.32        2.6635    1   0   1         6
+                43.06         29.49        2.4390    1   0   4         6
+                50.59         22.61        2.0950    1   0   7         6
+                53.75          1.95        1.9803    0   1   8         6
+                54.39          1.00        1.9587    0   0  12         2
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

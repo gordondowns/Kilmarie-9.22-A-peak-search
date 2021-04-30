@@ -1,0 +1,45 @@
+      Srebrodolskite
+      Bertaut E, Blum P, Sagnieres A
+      Acta Crystallographica 12 (1959) 149-159
+      Structure du Ferrite Bicalcique et de la Brownmillerite
+      _cod_database_code 1008124
+      _database_code_amcsd 0016066
+      CELL PARAMETERS:   5.5800 14.5000  5.3400   90.000   90.000   90.000
+      SPACE GROUP: Pcmn      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    432.059
+      Density (g/cm3):      3.735
+      MAX. ABS. INTENSITY / VOLUME**2:      15.71160953    
+      RIR:      1.964
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                14.18         19.34        7.2500    0   2   0         2
+                19.80          6.81        5.2077    1   1   0         4
+                26.83          4.94        3.8580    1   0   1         4
+                27.78          3.61        3.7283    1   1   1         8
+                28.37         16.44        3.6534    1   3   0         4
+                28.59          2.27        3.6250    0   4   0         2
+                34.54          9.06        3.0152    1   3   1         8
+                37.43         40.71        2.7900    2   0   0         2
+                39.18         48.46        2.6700    0   0   2         2
+                39.61        100.00        2.6418    1   4   1         8
+                39.86          2.17        2.6259    0   1   2         4
+                40.71         12.66        2.5732    1   5   0         4
+                42.45          1.87        2.4728    2   0   1         4
+                43.09          2.78        2.4376    2   1   1         8
+                44.97          2.16        2.3404    2   2   1         8
+                45.43          2.64        2.3181    1   5   1         8
+                47.77          6.94        2.2110    2   4   0         4
+                49.07          7.34        2.1557    1   3   2         8
+                49.21          5.49        2.1498    0   4   2         4
+                51.83         11.50        2.0480    1   6   1         8
+                55.30         46.07        1.9290    2   0   2         4
+                55.83          2.45        1.9122    2   1   2         8
+                56.81          1.69        1.8816    2   5   1         8
+                57.40          8.66        1.8641    2   2   2         8
+                58.69          1.24        1.8267    2   6   0         4
+                59.19         23.15        1.8125    0   8   0         2
+                59.95          2.01        1.7917    0   6   2         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

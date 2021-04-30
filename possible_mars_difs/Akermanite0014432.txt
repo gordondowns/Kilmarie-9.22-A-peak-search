@@ -1,0 +1,41 @@
+      Akermanite
+      Kusaka K, Ohmasa M, Hagiya K, Iishi K, Haga N
+      Mineralogical Journal 20 (1998) 47-58
+      On variety of the Ca coordination in the incommensurate structure of
+      synthetic iron-bearing akermanite, Ca2(Mg0.55,Fe0.45)Si2O7
+      Note: Sample is synthetic, this is the structure obtained by refining the incommensurate
+      structure
+      _database_code_amcsd 0014432
+      CELL PARAMETERS:   7.8679  7.8679  5.0144   90.000   90.000   90.000
+      SPACE GROUP: P-42_1m   
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    310.411
+      Density (g/cm3):      3.067
+      MAX. ABS. INTENSITY / VOLUME**2:      15.92037268    
+      RIR:      2.423
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                18.52          2.61        5.5634    1   1   0         4
+                20.57          6.03        5.0144    0   0   1         2
+                24.44          7.08        4.2286    1   0   1         8
+                27.81         17.97        3.7247    1   1   1         4
+                29.48          4.37        3.5186    2   1   0         8
+                33.62         37.39        3.0951    2   0   1         8
+                36.21        100.00        2.8803    2   1   1         8
+                37.54          6.49        2.7817    2   2   0         4
+                41.84          3.26        2.5072    0   0   2         2
+                42.17         23.40        2.4880    3   1   0         8
+                43.18          5.96        2.4325    2   2   1         4
+                44.01          6.49        2.3888    1   0   2         8
+                45.31          6.86        2.3240    3   0   1         8
+                46.11          2.56        2.2858    1   1   2         4
+                47.36          2.53        2.2288    3   1   1         8
+                52.00         11.92        2.0419    2   1   2         8
+                53.15          2.00        2.0009    3   2   1         8
+                54.14          3.48        1.9670    4   0   0         4
+                55.95          7.28        1.9082    4   1   0         8
+                57.46          6.55        1.8624    2   2   2         4
+                57.72          7.65        1.8545    3   3   0         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

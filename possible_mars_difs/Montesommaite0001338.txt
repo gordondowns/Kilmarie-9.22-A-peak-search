@@ -1,0 +1,40 @@
+      Montesommaite
+      Rouse R C, Dunn P J, Grice J D, Schlenker J L, Higgins J B
+      American Mineralogist 75 (1990) 1415-1420
+      Montesommaite, (K,Na)9Al9Si23O64.10H2O, a new zeolite related to merlinoite and
+      the gismondine group
+      _database_code_amcsd 0001338
+      CELL PARAMETERS:   7.1410  7.1410 17.3070   90.000   90.000   90.000
+      SPACE GROUP: I4_1/amd  
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    882.551
+      Density (g/cm3):      2.945
+      MAX. ABS. INTENSITY / VOLUME**2:      13.68545374    
+      RIR:      2.169
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                15.59         62.63        6.6012    1   0   1         8
+                23.01         18.14        4.4876    1   0   3         8
+                23.69          6.04        4.3613    1   1   2         8
+                23.88         40.26        4.3267    0   0   4         2
+                29.04          4.67        3.5705    2   0   0         4
+                31.47        100.00        3.3006    2   0   2         8
+                33.12         24.63        3.1405    2   1   1        16
+                33.40         48.60        3.1148    1   0   5         8
+                37.37         29.12        2.7940    2   1   3        16
+                37.94          5.33        2.7539    2   0   4         8
+                41.53          9.62        2.5247    2   2   0         4
+                44.62          2.89        2.3581    3   0   1         8
+                44.84         21.72        2.3472    2   1   5        16
+                45.06          2.74        2.3364    1   0   7         8
+                48.37          4.46        2.1850    3   1   2        16
+                48.47         20.67        2.1806    2   2   4         8
+                48.88         14.58        2.1634    0   0   8         2
+                53.12          2.41        2.0019    3   1   4        16
+                54.12          3.24        1.9677    3   2   1        16
+                57.09          3.58        1.8732    3   2   3        16
+                57.64          2.00        1.8569    1   0   9         8
+                57.87          1.93        1.8502    2   0   8         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

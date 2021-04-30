@@ -1,0 +1,31 @@
+      Allabogdanite
+      Britvin S N, Rudashevsky N S, Krivovichev S V, Burns P C, Polekhovsky Y S
+      American Mineralogist 87 (2002) 1245-1249
+      Allabogdanite, (Fe,Ni)2P, a new mineral from the Onello meteorite:
+      The occurence and crystal structure
+      _database_code_amcsd 0002898
+      CELL PARAMETERS:   5.7920  3.5640  6.6910   90.000   90.000   90.000
+      SPACE GROUP: Pnma      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    138.120
+      Density (g/cm3):      6.928
+      MAX. ABS. INTENSITY / VOLUME**2:      63.48196367    
+      RIR:      4.277
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                23.59          1.43        4.3792    1   0   1         4
+                31.04          1.27        3.3455    0   0   2         2
+                36.00          1.97        2.8970    1   0   2         4
+                37.79          4.86        2.7642    1   1   1         8
+                46.93         66.51        2.2480    1   1   2         8
+                46.94         33.49        2.2475    2   1   0         4
+                48.26          7.15        2.1896    2   0   2         4
+                49.69         49.15        2.1306    2   1   1         8
+                50.95         20.88        2.0814    1   0   3         4
+                56.52         18.66        1.8906    0   1   3         4
+                57.35          4.73        1.8656    2   1   2         8
+                57.71         16.09        1.8550    3   0   1         4
+                59.74         11.36        1.7973    1   1   3         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

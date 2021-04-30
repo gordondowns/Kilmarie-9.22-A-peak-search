@@ -1,0 +1,41 @@
+      Heterosite
+      Bjorling C O, Westgren A
+      Geologiska Foreningens i Stockholm Forhandlingar 60 (1938) 67-72
+      Minerals of the Varustrask Pegmatite. IX. X-ray studies of triphylite,
+      varulite and their oxidation products
+      Locality: Varustrask pegmatite, Sweden
+      _database_code_amcsd 0018613
+      CELL PARAMETERS:   4.7600  9.6800  5.8190   90.000   90.000   90.000
+      SPACE GROUP: Pbnm      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    268.121
+      Density (g/cm3):      3.736
+      MAX. ABS. INTENSITY / VOLUME**2:      13.20455891    
+      RIR:      1.650
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.32         35.65        4.8400    0   2   0         2
+                24.19         31.54        4.2715    1   1   0         4
+                27.84          6.76        3.7211    0   2   1         4
+                28.12          3.78        3.6843    1   0   1         4
+                30.14         91.32        3.4434    1   1   1         8
+                30.59         13.57        3.3938    1   2   0         4
+                35.56          4.62        2.9316    1   2   1         8
+                35.84         64.26        2.9095    0   0   2         2
+                39.16          7.08        2.6709    1   3   0         4
+                43.28        100.00        2.4274    1   3   1         8
+                43.71         23.23        2.4047    1   1   2         8
+                45.57          2.19        2.3112    2   1   0         4
+                47.23         18.69        2.2345    0   4   1         4
+                47.81          8.99        2.2089    1   2   2         8
+                49.03         16.66        2.1572    1   4   0         4
+                49.26          3.05        2.1480    2   1   1         8
+                49.56         19.50        2.1358    2   2   0         4
+                52.53          4.52        2.0227    1   4   1         8
+                54.12         17.91        1.9675    1   3   2         8
+                57.52          5.65        1.8605    0   4   2         4
+                58.15         13.15        1.8422    2   0   2         4
+                59.29         16.09        1.8097    2   1   2         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

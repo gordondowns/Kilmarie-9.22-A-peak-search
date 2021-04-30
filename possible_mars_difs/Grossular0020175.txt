@@ -1,0 +1,30 @@
+      Grossular
+      Antao S M
+      The Canadian Mineralogist 51 (2013) 771-784
+      Is near-endmember birefringent grossular non-cubic?
+      New evidence from synchrotron diffraction
+      Note: sample 2, Quebec-g phase-1
+      Locality: Jeffrey mine, Asbestos, Canada
+      _database_code_amcsd 0020175
+      CELL PARAMETERS:  11.8771 11.8771 11.8771   90.000   90.000   90.000
+      SPACE GROUP: Ia-3d     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1675.437
+      Density (g/cm3):      3.640
+      MAX. ABS. INTENSITY / VOLUME**2:      17.94647544    
+      RIR:      2.301
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                35.09         40.81        2.9693    4   0   0         6
+                39.39        100.00        2.6558    4   2   0        24
+                41.40          7.13        2.5322    3   3   2        24
+                43.34         24.91        2.4244    4   2   2        24
+                45.20         13.95        2.3293    4   3   1        48
+                48.76         12.77        2.1684    5   2   1        48
+                50.47          1.95        2.0996    4   4   0        12
+                55.37         10.86        1.9267    6   1   1        24
+                55.37          9.63        1.9267    5   3   2        48
+                56.94          2.31        1.8779    6   2   0        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,33 @@
+      Rodolicoite
+      Long G J, Cheetham A K, Battle P D
+      Inorganic Chemistry 22 (1983) 3012-3016
+      Study of the iron-phosphorus-oxygen system by Mossbauer effect,
+      neutron diffraction, magnetic susceptibility, and analytical electron
+      microscopy: some pitfalls and solutions in the analysis of a complex mixture
+      Locality: synthetic
+      _database_code_amcsd 0012693
+      CELL PARAMETERS:   5.0360  5.0360 11.2550   90.000   90.000  120.000
+      SPACE GROUP: P3_121    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    247.199
+      Density (g/cm3):      3.039
+      MAX. ABS. INTENSITY / VOLUME**2:      40.29575160    
+      RIR:      6.190
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                23.69         21.12        4.3613    1   0   0         6
+                25.43          2.24        4.0667    1   0   1         6
+                30.10         24.46        3.4472    1   0   2         6
+                30.10         75.54        3.4472    0   1   2         6
+                41.65          7.38        2.5180    1   1   0         3
+                42.73          1.40        2.4573    1   1   1         6
+                44.49         12.17        2.3644    1   0   4         6
+                45.84          6.78        2.2984    1   1   2         6
+                48.47         10.62        2.1807    2   0   0         6
+                52.24          1.01        2.0333    0   2   2         6
+                56.69          1.34        1.8853    0   2   3         6
+                56.99          9.41        1.8764    1   1   4         6
+                57.01          1.74        1.8758    0   0   6         2
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

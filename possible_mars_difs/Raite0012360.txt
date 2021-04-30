@@ -1,0 +1,60 @@
+      Raite
+      Pushcharovsky D Y, Pekov I V, Pluth J J, Smith J V, Ferraris G, Vinogradova S A,
+      Arakcheeva A V, Soboleva S V, Semenov E I
+      Crystallography Reports 44 (1999) 565-574
+      Raite, manganonordite-(Ce), and ferronordite-(Ce) from the Lovozero massif:
+      Crystal structures and mineralogical geochemistry
+      Locality: Yubileinaya pegmatite, Karnasurt Mountain, Lovozero Massif,
+      Kola Peninsula, Russia
+      _database_code_amcsd 0012360
+      CELL PARAMETERS:  15.1000 17.6000  5.2900   90.000  100.500   90.000
+      SPACE GROUP: C2/m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1382.329
+      Density (g/cm3):      2.460
+      MAX. ABS. INTENSITY / VOLUME**2:      20.86130727    
+      RIR:      3.958
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                 9.05        100.00       11.3485    1   1   0         4
+                11.68          3.69        8.8000    0   2   0         2
+                13.85          2.42        7.4236    2   0   0         2
+                18.15          4.72        5.6742    2   2   0         4
+                18.89          1.94        5.4562    1   3   0         4
+                23.06         10.88        4.4777    0   2   1         4
+                23.48          3.77        4.4000    0   4   0         2
+                25.03          5.31        4.1316   -2   2   1         4
+                26.77          1.83        3.8674   -3   1   1         4
+                27.36          4.35        3.7851    2   4   0         4
+                27.38          3.59        3.7828    3   3   0         4
+                27.91          7.33        3.7118    4   0   0         2
+                28.43          3.54        3.6449    1   3   1         4
+                28.85          2.91        3.5930    2   2   1         4
+                30.91          2.01        3.3593    0   4   1         4
+                32.06          1.30        3.2414    3   1   1         4
+                33.49          3.06        3.1071   -4   2   1         4
+                35.53          5.82        2.9336    2   4   1         4
+                35.60         12.46        2.9280    5   1   0         4
+                35.74          5.42        2.9175   -1   5   1         4
+                36.28          1.55        2.8748    3   3   1         4
+                37.19          2.77        2.8069    1   5   1         4
+                39.49          1.59        2.6494    5   3   0         4
+                39.76         21.15        2.6321   -3   5   1         4
+                40.03          2.13        2.6156   -1   1   2         4
+                40.27          1.67        2.6007    0   0   2         2
+                42.22          3.95        2.4854   -2   6   1         4
+                42.65          7.48        2.4614    1   1   2         4
+                44.65          3.42        2.3565    4   4   1         4
+                44.74          1.15        2.3520    2   6   1         4
+                44.99          1.04        2.3397   -4   0   2         2
+                45.27          2.22        2.3258    2   0   2         2
+                48.05          1.54        2.1985   -4   6   1         4
+                48.13          3.47        2.1954   -5   5   1         4
+                50.08          1.22        2.1147   -6   4   1         4
+                52.56          3.58        2.0218    4   6   1         4
+                53.69          1.95        1.9821   -6   0   2         2
+                54.11          1.33        1.9680    4   0   2         2
+                59.46          1.74        1.8050   -7   5   1         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

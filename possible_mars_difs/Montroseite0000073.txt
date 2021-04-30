@@ -1,0 +1,33 @@
+      Montroseite
+      Evans H T, Mrose M E
+      American Mineralogist 40 (1955) 861-875
+      A crystal chemical study of montroseite and paramontroseite.
+      _database_code_amcsd 0000073
+      CELL PARAMETERS:   4.5400  9.9700  3.0300   90.000   90.000   90.000
+      SPACE GROUP: Pbnm      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    137.149
+      Density (g/cm3):      4.016
+      MAX. ABS. INTENSITY / VOLUME**2:      21.86853729    
+      RIR:      2.542
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                20.69         12.69        4.9850    0   2   0         2
+                25.02        100.00        4.1318    1   1   0         4
+                30.93         12.70        3.3566    1   2   0         4
+                39.00         37.44        2.6816    1   3   0         4
+                40.45         19.34        2.5892    0   2   1         4
+                41.61          5.92        2.5203    1   0   1         4
+                42.09         14.69        2.4925    0   4   0         2
+                42.98         70.05        2.4434    1   1   1         8
+                46.45          1.65        2.2700    2   0   0         2
+                46.91         12.71        2.2492    1   2   1         8
+                47.71          2.09        2.2134    2   1   0         4
+                48.37         20.52        2.1849    1   4   0         4
+                51.35          1.20        2.0659    2   2   0         4
+                52.94          2.91        2.0081    1   3   1         8
+                55.42          5.79        1.9249    0   4   1         4
+                58.72          1.13        1.8257    1   5   0         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

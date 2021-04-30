@@ -1,0 +1,21 @@
+      Bunsenite
+      Cairns R, Ott E
+      Journal of the American Chemical Society 55 (1933) 527-533
+      X-Ray Studies of the System Nickel-Oxygen-Water. I. Nickelous Oxide and
+      Hydroxide
+      _cod_database_code 1010093
+      _database_code_amcsd 0017026
+      CELL PARAMETERS:   4.1684  4.1684  4.1684   90.000   90.000   90.000
+      SPACE GROUP: Fm3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     72.428
+      Density (g/cm3):      6.849
+      MAX. ABS. INTENSITY / VOLUME**2:      93.06995946    
+      RIR:      6.344
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                43.67         79.18        2.4066    1   1   1         8
+                50.87        100.00        2.0842    2   0   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

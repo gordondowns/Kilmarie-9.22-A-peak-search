@@ -1,0 +1,26 @@
+      Mackinawite
+      Lennie A R, Redfern S A T, Schofield P F, Vaughan D J
+      Mineralogical Magazine 59 (1995) 677-683
+      Synthesis and Rietveld crystal structure refinement of mackinawite, tetragonal
+      FeS
+      Locality: synthetic
+      _database_code_amcsd 0014518
+      CELL PARAMETERS:   3.6735  3.6735  5.0328   90.000   90.000   90.000
+      SPACE GROUP: P4/nmm    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     67.916
+      Density (g/cm3):      4.298
+      MAX. ABS. INTENSITY / VOLUME**2:      53.91810560    
+      RIR:      5.856
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                20.49        100.00        5.0328    0   0   1         2
+                35.12         35.14        2.9672    1   0   1         8
+                40.32          7.02        2.5976    1   1   0         4
+                41.68          3.28        2.5164    0   0   2         2
+                45.64         54.10        2.3082    1   1   1         8
+                58.33         27.72        1.8368    2   0   0         4
+                59.38         52.02        1.8074    1   1   2         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

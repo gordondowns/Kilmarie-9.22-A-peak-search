@@ -1,0 +1,32 @@
+      Hoelite
+      Prakash A
+      Acta Crystallographica 22 (1967) 439-440
+      Refinement of the crystal structure of anthraquinone
+      _database_code_amcsd 0009309
+      CELL PARAMETERS:  15.8100  3.9420  7.8950   90.000  102.720   90.000
+      SPACE GROUP: P2_1/a    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    479.964
+      Density (g/cm3):      1.441
+      MAX. ABS. INTENSITY / VOLUME**2:      1.398695388    
+      RIR:      0.453
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                13.33        100.00        7.7110    2   0   0         2
+                13.35         63.86        7.7012    0   0   1         2
+                16.68         70.91        6.1706   -2   0   1         2
+                20.91          1.88        4.9330    2   0   1         2
+                26.85          4.03        3.8555    4   0   0         2
+                26.88          2.09        3.8506    0   0   2         2
+                27.11         12.98        3.8192    1   1   0         4
+                27.26          2.09        3.7986   -4   0   1         2
+                27.29          2.12        3.7951   -2   0   2         2
+                29.55         30.01        3.5099    2   1   0         4
+                29.56         22.57        3.5090    0   1   1         4
+                31.00         35.58        3.3496    1   1   1         4
+                33.26          6.82        3.1282    3   1   0         4
+                33.73          1.91        3.0853   -4   0   2         2
+                33.80          4.94        3.0795    2   1   1         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,30 @@
+      Wadalite
+      Tsukimura K, Kanazawa Y, Aoki M, Bunno M
+      Acta Crystallographica C49 (1993) 205-207
+      Structure of wadalite Ca6Al5Si2O16Cl3
+      Note: the values for the anisoU's are from ICSD
+      _database_code_amcsd 0010280
+      CELL PARAMETERS:  12.0010 12.0010 12.0010   90.000   90.000   90.000
+      SPACE GROUP: I-43d     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1728.432
+      Density (g/cm3):      3.057
+      MAX. ABS. INTENSITY / VOLUME**2:      15.78769015    
+      RIR:      2.411
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.05         17.20        4.8994    2   1   1        12
+                24.36          1.98        4.2430    2   2   0        12
+                32.41         10.33        3.2074    3   2   1        24
+                34.72         39.95        3.0003    4   0   0         6
+                38.97        100.00        2.6835    4   2   0        24
+                40.96          6.03        2.5586    3   3   2        12
+                42.87         41.58        2.4497    4   2   2        12
+                44.71          3.88        2.3536    4   3   1        24
+                44.71         10.55        2.3536    5   1   0        24
+                48.23         15.48        2.1911    5   2   1        24
+                51.56          3.33        2.0582    5   3   0        24
+                54.75          5.90        1.9468    5   3   2        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

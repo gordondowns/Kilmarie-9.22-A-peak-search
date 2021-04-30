@@ -1,0 +1,25 @@
+      Greigite
+      Skinner B J, Erd R C, Grimaldi F S
+      American Mineralogist 49 (1964) 543-555
+      Greigite, the thio-spinel of iron; a new mineral
+      _database_code_amcsd 0000127
+      CELL PARAMETERS:   9.8760  9.8760  9.8760   90.000   90.000   90.000
+      SPACE GROUP: Fd3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    963.260
+      Density (g/cm3):      4.079
+      MAX. ABS. INTENSITY / VOLUME**2:      34.85492073    
+      RIR:      3.989
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                18.06          6.35        5.7019    1   1   1         8
+                29.71         28.02        3.4917    2   2   0        12
+                34.99        100.00        2.9777    3   1   1        24
+                42.51         47.31        2.4690    4   0   0         6
+                46.54          1.02        2.2657    3   3   1        24
+                52.72          8.42        2.0159    4   2   2        24
+                56.19         19.67        1.9006    5   1   1        24
+                56.19          6.15        1.9006    3   3   3         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

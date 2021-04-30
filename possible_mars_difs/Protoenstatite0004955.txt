@@ -1,0 +1,45 @@
+      Protoenstatite
+      Jahn S, Martonak R
+      American Mineralogist 94 (2009) 950-956
+      Phase behavior of protoenstatite at high pressure studied by atomistic simulations
+      Locality: theoretical structure
+      _database_code_amcsd 0004955
+      CELL PARAMETERS:   9.1710  8.5130  5.2540   90.000   90.000   90.000
+      SPACE GROUP: Pbcn      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    410.194
+      Density (g/cm3):      3.251
+      MAX. ABS. INTENSITY / VOLUME**2:      9.418202854    
+      RIR:      1.353
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                16.50          3.54        6.2393    1   1   0         4
+                22.51          1.04        4.5855    2   0   0         2
+                24.28          5.21        4.2565    0   2   0         2
+                25.74          2.19        4.0189    1   1   1         8
+                32.48         21.46        3.2012    2   1   1         8
+                33.35         22.88        3.1196    2   2   0         4
+                33.44        100.00        3.1112    1   2   1         8
+                36.25         39.51        2.8771    3   1   0         4
+                38.56          2.57        2.7109    1   3   0         4
+                38.99         27.09        2.6824    2   2   1         8
+                41.52         24.56        2.5254    1   0   2         4
+                41.55          4.77        2.5235    3   1   1         8
+                43.62          7.25        2.4091    1   3   1         8
+                46.25         23.08        2.2794    2   0   2         4
+                47.00          1.44        2.2449    3   2   1         8
+                47.98          2.78        2.2019    2   1   2         8
+                48.19          5.15        2.1928    2   3   1         8
+                50.99          2.32        2.0798    3   3   0         4
+                52.05          4.39        2.0401    4   1   1         8
+                54.96          4.13        1.9400    3   1   2         8
+                55.15         18.88        1.9338    3   3   1         8
+                55.25          2.09        1.9305    2   4   0         4
+                55.31         14.09        1.9285    1   4   1         8
+                56.73          2.56        1.8843    4   2   1         8
+                59.21          1.12        1.8120    2   4   1         8
+                59.48          2.47        1.8045    3   2   2         8
+                59.90          4.45        1.7931    5   1   0         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,31 @@
+      Goldmanite
+      Righter K, Sutton S, Danielson L, Pando K, Schmidt G, Yang H,
+      Berthet S, Newville M, Choi Y, Downs R T, Malavergne V
+      American Mineralogist 96 (2011) 1278-1290
+      The effect of fO2 on the partitioning and valence of V and Cr in garnet/melt
+      pairs and the relation to terrestrial mantle V and Cr content
+      Locality: synthetic
+      Note: R090044
+      _database_code_amcsd 0018454
+      CELL PARAMETERS:  12.0890 12.0890 12.0890   90.000   90.000   90.000
+      SPACE GROUP: Ia3d      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1766.734
+      Density (g/cm3):      3.668
+      MAX. ABS. INTENSITY / VOLUME**2:      15.70391611    
+      RIR:      1.999
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                24.18         11.10        4.2741    2   2   0        12
+                34.46         62.77        3.0222    4   0   0         6
+                38.68        100.00        2.7032    4   2   0        24
+                40.65          9.53        2.5774    3   3   2        24
+                42.54         53.20        2.4677    4   2   2        24
+                44.37         15.37        2.3708    4   3   1        48
+                47.85         12.34        2.2071    5   2   1        48
+                54.32         10.14        1.9611    5   3   2        48
+                54.32         10.76        1.9611    6   1   1        24
+                55.85          9.06        1.9114    6   2   0        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

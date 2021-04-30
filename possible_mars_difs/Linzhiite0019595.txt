@@ -1,0 +1,23 @@
+      Linzhiite
+      Li G, Bai W, Shi N, Fang Q, Xiong M, Yang J, Ma Z, Rong H
+      European Journal of Mineralogy 24 (2012) 1047-1052
+      Linzhiite, FeSi2, a redefined and revalidated new mineral
+      species from Luobusha, Tibet, China
+      Locality: Luobusha, Tibet, China
+      _database_code_amcsd 0019595
+      CELL PARAMETERS:   2.6960  2.6960  5.1470   90.000   90.000   90.000
+      SPACE GROUP: P4/mmm    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     37.411
+      Density (g/cm3):      4.971
+      MAX. ABS. INTENSITY / VOLUME**2:      40.44963994    
+      RIR:      3.798
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                20.03         92.48        5.1470    0   0   1         2
+                44.03         78.29        2.3882    1   0   1         8
+                56.01         56.36        1.9064    1   1   0         4
+                57.48        100.00        1.8615    1   0   2         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

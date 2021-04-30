@@ -1,0 +1,23 @@
+      Vuorelainenite
+      Plumier R
+      Comptes Rendus Hebdomadaires des Seances de l'Academie des Sciences 255 (1962) 2244-2246
+      Magnetisme - Etude par diffraction des neutrons du compose spinelle MnV2O4
+      Locality: synthetic
+      _database_code_amcsd 0019145
+      CELL PARAMETERS:   8.5200  8.5200  8.5200   90.000   90.000   90.000
+      SPACE GROUP: Fd3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    618.470
+      Density (g/cm3):      4.742
+      MAX. ABS. INTENSITY / VOLUME**2:      46.45029244    
+      RIR:      4.572
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                20.97         10.54        4.9190    1   1   1         8
+                34.57         36.03        3.0123    2   2   0        12
+                40.79        100.00        2.5689    3   1   1        24
+                42.69          5.37        2.4595    2   2   2         8
+                49.70         18.79        2.1300    4   0   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

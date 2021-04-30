@@ -1,0 +1,30 @@
+      Almandine
+      Quartieri S, Chaboy J, Merli M, Oberti R, Ungaretti L
+      Physics and Chemistry of Minerals 22 (1995) 159-169
+      Local structural environment of calcium in garnets:
+      A combined structure-refinement and XANES investigation
+      Note: sample MP12
+      Locality: metasedimentary rocks of the Ivrea-Verbano Zone, Italy
+      _database_code_amcsd 0007903
+      CELL PARAMETERS:  11.5710 11.5710 11.5710   90.000   90.000   90.000
+      SPACE GROUP: Ia-3d     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1549.219
+      Density (g/cm3):      3.965
+      MAX. ABS. INTENSITY / VOLUME**2:      20.41092657    
+      RIR:      2.403
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.85          1.55        4.7238    2   1   1        24
+                36.05         36.80        2.8928    4   0   0         6
+                40.48        100.00        2.5874    4   2   0        24
+                42.55          6.63        2.4669    3   3   2        24
+                44.54         20.44        2.3619    4   2   2        24
+                46.47         12.44        2.2693    4   3   1        48
+                50.14         14.66        2.1126    5   2   1        48
+                51.90          3.28        2.0455    4   4   0        12
+                56.96          9.52        1.8771    5   3   2        48
+                56.96         10.60        1.8771    6   1   1        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

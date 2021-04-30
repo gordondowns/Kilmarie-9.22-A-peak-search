@@ -1,0 +1,22 @@
+      Jaipurite
+      Wyckoff R W G
+      Crystal Structures 1 (1963) 85-237
+      Second edition. Interscience Publishers, New York, New York
+      Note: ideal nickel arsenide structure
+      _database_code_amcsd 0011562
+      CELL PARAMETERS:   3.3670  3.3670  5.1600   90.000   90.000  120.000
+      SPACE GROUP: P6_3mc    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     50.660
+      Density (g/cm3):      5.965
+      MAX. ABS. INTENSITY / VOLUME**2:      67.56008624    
+      RIR:      5.288
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                35.76         64.43        2.9159    1   0   0         6
+                40.60          6.30        2.5800    0   0   2         1
+                41.29         32.36        2.5386    1   0   1         6
+                55.20        100.00        1.9322    1   0   2         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

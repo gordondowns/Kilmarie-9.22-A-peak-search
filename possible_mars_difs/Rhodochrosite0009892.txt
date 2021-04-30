@@ -1,0 +1,25 @@
+      Rhodochrosite
+      Maslen E N, Streltsov V A, Streltsova N R, Ishizawa N
+      Acta Crystallographica B51 (1995) 929-939
+      Electron density and optical anisotropy in rhombohedral carbonates.
+      III. Synchrotron X-ray studies of CaCO3, MgCO3 and MnCO3
+      Sample: Mo Kalpha
+      _database_code_amcsd 0009892
+      CELL PARAMETERS:   4.7730  4.7730 15.6420   90.000   90.000  120.000
+      SPACE GROUP: R-3c      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    308.607
+      Density (g/cm3):      3.710
+      MAX. ABS. INTENSITY / VOLUME**2:      30.38157576    
+      RIR:      3.822
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                28.36         30.19        3.6545    0   1   2         6
+                36.74        100.00        2.8407    1   0   4         6
+                44.06         19.77        2.3865    1   1   0         6
+                48.73         16.59        2.1700    1   1   3        12
+                53.23         18.55        1.9982    2   0   2         6
+                58.67          9.48        1.8273    0   2   4         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

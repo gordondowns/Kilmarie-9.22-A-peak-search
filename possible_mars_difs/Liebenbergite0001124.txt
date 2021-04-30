@@ -1,0 +1,42 @@
+      Liebenbergite
+      Bostrom D
+      American Mineralogist 72 (1987) 965-972
+      Single-crystal X-ray diffraction studies of synthetic Ni-Mg olivine solid
+      solutions
+      Sample: XNi2+ = 1.00
+      _database_code_amcsd 0001124
+      CELL PARAMETERS:   4.7296 10.1209  5.9150   90.000   90.000   90.000
+      SPACE GROUP: Pbnm      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    283.138
+      Density (g/cm3):      4.913
+      MAX. ABS. INTENSITY / VOLUME**2:      14.47665909    
+      RIR:      1.375
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                20.38          8.76        5.0605    0   2   0         2
+                24.12         25.72        4.2848    1   1   0         4
+                26.92          9.10        3.8452    0   2   1         4
+                28.05          5.75        3.6939    1   0   1         4
+                29.90         91.44        3.4700    1   1   1         8
+                30.03          4.68        3.4554    1   2   0         4
+                34.92          2.82        2.9836    1   2   1         8
+                35.24          5.70        2.9575    0   0   2         2
+                38.04         86.22        2.7465    1   3   0         4
+                41.04         45.91        2.5534    0   2   2         4
+                41.44         16.03        2.5302    0   4   0         2
+                42.12         75.67        2.4911    1   3   1         8
+                43.16        100.00        2.4340    1   1   2         8
+                44.49         19.11        2.3648    2   0   0         2
+                45.26         10.63        2.3263    0   4   1         4
+                45.75          3.11        2.3028    2   1   0         4
+                46.96         10.37        2.2469    1   2   2         8
+                47.31          7.24        2.2310    1   4   0         4
+                49.31          5.20        2.1459    2   1   1         8
+                52.82          7.06        2.0125    1   3   2         8
+                55.50          1.27        1.9226    0   4   2         4
+                57.50          3.50        1.8609    1   5   0         4
+                59.97          8.72        1.7911    1   1   3         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

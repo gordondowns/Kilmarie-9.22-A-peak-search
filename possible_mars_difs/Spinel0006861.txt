@@ -1,0 +1,24 @@
+      Spinel
+      Andreozzi G B, Lucchesi S, Skogby H, Della Giusta A
+      European Journal of Mineralogy 13 (2001) 391-402
+      Compositional dependence of cation distribution in some synthetic
+      (Mg,Zn)(Al,Fe)2O4 spinels
+      Sample: Sp3/10a
+      _database_code_amcsd 0006861
+      CELL PARAMETERS:   8.0855  8.0855  8.0855   90.000   90.000   90.000
+      SPACE GROUP: Fd3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    528.592
+      Density (g/cm3):      3.575
+      MAX. ABS. INTENSITY / VOLUME**2:      13.48596118    
+      RIR:      1.761
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                22.11         31.94        4.6682    1   1   1         8
+                36.50         33.60        2.8587    2   2   0        12
+                43.08        100.00        2.4379    3   1   1        24
+                45.10          1.10        2.3341    2   2   2         8
+                52.57         55.18        2.0214    4   0   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

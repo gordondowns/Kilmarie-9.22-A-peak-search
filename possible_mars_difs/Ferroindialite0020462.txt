@@ -1,0 +1,39 @@
+      Ferroindialite
+      Chukanov N V, Aksenov S M, Pekov I V, Ternes B, Schuller W, Belakovskiy D I,
+      Van K V, Blass G
+      Geology of Ore Deposits 56 (2014) 637-643
+      Ferroindialite (Fe2+,Mg)2Al4Si5O18, a new beryl-group mineral from the Eifel
+      volcanic region, Germany
+      Locality: Caspar basalt quarry, Eifel volcanic district, Germany
+      _database_code_amcsd 0020462
+      CELL PARAMETERS:   9.8759  9.8759  9.3102   90.000   90.000  120.000
+      SPACE GROUP: P6/mcc    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    786.399
+      Density (g/cm3):      2.665
+      MAX. ABS. INTENSITY / VOLUME**2:      17.10141222    
+      RIR:      2.996
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                12.02        100.00        8.5528    1   0   0         6
+                20.89          5.01        4.9380    1   1   0         6
+                22.17          5.77        4.6551    0   0   2         2
+                25.29         26.38        4.0887    1   0   2        12
+                30.65         47.94        3.3872    1   1   2        12
+                33.03         10.23        3.1493    2   0   2        12
+                34.09         38.47        3.0538    2   1   1        24
+                36.60          2.37        2.8509    3   0   0         6
+                39.40         13.75        2.6552    2   1   2        24
+                42.51          6.04        2.4690    2   2   0         6
+                45.24          1.72        2.3275    0   0   4         2
+                47.14          1.49        2.2387    2   1   3        24
+                48.46          1.97        2.1812    2   2   2        12
+                50.12          5.62        2.1135    3   1   2        24
+                51.94         12.39        2.0444    2   0   4        12
+                54.29          1.16        1.9621    3   2   0        12
+                56.72          5.48        1.8846    3   1   3        24
+                57.32          1.47        1.8664    4   1   0        12
+                59.53          8.79        1.8030    3   0   4        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

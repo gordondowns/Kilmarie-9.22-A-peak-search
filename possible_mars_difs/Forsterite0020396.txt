@@ -1,0 +1,44 @@
+      Forsterite
+      Bocchio R, Brajkovic A, Pilati T
+      Neues Jahrbuch fur Mineralogie, Monatshefte 7 (1986) 313-324
+      Crystal chemistry of the olivines in the peridotites from the Ivrea-
+      Verbano Zone (Western Italian Alps)
+      Note: Sample OLBC3
+      Locality: Valsesia, Ivrea-Verbano Zone, Western Italian Alps
+      _database_code_amcsd 0020396
+      CELL PARAMETERS:   4.7660 10.2500  6.0050   90.000   90.000   90.000
+      SPACE GROUP: Pbnm      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    293.353
+      Density (g/cm3):      3.399
+      MAX. ABS. INTENSITY / VOLUME**2:      6.535081973    
+      RIR:      0.897
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                20.12         20.13        5.1250    0   2   0         2
+                26.55         48.84        3.8983    0   2   1         4
+                27.75         16.66        3.7331    1   0   1         4
+                29.57         22.39        3.5077    1   1   1         8
+                29.72         12.26        3.4901    1   2   0         4
+                34.51          5.64        3.0175    1   2   1         8
+                34.69         13.98        3.0025    0   0   2         2
+                37.61         70.00        2.7768    1   3   0         4
+                40.43          3.96        2.5906    0   2   2         4
+                41.61         75.19        2.5204    1   3   1         8
+                42.57        100.00        2.4658    1   1   2         8
+                44.13          2.07        2.3830    2   0   0         2
+                44.64         12.49        2.3569    0   4   1         4
+                45.37          9.09        2.3211    2   1   0         4
+                46.32         34.15        2.2761    1   2   2         8
+                46.73         24.75        2.2570    1   4   0         4
+                48.85         15.61        2.1650    2   1   1         8
+                52.09          5.12        2.0386    1   3   2         8
+                54.51          2.22        1.9546    2   3   0         4
+                54.68          2.55        1.9491    0   4   2         4
+                56.76          5.61        1.8832    1   5   0         4
+                57.31          1.18        1.8666    2   0   2         4
+                59.05          4.62        1.8163    1   1   3         8
+                59.76          4.15        1.7969    1   5   1         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

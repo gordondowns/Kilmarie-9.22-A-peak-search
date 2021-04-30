@@ -1,0 +1,36 @@
+      Nyerereite
+      McKie D, Frankis E J
+      Zeitschrift fur Kristallographie 145 (1977) 73-95
+      Nyerereite: A new volcanic carbonate mineral from Oldoinyo Lengai, Tanzania
+      Note: high-temperature polymorph with an structure that has been inferred
+      Locality: Oldoinyo Lengai, Tanzania
+      _database_code_amcsd 0010791
+      CELL PARAMETERS:   5.0500  5.0500 12.8500   90.000   90.000  120.000
+      SPACE GROUP: P6_3mc    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    283.803
+      Density (g/cm3):      2.479
+      MAX. ABS. INTENSITY / VOLUME**2:      5.687232226    
+      RIR:      1.071
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                16.02         19.49        6.4250    0   0   2         1
+                23.62         12.91        4.3734    1   0   0         6
+                24.97          3.66        4.1402    1   0   1         6
+                32.36        100.00        3.2125    0   0   4         1
+                34.02         94.86        3.0601    1   0   3         6
+                40.45         64.02        2.5891    1   0   4         6
+                41.53         57.58        2.5250    1   1   0         6
+                44.78          7.28        2.3500    1   1   2         6
+                47.66          3.70        2.2157    1   0   5         6
+                48.33          8.13        2.1867    2   0   0         6
+                49.07         22.46        2.1557    2   0   1         6
+                49.41          8.41        2.1417    0   0   6         1
+                51.24         78.11        2.0701    2   0   2         6
+                53.60          5.01        1.9852    1   1   4         6
+                54.72         33.87        1.9476    2   0   3         6
+                55.47          3.12        1.9234    1   0   6         6
+                59.36         32.32        1.8077    2   0   4         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

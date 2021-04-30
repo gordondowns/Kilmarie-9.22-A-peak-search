@@ -1,0 +1,34 @@
+      Analcime
+      Ferraris G, Jones D W, Yerkess J
+      Zeitschrift fur Kristallographie 135 (1972) 240-252
+      A neutron-diffraction study of the crystal structure of analcime, NaAlSi2O6*H2O
+      Locality: Cyclopean Islands, Catania Province, Sicily, Italy
+      Note: z(O1) corrected to match reported bond lengths
+      _database_code_amcsd 0010728
+      CELL PARAMETERS:  13.7300 13.7300 13.7300   90.000   90.000   90.000
+      SPACE GROUP: Ia-3d     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   2588.282
+      Density (g/cm3):      2.260
+      MAX. ABS. INTENSITY / VOLUME**2:      10.71698165    
+      RIR:      2.214
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                18.38         61.75        5.6052    2   1   1        24
+                21.25         14.40        4.8543    2   2   0        12
+                28.24          5.53        3.6695    3   2   1        48
+                30.23        100.00        3.4325    4   0   0         6
+                35.61         50.93        2.9272    3   3   2        24
+                37.25          5.47        2.8026    4   2   2        24
+                38.83         14.54        2.6927    4   3   1        48
+                41.84         11.70        2.5067    5   2   1        48
+                43.28          7.52        2.4271    4   4   0        12
+                47.39          2.69        2.2273    6   1   1        24
+                47.39          5.36        2.2273    5   3   2        48
+                52.49          1.22        2.0244    6   3   1        48
+                56.09         14.36        1.9040    6   4   0        24
+                57.25          6.62        1.8684    6   3   3        24
+                57.25          2.19        1.8684    7   2   1        48
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

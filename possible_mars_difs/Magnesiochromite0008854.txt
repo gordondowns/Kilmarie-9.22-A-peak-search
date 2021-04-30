@@ -1,0 +1,26 @@
+      Magnesiochromite
+      Lavina B, Reznitskii L Z, Bosi F
+      Physics and Chemistry of Minerals 30 (2003) 599-605
+      Crystal chemistry of some Mg, Cr, V normal spinels from Sludyanka (Lake Baikal, Russia):
+      the influence of V3+ on structural stability
+      Sample: VRL1a
+      Locality: Sludyanka, Lake Baikal, Russia
+      _database_code_amcsd 0008854
+      CELL PARAMETERS:   8.3613  8.3613  8.3613   90.000   90.000   90.000
+      SPACE GROUP: Fd3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    584.550
+      Density (g/cm3):      4.321
+      MAX. ABS. INTENSITY / VOLUME**2:      31.06975889    
+      RIR:      3.357
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.37         69.17        4.8274    1   1   1         8
+                35.25         13.34        2.9562    2   2   0        12
+                41.60        100.00        2.5210    3   1   1        24
+                43.54          9.81        2.4137    2   2   2         8
+                50.71         54.71        2.0903    4   0   0         6
+                55.63          4.30        1.9182    3   3   1        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

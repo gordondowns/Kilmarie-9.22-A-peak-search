@@ -1,0 +1,28 @@
+      Grossular
+      Menzer G
+      Zeitschrift fur Kristallographie 63 (1926) 157-158
+      Die Kristallstruktur von Granat.
+      _cod_database_code 1011055
+      _database_code_amcsd 0017956
+      CELL PARAMETERS:  11.8200 11.8200 11.8200   90.000   90.000   90.000
+      SPACE GROUP: Ia3d      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1651.400
+      Density (g/cm3):      3.623
+      MAX. ABS. INTENSITY / VOLUME**2:      15.63193467    
+      RIR:      2.014
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.38          1.14        4.8255    2   1   1        24
+                35.27         33.50        2.9550    4   0   0         6
+                39.59        100.00        2.6430    4   2   0        24
+                41.61         13.05        2.5200    3   3   2        24
+                43.56         25.04        2.4127    4   2   2        24
+                45.43         14.75        2.3181    4   3   1        48
+                49.01         14.98        2.1580    5   2   1        48
+                50.73          3.30        2.0895    4   4   0        12
+                55.66          8.07        1.9175    5   3   2        48
+                55.66         11.19        1.9175    6   1   1        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

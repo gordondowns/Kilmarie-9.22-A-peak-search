@@ -1,0 +1,35 @@
+      Nickelphosphide
+      Skala R, Drabek M
+      Mineralogical Magazine 67 (2003) 783-792
+      Nickelphosphide from the Vicenice octahedrite: Rietveld crystal structure
+      refinement of synthetic analogue
+      Locality: synthetic
+      Sample: P-33/3
+      _database_code_amcsd 0014568
+      CELL PARAMETERS:   8.9499  8.9499  4.3850   90.000   90.000   90.000
+      SPACE GROUP: I-4       
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    351.242
+      Density (g/cm3):      7.830
+      MAX. ABS. INTENSITY / VOLUME**2:      57.17599329    
+      RIR:      3.409
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                35.25          5.25        2.9562    1   2   1         4
+                36.88          2.74        2.8302    3   1   0         4
+                42.56         25.16        2.4666    3   0   1         4
+                47.17          3.23        2.2375    4   0   0         4
+                48.19          2.68        2.1925    0   0   2         2
+                48.96         42.86        2.1602    2   3   1         4
+                48.96         57.14        2.1602    3   2   1         4
+                50.22         23.91        2.1095    3   3   0         4
+                51.20         52.59        2.0717    1   1   2         4
+                53.14          1.08        2.0013    2   4   0         4
+                53.14         34.19        2.0013    4   2   0         4
+                54.08         12.72        1.9689    2   0   2         4
+                54.79         15.41        1.9454    4   1   1         4
+                54.79         68.22        1.9454    1   4   1         4
+                59.56         14.43        1.8022    2   2   2         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

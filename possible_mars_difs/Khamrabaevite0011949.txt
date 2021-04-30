@@ -1,0 +1,21 @@
+      Khamrabaevite
+      Christensen A N
+      Acta Chemica Scandinavica A32 (1978) 89-90
+      The temperature factor parameters of some transition metal carbides and
+      nitrides by single crystal X-ray and neutron diffraction
+      Locality: synthetic
+      _database_code_amcsd 0011949
+      CELL PARAMETERS:   4.3280  4.3280  4.3280   90.000   90.000   90.000
+      SPACE GROUP: Fm3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     81.070
+      Density (g/cm3):      4.905
+      MAX. ABS. INTENSITY / VOLUME**2:      43.51669573    
+      RIR:      4.141
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                41.98         88.90        2.4988    1   1   1         8
+                48.87        100.00        2.1640    2   0   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

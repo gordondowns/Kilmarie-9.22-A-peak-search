@@ -1,0 +1,30 @@
+      Birnessite
+      Lanson B, Drits V A, Feng Q, Manceau A
+      American Mineralogist 87 (2002) 1662-1671
+      Structure of synthetic Na-rich birnessite: Evidence for a triclinic
+      one-layer unit cell
+      _database_code_amcsd 0002932
+      CELL PARAMETERS:   2.9513  2.9547  7.3340   78.720  101.790  122.330
+      SPACE GROUP: P-1       
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     52.611
+      Density (g/cm3):      2.487
+      MAX. ABS. INTENSITY / VOLUME**2:      14.29825433    
+      RIR:      2.684
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                14.40        100.00        7.1401    0   0   1         2
+                29.04         36.54        3.5700    0   0   2         2
+                41.64         14.67        2.5186   -1   1   0         2
+                43.20          8.84        2.4314   -1   0   1         2
+                43.32          7.72        2.4251    0   1   1         2
+                44.19          2.33        2.3800    0   0   3         2
+                47.53          7.49        2.2214    1  -1   1         2
+                48.97          8.89        2.1597   -1   0   2         2
+                49.30         11.61        2.1462    0   1   2         2
+                57.30         13.65        1.8670    1  -1   2         2
+                58.60         10.00        1.8292   -1   0   3         2
+                59.09          8.08        1.8155    0   1   3         2
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

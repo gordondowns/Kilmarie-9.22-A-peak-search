@@ -1,0 +1,33 @@
+      Nolanite
+      Gatehouse B M, Grey I E, Nickel E H
+      American Mineralogist 68 (1983) 833-839
+      The crystal chemistry of nolanite, (V,Fe,Ti,Al)10O14(OH)2, from Kalgoorlie,
+      Western Australia
+      sample: crystal # 2
+      _database_code_amcsd 0000911
+      CELL PARAMETERS:   5.8900  5.8900  9.2550   90.000   90.000  120.000
+      SPACE GROUP: P6_3mc    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    278.059
+      Density (g/cm3):      4.624
+      MAX. ABS. INTENSITY / VOLUME**2:      14.87025837    
+      RIR:      1.501
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                20.21         15.76        5.1009    1   0   0         6
+                22.31         47.62        4.6275    0   0   2         1
+                23.12         12.58        4.4673    1   0   1         6
+                30.28         72.75        3.4273    1   0   2         6
+                35.39         14.38        2.9450    1   1   0         6
+                39.64         89.84        2.6398    1   0   3         6
+                41.09         31.73        2.5504    2   0   0         6
+                42.24        100.00        2.4845    1   1   2         6
+                42.70         89.87        2.4588    2   0   1         6
+                45.52          3.66        2.3138    0   0   4         1
+                47.25         39.07        2.2337    2   0   2         6
+                50.28          1.43        2.1071    1   0   4         6
+                54.18         30.64        1.9657    2   0   3         6
+                58.94          3.34        1.8194    1   1   4         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

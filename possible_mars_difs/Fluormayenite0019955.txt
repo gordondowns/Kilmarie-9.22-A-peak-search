@@ -1,0 +1,32 @@
+      Fluormayenite
+      Costa U, Ballirano P
+      Powder Diffraction 15 (2000) 56-61
+      Improved powder X-ray data for the cement phase Ca12Al14O32F2 (C11A7f)
+      Locality: synthetic
+      _database_code_amcsd 0019955
+      CELL PARAMETERS:  11.9627 11.9627 11.9627   90.000   90.000   90.000
+      SPACE GROUP: I-43d     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1711.932
+      Density (g/cm3):      2.723
+      MAX. ABS. INTENSITY / VOLUME**2:      9.175481982    
+      RIR:      1.573
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.12        100.00        4.8837    2   1   1        12
+                24.44          4.21        4.2294    2   2   0        12
+                27.38         12.54        3.7829    3   1   0        24
+                32.52         29.71        3.1972    3   2   1        24
+                34.83         48.07        2.9907    4   0   0         6
+                39.10         93.60        2.6749    4   2   0        24
+                41.09         16.46        2.5505    3   3   2        12
+                43.01         43.54        2.4419    4   2   2        12
+                44.86          9.70        2.3461    5   1   0        24
+                48.39         36.90        2.1841    5   2   1        24
+                51.74          5.78        2.0516    5   3   0        24
+                54.94         24.09        1.9406    5   3   2        24
+                54.94          1.55        1.9406    6   1   1        12
+                58.02          3.19        1.8459    5   4   1        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

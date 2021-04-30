@@ -1,0 +1,55 @@
+      Marialite
+      Sokolova E V, Kabalov Y K, Sherriff B L, Teertstra D K
+      Jenkins D M, Kunath-Fandrei G, Goetz S, Jager C
+      The Canadian Mineralogist 34 (1996) 1039-1050
+      Marialite: Rietveld structure-refinement and Si MAS
+      and Al satellite transition NMR spectroscopy
+      Sample: PAM-1
+      _database_code_amcsd 0005511
+      CELL PARAMETERS:  12.0470 12.0470  7.5602   90.000   90.000   90.000
+      SPACE GROUP: I4/m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1097.213
+      Density (g/cm3):      2.581
+      MAX. ABS. INTENSITY / VOLUME**2:      7.511597741    
+      RIR:      1.358
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                12.06         10.12        8.5185    1   1   0         4
+                16.07         11.59        6.4037    1   0   1         8
+                17.09          4.49        6.0235    2   0   0         4
+                23.54          2.96        4.3875    1   2   1         8
+                24.26          8.25        4.2593    2   2   0         4
+                27.18          6.34        3.8096    1   3   0         4
+                27.18         42.85        3.8096    3   1   0         4
+                29.24         24.10        3.5464    3   0   1         8
+                30.03        100.00        3.4552    1   1   2         8
+                34.06         62.81        3.0561    2   3   1         8
+                34.58         36.69        3.0117    4   0   0         4
+                36.75          5.81        2.8395    3   3   0         4
+                36.92          2.29        2.8272    2   2   2         8
+                38.35         17.70        2.7254    1   4   1         8
+                38.82          8.32        2.6938    2   4   0         4
+                38.97          2.08        2.6833    1   3   2         8
+                38.97         34.35        2.6833    3   1   2         8
+                44.53          2.16        2.3626    1   5   0         4
+                45.90          4.84        2.2956    3   4   1         8
+                45.90          4.78        2.2956    4   3   1         8
+                46.44          1.06        2.2703    3   3   2         8
+                48.16          3.23        2.1938    4   2   2         8
+                49.33          2.73        2.1451    5   2   1         8
+                49.59          8.73        2.1346    3   0   3         8
+                51.35          1.79        2.0660    3   5   0         4
+                52.84          3.82        2.0120    3   2   3         8
+                55.71          7.99        1.9159    6   1   1         8
+                55.95          2.71        1.9083    4   1   3         8
+                55.95         12.59        1.9083    1   4   3         8
+                56.06          9.70        1.9048    6   2   0         4
+                56.06          2.93        1.9048    2   6   0         4
+                56.54         11.10        1.8901    0   0   4         2
+                58.72          1.32        1.8257    4   5   1         8
+                59.18          2.84        1.8129    5   3   2         8
+                59.18          5.63        1.8129    3   5   2         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

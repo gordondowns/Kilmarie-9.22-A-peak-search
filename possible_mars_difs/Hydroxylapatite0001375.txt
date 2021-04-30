@@ -1,0 +1,51 @@
+      Hydroxylapatite
+      Hughes J M, Cameron M, Mariano A N
+      American Mineralogist 76 (1991) 1165-1173
+      Rare-earth-element ordering and structural variations in natural
+      rare-earth-bearing apatites
+      sample B from the Oka carbonatite
+      _database_code_amcsd 0001375
+      CELL PARAMETERS:   9.4202  9.4202  6.9157   90.000   90.000  120.000
+      SPACE GROUP: P6_3/m    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    531.480
+      Density (g/cm3):      3.393
+      MAX. ABS. INTENSITY / VOLUME**2:      13.81352635    
+      RIR:      1.900
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                12.60          5.71        8.1581    1   0   0         6
+                19.54          2.56        5.2753    1   0   1        12
+                21.91          1.62        4.7101    1   1   0         6
+                25.35          9.42        4.0791    2   0   0         6
+                30.01         33.46        3.4578    0   0   2         2
+                32.66         12.58        3.1837    1   0   2        12
+                33.75         15.70        3.0835    1   2   0         6
+                33.75          1.99        3.0835    2   1   0         6
+                37.07         68.20        2.8162    1   2   1        12
+                37.07         31.80        2.8162    2   1   1        12
+                37.46         45.22        2.7874    1   1   2        12
+                38.44         50.67        2.7194    3   0   0         6
+                39.68         15.00        2.6377    2   0   2        12
+                41.43          2.51        2.5308    3   0   1        12
+                45.78          2.09        2.3014    1   2   2        12
+                45.78          1.10        2.3014    2   1   2        12
+                46.61          3.59        2.2627    1   3   0         6
+                46.61         13.89        2.2627    3   1   0         6
+                47.35          1.81        2.2293    2   2   1        12
+                49.20          1.26        2.1505    1   3   1        12
+                49.20          2.86        2.1505    3   1   1        12
+                51.23          5.75        2.0705    1   1   3        12
+                52.07          1.98        2.0395    4   0   0         6
+                52.98          3.02        2.0069    2   0   3        12
+                54.76         26.01        1.9465    2   2   2        12
+                56.43          8.03        1.8933    3   1   2        12
+                56.43          4.44        1.8933    1   3   2        12
+                57.15          1.10        1.8716    3   2   0         6
+                58.00         22.04        1.8463    1   2   3        12
+                58.00          9.66        1.8463    2   1   3        12
+                59.40          3.12        1.8066    2   3   1        12
+                59.40          2.53        1.8066    3   2   1        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

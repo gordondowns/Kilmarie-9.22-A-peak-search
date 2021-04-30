@@ -1,0 +1,23 @@
+      Amakinite
+      Wyckoff R W G
+      Crystal Structures 1 (1963) 239-444
+      Second edition. Interscience Publishers, New York, New York
+      Note: cadmium iodide structure
+      _database_code_amcsd 0011783
+      CELL PARAMETERS:   3.2580  3.2580  4.6050   90.000   90.000  120.000
+      SPACE GROUP: P-3m1     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     42.331
+      Density (g/cm3):      3.445
+      MAX. ABS. INTENSITY / VOLUME**2:      35.80453994    
+      RIR:      4.851
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                22.42         83.75        4.6050    0   0   1         2
+                36.99         34.02        2.8215    1   0   0         6
+                43.69         88.74        2.4058    0   1   1         6
+                43.69         11.26        2.4058    1   0   1         6
+                45.76          2.49        2.3025    0   0   2         2
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

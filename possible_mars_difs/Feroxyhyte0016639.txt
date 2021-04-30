@@ -1,0 +1,22 @@
+      Feroxyhyte
+      Patrat G, de Bergevin F, Pernet M, Joubert J
+      Acta Crystallographica B39 (1983) 165-170
+      Structure locale de delta-Fe O O H
+      _cod_database_code 1008762
+      _database_code_amcsd 0016639
+      CELL PARAMETERS:   2.9500  2.9500  4.5600   90.000   90.000  120.000
+      SPACE GROUP: P-3m1     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     34.367
+      Density (g/cm3):      4.293
+      MAX. ABS. INTENSITY / VOLUME**2:      13.47252360    
+      RIR:      1.465
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                41.02        100.00        2.5548    1   0   0         6
+                46.23         10.76        2.2800    0   0   2         2
+                47.36         26.89        2.2288    1   0   1         6
+                47.36         27.80        2.2288    0   1   1         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

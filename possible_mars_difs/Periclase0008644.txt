@@ -1,0 +1,21 @@
+      Periclase
+      Merli M, Pavese A, Ranzini M
+      Physics and Chemistry of Minerals 29 (2002) 455-464
+      Study of the electron density in MgO, (Mg0.963Fe0.037)O and Cu2O by the
+      maximum entropy method and multipole refinements: comparison between methods
+      Sample: multipole refinement
+      _database_code_amcsd 0008644
+      CELL PARAMETERS:   4.2163  4.2163  4.2163   90.000   90.000   90.000
+      SPACE GROUP: Fm-3m     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     74.954
+      Density (g/cm3):      3.675
+      MAX. ABS. INTENSITY / VOLUME**2:      57.57214122    
+      RIR:      7.314
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                43.15        100.00        2.4343    1   1   1         8
+                50.25         45.96        2.1082    2   0   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

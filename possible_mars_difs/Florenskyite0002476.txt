@@ -1,0 +1,34 @@
+      Florenskyite
+      Ivanov A V, Zolensky M E, Saito A, Ohsumi K, Yang S V, Kononkova N N,
+      Mikouchi T
+      American Mineralogist 85 (2000) 1082-1086
+      Florenskyite, FeTiP, a new phosphide from the Kaidun meteorite
+      Locality: Kaidun chondritic meteorite, South Yemen
+      _database_code_amcsd 0002476
+      CELL PARAMETERS:   6.0070  3.6020  6.8970   90.000   90.000   90.000
+      SPACE GROUP: Pnma      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    149.232
+      Density (g/cm3):      6.053
+      MAX. ABS. INTENSITY / VOLUME**2:      28.54619139    
+      RIR:      2.202
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                22.79         14.27        4.5298    1   0   1         4
+                30.09          3.46        3.4485    0   0   2         2
+                34.83          1.52        2.9907    1   0   2         4
+                37.02         12.08        2.8193    1   1   1         8
+                45.67         48.67        2.3068    2   1   0         4
+                45.79        100.00        2.3010    1   1   2         8
+                46.56         16.11        2.2649    2   0   2         4
+                48.31         84.37        2.1877    2   1   1         8
+                49.28         31.27        2.1471    1   0   3         4
+                55.02         44.69        1.9379    0   1   3         4
+                55.49         33.82        1.9229    3   0   1         4
+                55.66         11.53        1.9174    2   1   2         8
+                58.07         20.89        1.8443    1   1   3         8
+                58.73         12.57        1.8256    2   0   3         4
+                59.61         44.35        1.8010    0   2   0         2
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

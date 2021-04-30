@@ -1,0 +1,31 @@
+      Pyrope
+      Ganguly J, Cheng W, O'Neill H St C
+      American Mineralogist 78 (1993) 583-593
+      Syntheses, volume, and structural changes of garnets in the pyrope-grossular
+      join: Implications for stability and mixing properties
+      Sample JW28
+      _database_code_amcsd 0001566
+      CELL PARAMETERS:  11.5670 11.5670 11.5670   90.000   90.000   90.000
+      SPACE GROUP: Ia-3d     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1547.613
+      Density (g/cm3):      3.565
+      MAX. ABS. INTENSITY / VOLUME**2:      12.05323579    
+      RIR:      1.578
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.85          3.04        4.7222    2   1   1        24
+                33.66          2.46        3.0914    3   2   1        48
+                36.06         49.71        2.8918    4   0   0         6
+                40.50        100.00        2.5865    4   2   0        24
+                42.57         22.46        2.4661    3   3   2        24
+                44.56         19.95        2.3611    4   2   2        24
+                46.48         21.23        2.2685    4   3   1        48
+                50.16         12.18        2.1118    5   2   1        48
+                51.92          2.84        2.0448    4   4   0        12
+                56.99          7.80        1.8764    5   3   2        48
+                56.99         11.57        1.8764    6   1   1        24
+                58.61          4.65        1.8289    6   2   0        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

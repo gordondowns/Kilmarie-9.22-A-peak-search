@@ -1,0 +1,20 @@
+      Wustite
+      Jette E, Foote F
+      Journal of Chemical Physics 1 (1933) 29-36
+      An x-ray study of the wuestite (Fe O) solid solutions
+      _cod_database_code 1011167
+      _database_code_amcsd 0018046
+      CELL PARAMETERS:   4.2997  4.2997  4.2997   90.000   90.000   90.000
+      SPACE GROUP: Fm3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     79.490
+      Density (g/cm3):      5.741
+      MAX. ABS. INTENSITY / VOLUME**2:      66.75126069    
+      RIR:      5.428
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                42.27         65.16        2.4824    1   1   1         8
+                49.21        100.00        2.1498    2   0   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

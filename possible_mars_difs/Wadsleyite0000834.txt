@@ -1,0 +1,36 @@
+      Wadsleyite
+      Horiuchi H, Sawamoto H
+      American Mineralogist 66 (1981) 568-575
+      Beta-Mg2SiO4: Single-crystal X-ray diffraction study
+      case 1
+      _database_code_amcsd 0000834
+      CELL PARAMETERS:   5.6983 11.4380  8.2566   90.000   90.000   90.000
+      SPACE GROUP: Imma      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    538.142
+      Density (g/cm3):      3.473
+      MAX. ABS. INTENSITY / VOLUME**2:      5.565750882    
+      RIR:      0.748
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                32.40         48.41        3.2089    1   1   2         8
+                36.49         14.55        2.8595    0   4   0         2
+                36.62         14.58        2.8491    2   0   0         2
+                39.09         53.36        2.6758    0   1   3         4
+                39.93         61.47        2.6216    2   1   1         8
+                41.72         19.45        2.5137    1   3   2         8
+                42.35         36.02        2.4783    1   0   3         4
+                43.02        100.00        2.4415    1   4   1         8
+                44.77          4.58        2.3507    0   4   2         4
+                44.88          1.81        2.3449    2   0   2         4
+                47.30         13.21        2.2315    0   3   3         4
+                47.91          3.42        2.2045    0   5   1         4
+                48.02         30.62        2.1998    2   3   1         8
+                51.40         36.60        2.0642    0   0   4         2
+                52.66         82.04        2.0183    2   4   0         4
+                55.79          4.93        1.9134    1   1   4         8
+                56.61          4.16        1.8879    1   5   2         8
+                57.11          2.09        1.8728    1   4   3         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

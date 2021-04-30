@@ -1,0 +1,58 @@
+      Silvialite
+      Teertstra D K, Schindler M, Sherriff B L, Hawthorne F C
+      Mineralogical Magazine 63 (1999) 321-329
+      Silvialite, a new sulfate-dominant member of the scapolite group with
+      an Al-Si composition near the I4/m-P42/n phase transition
+      Locality: McBride Province, Australia
+      _database_code_amcsd 0014537
+      CELL PARAMETERS:  12.1600 12.1600  7.5600   90.000   90.000   90.000
+      SPACE GROUP: I4/m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1117.864
+      Density (g/cm3):      2.758
+      MAX. ABS. INTENSITY / VOLUME**2:      7.635543342    
+      RIR:      1.293
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                16.93         10.48        6.0800    2   0   0         4
+                23.40          1.67        4.4146    2   1   1         8
+                24.04          1.50        4.2992    2   2   0         4
+                26.92          1.52        3.8453    1   3   0         4
+                26.92         33.93        3.8453    3   1   0         4
+                27.40          1.23        3.7800    0   0   2         2
+                29.02         16.38        3.5723    3   0   1         8
+                29.98        100.00        3.4604    1   1   2         8
+                32.38          1.18        3.2102    2   0   2         8
+                33.79         78.69        3.0800    2   3   1         8
+                34.25         34.08        3.0400    4   0   0         4
+                36.40          3.22        2.8661    3   3   0         4
+                36.76          3.99        2.8388    2   2   2         8
+                38.03         12.90        2.7476    1   4   1         8
+                38.44          5.37        2.7191    2   4   0         4
+                38.79          1.41        2.6957    1   3   2         8
+                38.79         40.32        2.6957    3   1   2         8
+                44.09          1.60        2.3848    5   1   0         4
+                45.49          1.59        2.3152    3   4   1         8
+                45.49         10.60        2.3152    4   3   1         8
+                47.85          3.77        2.2073    4   2   2         8
+                48.88          4.22        2.1636    5   2   1         8
+                48.88          5.43        2.1636    2   5   1         8
+                49.22          2.23        2.1496    4   4   0         4
+                49.45         12.07        2.1401    3   0   3         8
+                50.84          5.05        2.0854    3   5   0         4
+                52.65          3.56        2.0187    2   3   3         8
+                52.65          4.15        2.0187    3   2   3         8
+                52.70          2.94        2.0169    1   5   2         8
+                52.70          3.08        2.0169    5   1   2         8
+                55.18          8.39        1.9327    6   1   1         8
+                55.18          1.82        1.9327    1   6   1         8
+                55.49          8.05        1.9227    6   2   0         4
+                55.71          3.29        1.9159    4   1   3         8
+                55.71         12.86        1.9159    1   4   3         8
+                56.54         10.80        1.8900    0   0   4         2
+                58.16          2.36        1.8419    5   4   1         8
+                58.16          1.22        1.8419    4   5   1         8
+                58.71          3.74        1.8260    3   5   2         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

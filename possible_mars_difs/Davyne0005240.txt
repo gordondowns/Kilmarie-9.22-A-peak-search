@@ -1,0 +1,46 @@
+      Davyne
+      Hassan I, Grundy H D
+      The Canadian Mineralogist 28 (1990) 341-349
+      Structure of davyne and implications for stacking faults
+      Sample BM1907,210
+      _database_code_amcsd 0005240
+      CELL PARAMETERS:  12.8540 12.8540  5.3570   90.000   90.000  120.000
+      SPACE GROUP: P6_3      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    766.529
+      Density (g/cm3):      2.181
+      MAX. ABS. INTENSITY / VOLUME**2:      11.34503479    
+      RIR:      2.429
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                 9.22        100.00       11.1319    1   0   0         6
+                16.01         18.64        6.4270    1   1   0         6
+                18.51          2.09        5.5659    2   0   0         6
+                21.37         49.89        4.8271    1   0   1         6
+                27.92         43.05        3.7106    3   0   0         6
+                31.39         21.93        3.3089    1   2   1         6
+                31.39         22.05        3.3089    2   1   1         6
+                33.71          3.34        3.0874    1   3   0         6
+                33.71          2.35        3.0874    3   1   0         6
+                34.13          2.08        3.0503    3   0   1         6
+                37.53         15.56        2.7830    4   0   0         6
+                39.05         19.29        2.6785    0   0   2         1
+                39.10          5.00        2.6750    3   1   1         6
+                39.10          5.01        2.6750    1   3   1         6
+                40.21          4.17        2.6042    1   0   2         6
+                42.45          1.42        2.4724    1   1   2         6
+                42.50         17.97        2.4696    4   0   1         6
+                43.25          1.52        2.4292    1   4   0         6
+                43.25          1.62        2.4292    4   1   0         6
+                48.68          1.68        2.1718    3   0   2         6
+                49.40         14.07        2.1423    3   3   0         6
+                51.58          4.50        2.0575    2   2   2         6
+                52.52          1.08        2.0232    3   1   2         6
+                52.52          1.10        2.0232    1   3   2         6
+                55.27          7.15        1.9299    4   0   2         6
+                57.09          1.10        1.8731    5   1   1         6
+                59.67          5.61        1.7994    1   4   2         6
+                59.67          5.79        1.7994    4   1   2         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

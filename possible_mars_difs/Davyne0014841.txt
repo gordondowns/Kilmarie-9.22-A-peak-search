@@ -1,0 +1,48 @@
+      Davyne
+      Bonaccorsi E, Merlino S, Pasero M
+      Neues Jahrbuch fur Mineralogie, Monatshefte 1990 (1990) 97-112
+      Davyne: its structural relationships with cancrinite and vishnevite
+      Locality: Monte Somma, Vesuvius, Italy
+      _database_code_amcsd 0014841
+      CELL PARAMETERS:  12.7050 12.7050  5.3680   90.000   90.000  120.000
+      SPACE GROUP: P6_3/m    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    750.399
+      Density (g/cm3):      2.476
+      MAX. ABS. INTENSITY / VOLUME**2:      6.643644814    
+      RIR:      1.253
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                 9.33          3.58       11.0029    1   0   0         6
+                16.20          3.22        6.3525    1   1   0         6
+                21.39         83.42        4.8245    1   0   1        12
+                24.86          4.40        4.1587    2   1   0         6
+                28.25        100.00        3.6676    3   0   0         6
+                31.60         43.18        3.2875    1   2   1        12
+                31.60         42.93        3.2875    2   1   1        12
+                32.74          1.88        3.1762    2   2   0         6
+                34.12          3.14        3.0516    1   3   0         6
+                34.12          1.88        3.0516    3   1   0         6
+                34.39          8.68        3.0283    3   0   1        12
+                37.98         14.85        2.7507    4   0   0         6
+                38.96         38.98        2.6840    0   0   2         2
+                39.44         16.46        2.6529    1   3   1        12
+                39.44          9.06        2.6529    3   1   1        12
+                40.16          6.57        2.6075    1   0   2        12
+                42.45          3.57        2.4724    1   1   2        12
+                42.90         27.34        2.4480    4   0   1        12
+                43.78          3.92        2.4010    1   4   0         6
+                43.78          2.57        2.4010    4   1   0         6
+                48.01          1.37        2.2006    5   0   0         6
+                50.01         32.51        2.1175    3   3   0         6
+                51.78          9.46        2.0501    2   2   2        12
+                52.74          4.53        2.0154    3   1   2        12
+                52.74          2.44        2.0154    1   3   2        12
+                54.99          1.16        1.9390    4   2   1        12
+                55.55         13.39        1.9210    4   0   2        12
+                57.72          2.39        1.8545    1   5   1        12
+                57.72          1.99        1.8545    5   1   1        12
+                58.44          1.26        1.8338    6   0   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

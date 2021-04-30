@@ -1,0 +1,28 @@
+      Calcite
+      Althoff P L
+      American Mineralogist 62 (1977) 772-783
+      Structural refinements of dolomite and a magnesian calcite and implications for
+      dolomite formation in the marine environment
+      Mg-calcite
+      _database_code_amcsd 0000585
+      CELL PARAMETERS:   4.9410  4.9410 16.8640   90.000   90.000  120.000
+      SPACE GROUP: R-3c      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    356.550
+      Density (g/cm3):      2.752
+      MAX. ABS. INTENSITY / VOLUME**2:      17.78448066    
+      RIR:      3.016
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                27.13          7.69        3.8158    0   1   2         6
+                34.68        100.00        3.0032    1   0   4         6
+                37.14          2.38        2.8107    0   0   6         2
+                42.49         13.60        2.4705    1   1   0         6
+                46.63         18.35        2.2617    1   1   3        12
+                51.14         13.12        2.0738    2   0   2         6
+                55.96          5.99        1.9079    0   2   4         6
+                56.51         17.65        1.8910    0   1   8         6
+                57.69         17.91        1.8556    1   1   6        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

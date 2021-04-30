@@ -1,0 +1,43 @@
+      Malladrite
+      Zalkin A, Forrester J D, Templeton D H
+      Acta Crystallographica 17 (1964) 1408-1412
+      The crystal structure of sodium fluorosilicate
+      Locality: synthetic
+      _database_code_amcsd 0009291
+      CELL PARAMETERS:   8.8590  8.8590  5.0380   90.000   90.000  120.000
+      SPACE GROUP: P321      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    342.419
+      Density (g/cm3):      2.735
+      MAX. ABS. INTENSITY / VOLUME**2:      5.762981217    
+      RIR:      0.983
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                20.47         12.93        5.0380    0   0   1         2
+                23.32         85.72        4.4295    1   1   0         3
+                24.55         46.25        4.2112    0   1   1         6
+                24.55         53.75        4.2112    1   0   1         6
+                31.22         84.52        3.3266    1   1   1         6
+                34.11         26.78        3.0520    0   2   1         6
+                34.11         28.82        3.0520    2   0   1         6
+                35.96          9.29        2.8998    2   1   0         6
+                40.98          4.03        2.5574    3   0   0         6
+                41.73          8.49        2.5132    1   2   1         6
+                41.73          7.54        2.5132    2   1   1         6
+                46.23         39.04        2.2804    3   0   1         6
+                46.23         51.55        2.2804    0   3   1         6
+                47.68          4.66        2.2148    2   2   0         3
+                48.26          3.12        2.1897    1   1   2         6
+                49.75          2.73        2.1279    3   1   0         6
+                50.32          1.47        2.1056    0   2   2         6
+                50.32          1.99        2.1056    2   0   2         6
+                52.40          7.48        2.0275    2   2   1         6
+                54.34          4.42        1.9602    3   1   1         6
+                56.16          8.84        1.9017    1   2   2         6
+                56.16          2.46        1.9017    2   1   2         6
+                59.84         37.94        1.7946    0   3   2         6
+                59.84         22.77        1.7946    3   0   2         6
+                59.92          1.68        1.7925    0   4   1         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

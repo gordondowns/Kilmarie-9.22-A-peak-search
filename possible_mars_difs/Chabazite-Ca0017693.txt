@@ -1,0 +1,48 @@
+      Chabazite-Ca
+      Calligaris M, Nardin G, Randaccio L
+      Acta Crystallographica B38 (1982) 602-605
+      Cation-site location in a natural chabazite
+      Locality: Northeast Azerbaijan
+      _database_code_amcsd 0017693
+      CELL PARAMETERS:   9.4210  9.4210  9.4210   94.200   94.200   94.200
+      SPACE GROUP: R-3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    829.077
+      Density (g/cm3):      1.912
+      MAX. ABS. INTENSITY / VOLUME**2:      9.164891980    
+      RIR:      2.238
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                10.97        100.00        9.3663    1   0   0         6
+                14.91         15.32        6.9013    0  -1   1         6
+                16.14          2.23        6.3758    1   1   0         6
+                18.54         10.54        5.5560    1  -1   1         6
+                20.52         27.34        5.0251    1   1   1         2
+                22.04          4.02        4.6832    2   0   0         6
+                23.87         39.93        4.3278    0  -1   2        12
+                25.97          4.70        3.9845    1  -2   1         6
+                26.71         12.99        3.8752    2  -1   1        12
+                28.84         16.27        3.5944    2   1   1         6
+                30.07          4.89        3.4506    0  -2   2         6
+                32.10          2.76        3.2379    2  -2   1        12
+                32.62          1.89        3.1879    2   2   0         6
+                35.56         36.12        2.9313   -1  -1   3         6
+                35.66          4.96        2.9235    2   2   1         6
+                36.03         13.95        2.8941    3   1   0        12
+                37.60          2.07        2.7780    2  -2   2         6
+                38.75          2.14        2.6980    0  -2   3        12
+                38.84          4.85        2.6919    3   1   1         6
+                40.14         11.55        2.6084    2  -3   1        12
+                41.82         16.11        2.5079    3   2   0        12
+                45.49          1.36        2.3151    3  -2   2        12
+                45.80          3.53        2.3004    0  -3   3         6
+                50.68          8.28        2.0917    4  -2   1        12
+                54.83          1.17        1.9440    4   2   1        12
+                55.77          1.79        1.9141    3  -4   1        12
+                57.09          1.78        1.8733    5   0   0         6
+                59.29          1.43        1.8097    3  -4   2        12
+                59.30          1.51        1.8096    4  -1   3        12
+                59.30          4.04        1.8096    5   1   0        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,30 @@
+      Schorlomite
+      Chakhmouradian A R, McCammon C A
+      Physics and Chemistry of Minerals 32 (2005) 277-289
+      Schorlomite: a discussion of the crystal chemistry, formula,
+      and inter-species boundaries
+      Garnet
+      Sample: Afrikanda, Kola Peninsula, Russia
+      _database_code_amcsd 0008963
+      CELL PARAMETERS:  12.1464 12.1464 12.1464   90.000   90.000   90.000
+      SPACE GROUP: Ia3d      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1792.020
+      Density (g/cm3):      3.705
+      MAX. ABS. INTENSITY / VOLUME**2:      18.25646614    
+      RIR:      2.300
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                24.06          4.91        4.2944    2   2   0        12
+                34.29         54.18        3.0366    4   0   0         6
+                38.49        100.00        2.7160    4   2   0        24
+                40.44          9.40        2.5896    3   3   2        24
+                42.33         45.77        2.4794    4   2   2        24
+                44.14         12.70        2.3821    4   3   1        48
+                47.61          9.57        2.2176    5   2   1        48
+                54.04          7.09        1.9704    5   3   2        48
+                54.04          8.41        1.9704    6   1   1        24
+                55.56          5.50        1.9205    6   2   0        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

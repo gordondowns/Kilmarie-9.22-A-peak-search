@@ -1,0 +1,29 @@
+      Andradite
+      Agrosi G, Schingaro E, Pedrazzi G, Scandale E, Scordari F
+      European Journal of Mineralogy 14 (2002) 785-794
+      A crystal chemical insight into sector zoning of a titanian andradite
+      ('melanite') crystal
+      Sample: (121)
+      _database_code_amcsd 0006944
+      CELL PARAMETERS:  12.0100 12.0100 12.0100   90.000   90.000   90.000
+      SPACE GROUP: Ia-3d     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1732.324
+      Density (g/cm3):      3.774
+      MAX. ABS. INTENSITY / VOLUME**2:      18.73033042    
+      RIR:      2.317
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                24.34          4.29        4.2462    2   2   0        12
+                34.69         52.90        3.0025    4   0   0         6
+                38.94        100.00        2.6855    4   2   0        24
+                40.92          7.84        2.5605    3   3   2        24
+                42.83         43.55        2.4515    4   2   2        24
+                44.67         13.25        2.3554    4   3   1        48
+                48.19         11.30        2.1927    5   2   1        48
+                54.70          8.84        1.9483    5   3   2        48
+                54.70          9.70        1.9483    6   1   1        24
+                56.25          5.56        1.8989    6   2   0        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

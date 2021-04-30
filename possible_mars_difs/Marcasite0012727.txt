@@ -1,0 +1,27 @@
+      Marcasite
+      Rieder M, Crelling J C, Sustai O, Drabek M, Weiss Z, Klementova M
+      International Journal of Coal Geology 71 (2007) 115-121
+      Arsenic in iron disulfides in a brown coal from the North Bohemian Basin,
+      Czech Republic
+      Locality: Dul CSA mine, North Bohemian Basin, Czech Republic
+      Sample: Natural As-marcasite
+      _database_code_amcsd 0012727
+      CELL PARAMETERS:   4.4490  5.4320  3.3910   90.000   90.000   90.000
+      SPACE GROUP: Pnnm      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     81.950
+      Density (g/cm3):      5.556
+      MAX. ABS. INTENSITY / VOLUME**2:      27.20215353    
+      RIR:      2.286
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                30.15         48.35        3.4419    1   1   0         4
+                38.49         29.86        2.7160    0   2   0         2
+                38.77        100.00        2.6969    1   0   1         4
+                43.50         59.43        2.4156    1   1   1         8
+                45.43         54.57        2.3182    1   2   0         4
+                51.55          5.85        2.0586    2   1   0         4
+                55.78         30.02        1.9137    1   2   1         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

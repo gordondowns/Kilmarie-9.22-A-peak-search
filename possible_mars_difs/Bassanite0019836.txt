@@ -1,0 +1,37 @@
+      Bassanite
+      Abriel W
+      Acta Crystallographica C39 (1983) 956-958
+      Calcium sulfat subhydrat, CaSO4.0,8H2O
+      Locality: synthetic
+      _database_code_amcsd 0019836
+      CELL PARAMETERS:   6.9680  6.9680  6.4100   90.000   90.000  120.000
+      SPACE GROUP: P3_121    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    269.529
+      Density (g/cm3):      2.818
+      MAX. ABS. INTENSITY / VOLUME**2:      11.33702506    
+      RIR:      1.878
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                17.06         50.14        6.0345    1   0   0         6
+                23.51          2.49        4.3938    0   1   1         6
+                29.78         35.20        3.4840    1   1   0         3
+                34.01         12.24        3.0611    1   1   1         6
+                34.52        100.00        3.0172    2   0   0         6
+                36.87         20.85        2.8305    0   1   2         6
+                36.87         64.29        2.8305    1   0   2         6
+                38.28          9.27        2.7299    2   0   1         6
+                44.61          5.34        2.3588    1   1   2         6
+                46.22          3.11        2.2808    2   1   0         6
+                48.09          2.50        2.1969    2   0   2         6
+                49.24          1.36        2.1488    1   2   1         6
+                49.24         15.46        2.1488    2   1   1         6
+                49.54          9.80        2.1367    0   0   3         2
+                52.85          1.31        2.0115    3   0   0         6
+                55.60          2.41        1.9192    3   0   1         6
+                55.60          5.56        1.9192    0   3   1         6
+                57.59         47.14        1.8583    1   2   2         6
+                57.59          3.01        1.8583    2   1   2         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

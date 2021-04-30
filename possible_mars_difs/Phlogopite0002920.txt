@@ -1,0 +1,45 @@
+      Phlogopite
+      Redhammer G J, Roth G
+      American Mineralogist 87 (2002) 1464-1476
+      Single-crystal structure refinements and crystal chemistry of
+      synthetic trioctahedral micas KM3(Al,Si)4O10(OH)2, where
+      M = Ni, Mg, Co, Fe, Al
+      Sample: CoAn#2 - Co
+      Note: Uij's for K altered by Redhammer, 7 Nov, 2002
+      _database_code_amcsd 0002920
+      CELL PARAMETERS:   5.3380  9.2465 10.3410   90.000   99.977   90.000
+      SPACE GROUP: C2/m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    502.690
+      Density (g/cm3):      3.442
+      MAX. ABS. INTENSITY / VOLUME**2:      37.75711884    
+      RIR:      5.121
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                10.08        100.00       10.1846    0   0   1         2
+                20.25          4.56        5.0923    0   0   2         2
+                22.33          1.66        4.6233    0   2   0         2
+                22.59          2.21        4.5702    1   1   0         4
+                26.17          2.47        3.9532    1   1   1         4
+                28.09          5.40        3.6886   -1   1   2         4
+                30.32          7.18        3.4230    0   2   2         4
+                30.58         17.72        3.3949    0   0   3         2
+                32.78          6.96        3.1721    1   1   2         4
+                35.38          5.03        2.9459   -1   1   3         4
+                38.19          2.66        2.7364    0   2   3         4
+                39.80         20.95        2.6296   -1   3   1         4
+                39.82         10.41        2.6286    2   0   0         2
+                41.17          4.48        2.5462    0   0   4         2
+                42.92         13.79        2.4466   -1   3   2         4
+                42.96          6.94        2.4448    2   0   1         2
+                46.27          2.46        2.2783   -2   0   3         2
+                46.31          4.90        2.2765    1   3   2         4
+                48.29         10.56        2.1884   -1   3   3         4
+                48.33          5.30        2.1865    2   0   2         2
+                52.85          3.13        2.0113   -2   0   4         2
+                52.90          6.27        2.0096    1   3   3         4
+                55.42          2.93        1.9252   -1   3   4         4
+                55.47          1.45        1.9234    2   0   3         2
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

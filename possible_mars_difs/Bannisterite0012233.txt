@@ -1,0 +1,44 @@
+      Bannisterite
+      Heaney P J, Post J E, Evans H T
+      Clays and Clay Minerals 40 (1992) 129-144
+      The crystal structure of bannisterite
+      Locality: Broken Hill, Australia
+      _database_code_amcsd 0012233
+      CELL PARAMETERS:  22.2860 16.3860 24.5750   90.000   94.355   90.000
+      SPACE GROUP: A2/a      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   8948.348
+      Density (g/cm3):      2.830
+      MAX. ABS. INTENSITY / VOLUME**2:      39.99493349    
+      RIR:      6.597
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                 8.38        100.00       12.2520    0   0   2         2
+                 9.01          1.08       11.4006    1   1   1         4
+                16.80          1.99        6.1260    0   0   4         2
+                22.45          2.80        4.5980    4   2   0         4
+                24.15          1.11        4.2787   -5   1   1         4
+                25.32          4.55        4.0840    0   0   6         2
+                27.30          2.41        3.7937   -4   2   4         4
+                29.03          1.52        3.5712    4   2   4         4
+                30.32          2.87        3.4233    0   1   7         4
+                30.33          2.48        3.4219   -1   1   7         4
+                30.48          1.91        3.4053    0   4   4         4
+                31.03          2.61        3.3462    1   1   7         4
+                33.98          5.97        3.0630    0   0   8         2
+                37.40          4.39        2.7919    4   5   1         4
+                37.93          3.38        2.7544   -8   0   2         2
+                39.69          9.26        2.6366    4   5   3         4
+                40.19          5.34        2.6053   -8   0   4         2
+                42.18          1.21        2.4878   -4   5   5         4
+                42.36          1.14        2.4776    5   5   3         4
+                43.68          5.13        2.4061    4   5   5         4
+                44.14          3.22        2.3825   -8   0   6         2
+                47.11          1.55        2.2399   -4   5   7         4
+                47.56          1.07        2.2198    8   0   6         2
+                49.04          2.38        2.1570    4   5   7         4
+                49.45          1.05        2.1401   -8   0   8         2
+                55.49          1.24        1.9229    4   5   9         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

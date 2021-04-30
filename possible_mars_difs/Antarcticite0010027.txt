@@ -1,0 +1,35 @@
+      Antarcticite
+      Agron P A, Busing W R
+      Acta Crystallographica C42 (1986) 141-143
+      Calcium and strontium dichloride hexahydrates by neutron diffraction
+      _database_code_amcsd 0010027
+      CELL PARAMETERS:   7.8759  7.8758  3.9545   90.000   90.000  120.000
+      SPACE GROUP: P321      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    212.431
+      Density (g/cm3):      1.712
+      MAX. ABS. INTENSITY / VOLUME**2:      4.451123578    
+      RIR:      1.214
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                15.08         72.25        6.8207    1   0   0         6
+                26.17          3.22        3.9545    0   0   1         2
+                26.28         93.55        3.9379    1   1   0         3
+                30.34         67.97        3.4211    0   1   1         6
+                30.34          4.52        3.4211    1   0   1         6
+                30.43          3.01        3.4103    2   0   0         6
+                37.42         79.08        2.7904    1   1   1         6
+                40.56         14.17        2.5826    0   2   1         6
+                40.56         53.26        2.5826    2   0   1         6
+                40.64          9.37        2.5780    2   1   0         6
+                46.37         65.22        2.2736    3   0   0         6
+                48.97         72.37        2.1596    1   2   1         6
+                48.97         27.63        2.1596    2   1   1         6
+                53.84         18.22        1.9772    0   0   2         2
+                54.02          1.51        1.9710    0   3   1         6
+                54.02          1.49        1.9710    3   0   1         6
+                54.08          4.72        1.9690    2   2   0         3
+                56.25         12.50        1.8991    1   0   2         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

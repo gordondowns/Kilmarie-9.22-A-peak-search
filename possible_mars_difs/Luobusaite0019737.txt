@@ -1,0 +1,41 @@
+      Luobusaite
+      Li G, Sh N, Xiong M, Ma Z, Bai W, Fang Q
+      Journal of Mineralogy and Petrology 27 (2007) 1-5
+      Rietveld structure refinement of new mineral luobusaite (beta-FeSi2)
+      _database_code_amcsd 0019737
+      CELL PARAMETERS:   9.8362  7.8301  7.8655   90.000   90.000   90.000
+      SPACE GROUP: Cmca      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    605.788
+      Density (g/cm3):      4.814
+      MAX. ABS. INTENSITY / VOLUME**2:      23.41789125    
+      RIR:      2.271
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                31.39          2.43        3.3095    1   1   2         8
+                33.89         60.00        3.0715    2   0   2         4
+                33.98        100.00        3.0630    2   2   0         4
+                36.55         15.74        2.8542    2   2   1         8
+                36.98          2.03        2.8228    3   1   1         8
+                43.48          2.42        2.4166    2   2   2         8
+                43.60          2.44        2.4104    1   1   3         8
+                43.85         15.96        2.3974    3   1   2         8
+                48.52          1.02        2.1785    0   2   3         4
+                49.87          1.84        2.1234    1   3   2         8
+                52.81         16.13        2.0130    4   2   1         8
+                53.41          1.82        1.9918    2   2   3         8
+                53.73         20.94        1.9810    3   1   3         8
+                53.86          8.83        1.9765    3   3   1         8
+                54.16         14.58        1.9664    0   0   4         2
+                54.42         19.61        1.9575    0   4   0         2
+                56.23         20.79        1.8996    0   4   1         4
+                57.12         35.00        1.8723    1   1   4         8
+                57.73         11.76        1.8542    5   1   1         8
+                58.21         81.62        1.8403    4   2   2         8
+                58.72          3.24        1.8258    2   0   4         4
+                58.97          1.50        1.8188    2   4   0         4
+                59.00         11.67        1.8179    1   3   3         8
+                59.20         11.27        1.8123    3   3   2         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

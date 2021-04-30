@@ -1,0 +1,20 @@
+      Fluorite
+      Wyckoff R W G
+      Crystal Structures 1 (1963) 239-444
+      Second edition. Interscience Publishers, New York, New York
+      Fluorite structure
+      _database_code_amcsd 0011683
+      CELL PARAMETERS:   5.4630  5.4630  5.4630   90.000   90.000   90.000
+      SPACE GROUP: Fm3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    163.035
+      Density (g/cm3):      3.180
+      MAX. ABS. INTENSITY / VOLUME**2:      25.09773789    
+      RIR:      3.684
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                32.98         94.91        3.1540    1   1   1         8
+                55.22        100.00        1.9314    2   2   0        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

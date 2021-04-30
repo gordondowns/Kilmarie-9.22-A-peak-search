@@ -1,0 +1,21 @@
+      Moissanite
+      Xu Y N, Ching W Y
+      Physical Review B48 (1993) 4335-4351
+      Electronic, optical, and structural properties of some wurtzite crystals
+      _database_code_amcsd 0015175
+      CELL PARAMETERS:   3.0760  3.0760  5.0480   90.000   90.000  120.000
+      SPACE GROUP: P6_3mc    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     41.364
+      Density (g/cm3):      3.219
+      MAX. ABS. INTENSITY / VOLUME**2:      12.54315823    
+      RIR:      1.819
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                39.27         75.90        2.6639    1   0   0         6
+                41.54         51.05        2.5240    0   0   2         1
+                44.66        100.00        2.3560    1   0   1         6
+                58.49         25.64        1.8322    1   0   2         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

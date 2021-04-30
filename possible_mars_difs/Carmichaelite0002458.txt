@@ -1,0 +1,37 @@
+      Carmichaelite
+      Wang L, Rouse R C, Essene E J, Peacor D R, Zhang Y
+      American Mineralogist 85 (2000) 792-800
+      Carmichaelite, a new hydroxyl-bearing titanate from Garnet Ridge, Arizona
+      _database_code_amcsd 0002458
+      CELL PARAMETERS:   7.7060  4.5583 20.1870   90.000   92.334   90.000
+      SPACE GROUP: P2_1/c    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    708.506
+      Density (g/cm3):      4.107
+      MAX. ABS. INTENSITY / VOLUME**2:      11.38308752    
+      RIR:      1.294
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                16.49          1.85        6.2438   -1   0   2         2
+                26.99          4.40        3.8354    1   1   1         4
+                27.45         99.65        3.7729    0   1   3         4
+                30.89          2.12        3.3617    0   0   6         2
+                35.99          1.19        2.8976    2   1   1         4
+                36.72        100.00        2.8418   -1   1   5         4
+                37.52          2.36        2.7835    1   1   5         4
+                38.34          2.90        2.7260   -2   1   3         4
+                39.26         68.86        2.6644    2   1   3         4
+                41.76         24.68        2.5118   -3   0   2         2
+                42.27         19.79        2.4826    2   0   6         2
+                43.32         14.64        2.4255   -1   0   8         2
+                44.43          3.56        2.3677    1   0   8         2
+                46.25          6.37        2.2792    0   2   0         2
+                47.69         13.54        2.2142    3   1   1         4
+                48.02         20.37        2.1999   -3   1   2         4
+                48.48         20.22        2.1802    2   1   6         4
+                49.42         17.69        2.1412   -1   1   8         4
+                53.58          9.23        1.9861   -3   1   5         4
+                59.02          1.90        1.8173   -2   0  10         2
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

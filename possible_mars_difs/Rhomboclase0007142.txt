@@ -1,0 +1,52 @@
+      Rhomboclase
+      Majzlan J, Navrotsky A, McCleskey R B, Alpers C N
+      European Journal of Mineralogy 18 (2006) 175-186
+      Thermodynamic properties and crystal structure refinement of
+      ferricopiapite, coquimbite, rhomboclase, and Fe2(SO4)3(H2O)5
+      Locality: synthetic
+      _database_code_amcsd 0007142
+      CELL PARAMETERS:   9.7226 18.2800  5.4270   90.000   90.000   90.000
+      SPACE GROUP: Pnma      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    964.536
+      Density (g/cm3):      2.234
+      MAX. ABS. INTENSITY / VOLUME**2:      21.47778965    
+      RIR:      4.487
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                11.24        100.00        9.1400    0   2   0         2
+                19.82          1.79        5.2026    0   1   1         4
+                21.22          1.79        4.8613    2   0   0         2
+                21.78         17.93        4.7388    1   0   1         4
+                24.08          2.56        4.2920    2   2   0         4
+                24.57          7.01        4.2069    1   2   1         8
+                25.52         14.07        4.0527    0   3   1         4
+                27.69          1.58        3.7407    1   3   1         8
+                29.19          8.89        3.5520    2   1   1         8
+                31.19         15.10        3.3297    2   4   0         4
+                31.58         19.60        3.2895    1   4   1         8
+                33.42         19.04        3.1128    2   3   1         8
+                34.17          2.49        3.0467    0   6   0         2
+                34.34          1.12        3.0321    0   5   1         4
+                37.53          1.99        2.7825    3   0   1         4
+                39.30          4.61        2.6619    3   2   1         8
+                40.26          1.15        2.6013    0   2   2         4
+                40.58          1.41        2.5816    2   6   0         4
+                40.89          1.20        2.5627    1   6   1         8
+                41.74          1.21        2.5129    1   2   2         8
+                43.22          3.23        2.4306    4   0   0         2
+                44.80          4.12        2.3490    4   2   0         4
+                45.12          1.64        2.3332    0   4   2         4
+                45.16          1.24        2.3313    2   6   1         8
+                45.94          2.62        2.2936    2   2   2         8
+                46.13          1.65        2.2850    0   8   0         2
+                49.31          1.72        2.1460    4   4   0         4
+                50.00          1.93        2.1181    2   7   1         8
+                50.37          4.10        2.1035    2   4   2         8
+                51.56          2.19        2.0582    1   8   1         8
+                51.66          1.55        2.0546    3   6   1         8
+                52.43          3.66        2.0263    0   6   2         4
+                59.83          1.87        1.7949    5   2   1         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

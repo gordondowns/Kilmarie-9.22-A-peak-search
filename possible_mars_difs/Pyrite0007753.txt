@@ -1,0 +1,24 @@
+      Pyrite
+      Schmid-Beurmann P, Lottermoser W
+      Physics and Chemistry of Minerals 19 (1993) 571-577
+      57Fe-Moessbauer spectra, electronic and crystal structure of members of the CuS2-FeS2
+      solid solution series
+      _database_code_amcsd 0007753
+      CELL PARAMETERS:   5.5624  5.5624  5.5624   90.000   90.000   90.000
+      SPACE GROUP: Pa3       
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    172.102
+      Density (g/cm3):      4.808
+      MAX. ABS. INTENSITY / VOLUME**2:      38.43410685    
+      RIR:      3.732
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                32.37         37.57        3.2115    1   1   1         8
+                37.55        100.00        2.7812    2   0   0         6
+                42.18         38.53        2.4876    2   1   0        12
+                46.43         33.44        2.2708    2   1   1        24
+                54.15         48.76        1.9666    2   2   0        12
+                57.73          1.01        1.8541    2   2   1        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

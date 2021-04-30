@@ -1,0 +1,25 @@
+      Spinel
+      Bosi F, Halenius U, D'Ippolito V, Andreozzi G B
+      American Mineralogist 97 (2012) 1834-1840
+      Blue spinel crystals in the MgAl2O4-CoAl2O4 series: Part II.
+      Cation ordering over short-range and long-range scales
+      Sample: CoAl34
+      Locality: synthetic
+      _database_code_amcsd 0019579
+      CELL PARAMETERS:   8.0914  8.0914  8.0914   90.000   90.000   90.000
+      SPACE GROUP: Fd3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    529.750
+      Density (g/cm3):      3.984
+      MAX. ABS. INTENSITY / VOLUME**2:      21.91279597    
+      RIR:      2.568
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                22.09          3.56        4.6716    1   1   1         8
+                36.47         51.64        2.8607    2   2   0        12
+                43.05        100.00        2.4396    3   1   1        24
+                52.53         23.36        2.0229    4   0   0         6
+                57.66          2.30        1.8563    3   3   1        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

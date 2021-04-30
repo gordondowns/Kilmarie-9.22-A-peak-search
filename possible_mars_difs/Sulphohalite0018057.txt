@@ -1,0 +1,30 @@
+      Sulphohalite
+      Watanabe T
+      Proceedings of the Japan Academy 10 (1934) 575-577
+      The crystal structure of sulphohalite
+      _cod_database_code 1011182
+      _database_code_amcsd 0018057
+      CELL PARAMETERS:  10.1500 10.1500 10.1500   90.000   90.000   90.000
+      SPACE GROUP: Fm3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1045.678
+      Density (g/cm3):      2.442
+      MAX. ABS. INTENSITY / VOLUME**2:      9.368089710    
+      RIR:      1.791
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                17.57         60.61        5.8601    1   1   1         8
+                20.32          8.71        5.0750    2   0   0         6
+                28.89        100.00        3.5886    2   2   0        12
+                34.02          6.74        3.0603    3   1   1        24
+                35.58         75.13        2.9301    2   2   2         8
+                41.31         46.34        2.5375    4   0   0         6
+                45.22          8.47        2.3286    3   3   1        24
+                46.46         15.44        2.2696    4   2   0        24
+                51.20          6.80        2.0719    4   2   2        24
+                54.55         21.88        1.9534    3   3   3         8
+                54.55         13.63        1.9534    5   1   1        24
+                59.85         60.34        1.7943    4   4   0        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

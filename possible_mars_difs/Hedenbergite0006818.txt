@@ -1,0 +1,52 @@
+      Hedenbergite
+      Redhammer G J, Amthauer G, Lottermoser W, Treutmann W
+      European Journal of Mineralogy 12 (2000) 105-120
+      Synthesis and structural properties of clinopyroxenes of the
+      hedenbergite CaFeSi2O6 - aegirine NaFeSi2O6 solid-solution series
+      Sample: ae40/20
+      _database_code_amcsd 0006818
+      CELL PARAMETERS:   9.7598  8.9277  5.2748   90.000  106.041   90.000
+      SPACE GROUP: C2/c      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    441.712
+      Density (g/cm3):      3.627
+      MAX. ABS. INTENSITY / VOLUME**2:      13.88031810    
+      RIR:      1.786
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                15.91         26.83        6.4668    1   1   0         4
+                22.01          6.52        4.6899    2   0   0         2
+                23.14          9.67        4.4639    0   2   0         2
+                23.37          5.71        4.4193   -1   1   1         4
+                28.27          2.75        3.6650    1   1   1         4
+                32.14          8.37        3.2334    2   2   0         4
+                34.75        100.00        2.9972   -2   2   1         4
+                35.32         40.13        2.9509    3   1   0         4
+                35.96          7.62        2.9002   -3   1   1         4
+                40.79         30.11        2.5686   -1   3   1         4
+                41.36         38.72        2.5347    0   0   2         2
+                41.45          2.08        2.5293   -1   1   2         4
+                41.66         42.51        2.5173    2   2   1         4
+                43.96          1.11        2.3917    1   3   1         4
+                44.88          2.08        2.3449    4   0   0         2
+                45.76          3.57        2.3025    3   1   1         4
+                47.29          1.10        2.2319   -3   1   2         4
+                47.55         14.13        2.2205    1   1   2         4
+                47.92          2.29        2.2042    0   2   2         4
+                49.07          2.83        2.1556    3   3   0         4
+                49.56         20.09        2.1356   -3   3   1         4
+                50.19         11.64        2.1107   -4   2   1         4
+                51.98          6.61        2.0427    0   4   1         4
+                52.55         12.87        2.0223   -4   0   2         2
+                52.90          7.32        2.0097    2   0   2         2
+                53.94          1.55        1.9738   -1   3   2         4
+                54.53          3.18        1.9541   -2   4   1         4
+                56.27          1.97        1.8983   -5   1   1         4
+                57.53          4.47        1.8602    3   3   1         4
+                58.15          1.05        1.8420   -4   2   2         4
+                58.48          1.15        1.8325    2   2   2         4
+                59.06          1.00        1.8162    1   3   2         4
+                59.61          2.03        1.8008    2   4   1         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

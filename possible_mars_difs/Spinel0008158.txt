@@ -1,0 +1,23 @@
+      Spinel
+      Menegazzo G, Carbonin S
+      Physics and Chemistry of Minerals 25 (1998) 541-547
+      Oxidation mechanisms in Al-Mg-Fe spinels.
+      A second stage: alpha-Fe2O3 exsolution
+      Sample: LE20A1, unheated
+      _database_code_amcsd 0008158
+      CELL PARAMETERS:   8.1259  8.1259  8.1259   90.000   90.000   90.000
+      SPACE GROUP: Fd3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    536.555
+      Density (g/cm3):      3.710
+      MAX. ABS. INTENSITY / VOLUME**2:      16.03701081    
+      RIR:      2.018
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                22.00         27.45        4.6915    1   1   1         8
+                36.31         33.98        2.8729    2   2   0        12
+                42.86        100.00        2.4501    3   1   1        24
+                52.29         46.50        2.0315    4   0   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

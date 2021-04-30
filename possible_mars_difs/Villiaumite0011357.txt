@@ -1,0 +1,20 @@
+      Villiaumite
+      Wyckoff R W G
+      Crystal Structures 1 (1963) 85-237
+      Second edition. Interscience Publishers, New York, New York
+      rocksalt structure
+      _database_code_amcsd 0011357
+      CELL PARAMETERS:   4.6200  4.6200  4.6200   90.000   90.000   90.000
+      SPACE GROUP: Fm3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     98.611
+      Density (g/cm3):      2.828
+      MAX. ABS. INTENSITY / VOLUME**2:      19.89957694    
+      RIR:      3.285
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                39.22          1.92        2.6674    1   1   1         8
+                45.60        100.00        2.3100    2   0   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

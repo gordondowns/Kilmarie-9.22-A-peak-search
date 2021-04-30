@@ -1,0 +1,40 @@
+      Gehlenite
+      Louisnathan S J
+      The Canadian Mineralogist 10 (1971) 822-837
+      Refinement of the crystal structure of a natural gehlenite, Ca2Al(Al,Si)2O7
+      Locality: Crestmore, California, USA
+      _database_code_amcsd 0005090
+      CELL PARAMETERS:   7.7160  7.7160  5.0890   90.000   90.000   90.000
+      SPACE GROUP: P-42_1m   
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    302.982
+      Density (g/cm3):      3.010
+      MAX. ABS. INTENSITY / VOLUME**2:      15.12580406    
+      RIR:      2.346
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                18.89          5.55        5.4560    1   1   0         4
+                20.26          2.65        5.0890    0   0   1         2
+                24.33          3.02        4.2482    1   0   1         8
+                26.83          1.45        3.8580    2   0   0         4
+                27.84         18.58        3.7215    1   1   1         4
+                30.07          2.60        3.4507    2   1   0         8
+                33.85         21.53        3.0744    2   0   1         8
+                36.53        100.00        2.8560    2   1   1         8
+                38.31          4.98        2.7280    2   2   0         4
+                41.19          3.37        2.5445    0   0   2         2
+                43.04         16.68        2.4400    3   1   0         8
+                43.48          7.63        2.4165    1   0   2         8
+                43.72          8.90        2.4043    2   2   1         4
+                45.68          3.47        2.3061    1   1   2         4
+                45.90          8.57        2.2955    3   0   1         8
+                48.01          1.62        2.2002    3   1   1         8
+                51.84          9.68        2.0479    2   1   2         8
+                53.97          2.23        1.9727    3   2   1         8
+                55.30          7.96        1.9290    4   0   0         4
+                57.15          4.17        1.8714    4   1   0         8
+                57.51          2.49        1.8607    2   2   2         4
+                58.97          8.65        1.8187    3   3   0         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

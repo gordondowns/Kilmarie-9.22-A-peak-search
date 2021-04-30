@@ -1,0 +1,48 @@
+      Parsettensite
+      Eggleton R A, Guggenheim S
+      American Mineralogist 79 (1994) 426-437
+      The use of electron optical methods to determine the crystal structure of a
+      modulated phyllosilicate: Parsettensite
+      _database_code_amcsd 0001653
+      CELL PARAMETERS:  39.1000 22.8400 17.9500   90.000  135.600   90.000
+      SPACE GROUP: C2/m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:  11215.700
+      Density (g/cm3):      2.513
+      MAX. ABS. INTENSITY / VOLUME**2:      40.76213370    
+      RIR:      7.573
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                 7.57          1.24       13.5655   -1   1   1         4
+                 8.17        100.00       12.5590    0   0   1         2
+                 8.99          4.10       11.4200    0   2   0         2
+                 9.07          8.96       11.3188   -3   1   1         4
+                10.79          1.95        9.5197   -2   2   1         4
+                10.81          1.04        9.4989   -4   0   1         2
+                11.72          2.05        8.7664    2   2   0         4
+                12.05          2.65        8.5273    1   1   1         4
+                12.19          1.18        8.4309   -2   0   2         2
+                14.65          1.86        7.0195   -1   1   2         4
+                15.17          1.43        6.7827   -2   2   2         4
+                16.39          2.80        6.2795    0   0   2         2
+                22.92          1.14        4.5056    1   5   0         4
+                23.06          1.18        4.4785   -7   3   2         4
+                24.69          5.27        4.1863    0   0   3         2
+                26.64          1.29        3.8851   -8   2   1         4
+                33.13          4.10        3.1397    0   0   4         2
+                37.53          4.66        2.7829   -7   7   3         4
+                37.72          2.54        2.7690  -14   0   4         2
+                39.75          5.09        2.6327  -14   0   3         2
+                39.77         11.02        2.6317   -7   7   4         4
+                41.88          1.42        2.5047    7   7   0         4
+                43.42          3.18        2.4197  -14   0   2         2
+                43.63          5.97        2.4089   -7   7   5         4
+                46.55          2.54        2.2654    7   7   1         4
+                48.44          1.57        2.1821  -14   0   1         2
+                48.80          3.35        2.1669   -7   7   6         4
+                52.37          1.58        2.0286    7   7   2         4
+                54.53          1.21        1.9541   14   0   0         2
+                55.02          2.05        1.9379   -7   7   7         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

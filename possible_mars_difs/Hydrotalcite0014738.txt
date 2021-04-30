@@ -1,0 +1,25 @@
+      Hydrotalcite
+      Allmann R, Jepsen H P
+      Neues Jahrbuch fur Mineralogie, Monatshefte 1969 (1969) 544-551
+      Die struktur des hydrotalkits
+      Locality: Vezna, Western Moravia
+      _database_code_amcsd 0014738
+      CELL PARAMETERS:   3.0540  3.0540 22.8100   90.000   90.000  120.000
+      SPACE GROUP: R-3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    184.244
+      Density (g/cm3):      2.144
+      MAX. ABS. INTENSITY / VOLUME**2:      11.67458109    
+      RIR:      2.542
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                13.52        100.00        7.6033    0   0   3         2
+                27.24         34.01        3.8017    0   0   6         2
+                39.84          2.17        2.6272    1   0   1         6
+                40.66         29.47        2.5765    0   1   2         6
+                41.37          1.81        2.5344    0   0   9         2
+                46.06         24.15        2.2881    0   1   5         6
+                54.99         28.94        1.9391    0   1   8         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

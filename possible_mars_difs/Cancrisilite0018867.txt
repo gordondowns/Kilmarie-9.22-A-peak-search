@@ -1,0 +1,46 @@
+      Cancrisilite
+      Pekov I V, Olysych L V, Chukanov N V, Zubkova N V,
+      Pushcharovsky D Yu, Van K V, Giester G, Tillmanns E
+      The Canadian Mineralogist 49 (2012) 1129-1150
+      Crystal chemistry of cancrinite-group minerals with an AB-type framework:
+      A review and new data. I. Chemical and structural variations
+      Note: Sample# u1631
+      Locality: Lovozero
+      _database_code_amcsd 0018867
+      CELL PARAMETERS:  12.5840 12.5840  5.1010   90.000   90.000  120.000
+      SPACE GROUP: P6_3mc    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    699.557
+      Density (g/cm3):      2.400
+      MAX. ABS. INTENSITY / VOLUME**2:      6.046795588    
+      RIR:      1.176
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                16.36         44.15        6.2920    1   1   0         6
+                18.91          4.65        5.4490    2   0   0         6
+                22.34         73.64        4.6200    1   0   1         6
+                25.10          6.69        4.1191    2   1   0        12
+                27.82          6.95        3.7239    2   0   1         6
+                28.53         53.78        3.6327    3   0   0         6
+                32.44        100.00        3.2047    2   1   1        12
+                34.45          4.22        3.0226    3   1   0        12
+                35.22          4.51        2.9590    3   0   1         6
+                38.36         34.99        2.7245    4   0   0         6
+                40.27         21.59        2.6004    3   1   1        12
+                41.09         29.24        2.5505    0   0   2         1
+                41.96          1.66        2.5002    3   2   0        12
+                42.26          4.44        2.4834    1   0   2         6
+                43.74         25.01        2.4032    4   0   1         6
+                44.22          2.59        2.3782    4   1   0        12
+                45.60          1.27        2.3100    2   0   2         6
+                47.00         10.07        2.2450    3   2   1        12
+                48.50          1.24        2.1796    5   0   0         6
+                49.08          8.07        2.1554    4   1   1        12
+                50.53         18.20        2.0973    3   3   0         6
+                50.79          7.71        2.0874    3   0   2         6
+                53.05          4.53        2.0043    5   0   1         6
+                55.90          2.36        1.9098    4   2   1        12
+                57.47          9.83        1.8620    4   0   2         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,49 @@
+      Osumilite
+      Seryotkin Y V, Sokol E V, Bakakin V V, Likhacheva A Y
+      European Journal of Mineralogy 20 (2008) 191-198
+      Pyrometamorphic osumilite: occurrence, paragenesis, and crystal structure as compared to cordierite
+      Locality: South Urals, Russia
+      _database_code_amcsd 0007256
+      CELL PARAMETERS:  10.0999 10.0999 14.3355   90.000   90.000  120.000
+      SPACE GROUP: P6/mcc    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1266.420
+      Density (g/cm3):      2.594
+      MAX. ABS. INTENSITY / VOLUME**2:      7.007241171    
+      RIR:      1.261
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                11.75          2.80        8.7468    1   0   0         6
+                14.35         34.15        7.1677    0   0   2         2
+                18.58         15.83        5.5440    1   0   2        12
+                20.42         55.43        5.0500    1   1   0         6
+                23.62         11.39        4.3734    2   0   0         6
+                25.05         34.74        4.1283    1   1   2        12
+                27.75         43.58        3.7333    2   0   2        12
+                28.93         22.57        3.5839    0   0   4         2
+                31.32         15.16        3.3163    1   0   4        12
+                31.42          4.27        3.3060    2   1   0        12
+                32.27        100.00        3.2214    2   1   1        24
+                34.70          8.99        3.0020    2   1   2        24
+                35.67         46.50        2.9227    1   1   4        12
+                35.76          3.28        2.9156    3   0   0         6
+                37.68         48.64        2.7720    2   0   4        12
+                38.45          9.38        2.7187    2   1   3        24
+                41.53         13.60        2.5250    2   2   0         6
+                43.31          6.53        2.4259    3   1   0        12
+                43.95          3.88        2.3919    3   1   1        24
+                44.16          5.72        2.3815    2   2   2        12
+                48.89          7.86        2.1631    3   1   3        24
+                50.68          3.87        2.0915    4   0   2        12
+                51.40          1.20        2.0641    2   2   4        12
+                52.92         11.34        2.0089    3   1   4        24
+                52.99          1.24        2.0066    3   2   0        12
+                55.94          1.33        1.9087    4   1   0        12
+                56.47          3.39        1.8920    4   1   1        24
+                57.31          1.23        1.8667    4   0   4        12
+                57.81         17.43        1.8519    3   1   5        24
+                57.94          3.78        1.8480    3   0   6        12
+                59.94          7.06        1.7919    0   0   8         2
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

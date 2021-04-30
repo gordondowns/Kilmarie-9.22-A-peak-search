@@ -1,0 +1,22 @@
+      Sellaite
+      Wyckoff R W G
+      Crystal Structures 1 (1963) 239-444
+      Second edition. Interscience Publishers, New York, New York
+      Rutile structure
+      _database_code_amcsd 0011754
+      CELL PARAMETERS:   4.6230  4.6230  3.0520   90.000   90.000   90.000
+      SPACE GROUP: P4_2/mnm  
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     65.228
+      Density (g/cm3):      3.172
+      MAX. ABS. INTENSITY / VOLUME**2:      10.53783693    
+      RIR:      1.551
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                31.78        100.00        3.2690    1   1   0         4
+                41.15         17.49        2.5470    1   0   1         8
+                47.31         80.66        2.2308    1   1   1         8
+                51.31         25.55        2.0675    2   1   0         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

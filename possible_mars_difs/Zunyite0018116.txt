@@ -1,0 +1,36 @@
+      Zunyite
+      Pauling L
+      Zeitschrift fur Kristallographie 84 (1933) 442-452
+      The crystal structure of zunyite, Al13 Si5 O20 ((O H), F)18 Cl
+      _cod_database_code 1011254
+      _database_code_amcsd 0018116
+      CELL PARAMETERS:  13.8200 13.8200 13.8200   90.000   90.000   90.000
+      SPACE GROUP: F-43m     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   2639.515
+      Density (g/cm3):      2.923
+      MAX. ABS. INTENSITY / VOLUME**2:      9.518704935    
+      RIR:      1.520
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                12.88        100.00        7.9790    1   1   1         4
+                14.89         10.32        6.9100    2   0   0         6
+                21.11          1.81        4.8861    2   2   0        12
+                24.81         83.38        4.1669    3   1   1        12
+                25.93         36.44        3.9895    2   2   2         4
+                32.80         14.41        3.1705    3   3   1        12
+                37.00         32.93        2.8210    4   2   2        12
+                39.34         29.90        2.6597    5   1   1        12
+                39.34         43.98        2.6597    3   3   3         4
+                42.99          9.41        2.4431    4   4   0        12
+                45.06          3.98        2.3360    5   3   1        24
+                48.37          1.49        2.1851    6   2   0        24
+                50.27         15.84        2.1075    5   3   3        12
+                50.89          5.17        2.0834    6   2   2        12
+                53.33         24.50        1.9947    4   4   4         4
+                55.11          8.20        1.9352    5   5   1        12
+                57.99         14.54        1.8468    6   4   2        24
+                59.67         10.20        1.7992    5   5   3        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

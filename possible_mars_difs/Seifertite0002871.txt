@@ -1,0 +1,27 @@
+      Seifertite
+      Dera P, Prewitt C T, Boctor N Z, Hemley R J
+      American Mineralogist 87 (2002) 1018-1023
+      Characterization of a high-pressure phase of silica from the
+      Martian meteorite Shergotty
+      alpha-PbO2-like
+      _database_code_amcsd 0002871
+      CELL PARAMETERS:   4.0970  5.0462  4.4946   90.000   90.000   90.000
+      SPACE GROUP: Pbcn      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     92.923
+      Density (g/cm3):      4.294
+      MAX. ABS. INTENSITY / VOLUME**2:      11.44140376    
+      RIR:      1.244
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                32.69         69.54        3.1807    1   1   0         4
+                40.34        100.00        2.5963    1   1   1         8
+                41.56          4.08        2.5231    0   2   0         2
+                46.95          3.95        2.2473    0   0   2         2
+                48.02          6.69        2.2001    0   2   1         4
+                54.04         30.44        1.9703    1   0   2         4
+                55.01         59.36        1.9383    1   2   1         8
+                58.38         14.80        1.8354    1   1   2         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

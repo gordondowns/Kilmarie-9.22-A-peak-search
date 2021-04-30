@@ -1,0 +1,35 @@
+      Vermiculite
+      de la Calle C, Pezerat H, Gasperin M
+      Journal de Physique 38 (1977) 128-133
+      Problemes d'ordre-desordre dans les vermiculites structure du mineral
+      calcique hydrate a 2 couches
+      _cod_database_code 1001031
+      _database_code_amcsd 0012759
+      CELL PARAMETERS:   5.3510  9.2620 15.0300   90.000   96.830   90.000
+      SPACE GROUP: C2/m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    739.615
+      Density (g/cm3):      1.979
+      MAX. ABS. INTENSITY / VOLUME**2:      48.98536307    
+      RIR:     11.556
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                 6.88        100.00       14.9233    0   0   1         2
+                20.73          2.04        4.9744    0   0   3         2
+                22.29          1.69        4.6310    0   2   0         2
+                22.40          2.20        4.6086    1   1   0         4
+                24.14          2.29        4.2807    1   1   1         4
+                25.13          3.17        4.1154   -1   1   2         4
+                26.30          1.90        3.9348    0   2   2         4
+                27.77          1.27        3.7308    0   0   4         2
+                30.63          1.18        3.3895    0   2   3         4
+                32.29          1.79        3.2192    1   1   3         4
+                34.90          2.90        2.9847    0   0   5         2
+                39.40          1.12        2.6553   -1   3   1         4
+                40.26          1.46        2.6009    1   3   1         4
+                40.89          2.14        2.5624   -1   3   2         4
+                43.54          1.44        2.4136    2   0   2         2
+                43.55          2.63        2.4130   -1   3   3         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

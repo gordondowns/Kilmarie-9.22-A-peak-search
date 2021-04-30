@@ -1,0 +1,24 @@
+      Troilite
+      Alsen N
+      Geologiska Foreningens i Stockholm Forhandlingar 47 (1925) 19-73
+      Roentgenographische Untersuchungen der Kristallstrukturen von
+      Magnetkies, Breithauptit, Pentlandit, Millerit und verwandten
+      Verbindungen
+      _cod_database_code 1011180
+      _database_code_amcsd 0018055
+      CELL PARAMETERS:   3.4300  3.4300  5.7900   90.000   90.000  120.000
+      SPACE GROUP: P6_3/mmc  
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     58.993
+      Density (g/cm3):      4.948
+      MAX. ABS. INTENSITY / VOLUME**2:      58.79953797    
+      RIR:      5.547
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                35.08         50.22        2.9705    1   0   0         6
+                36.02          5.80        2.8950    0   0   2         2
+                39.59         31.46        2.6429    1   0   1        12
+                51.16        100.00        2.0732    1   0   2        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,25 @@
+      Violarite
+      Vaughan D J, Craig J R
+      American Mineralogist 70 (1985) 1036-1043
+      The crystal chemistry of iron-nickel thiospinels
+      Note: structure from ICSD
+      _database_code_amcsd 0001000
+      CELL PARAMETERS:   9.4650  9.4650  9.4650   90.000   90.000   90.000
+      SPACE GROUP: Fd-3m     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    847.934
+      Density (g/cm3):      4.723
+      MAX. ABS. INTENSITY / VOLUME**2:      47.93907592    
+      RIR:      4.739
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                18.86         20.67        5.4646    1   1   1         8
+                31.03         27.45        3.3464    2   2   0        12
+                36.56        100.00        2.8538    3   1   1        24
+                44.46         51.04        2.3663    4   0   0         6
+                55.20          8.76        1.9320    4   2   2        24
+                58.87          4.18        1.8215    3   3   3         8
+                58.87         37.03        1.8215    5   1   1        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

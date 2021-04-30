@@ -1,0 +1,25 @@
+      Portlandite
+      Busing W, Levy H
+      Journal of Chemical Physics 26 (1957) 563-568
+      Neutron diffraction study of calcium hydroxide
+      _cod_database_code 1000045
+      _database_code_amcsd 0012953
+      CELL PARAMETERS:   3.5862  3.5862  4.8801   90.000   90.000  120.000
+      SPACE GROUP: P-3m1     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     54.354
+      Density (g/cm3):      2.263
+      MAX. ABS. INTENSITY / VOLUME**2:      17.02357172    
+      RIR:      3.511
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.14         64.68        4.8801    0   0   1         2
+                33.50         16.99        3.1057    1   0   0         6
+                39.95          2.51        2.6201    1   0   1         6
+                39.95         97.49        2.6201    0   1   1         6
+                55.62         22.85        1.9187    0   1   2         6
+                55.62         17.56        1.9187    1   0   2         6
+                59.90          8.93        1.7931    1   1   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

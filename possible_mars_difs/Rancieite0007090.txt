@@ -1,0 +1,27 @@
+      Rancieite
+      Ertl A, Pertlik F, Prem M, Post J E, Kim S J, Brandstatter F, Schuster R
+      European Journal of Mineralogy 17 (2005) 163-172
+      Rancieite crystals from Friesach, Carinthia, Austria
+      Note: Birnessite group
+      Locality: Friesach, Carinthia, Austria
+      _database_code_amcsd 0007090
+      CELL PARAMETERS:   2.8450  2.8450  7.4850   90.000   90.000  120.000
+      SPACE GROUP: P-3       
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     52.467
+      Density (g/cm3):      3.413
+      MAX. ABS. INTENSITY / VOLUME**2:      96.63522673    
+      RIR:     13.216
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                13.74        100.00        7.4850    0   0   1         2
+                27.68         22.33        3.7425    0   0   2         2
+                42.05          3.59        2.4950    0   0   3         2
+                42.61          1.53        2.4638    1   0   0         6
+                44.98          1.60        2.3403    0   1   1         6
+                44.98          2.86        2.3403    1   0   1         6
+                51.57          1.63        2.0579    1   0   2         6
+                57.16          1.01        1.8713    0   0   4         2
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

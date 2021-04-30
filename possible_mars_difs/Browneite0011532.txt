@@ -1,0 +1,21 @@
+      Browneite
+      Wyckoff R W G
+      Crystal Structures 1 (1963) 85-237
+      Second edition. Interscience Publishers, New York, New York
+      Note: ZnS structure, sphalerite structure
+      _database_code_amcsd 0011532
+      CELL PARAMETERS:   5.6000  5.6000  5.6000   90.000   90.000   90.000
+      SPACE GROUP: F-43m     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    175.616
+      Density (g/cm3):      3.290
+      MAX. ABS. INTENSITY / VOLUME**2:      53.91729340    
+      RIR:      7.650
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                32.15        100.00        3.2332    1   1   1         4
+                37.29          6.18        2.8000    2   0   0         6
+                53.76         56.89        1.9799    2   2   0        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

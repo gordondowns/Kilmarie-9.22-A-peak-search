@@ -1,0 +1,33 @@
+      Tychite
+      Shiba H, Watanabe T
+      Comptes Rendus Hebdomadaires des Seances de l'Academie des Sciences 193 (1931) 1421-1423
+      Les structures des cristaux de northupite, de northupite bromee et de
+      tychite.
+      _cod_database_code 1011158
+      _database_code_amcsd 0018038
+      CELL PARAMETERS:  13.9300 13.9300 13.9300   90.000   90.000   90.000
+      SPACE GROUP: Fd3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   2703.046
+      Density (g/cm3):      2.568
+      MAX. ABS. INTENSITY / VOLUME**2:      7.906185053    
+      RIR:      1.437
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                12.78          3.93        8.0425    1   1   1         8
+                24.61         58.28        4.2001    3   1   1        24
+                25.72         21.54        4.0212    2   2   2         8
+                29.79          1.42        3.4825    4   0   0         6
+                32.53         10.32        3.1958    3   3   1        24
+                39.01         53.23        2.6808    5   1   1        24
+                39.01         36.74        2.6808    3   3   3         8
+                42.63        100.00        2.4625    4   4   0        12
+                45.36         17.08        2.3217    4   4   2        24
+                49.84          1.69        2.1243    5   3   3        24
+                52.87         12.96        2.0106    4   4   4         8
+                54.63         24.19        1.9506    7   1   1        24
+                57.49          1.77        1.8615    6   4   2        48
+                59.15          4.70        1.8135    5   5   3        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

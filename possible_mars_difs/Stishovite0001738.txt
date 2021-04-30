@@ -1,0 +1,23 @@
+      Stishovite
+      Smyth J R, Swope R J, Pawley A R
+      American Mineralogist 80 (1995) 454-456
+      H in rutile-type compounds: II. Crystal chemistry of Al substitution in
+      H-bearing stishovite
+      Sample: aluminous
+      _database_code_amcsd 0001738
+      CELL PARAMETERS:   4.1839  4.1839  2.6684   90.000   90.000   90.000
+      SPACE GROUP: P4_2/mnm  
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     46.710
+      Density (g/cm3):      4.271
+      MAX. ABS. INTENSITY / VOLUME**2:      18.82695669    
+      RIR:      2.058
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                35.22        100.00        2.9585    1   1   0         4
+                46.89         24.69        2.2498    1   0   1         8
+                53.71         38.77        1.9815    1   1   1         8
+                57.16         14.03        1.8711    2   1   0         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

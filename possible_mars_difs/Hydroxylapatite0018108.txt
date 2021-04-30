@@ -1,0 +1,50 @@
+      Hydroxylapatite
+      Hendricks S, Jefferson M, Mosley V
+      Zeitschrift fur Kristallographie 81 (1932) 352-369
+      The Crystal Structures of Some Natural and Synthetic Apatite-Like
+      Substances
+      _cod_database_code 1011242
+      _database_code_amcsd 0018108
+      CELL PARAMETERS:   9.4000  9.4000  6.9300   90.000   90.000  120.000
+      SPACE GROUP: P6_3/m    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    530.297
+      Density (g/cm3):      3.139
+      MAX. ABS. INTENSITY / VOLUME**2:      9.871888068    
+      RIR:      1.468
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                12.63         17.12        8.1406    1   0   0         6
+                19.53         12.05        5.2769    1   0   1        12
+                25.41         10.98        4.0703    2   0   0         6
+                26.61          1.67        3.8898    1   1   1        12
+                29.55          7.53        3.5097    2   0   1        12
+                29.94         36.60        3.4650    0   0   2         2
+                32.61          7.12        3.1882    1   0   2        12
+                33.83         20.14        3.0769    2   1   0         6
+                37.12         25.75        2.8122    1   2   1        12
+                37.12         74.25        2.8122    2   1   1        12
+                37.44         34.61        2.7890    1   1   2        12
+                38.52         49.64        2.7135    3   0   0         6
+                39.66         24.57        2.6384    2   0   2        12
+                41.50          5.40        2.5267    3   0   1        12
+                45.79          3.46        2.3007    2   1   2        12
+                46.71         19.41        2.2578    1   3   0         6
+                46.71          2.23        2.2578    3   1   0         6
+                49.29          3.17        2.1467    3   1   1        12
+                49.29          4.82        2.1467    1   3   1        12
+                49.54          2.52        2.1364    3   0   2        12
+                51.16          5.61        2.0731    1   1   3        12
+                52.92          1.73        2.0090    2   0   3        12
+                54.57          2.07        1.9527    4   0   1        12
+                54.81         31.66        1.9449    2   2   2        12
+                56.49          9.59        1.8917    3   1   2        12
+                56.49          5.89        1.8917    1   3   2        12
+                57.28          2.38        1.8676    2   3   0         6
+                57.97         28.12        1.8473    2   1   3        12
+                57.97          8.27        1.8473    1   2   3        12
+                59.52          1.92        1.8033    3   2   1        12
+                59.52          3.15        1.8033    2   3   1        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

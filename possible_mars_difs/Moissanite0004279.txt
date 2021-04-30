@@ -1,0 +1,25 @@
+      Moissanite
+      Capitani G C, Di Pierro S, Tempesta G
+      American Mineralogist 92 (2007) 403-407
+      The 6H-SiC structure model: Further refinement from SCXRD data from a
+      terrestrial moissanite
+      Locality: 150 km NW from Izmir, Turkey
+      _database_code_amcsd 0004279
+      CELL PARAMETERS:   3.0810  3.0810 15.1248   90.000   90.000  120.000
+      SPACE GROUP: P6_3mc    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    124.338
+      Density (g/cm3):      3.212
+      MAX. ABS. INTENSITY / VOLUME**2:      9.517895510    
+      RIR:      1.383
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                39.83         56.22        2.6276    1   0   1         6
+                41.60         67.43        2.5208    0   0   6         1
+                41.68        100.00        2.5162    1   0   2         6
+                44.61         59.24        2.3583    1   0   3         6
+                48.49         23.52        2.1801    1   0   4         6
+                53.15          9.01        2.0010    1   0   5         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

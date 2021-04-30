@@ -1,0 +1,30 @@
+      Magnesite
+      Bromiley F A, Boffa Ballaran T, Langenhorst F, Seifert F
+      American Mineralogist 92 (2007) 829-836
+      Order and miscibility in the otavite - magnesite solid solution
+      Locality: synthetic
+      Sample: X_Mg = .5, synthesized at 600 C, 1 GPa, 96 h
+      _database_code_amcsd 0004336
+      CELL PARAMETERS:   4.7818  4.7818 15.7028   90.000   90.000  120.000
+      SPACE GROUP: R-3       
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    310.950
+      Density (g/cm3):      4.112
+      MAX. ABS. INTENSITY / VOLUME**2:      39.59081773    
+      RIR:      4.494
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                19.69          2.88        5.2343    0   0   3         2
+                25.84          2.49        4.0043    1   0   1         6
+                28.29         43.93        3.6629    0   1   2         6
+                36.62        100.00        2.8490    1   0   4         6
+                41.92          2.08        2.5024    0   1   5         6
+                43.97         24.41        2.3909    1   1   0         6
+                48.61          2.47        2.1748    2  -1   3         6
+                48.61          8.92        2.1748    1   1   3         6
+                51.71          1.98        2.0528    0   2   1         6
+                53.12         20.48        2.0021    2   0   2         6
+                58.52         10.62        1.8314    0   2   4         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

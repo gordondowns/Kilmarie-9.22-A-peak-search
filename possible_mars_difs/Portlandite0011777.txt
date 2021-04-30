@@ -1,0 +1,25 @@
+      Portlandite
+      Wyckoff R W G
+      Crystal Structures 1 (1963) 239-444
+      Second edition. Interscience Publishers, New York, New York
+      Note: cadmium iodide structure
+      _database_code_amcsd 0011777
+      CELL PARAMETERS:   3.5844  3.5844  4.8962   90.000   90.000  120.000
+      SPACE GROUP: P-3m1     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     54.478
+      Density (g/cm3):      2.197
+      MAX. ABS. INTENSITY / VOLUME**2:      15.75390760    
+      RIR:      3.348
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.07         83.77        4.8962    0   0   1         2
+                33.52         20.98        3.1042    1   0   0         6
+                39.93          2.54        2.6217    1   0   1         6
+                39.93         97.46        2.6217    0   1   1         6
+                55.51         26.98        1.9222    0   1   2         6
+                55.51         18.02        1.9222    1   0   2         6
+                59.93          9.08        1.7922    1   1   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

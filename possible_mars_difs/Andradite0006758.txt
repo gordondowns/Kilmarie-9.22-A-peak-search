@@ -1,0 +1,29 @@
+      Andradite
+      Armbruster T, Birrer J, Libowitzky E, Beran A
+      European Journal of Mineralogy 10 (1998) 907-921
+      Crystal chemistry of Ti-bearing andradites
+      Note: sample SCHAFF
+      Locality: Schaffhausen area, Switzerland
+      _database_code_amcsd 0006758
+      CELL PARAMETERS:  12.0380 12.0380 12.0380   90.000   90.000   90.000
+      SPACE GROUP: Ia-3d     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1744.468
+      Density (g/cm3):      3.775
+      MAX. ABS. INTENSITY / VOLUME**2:      17.68726755    
+      RIR:      2.187
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                24.28          9.25        4.2561    2   2   0        12
+                34.61         59.55        3.0095    4   0   0         6
+                38.85        100.00        2.6918    4   2   0        24
+                40.83          8.69        2.5665    3   3   2        24
+                42.73         51.85        2.4572    4   2   2        24
+                44.56         13.96        2.3608    4   3   1        48
+                48.07         11.56        2.1978    5   2   1        48
+                54.57          9.12        1.9528    5   3   2        48
+                54.57          9.99        1.9528    6   1   1        24
+                56.11          7.78        1.9034    6   2   0        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

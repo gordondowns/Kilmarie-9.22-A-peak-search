@@ -1,0 +1,31 @@
+      Spessartine
+      Novak G A, Gibbs G V
+      American Mineralogist 56 (1971) 791-825
+      The crystal chemistry of the silicate garnets
+      sample Sp
+      Locality: Minas Gerais, Brazil
+      _database_code_amcsd 0000241
+      CELL PARAMETERS:  11.6120 11.6120 11.6120   90.000   90.000   90.000
+      SPACE GROUP: Ia-3d     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1565.745
+      Density (g/cm3):      4.202
+      MAX. ABS. INTENSITY / VOLUME**2:      25.80973945    
+      RIR:      2.867
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.77          6.07        4.7406    2   1   1        24
+                25.19          2.59        4.1055    2   2   0        12
+                33.53          4.47        3.1034    3   2   1        48
+                35.92         32.53        2.9030    4   0   0         6
+                40.33        100.00        2.5965    4   2   0        24
+                42.39          2.41        2.4757    3   3   2        24
+                44.38         19.24        2.3703    4   2   2        24
+                46.29         10.02        2.2773    4   3   1        48
+                49.95         17.52        2.1201    5   2   1        48
+                51.71          3.49        2.0527    4   4   0        12
+                56.74         11.64        1.8837    6   1   1        24
+                56.74         12.00        1.8837    5   3   2        48
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

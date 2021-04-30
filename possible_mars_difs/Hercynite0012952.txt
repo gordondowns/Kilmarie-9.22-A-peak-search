@@ -1,0 +1,23 @@
+      Hercynite
+      Verwey E J W, Heilmann E L
+      Journal of Chemical Physics 15 (1947) 174-180
+      Physical properties and cation arrangement of oxides with spinel structures
+      Locality: synthetic
+      _database_code_amcsd 0012952
+      CELL PARAMETERS:   8.2730  8.2730  8.2730   90.000   90.000   90.000
+      SPACE GROUP: Fd3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    566.225
+      Density (g/cm3):      4.754
+      MAX. ABS. INTENSITY / VOLUME**2:      46.01908190    
+      RIR:      4.519
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.60          2.11        4.7764    1   1   1         8
+                35.64         42.78        2.9249    2   2   0        12
+                42.06        100.00        2.4944    3   1   1        24
+                44.03          2.26        2.3882    2   2   2         8
+                51.29         14.85        2.0682    4   0   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

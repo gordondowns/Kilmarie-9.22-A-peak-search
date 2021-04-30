@@ -1,0 +1,23 @@
+      Pyrite
+      Rieder M, Crelling J C, Sustai O, Drabek M, Weiss Z, Klementova M
+      International Journal of Coal Geology 71 (2007) 115-121
+      Arsenic in iron disulfides in a brown coal from the North Bohemian Basin,
+      Czech Republic
+      Locality: synthetic
+      Sample: As-pyrite
+      _database_code_amcsd 0012729
+      CELL PARAMETERS:   5.4280  5.4280  5.4280   90.000   90.000   90.000
+      SPACE GROUP: Pa3       
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    159.926
+      Density (g/cm3):      5.028
+      MAX. ABS. INTENSITY / VOLUME**2:     0.1656656339    
+      RIR:      0.015
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                33.19        100.00        3.1339    1   1   1         8
+                38.52         39.59        2.7140    2   0   0         6
+                43.28          3.23        2.4275    2   1   0        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,34 @@
+      Ferrihydrite
+      Michel F M, Ehm L, Antao S M, Lee P L, Chupas P J, Liu G, Strongin D R,
+      Schoonen M A A, Phillips B L, Parise J B
+      Science 316 (2007) 1726-1729
+      The structure of ferrihydrite, a nanocrystalline material
+      Locality: synthetic
+      Sample: Fhyd6
+      _database_code_amcsd 0015439
+      CELL PARAMETERS:   5.9280  5.9280  9.1260   90.000   90.000  120.000
+      SPACE GROUP: P6_3mc    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    277.733
+      Density (g/cm3):      4.822
+      MAX. ABS. INTENSITY / VOLUME**2:      18.85438197    
+      RIR:      1.825
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                20.08         17.75        5.1338    1   0   0         6
+                22.63         34.77        4.5630    0   0   2         1
+                23.08         12.90        4.4744    1   0   1         6
+                30.43         78.43        3.4106    1   0   2         6
+                35.16         13.12        2.9640    1   1   0         6
+                40.00         88.41        2.6171    1   0   3         6
+                40.82         33.50        2.5669    2   0   0         6
+                42.22         79.24        2.4856    1   1   2         6
+                42.48        100.00        2.4710    2   0   1         6
+                46.20          4.14        2.2815    0   0   4         1
+                47.17         34.48        2.2372    2   0   2         6
+                50.85          2.76        2.0849    1   0   4         6
+                54.30         27.27        1.9618    2   0   3         6
+                59.36          5.81        1.8079    1   1   4         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

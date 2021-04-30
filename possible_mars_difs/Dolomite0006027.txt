@@ -1,0 +1,34 @@
+      Dolomite
+      Drits V A, McCarty D K, Sakharov B, Milliken K L
+      The Canadian Mineralogist 43 (2005) 1255-1290
+      New insight into structural and compositional
+      variability in some ancient excess-Ca dolomite
+      Locality: Lea County, New Mexico, USA
+      Sample: M236-116, Phase II
+      _database_code_amcsd 0006027
+      CELL PARAMETERS:   4.8274  4.8274 16.1374   90.000   90.000  120.000
+      SPACE GROUP: R-3       
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    325.680
+      Density (g/cm3):      2.861
+      MAX. ABS. INTENSITY / VOLUME**2:      16.10444415    
+      RIR:      2.627
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                25.56          1.00        4.0470    1   0   1         6
+                27.91          5.95        3.7120    0   1   2         6
+                35.92        100.00        2.9031    1   0   4         6
+                38.88          4.58        2.6896    0   0   6         2
+                41.02          4.10        2.5547    0   1   5         6
+                43.54         11.05        2.4137    1   1   0         6
+                47.97          7.86        2.2022    2  -1   3         6
+                47.97         19.09        2.2022    1   1   3         6
+                51.16          3.53        2.0730    0   2   1         6
+                52.51         13.72        2.0235    2   0   2         6
+                57.67          5.03        1.8560    0   2   4         6
+                59.04         17.10        1.8168    0   1   8         6
+                59.78          7.75        1.7964    1   1   6         6
+                59.78         13.22        1.7964    2  -1   6         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

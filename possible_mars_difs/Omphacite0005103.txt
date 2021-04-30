@@ -1,0 +1,50 @@
+      Omphacite
+      Curtis L, Gittins J, Kocman V, Rucklidge J C, Hawthorne F C, Ferguson R B
+      The Canadian Mineralogist 13 (1975) 62-67
+      Two crystal structure refinements of a P2/n titanian ferro-omphacite
+      Sample: Tronto
+      _database_code_amcsd 0005103
+      CELL PARAMETERS:   9.6220  8.8260  5.2790   90.000  106.920   90.000
+      SPACE GROUP: P2/n      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    428.906
+      Density (g/cm3):      3.472
+      MAX. ABS. INTENSITY / VOLUME**2:      10.40152345    
+      RIR:      1.398
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                16.15         13.40        6.3709    1   1   0         4
+                22.43          1.57        4.6027    2   0   0         2
+                23.40          5.22        4.4141   -1   1   1         4
+                23.41         11.69        4.4130    0   2   0         2
+                25.34          1.11        4.0811    2   1   0         4
+                28.23          1.21        3.6710   -2   1   1         4
+                28.64          1.00        3.6188    1   1   1         4
+                31.25          2.35        3.3231    0   2   1         4
+                32.64         10.58        3.1854    2   2   0         4
+                34.98        100.00        2.9786   -2   2   1         4
+                35.98         38.85        2.8983    3   1   0         4
+                36.24         16.32        2.8785   -3   1   1         4
+                41.13         24.87        2.5481   -1   3   1         4
+                41.52         40.19        2.5252    0   0   2         2
+                42.34         38.30        2.4784    2   2   1         4
+                46.67          7.94        2.2599    3   1   1         4
+                48.00         13.81        2.2006    1   1   2         4
+                48.21          4.57        2.1918    0   2   2         4
+                49.86          4.35        2.1236    3   3   0         4
+                50.06         17.45        2.1158   -3   3   1         4
+                50.76          9.09        2.0884   -4   2   1         4
+                52.55         10.73        2.0220    0   4   1         4
+                52.65         10.05        2.0184   -4   0   2         2
+                53.64          5.48        1.9838    2   0   2         2
+                54.21          2.73        1.9645   -1   3   2         4
+                55.08          3.39        1.9361   -2   4   1         4
+                57.03          1.62        1.8750   -5   1   1         4
+                58.38          1.27        1.8355   -4   2   2         4
+                58.56          2.56        1.8303    3   3   1         4
+                59.30          1.05        1.8094    2   2   2         4
+                59.56          2.67        1.8023    5   1   0         4
+                59.70          1.69        1.7984    1   3   2         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

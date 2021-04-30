@@ -1,0 +1,21 @@
+      Keilite
+      Karwowski L, Kryza R, Przylibski T A
+      American Mineralogist 92 (2007) 204-209
+      New chemical and physical data on keilite from the Zaklodzie enstatite achondrite
+      Locality: Zaklodzie enstatite achondrite meteorite
+      _database_code_amcsd 0004274
+      CELL PARAMETERS:   5.1717  5.1717  5.1717   90.000   90.000   90.000
+      SPACE GROUP: Fm3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    138.325
+      Density (g/cm3):      3.920
+      MAX. ABS. INTENSITY / VOLUME**2:      55.80929075    
+      RIR:      6.646
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                34.89          9.80        2.9859    1   1   1         8
+                40.51        100.00        2.5859    2   0   0         6
+                58.62         59.78        1.8285    2   2   0        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

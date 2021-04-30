@@ -1,0 +1,46 @@
+      Siderophyllite
+      Brigatti M F, Kile D E, Poppi L
+      European Journal of Mineralogy 15 (2003) 349-355
+      Crystal structure and chemistry of lithium-bearing trioctahedral micas-3T
+      Sample: 103
+      _database_code_amcsd 0006977
+      CELL PARAMETERS:   5.3160  5.3160 29.8460   90.000   90.000  120.000
+      SPACE GROUP: P3_112    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    730.444
+      Density (g/cm3):      3.054
+      MAX. ABS. INTENSITY / VOLUME**2:      9.926497729    
+      RIR:      1.518
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                10.32        100.00        9.9487    0   0   3         2
+                22.42          5.36        4.6038    1   0   0         3
+                22.69         15.10        4.5500    1   0   1         6
+                26.41         12.76        3.9180    1   0   4         6
+                28.43         23.52        3.6455    1   0   5         6
+                30.73         27.72        3.3788    1   0   6         6
+                31.32         33.92        3.3162    0   0   9         2
+                33.26         28.22        3.1282    1   0   7         6
+                35.98         21.23        2.8985    1   0   8         6
+                38.86          9.99        2.6908    1   0   9         6
+                39.52          6.78        2.6475    1   1   1         6
+                40.01         57.12        2.6168    2  -1   2         6
+                41.89          3.33        2.5044    1   0  10         6
+                42.19          5.46        2.4872    0   0  12         2
+                43.27         43.68        2.4282    2  -1   5         6
+                45.03          1.26        2.3375    1   0  11         6
+                45.77          1.76        2.3019    2   0   0         3
+                45.91          4.82        2.2951    2   0   1         6
+                46.34          2.19        2.2750    2   0   2         6
+                46.76          7.17        2.2556    1   1   7         6
+                47.05          5.78        2.2426    2   0   3         6
+                48.03          2.21        2.1996    2   0   4         6
+                48.85         26.47        2.1648    2  -1   8         6
+                49.26          2.17        2.1477    2   0   5         6
+                50.74          1.49        2.0891    2   0   6         6
+                53.47          4.28        1.9897    0   0  15         2
+                53.61         13.66        1.9850    1   1  10         6
+                56.26          3.65        1.8987    2  -1  11         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

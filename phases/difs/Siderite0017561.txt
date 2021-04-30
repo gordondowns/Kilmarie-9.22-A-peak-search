@@ -1,0 +1,37 @@
+      Siderite
+      Lavina B, Dera P, Downs R T, Yang W, Sinogeikin S, Meng Y, Shen G, Schiferl D
+      Physical Review B82 (2010)  064110-8
+      Structure of siderite FeCO3 to 56 GPa and hysteresis of its spin-pairing transition
+      Locality: Invigtut, Greenland
+      Note: run P0, P = 0.02 GPa
+      _database_code_amcsd 0017561
+
+      CELL PARAMETERS:   4.6940  4.6940 15.4300   90.000   90.000  120.000
+      SPACE GROUP: R-3c      
+
+           ATOM        X         Y         Z     OCCUPANCY  ISO(B)
+            Fe     0.00000   0.00000   0.00000     1.000     0.490
+            C      0.00000   0.00000   0.25000     1.000     0.395
+            O      0.27450   0.00000   0.25000     1.000     0.474
+
+            X-RAY WAVELENGTH:     1.790260
+            BOUNDS ON TWO THETA:    0.0  60.0
+            LIMITS IMPOSED ON THE INDICES ARE:  +/-  2 +/-  2 +/-  8
+            Cell Volume:    294.430
+            Density (g/cm3):      3.920
+            MAX. ABS. INTENSITY / VOLUME**2:      33.76709768    
+            RIR:      4.021
+            RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+            The INTENSITY cut off value is   0.01
+
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                28.82         36.69        3.5964    0   1   2         6
+                37.31        100.00        2.7982    1   0   4         6
+                40.74          0.01        2.5717    0   0   6         2
+                44.84         20.67        2.3470    1   1   0         6
+                49.57         16.58        2.1352    1   1   3        12
+                54.18         19.33        1.9655    2   0   2         6
+                59.71         10.43        1.7982    0   2   4         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,25 @@
+      Chromite
+      Lenaz D, Braidotti R, Princivalle F, Garuti G, Zaccarini F
+      European Journal of Mineralogy 19 (2007) 599-609
+      Crystal chemistry and structural refinement of chromites from different
+      chromitite layers and xenoliths of the Bushveld complex
+      Locality: Bushveld complex, South Africa
+      Sample: BV27, TW
+      _database_code_amcsd 0007232
+      CELL PARAMETERS:   8.2829  8.2829  8.2829   90.000   90.000   90.000
+      SPACE GROUP: Fd3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    568.260
+      Density (g/cm3):      4.375
+      MAX. ABS. INTENSITY / VOLUME**2:      33.91303786    
+      RIR:      3.618
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.58         15.56        4.7821    1   1   1         8
+                35.60         34.46        2.9284    2   2   0        12
+                42.01        100.00        2.4974    3   1   1        24
+                43.97          2.62        2.3911    2   2   2         8
+                51.23         26.64        2.0707    4   0   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

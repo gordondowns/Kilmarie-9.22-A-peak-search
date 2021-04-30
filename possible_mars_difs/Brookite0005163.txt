@@ -1,0 +1,37 @@
+      Brookite
+      Meagher E P, Lager G A
+      The Canadian Mineralogist 17 (1979) 77-85
+      Polyhedral thermal expansion in the TiO2 polymorphs: Refinement
+      of the crystal structures of rutile and brookite at high temperatures
+      Sample at 625 degrees C
+      _database_code_amcsd 0005163
+      CELL PARAMETERS:   9.2110  5.4720  5.1710   90.000   90.000   90.000
+      SPACE GROUP: Pbca      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    260.632
+      Density (g/cm3):      4.070
+      MAX. ABS. INTENSITY / VOLUME**2:      14.80325696    
+      RIR:      1.698
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                29.43        100.00        3.5236    2   1   0         4
+                29.81         75.14        3.4798    1   1   1         8
+                35.81         91.18        2.9118    2   1   1         8
+                38.19          3.67        2.7360    0   2   0         2
+                42.15         22.58        2.4893    1   0   2         4
+                43.45         17.11        2.4184    0   2   1         4
+                44.23          7.01        2.3778    3   1   1         8
+                44.74          1.83        2.3522    2   2   0         4
+                45.00          1.95        2.3391    1   2   1         8
+                45.75          3.62        2.3028    4   0   0         2
+                46.54          3.81        2.2659    1   1   2         8
+                46.79         14.55        2.2545    2   0   2         4
+                49.43         14.54        2.1411    2   2   1         8
+                53.82         18.40        1.9777    3   0   2         4
+                54.24          1.11        1.9635    4   1   1         8
+                56.22         30.30        1.8998    3   2   1         8
+                57.54         19.05        1.8599    3   1   2         8
+                58.18          2.11        1.8413    1   2   2         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

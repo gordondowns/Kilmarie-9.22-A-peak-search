@@ -1,0 +1,32 @@
+      Maghemite
+      Solano E, Frontera C, Puig T, Obradors X, Ricart S, Ros J
+      Journal of Applied Crystallography 47 (2014) 414-420
+      Neutron and X-ray diffraction study of ferrite nanocrystals obtained by
+      microwave-assisted growth. A structural comparison with the
+      thermal synthetic route
+      Locality: Synthetic
+      _database_code_amcsd 0020517
+      CELL PARAMETERS:   8.3364  8.3364  8.3364   90.000   90.000   90.000
+      SPACE GROUP: P4_332    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    579.343
+      Density (g/cm3):      4.850
+      MAX. ABS. INTENSITY / VOLUME**2:      52.06111943    
+      RIR:      5.011
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                17.47          4.76        5.8947    1   1   0        12
+                21.44          2.43        4.8130    1   1   1         8
+                27.79          5.83        3.7282    2   1   0        24
+                30.50          5.17        3.4033    2   1   1        24
+                35.36         35.29        2.9474    2   2   0        12
+                37.58          1.19        2.7788    2   2   1        24
+                39.70          2.49        2.6362    3   1   0        24
+                41.73        100.00        2.5135    3   1   1        24
+                43.67          3.80        2.4065    2   2   2         8
+                45.56          1.59        2.3121    3   2   0        24
+                50.87         16.41        2.0841    4   0   0         6
+                58.95          1.96        1.8192    4   2   1        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

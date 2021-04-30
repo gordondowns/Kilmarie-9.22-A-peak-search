@@ -1,0 +1,20 @@
+      Hapkeite
+      Anand M, Taylor L A, Nazarov M A, Shu J, Mao H K, Hemley R J
+      Proceedings of the National Academy of Sciences 101 (2005) 6847-6851
+      Space weathering on airless planetary bodies: Clues from the lunar mineral hapkeite
+      Locality: lunar meteorite Dhofar 280 from Oman
+      _database_code_amcsd 0019759
+      CELL PARAMETERS:   2.8310  2.8310  2.8310   90.000   90.000   90.000
+      SPACE GROUP: Pm3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     22.689
+      Density (g/cm3):      6.853
+      MAX. ABS. INTENSITY / VOLUME**2:      152.5909697    
+      RIR:     10.394
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                36.87          6.02        2.8310    1   0   0         6
+                53.12        100.00        2.0018    1   1   0        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

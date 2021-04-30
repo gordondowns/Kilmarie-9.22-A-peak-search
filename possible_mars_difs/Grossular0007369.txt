@@ -1,0 +1,28 @@
+      Grossular
+      Arni R, Langer K, Tillmanns E
+      Physics and Chemistry of Minerals 12 (1985) 279-282
+      Mn3+ in garnets III. Absence of Jahn-Teller distortion
+      in synthetic Mn3+ -bearing garnet
+      _database_code_amcsd 0007369
+      CELL PARAMETERS:  11.8670 11.8670 11.8670   90.000   90.000   90.000
+      SPACE GROUP: Ia3d      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1671.178
+      Density (g/cm3):      3.807
+      MAX. ABS. INTENSITY / VOLUME**2:      18.69436181    
+      RIR:      2.292
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                24.64          1.12        4.1956    2   2   0        12
+                35.12         47.03        2.9667    4   0   0         6
+                39.43        100.00        2.6535    4   2   0        24
+                41.44          6.54        2.5301    3   3   2        24
+                43.37         32.93        2.4223    4   2   2        24
+                45.24         13.34        2.3273    4   3   1        48
+                48.81         13.69        2.1666    5   2   1        48
+                55.42         10.91        1.9251    6   1   1        24
+                55.42         10.17        1.9251    5   3   2        48
+                56.99          3.66        1.8763    6   2   0        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

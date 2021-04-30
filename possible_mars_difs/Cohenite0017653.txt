@@ -1,0 +1,32 @@
+      Cohenite
+      Shimura S
+      Proceedings of the Japan Academy 6 (1930) 269-271
+      A study on the structure of cementite
+      Locality: synthetic
+      _cod_database_code 1010931
+      _database_code_amcsd 0017653
+      CELL PARAMETERS:   4.5110  5.0460  6.7380   90.000   90.000   90.000
+      SPACE GROUP: Pbnm      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    153.374
+      Density (g/cm3):     10.713
+      MAX. ABS. INTENSITY / VOLUME**2:      90.84245585    
+      RIR:      3.959
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                27.63         18.26        3.7485    1   0   1         4
+                30.82         19.26        3.3690    0   0   2         2
+                30.87        100.00        3.3631    1   1   0         4
+                34.61         25.97        3.0091    1   1   1         8
+                44.18         37.18        2.3801    1   1   2         8
+                44.53         23.30        2.3628    0   2   1         4
+                47.97          1.36        2.2020    1   2   0         4
+                50.64          2.77        2.0931    1   2   1         8
+                51.53         21.70        2.0592    2   1   0         4
+                52.62         39.69        2.0195    0   2   2         4
+                54.07         15.06        1.9692    2   1   1         8
+                57.06         48.16        1.8742    2   0   2         4
+                58.11         16.23        1.8432    1   2   2         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

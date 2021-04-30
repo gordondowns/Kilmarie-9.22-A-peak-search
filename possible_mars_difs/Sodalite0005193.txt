@@ -1,0 +1,32 @@
+      Sodalite
+      Peterson R C
+      The Canadian Mineralogist 21 (1983) 549-552
+      The structure of hackmanite, a variety of sodalite, from Mont
+      St-Hilaire, Quebec
+      Locality: Mont St-Hilaire, Quebec, Canada
+      _database_code_amcsd 0005193
+      CELL PARAMETERS:   8.8770  8.8770  8.8770   90.000   90.000   90.000
+      SPACE GROUP: P-43n     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    699.518
+      Density (g/cm3):      2.285
+      MAX. ABS. INTENSITY / VOLUME**2:      15.77073666    
+      RIR:      3.222
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                16.40         34.36        6.2770    1   1   0        12
+                23.27          6.47        4.4385    2   0   0         6
+                26.06          1.16        3.9699    2   1   0        24
+                28.60        100.00        3.6240    2   1   1        12
+                37.19          8.59        2.8072    3   1   0        24
+                40.89         18.47        2.5626    2   2   2         4
+                44.33         20.46        2.3725    3   2   1        24
+                47.58          1.42        2.2192    4   0   0         6
+                50.66         12.30        2.0923    3   3   0        12
+                50.66         16.86        2.0923    4   1   1        12
+                53.61          4.76        1.9850    4   2   0        24
+                56.46          3.55        1.8926    3   3   2        12
+                59.21          3.15        1.8120    4   2   2        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

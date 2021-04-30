@@ -1,0 +1,21 @@
+      Lonsdaleite
+      Yeh C, Lu Z, Froyen S, Zunger A
+      Physical Review B46 (1992) 10086-10097
+      Zinc-blende-Wurtzite polytypism in semiconductors
+      _cod_database_code 1100004
+      _database_code_amcsd 0018218
+      CELL PARAMETERS:   2.4900  2.4900  4.1440   90.000   90.000  120.000
+      SPACE GROUP: P6_3mc    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     22.251
+      Density (g/cm3):      3.585
+      MAX. ABS. INTENSITY / VOLUME**2:      4.253818511    
+      RIR:      0.554
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                49.05        100.00        2.1564    1   0   0         6
+                51.19         55.55        2.0720    0   0   2         1
+                55.80         53.25        1.9129    1   0   1         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

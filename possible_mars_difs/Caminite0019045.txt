@@ -1,0 +1,28 @@
+      Caminite
+      Yamnova N A, Pushcharovskii D Y, Apollonov V N
+      Vestnik Moskovskogo Universiteta Geologiya 44 (1989) 76-78
+      Crystalline structure of a new natural Mg-sulfate Mg3[SO4]2(OH)2
+      Locality: Nepa deposit of potassium salts, Eastern Siberia, Russia
+      _database_code_amcsd 0019045
+      CELL PARAMETERS:   5.2540  5.2540 12.9710   90.000   90.000   90.000
+      SPACE GROUP: I4_1/amd  
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    358.058
+      Density (g/cm3):      2.773
+      MAX. ABS. INTENSITY / VOLUME**2:      11.94888338    
+      RIR:      2.011
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.18          7.09        4.8697    1   0   1         8
+                31.11        100.00        3.3386    1   0   3         8
+                32.05          1.07        3.2427    0   0   4         2
+                32.24         82.62        3.2237    1   1   2         8
+                39.84         17.55        2.6270    2   0   0         4
+                45.56          9.65        2.3120    2   1   1        16
+                51.39         14.52        2.0645    2   1   3        16
+                52.02         13.38        2.0412    2   0   4         8
+                57.25          7.45        1.8685    1   1   6         8
+                57.62          4.62        1.8576    2   2   0         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,29 @@
+      Quartz
+      Ikuta D, Kawame N, Banno S, Hirajima T, Ito K, Rakovan J F, Downs R T, Tamada O
+      American Mineralogist 92 (2007) 57-63
+      First in situ X-ray diffraction identification of coesite and retrograde quartz on a glass
+      thin section of an ultrahigh-pressure metamorphic rock and their crystal structure details
+      Locality: Oomine granite, Tenkawa-mura, Nara, Southwest Japan
+      Sample: in a thin section
+      _database_code_amcsd 0004267
+      CELL PARAMETERS:   4.9170  4.9170  5.4100   90.000   90.000  120.000
+      SPACE GROUP: P3_221    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    113.273
+      Density (g/cm3):      2.642
+      MAX. ABS. INTENSITY / VOLUME**2:      25.25859751    
+      RIR:      4.463
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                24.27         20.24        4.2582    1   0   0         6
+                31.03         30.37        3.3461    1   0   1         6
+                31.03         69.63        3.3461    0   1   1         6
+                42.70          7.00        2.4585    1   1   0         3
+                46.16          5.89        2.2833    1   0   2         6
+                47.15          3.08        2.2382    1   1   1         6
+                49.72          5.04        2.1291    2   0   0         6
+                53.72          2.09        1.9812    2   0   1         6
+                58.95         11.97        1.8193    1   1   2         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

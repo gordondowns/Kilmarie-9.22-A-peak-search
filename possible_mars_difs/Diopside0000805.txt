@@ -1,0 +1,47 @@
+      Diopside
+      Gordon W A, Peacor D R, Brown P E, Essene E J, Allard L F
+      American Mineralogist 66 (1981) 127-141
+      Exsolution relationships in a clinopyroxene of average composition
+      Ca0.43Mn0.69Mg0.82Si2O6: X-ray diffraction and analytical electron microscopy
+      _database_code_amcsd 0000805
+      CELL PARAMETERS:   9.7600  8.9300  5.2700   90.000  106.440   90.000
+      SPACE GROUP: C2/c      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    440.538
+      Density (g/cm3):      3.321
+      MAX. ABS. INTENSITY / VOLUME**2:      8.276588219    
+      RIR:      1.163
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                23.13          1.95        4.4650    0   2   0         2
+                23.36          2.13        4.4224   -1   1   1         4
+                28.39          2.05        3.6501    1   1   1         4
+                31.03         12.14        3.3463    0   2   1         4
+                32.17         31.15        3.2307    2   2   0         4
+                34.71        100.00        3.0012   -2   2   1         4
+                35.38         31.45        2.9457    3   1   0         4
+                35.89         37.22        2.9050   -3   1   1         4
+                40.77         31.38        2.5696   -1   3   1         4
+                41.18          1.81        2.5452   -2   0   2         2
+                41.49         41.90        2.5273    0   0   2         2
+                41.81         38.82        2.5088    2   2   1         4
+                45.97         15.97        2.2925    3   1   1         4
+                47.75          9.21        2.2116    1   1   2         4
+                47.76          1.43        2.2112   -2   2   2         4
+                48.03          8.47        2.1994    0   2   2         4
+                49.12          7.95        2.1538    3   3   0         4
+                49.51         21.89        2.1377   -3   3   1         4
+                50.14          8.44        2.1127   -4   2   1         4
+                51.17          1.41        2.0728    4   2   0         4
+                51.99         16.98        2.0422    0   4   1         4
+                52.42         13.13        2.0267   -4   0   2         2
+                52.75          1.22        2.0150    2   4   0         4
+                53.18          8.10        1.9997    2   0   2         2
+                53.96          5.62        1.9729   -1   3   2         4
+                57.70          2.20        1.8550    3   3   1         4
+                58.49          5.35        1.8324    5   1   0         4
+                58.74          4.20        1.8251    2   2   2         4
+                59.23          3.07        1.8114    1   3   2         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,24 @@
+      Pyroaurite
+      Ingram L, Taylor H F W
+      Mineralogical Magazine 36 (1967) 465-479
+      The crystal structures of sjoegrenite and pyroaurite
+      Locality: Sweden
+      _database_code_amcsd 0014447
+      CELL PARAMETERS:   3.1300  3.1300 23.4900   90.000   90.000  120.000
+      SPACE GROUP: R3m       
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    199.298
+      Density (g/cm3):      2.094
+      MAX. ABS. INTENSITY / VOLUME**2:      18.55943793    
+      RIR:      4.137
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                13.13        100.00        7.8300    0   0   3         1
+                26.43         25.05        3.9150    0   0   6         1
+                39.62         27.72        2.6412    0   1   2         3
+                42.66          1.16        2.4611    1   0   4         3
+                44.82         23.11        2.3479    0   1   5         3
+                53.41         25.93        1.9917    0   1   8         3
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,35 @@
+      Haggite
+      Evans H T, Mrose M E
+      Acta Crystallographica 11 (1958) 56-58
+      The crystal structures of three new vanadium oxide minerals
+      Locality: Carlile, Wyoming, USA
+      _database_code_amcsd 0009205
+      CELL PARAMETERS:  12.1700  2.9900  4.8300   90.000   98.250   90.000
+      SPACE GROUP: C2/m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    173.937
+      Density (g/cm3):      3.472
+      MAX. ABS. INTENSITY / VOLUME**2:      19.37525602    
+      RIR:      2.605
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                17.10          6.32        6.0220    2   0   0         2
+                21.59        100.00        4.7800    0   0   1         2
+                25.62         47.69        4.0366   -2   0   1         2
+                29.58         15.63        3.5069    2   0   1         2
+                34.59         36.58        3.0110    4   0   0         2
+                35.93         11.44        2.9019    1   1   0         4
+                38.27          9.08        2.7305   -4   0   1         2
+                41.62          1.68        2.5195   -1   1   1         4
+                42.98         65.60        2.4434    1   1   1         4
+                43.84          2.45        2.3980    3   1   0         4
+                47.53          4.80        2.2211   -3   1   1         4
+                49.96          5.88        2.1196    2   0   2         2
+                51.16          5.66        2.0734    3   1   1         4
+                52.97          3.26        2.0073    6   0   0         2
+                54.54         22.93        1.9535   -6   0   1         2
+                56.97          6.93        1.8770   -1   1   2         4
+                59.13         31.02        1.8143    1   1   2         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

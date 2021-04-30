@@ -1,0 +1,27 @@
+      Barringerite
+      Carlsson B, Golin M, Rundqvist S
+      Journal of Solid State Chemistry 8 (1973) 57-67
+      Determination of the homogenity range and refinement of the crystal structure
+      of Fe2P
+      Locality: synthetic
+      _database_code_amcsd 0013329
+      CELL PARAMETERS:   5.8675  5.8675  3.4581   90.000   90.000  120.000
+      SPACE GROUP: P-62m     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    103.104
+      Density (g/cm3):      6.892
+      MAX. ABS. INTENSITY / VOLUME**2:      69.35462964    
+      RIR:      4.698
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                20.29          1.87        5.0814    1   0   0         6
+                30.00          1.04        3.4581    0   0   1         2
+                35.53          4.10        2.9337    1   1   0         3
+                36.49          3.34        2.8589    1   0   1        12
+                41.26          2.36        2.5407    2   0   0         6
+                47.17        100.00        2.2371    1   1   1         6
+                51.85         59.53        2.0475    2   0   1        12
+                55.56         13.42        1.9206    2   1   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

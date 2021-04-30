@@ -1,0 +1,25 @@
+      Heterogenite
+      Deliens M, Goethals H
+      Mineralogical Magazine 39 (1973) 152-157
+      Polytypism of heterogenite
+      Note: polytype known as Heterogenite-2H
+      Locality: Mindigi, Shaba, Zaire
+      _database_code_amcsd 0014459
+      CELL PARAMETERS:   2.8550  2.8550  8.8050   90.000   90.000  120.000
+      SPACE GROUP: P6_3/mmc  
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     62.154
+      Density (g/cm3):      4.912
+      MAX. ABS. INTENSITY / VOLUME**2:      63.93883915    
+      RIR:      6.077
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                23.46        100.00        4.4025    0   0   2         2
+                42.45         25.27        2.4725    1   0   0         6
+                44.18          7.89        2.3804    1   0   1        12
+                47.99          3.36        2.2013    0   0   4         2
+                49.07         55.47        2.1558    1   0   2        12
+                56.51          4.95        1.8910    1   0   3        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

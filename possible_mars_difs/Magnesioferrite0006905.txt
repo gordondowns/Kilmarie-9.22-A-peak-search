@@ -1,0 +1,24 @@
+      Magnesioferrite
+      Boiocchi M, Caucia F, Merli M, Prella D, Ungaretti L
+      European Journal of Mineralogy 13 (2001) 871-881
+      Crystal-chemical reasons for the immiscibility of periclase and wustite
+      under lithospheric P,T conditions
+      Sample: after heating to 1100 deg C
+      _database_code_amcsd 0006905
+      CELL PARAMETERS:   8.3850  8.3850  8.3850   90.000   90.000   90.000
+      SPACE GROUP: Fd3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    589.534
+      Density (g/cm3):      4.477
+      MAX. ABS. INTENSITY / VOLUME**2:      42.20412685    
+      RIR:      4.400
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.31          8.38        4.8411    1   1   1         8
+                35.15         30.81        2.9645    2   2   0        12
+                41.47        100.00        2.5282    3   1   1        24
+                43.41          3.69        2.4205    2   2   2         8
+                50.56         23.99        2.0963    4   0   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

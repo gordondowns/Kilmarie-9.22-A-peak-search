@@ -1,0 +1,51 @@
+      Offretite
+      Gualtieri A, Artioli G, Passaglia E, Bigi S, Viani A, Hanson J C
+      American Mineralogist 83 (1998) 590-606
+      Crystal structure-crystal chemistry relationships in the zeolites erionite
+      and offretite
+      Sample from Mt. Semiol
+      _database_code_amcsd 0002005
+      CELL PARAMETERS:  13.2930 13.2930  7.6080   90.000   90.000  120.000
+      SPACE GROUP: P-6m2     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1164.252
+      Density (g/cm3):      2.094
+      MAX. ABS. INTENSITY / VOLUME**2:      8.802852202    
+      RIR:      1.963
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                 8.92        100.00       11.5121    1   0   0         3
+                13.51          7.88        7.6080    0   0   1         2
+                15.48          5.48        6.6465    1   1   0         6
+                16.21          5.13        6.3472    1   0   1         6
+                17.89         16.15        5.7560    2   0   0         3
+                22.49         11.51        4.5903    2   0   1         6
+                23.74         21.05        4.3512    2   1   0         6
+                26.98         15.12        3.8374    3   0   0         3
+                27.22          1.23        3.8040    0   0   2         2
+                27.42         44.69        3.7771    2   1   1        12
+                28.70         32.54        3.6119    1   0   2         6
+                30.29          4.59        3.4262    3   0   1         6
+                31.25          4.81        3.3233    2   2   0         6
+                32.77          5.51        3.1736    2   0   2         6
+                35.40          7.26        2.9441    3   1   1        12
+                36.24         23.25        2.8780    4   0   0         3
+                36.43         45.34        2.8639    2   1   2        12
+                38.85          7.64        2.6919    4   0   1         6
+                39.62          1.59        2.6411    3   2   0         6
+                41.34          1.15        2.5360    0   0   3         2
+                41.75         10.04        2.5121    4   1   0         6
+                42.05          3.99        2.4950    3   2   1        12
+                45.38          1.92        2.3207    2   0   3         6
+                47.66          7.69        2.2155    3   3   0         6
+                49.77          2.20        2.1271    3   3   1        12
+                50.06          4.33        2.1157    3   0   3         6
+                50.67          1.77        2.0917    4   2   1        12
+                53.31          2.93        1.9953    5   1   1        12
+                54.06          2.31        1.9697    5   0   2         6
+                56.13          2.50        1.9027    4   0   3         6
+                56.15          4.96        1.9020    0   0   4         2
+                56.98          2.08        1.8766    1   0   4         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

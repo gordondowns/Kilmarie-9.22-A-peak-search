@@ -1,0 +1,39 @@
+      Perovskite
+      Beran A, Libowitzky E
+      The Canadian Mineralogist 34 (1996) 803-809
+      A single-crystal infrared spectroscopic and X-ray-diffraction study of untwinned
+      San Benito perovskite containing OH groups
+      _database_code_amcsd 0005501
+      CELL PARAMETERS:   5.3800  5.4400  7.6390   90.000   90.000   90.000
+      SPACE GROUP: Pbnm      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    223.572
+      Density (g/cm3):      4.038
+      MAX. ABS. INTENSITY / VOLUME**2:      23.94392670    
+      RIR:      2.768
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                27.07         10.62        3.8253    1   1   0         4
+                27.11          4.78        3.8195    0   0   2         2
+                30.34          3.13        3.4204    1   1   1         8
+                38.43         25.91        2.7200    0   2   0         2
+                38.68        100.00        2.7028    1   1   2         8
+                38.87         23.86        2.6900    2   0   0         2
+                40.89          1.04        2.5624    0   2   1         4
+                43.28          1.13        2.4274    1   2   0         4
+                43.58          1.69        2.4113    2   1   0         4
+                45.53          1.65        2.3134    1   2   1         8
+                45.78          3.84        2.3016    1   0   3         4
+                45.82          3.28        2.2995    2   1   1         8
+                47.66          5.01        2.2156    0   2   2         4
+                48.03          4.30        2.1993    2   0   2         4
+                49.96          2.16        2.1197    1   1   3         8
+                51.82          1.72        2.0487    1   2   2         8
+                52.08          1.20        2.0390    2   1   2         8
+                55.81         43.00        1.9126    2   2   0         4
+                55.90         23.04        1.9097    0   0   4         2
+                57.57          1.62        1.8589    0   2   3         4
+                57.69          1.97        1.8554    2   2   1         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

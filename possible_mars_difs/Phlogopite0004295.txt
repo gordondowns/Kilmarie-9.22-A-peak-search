@@ -1,0 +1,55 @@
+      Phlogopite
+      Laurora A, Brigatti M F, Mottana A, Malferrari D, Caprilli E
+      American Mineralogist 92 (2007) 468-480
+      Crystal chemistry of trioctahedral micas in alkaline and subalkaline volcanic
+      rocks: A case study from Mt. Sassetto (Tolfa district, Latium, central Italy)
+      Locality: Mt. Sassetto, Tolfa district, Latium, Italy
+      Sample: MS12
+      Note: 1M polytype
+      _database_code_amcsd 0004295
+      CELL PARAMETERS:   5.3330  9.2440 10.1520   90.000  100.164   90.000
+      SPACE GROUP: C2/m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    492.622
+      Density (g/cm3):      3.089
+      MAX. ABS. INTENSITY / VOLUME**2:      13.36185845    
+      RIR:      2.019
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                10.28        100.00        9.9927    0   0   1         2
+                20.64          1.23        4.9963    0   0   2         2
+                22.33          4.92        4.6220    0   2   0         2
+                22.62          6.51        4.5647    1   1   0         4
+                23.39          2.24        4.4160   -1   1   1         4
+                26.33          5.62        3.9303    1   1   1         4
+                28.30         17.30        3.6614   -1   1   2         4
+                30.59         23.61        3.3929    0   2   2         4
+                31.18         31.48        3.3309    0   0   3         2
+                33.14         21.37        3.1387    1   1   2         4
+                35.81         13.43        2.9119   -1   1   3         4
+                38.69          6.18        2.7023    0   2   3         4
+                39.37          1.67        2.6573    1   3   0         4
+                39.84         34.30        2.6270   -1   3   1         4
+                39.88         17.09        2.6247    2   0   0         2
+                41.73          2.45        2.5133    1   1   3         4
+                41.99          4.24        2.4982    0   0   4         2
+                43.08         23.01        2.4382   -1   3   2         4
+                43.13         11.59        2.4352    2   0   1         2
+                45.58          1.08        2.3110    0   4   0         2
+                45.74          1.92        2.3031   -2   2   1         4
+                46.18          3.00        2.2823    2   2   0         4
+                46.56          2.77        2.2650   -2   0   3         2
+                46.58          5.34        2.2638    1   3   2         4
+                46.85          2.95        2.2516    0   4   1         4
+                47.83          2.66        2.2080   -2   2   2         4
+                48.63         15.90        2.1741   -1   3   3         4
+                48.70          7.85        2.1712    2   0   2         2
+                49.10          1.37        2.1544    2   2   1         4
+                53.22          2.61        1.9985    0   0   5         2
+                53.36          3.93        1.9937   -2   0   4         2
+                53.40          7.43        1.9923    1   3   3         4
+                55.99          3.52        1.9072   -1   3   4         4
+                56.07          1.74        1.9046    2   0   3         2
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

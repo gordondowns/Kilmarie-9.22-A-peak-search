@@ -1,0 +1,25 @@
+      Chromite
+      Lenaz D, Logvinova A M, Princivalle F, Sobolev N V
+      American Mineralogist 94 (2009) 1067-1070
+      Structural parameters of chromite included in diamond and kimberlites
+      from Siberia: A new tool for discriminating ultramafic source
+      Locality: Udachnaya mine, Daldyn kimberlitic field, close to Arctic Circle, Russia
+      Note: sample UDK1
+      _database_code_amcsd 0004961
+      CELL PARAMETERS:   8.3327  8.3327  8.3327   90.000   90.000   90.000
+      SPACE GROUP: Fd3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    578.578
+      Density (g/cm3):      4.550
+      MAX. ABS. INTENSITY / VOLUME**2:      38.30228729    
+      RIR:      3.930
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.45         34.54        4.8109    1   1   1         8
+                35.38         22.91        2.9461    2   2   0        12
+                41.74        100.00        2.5124    3   1   1        24
+                43.69          7.33        2.4055    2   2   2         8
+                50.90         35.61        2.0832    4   0   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,37 @@
+      Magadiite
+      Garces J M, Rocke S C, Crowder C E, Hasha D L
+      Clays and Clay Minerals 36 (1988) 409-418
+      Hypothetical structures of magadiite and sodium octosilicate and structural
+      relationships between the layered alkali metal silicates and the mordenite- and
+      pentasil-group zeolites
+      Note: hypothetical model structure
+      Note: setting changed from left- to right-handed
+      _database_code_amcsd 0012231
+      CELL PARAMETERS:  27.5000  7.5200  9.2000   90.000  101.000   90.000
+      SPACE GROUP: C2/m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1867.605
+      Density (g/cm3):      1.339
+      MAX. ABS. INTENSITY / VOLUME**2:      36.05659112    
+      RIR:     12.572
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                 7.61        100.00       13.4974    2   0   0         2
+                11.38          2.24        9.0310    0   0   1         2
+                14.20          9.05        7.2442    1   1   0         4
+                22.38          1.23        4.6131    3   1   1         4
+                22.68          2.19        4.5515   -2   0   2         2
+                22.87          3.71        4.5155    0   0   2         2
+                23.55          5.87        4.3857    5   1   0         4
+                25.00          4.75        4.1353   -4   0   2         2
+                25.50          4.96        4.0557    2   0   2         2
+                27.64          1.01        3.7468    1   1   2         4
+                28.62          5.83        3.6221    2   2   0         4
+                29.27          1.68        3.5430   -6   0   2         2
+                29.99          1.71        3.4601    4   0   2         2
+                30.24          1.36        3.4315    7   1   0         4
+                31.63          4.18        3.2846    4   2   0         4
+                40.63          1.02        2.5786   -6   2   2         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

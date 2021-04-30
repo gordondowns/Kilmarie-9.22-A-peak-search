@@ -1,0 +1,35 @@
+      Fluorkyuygenite
+      Galuskin E V, Gfeller F, Armbruster T, Galuskina I O, Vapnik Y, Dulski M, Murashko M,
+      Dzierzanowski P, Sharygin V V, Krivovichev S V, Wirth R
+      European Journal of Mineralogy 27 (2015) 123-136
+      Mayenite supergroup, part III: fluormayenite, Ca12Al14O32[[]4F2], and
+      fluorkyuygenite, Ca12Al14O32[(H2O)4F2], two new minerals from pyrometamorphic
+      rocks of the Hatrurim Complex, South Levant
+      Locality: Negev Desert, Hatrurim Basin, Arad, Israel
+      _database_code_amcsd 0020494
+      CELL PARAMETERS:  11.9660 11.9660 11.9660   90.000   90.000   90.000
+      SPACE GROUP: I-43d     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1713.353
+      Density (g/cm3):      2.910
+      MAX. ABS. INTENSITY / VOLUME**2:      9.855610614    
+      RIR:      1.581
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.12         30.64        4.8851    2   1   1        12
+                24.43          2.05        4.2306    2   2   0        12
+                27.37          4.60        3.7840    3   1   0        24
+                32.51         42.97        3.1980    3   2   1        24
+                34.82         58.07        2.9915    4   0   0         6
+                39.09        100.00        2.6757    4   2   0        24
+                41.08         20.87        2.5512    3   3   2        12
+                43.00         43.61        2.4425    4   2   2        12
+                44.85         17.27        2.3467    5   1   0        24
+                48.38         26.99        2.1847    5   2   1        24
+                51.72          7.64        2.0522    5   3   0        24
+                54.92         11.02        1.9411    5   3   2        24
+                56.47          1.63        1.8920    6   2   0        24
+                58.00          1.41        1.8464    5   4   1        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

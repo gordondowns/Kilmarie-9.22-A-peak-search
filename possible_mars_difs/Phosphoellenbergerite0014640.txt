@@ -1,0 +1,45 @@
+      Phosphoellenbergerite
+      Raade G, Romming C, Medenbach O
+      Mineralogy and Petrology 62 (1998) 89-101
+      Carbonate-substituted phosphoellenbergerite from Modum, Norway: description and
+      crystal structure
+      _database_code_amcsd 0014640
+      CELL PARAMETERS:  12.4670 12.4670  5.0437   90.000   90.000  120.000
+      SPACE GROUP: P6_3mc    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    678.897
+      Density (g/cm3):      2.893
+      MAX. ABS. INTENSITY / VOLUME**2:      5.889703764    
+      RIR:      0.951
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                16.51         52.71        6.2335    1   1   0         6
+                22.59         17.27        4.5697    1   0   1         6
+                25.34          1.53        4.0808    2   1   0        12
+                28.11        100.00        3.6854    2   0   1         6
+                28.80         10.92        3.5989    3   0   0         6
+                32.78         91.42        3.1724    2   1   1        12
+                33.38         54.51        3.1168    2   2   0         6
+                35.58         12.02        2.9296    3   0   1         6
+                38.74         36.27        2.6992    4   0   0         6
+                40.69         11.39        2.5749    3   1   1        12
+                41.58         13.01        2.5219    0   0   2         1
+                42.37          1.12        2.4769    3   2   0        12
+                42.75          1.73        2.4557    1   0   2         6
+                44.19         39.98        2.3798    4   0   1         6
+                45.03         19.52        2.3378    1   1   2         6
+                46.13          4.82        2.2848    2   0   2         6
+                47.48         39.82        2.2233    3   2   1        12
+                49.32          9.31        2.1453    2   1   2        12
+                49.59          3.38        2.1346    4   1   1        12
+                51.37          4.77        2.0653    3   0   2         6
+                52.04          1.02        2.0404    4   2   0        12
+                53.61          6.68        1.9851    5   0   1         6
+                54.34          3.39        1.9605    2   2   2         6
+                55.30          1.10        1.9289    3   1   2        12
+                56.49          7.19        1.8915    4   2   1        12
+                58.13         22.85        1.8427    4   0   2         6
+                59.28         19.48        1.8100    5   1   1        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

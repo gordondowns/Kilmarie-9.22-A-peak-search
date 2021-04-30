@@ -1,0 +1,32 @@
+      Fluormayenite
+      Williams P P
+      Acta Crystallographica B29 (1973) 1550-1551
+      Refinement of the structure of 11CaO*7Al2O3*CaF2
+      Locality: synthetic
+      _database_code_amcsd 0019954
+      CELL PARAMETERS:  11.9700 11.9700 11.9700   90.000   90.000   90.000
+      SPACE GROUP: I-43d     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1715.073
+      Density (g/cm3):      2.745
+      MAX. ABS. INTENSITY / VOLUME**2:      9.560614781    
+      RIR:      1.626
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.11        100.00        4.8867    2   1   1        12
+                24.42          3.20        4.2320    2   2   0        12
+                27.36         11.09        3.7852    3   1   0        24
+                32.50         27.51        3.1991    3   2   1        24
+                34.81         46.14        2.9925    4   0   0         6
+                39.08         97.84        2.6766    4   2   0        24
+                41.07         14.50        2.5520    3   3   2        12
+                42.98         45.78        2.4434    4   2   2        12
+                44.83          9.20        2.3475    5   1   0        24
+                48.36         36.81        2.1854    5   2   1        24
+                51.70          5.04        2.0528    5   3   0        24
+                54.90          1.73        1.9418    6   1   1        12
+                54.90         23.00        1.9418    5   3   2        24
+                57.98          3.23        1.8470    5   4   1        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

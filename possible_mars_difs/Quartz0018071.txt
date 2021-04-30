@@ -1,0 +1,25 @@
+      Quartz
+      Wyckoff R
+      Zeitschrift fur Kristallographie 63 (1926) 507-537
+      Kriterien fur hexagonale Raumgruppen und die Kristallstruktur von beta Quarz.
+      _cod_database_code 1011200
+      _database_code_amcsd 0018071
+      CELL PARAMETERS:   5.0130  5.0130  5.4700   90.000   90.000  120.000
+      SPACE GROUP: P6_222    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    119.046
+      Density (g/cm3):      2.514
+      MAX. ABS. INTENSITY / VOLUME**2:      28.05783475    
+      RIR:      5.210
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                23.80         12.08        4.3414    1   0   0         6
+                30.52        100.00        3.4005    1   0   1        12
+                41.85          5.61        2.5065    1   1   0         6
+                45.51          1.58        2.3141    1   0   2        12
+                48.71          2.65        2.1707    2   0   0         6
+                52.68          2.03        2.0176    2   0   1        12
+                57.95         19.22        1.8479    1   1   2        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

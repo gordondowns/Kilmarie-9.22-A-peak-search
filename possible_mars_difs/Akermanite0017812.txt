@@ -1,0 +1,41 @@
+      Akermanite
+      Mokeeva V, Makarov E
+      Geokhimiya 10 (1979) 1541-1544
+      Isomorph in melilites: refining of crystal structure
+      of akermanite and intermediate melilite
+      Locality: Capo di Bove, Italy
+      _database_code_amcsd 0017812
+      CELL PARAMETERS:   7.7380  7.7380  5.0450   90.000   90.000   90.000
+      SPACE GROUP: P-42_1m   
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    302.078
+      Density (g/cm3):      2.840
+      MAX. ABS. INTENSITY / VOLUME**2:      15.51384589    
+      RIR:      2.550
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                18.83         16.10        5.4716    1   1   0         4
+                24.46          2.86        4.2261    1   0   1         8
+                26.75          5.04        3.8690    2   0   0         4
+                27.93          9.31        3.7090    1   1   1         4
+                29.98          2.58        3.4605    2   1   0         8
+                33.90         13.40        3.0701    2   0   1         8
+                36.56        100.00        2.8537    2   1   1         8
+                38.20          2.40        2.7358    2   2   0         4
+                41.57          1.83        2.5225    0   0   2         2
+                42.92         11.06        2.4470    3   1   0         8
+                43.70          8.31        2.4049    2   2   1         4
+                43.83          7.02        2.3983    1   0   2         8
+                45.88          9.33        2.2966    3   0   1         8
+                46.00          3.70        2.2908    1   1   2         4
+                47.98          2.50        2.2017    3   1   1         8
+                50.13          2.12        2.1131    2   0   2         8
+                52.10         10.64        2.0384    2   1   2         8
+                53.91          2.17        1.9749    3   2   1         8
+                55.13          9.23        1.9345    4   0   0         4
+                56.98          4.86        1.8767    4   1   0         8
+                57.72          1.50        1.8545    2   2   2         4
+                58.79         11.16        1.8239    3   3   0         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,26 @@
+      Titanomaghemite
+      Collyer S, Grimes N W, Vaughan D J, Longworth G
+      American Mineralogist 73 (1988) 153-160
+      Studies of the crystal structure and crystal chemistry of titanomaghemite
+      Locality:  Pretoria, South Africa
+      _database_code_amcsd 0001136
+      CELL PARAMETERS:   8.3410  8.3410  8.3410   90.000   90.000   90.000
+      SPACE GROUP: P4_332    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    580.302
+      Density (g/cm3):      4.443
+      MAX. ABS. INTENSITY / VOLUME**2:      40.55328620    
+      RIR:      4.261
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                17.46          3.33        5.8980    1   1   0        12
+                27.77          3.21        3.7302    2   1   0        24
+                30.48          3.72        3.4052    2   1   1        24
+                35.34         42.29        2.9490    2   2   0        12
+                39.68          1.42        2.6377    3   1   0        24
+                41.70        100.00        2.5149    3   1   1        24
+                50.84         14.72        2.0852    4   0   0         6
+                58.92          1.33        1.8202    4   2   1        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

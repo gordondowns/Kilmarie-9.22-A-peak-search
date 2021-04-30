@@ -1,0 +1,41 @@
+      Brezinaite
+      Jellinek F
+      Acta Crystallographica 10 (1957) 620-628
+      The structures of the chromium sulphides
+      Locality: synthetic
+      _database_code_amcsd 0009201
+      CELL PARAMETERS:   5.6940  3.4280 11.2720   90.000   91.500   90.000
+      SPACE GROUP: I2/m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    219.943
+      Density (g/cm3):      4.291
+      MAX. ABS. INTENSITY / VOLUME**2:      13.06003147    
+      RIR:      1.421
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                18.28         61.69        5.6341    0   0   2         2
+                20.08         22.05        5.1350   -1   0   1         2
+                20.51         48.53        5.0279    1   0   1         2
+                31.68         19.41        3.2796    0   1   1         4
+                32.77         12.42        3.1734   -1   0   3         2
+                33.59         18.07        3.0980    1   0   3         2
+                35.50         50.79        2.9366    1   1   0         4
+                36.66         28.07        2.8460    2   0   0         2
+                37.06          1.97        2.8170    0   0   4         2
+                39.98        100.00        2.6186   -1   1   2         4
+                40.44         15.09        2.5898    1   1   2         4
+                40.81          8.30        2.5675   -2   0   2         2
+                41.41         30.12        2.5320    0   1   3         4
+                41.72         49.07        2.5140    2   0   2         2
+                49.42          6.50        2.1414    2   1   1         4
+                51.87         96.62        2.0467   -1   1   4         4
+                52.36         31.55        2.0288   -2   0   4         2
+                52.63         76.45        2.0193    1   1   4         4
+                53.86         43.16        1.9764    2   0   4         2
+                55.94         17.86        1.9085   -2   1   3         4
+                56.90          2.15        1.8791   -3   0   1         2
+                57.02          7.79        1.8754    2   1   3         4
+                57.43          1.32        1.8630    3   0   1         2
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,37 @@
+      Rosenbergite
+      Olmi F, Sabelli C, Trosti-Ferroni R
+      European Journal of Mineralogy 5 (1993) 1167-1174
+      Rosenbergite, AlF[F0.5(H2O)0.5}4.H2O, a new mineral from the
+      Cetine mine (Tuscany, Italy): description and crystal structure
+      Locality: Cetine mine, Tuscany, Italy
+      _database_code_amcsd 0006508
+      CELL PARAMETERS:   7.7150  7.7150  3.6480   90.000   90.000   90.000
+      SPACE GROUP: P4/n      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    217.133
+      Density (g/cm3):      2.111
+      MAX. ABS. INTENSITY / VOLUME**2:      6.206660032    
+      RIR:      1.373
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                18.89        100.00        5.4553    1   1   0         4
+                26.84         48.15        3.8575    2   0   0         4
+                28.41         15.43        3.6480    0   0   1         2
+                31.50         44.66        3.2979    1   0   1         8
+                34.34         28.01        3.0325    1   1   1         8
+                38.32         18.89        2.7277    2   2   0         4
+                39.48         15.01        2.6505    2   0   1         8
+                41.84         16.39        2.5067    1   2   1         8
+                43.05         26.04        2.4397    3   1   0         4
+                43.05         11.12        2.4397    1   3   0         4
+                48.38          4.57        2.1845    2   2   1         8
+                50.41          1.48        2.1019    3   0   1         8
+                52.39         11.57        2.0280    3   1   1         8
+                52.39          3.11        2.0280    1   3   1         8
+                55.30          9.86        1.9288    4   0   0         4
+                58.02          7.18        1.8457    3   2   1         8
+                58.02          1.39        1.8457    2   3   1         8
+                58.98          4.40        1.8184    3   3   0         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

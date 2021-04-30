@@ -1,0 +1,21 @@
+      Carobbiite
+      Broch E, Oftedal I, Pabst A
+      Zeitschrift fur Physikalische Chemie 3 (1929) 209-214
+      Neubestimmung der Gitterkonstanten von KF, CsCl und BaF2
+      _cod_database_code 1010978
+      _database_code_amcsd 0017895
+      CELL PARAMETERS:   5.3437  5.3437  5.3437   90.000   90.000   90.000
+      SPACE GROUP: Fm3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    152.590
+      Density (g/cm3):      2.529
+      MAX. ABS. INTENSITY / VOLUME**2:      25.19071349    
+      RIR:      4.651
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                33.73         23.32        3.0852    1   1   1         8
+                39.15        100.00        2.6718    2   0   0         6
+                56.56         54.68        1.8893    2   2   0        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

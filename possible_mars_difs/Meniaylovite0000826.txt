@@ -1,0 +1,44 @@
+      Meniaylovite
+      Mathew M, Takagi S, Waerstad K R, Frazier A W
+      American Mineralogist 66 (1981) 392-397
+      The crystal structure of synthetic chukhrovite, Ca4AlSi(SO4)F13*12H2O
+      _database_code_amcsd 0000826
+      CELL PARAMETERS:  16.7100 16.7100 16.7100   90.000   90.000   90.000
+      SPACE GROUP: Fd3       
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   4665.834
+      Density (g/cm3):      2.205
+      MAX. ABS. INTENSITY / VOLUME**2:      9.953945612    
+      RIR:      2.107
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                10.65        100.00        9.6475    1   1   1         8
+                17.43         45.11        5.9079    2   2   0        12
+                20.47         27.15        5.0383    3   1   1        24
+                24.75         20.11        4.1775    4   0   0         6
+                27.01          6.73        3.8335    3   3   1        24
+                30.43          7.86        3.4109    4   2   2        24
+                32.32         31.15        3.2158    5   1   1        24
+                35.28          4.29        2.9539    4   4   0        12
+                36.95         15.55        2.8245    5   1   3        24
+                37.50          1.23        2.7850    4   4   2        24
+                39.61          7.15        2.6421    6   0   2        12
+                39.61          7.05        2.6421    6   2   0        12
+                41.13         26.64        2.5483    5   3   3        24
+                44.98          7.20        2.3399    7   1   1        24
+                44.98          1.45        2.3399    5   5   1        24
+                47.27         21.66        2.2330    6   4   2        24
+                48.59         23.51        2.1755    7   3   1        24
+                48.59          8.11        2.1755    5   5   3        24
+                52.43          2.03        2.0264    6   4   4        24
+                54.07          5.81        1.9693    6   6   0        12
+                55.28          4.47        1.9295    5   5   5         8
+                55.68          3.82        1.9168    6   6   2        24
+                57.26          1.50        1.8682    8   0   4        12
+                58.42          1.14        1.8342    7   5   3        24
+                58.42          1.27        1.8342    9   1   1        24
+                58.81          6.23        1.8232    8   2   4        24
+                58.81         15.07        1.8232    8   4   2        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

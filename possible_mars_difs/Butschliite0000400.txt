@@ -1,0 +1,29 @@
+      Butschliite
+      Pabst A
+      American Mineralogist 59 (1974) 353-358
+      Synthesis, properties and structure of K2Ca(CO3)2, buetschliite
+      _database_code_amcsd 0000400
+      CELL PARAMETERS:   5.3800  5.3800 18.1200   90.000   90.000  120.000
+      SPACE GROUP: R-3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    454.207
+      Density (g/cm3):      2.613
+      MAX. ABS. INTENSITY / VOLUME**2:      14.63474990    
+      RIR:      2.614
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                22.88          3.04        4.5124    1   0   1         6
+                24.95          2.93        4.1434    0   1   2         6
+                32.00          8.75        3.2479    1   0   4         6
+                34.48         14.05        3.0200    0   0   6         2
+                36.47        100.00        2.8606    0   1   5         6
+                38.87         44.61        2.6900    1   1   0         6
+                45.59          2.85        2.3106    0   2   1         6
+                46.75         18.74        2.2562    2   0   2         6
+                51.20         32.66        2.0717    0   2   4         6
+                52.80          3.23        2.0133    0   0   9         2
+                52.93          2.09        2.0087    1   1   6        12
+                54.36         16.33        1.9596    2   0   5         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

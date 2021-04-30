@@ -1,0 +1,54 @@
+      Kanemite
+      Vortmann S, Rius J, Marler B, Gies H
+      European Journal of Mineralogy 11 (1999) 125-134
+      Structure solution from powder data of the hydrous layer
+      silicate kanemite, a precursor of the industrial ion exchanger SKS-6
+      _database_code_amcsd 0006765
+      CELL PARAMETERS:   4.9460 20.5100  7.2770   90.000   90.000   90.000
+      SPACE GROUP: Pbcn      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    738.197
+      Density (g/cm3):      1.977
+      MAX. ABS. INTENSITY / VOLUME**2:      5.499601165    
+      RIR:      1.299
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                10.02         84.60       10.2550    0   2   0         2
+                17.35          3.98        5.9346    0   2   1         4
+                20.11         23.54        5.1275    0   4   0         2
+                25.79         10.46        4.0116    1   1   1         8
+                25.82        100.00        4.0073    1   3   0         4
+                27.25          2.79        3.7995    1   2   1         8
+                28.48         32.99        3.6385    0   0   2         2
+                30.26         56.37        3.4291    0   2   2         4
+                32.51         10.28        3.1977    1   4   1         8
+                32.94         27.90        3.1574    1   5   0         4
+                33.63         26.68        3.0940    0   6   1         4
+                35.94          1.79        2.9014    1   1   2         8
+                36.00          5.27        2.8965    1   5   1         8
+                38.82          4.20        2.6938    1   3   2         8
+                39.91          6.15        2.6230    1   6   1         8
+                42.11         20.31        2.4913    0   6   2         4
+                42.44         40.23        2.4730    2   0   0         2
+                44.09         20.11        2.3847    1   5   2         8
+                44.15          2.22        2.3820    1   7   1         8
+                44.57          5.91        2.3605    0   2   3         4
+                48.19          4.23        2.1927    0   4   3         4
+                48.67          3.03        2.1724    1   8   1         8
+                51.19          6.40        2.0721    1   7   2         8
+                51.91          2.07        2.0453    2   0   2         4
+                53.01          3.77        2.0058    2   2   2         8
+                53.05          1.40        2.0045    1   4   3         8
+                53.44          6.42        1.9908    1   9   1         8
+                53.81          1.02        1.9782    0   6   3         4
+                55.21          7.01        1.9318    2   6   1         8
+                55.47          5.03        1.9236    1   5   3         8
+                56.22          3.72        1.8997    2   4   2         8
+                58.33          1.20        1.8368    1   6   3         8
+                58.45          1.77        1.8334    1  10   1         8
+                58.60          1.40        1.8292    2   7   1         8
+                58.95          7.23        1.8192    0   0   4         2
+                59.68          5.39        1.7990    1   9   2         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

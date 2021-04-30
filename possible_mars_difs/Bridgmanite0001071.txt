@@ -1,0 +1,34 @@
+      Bridgmanite
+      Horiuchi H, Ito E, Weidner D J
+      American Mineralogist 72 (1987) 357-360
+      Perovskite-type MgSiO3: Single-crystal X-ray diffraction study
+      Locality: synthetic
+      _database_code_amcsd 0001071
+      CELL PARAMETERS:   4.7754  4.9292  6.8969   90.000   90.000   90.000
+      SPACE GROUP: Pbnm      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    162.345
+      Density (g/cm3):      4.107
+      MAX. ABS. INTENSITY / VOLUME**2:      8.927700525    
+      RIR:      1.015
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                30.09          9.37        3.4485    0   0   2         2
+                30.26         23.74        3.4298    1   1   0         4
+                33.89          9.57        3.0710    1   1   1         8
+                42.59         24.68        2.4646    0   2   0         2
+                43.20        100.00        2.4318    1   1   2         8
+                44.04         18.45        2.3877    2   0   0         2
+                48.25          3.61        2.1901    1   2   0         4
+                49.24         10.35        2.1489    2   1   0         4
+                50.79          9.70        2.0874    1   2   1         8
+                51.21         22.08        2.0714    1   0   3         4
+                51.74         18.16        2.0516    2   1   1         8
+                53.03         12.09        2.0051    0   2   2         4
+                54.26          7.01        1.9631    2   0   2         4
+                55.91         12.47        1.9097    1   1   3         8
+                57.92          9.40        1.8488    1   2   2         8
+                58.79          4.36        1.8238    2   1   2         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

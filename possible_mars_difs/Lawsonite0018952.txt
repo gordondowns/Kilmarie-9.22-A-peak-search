@@ -1,0 +1,52 @@
+      Lawsonite
+      Liebscher A, Dorsam G, Franz G, Wunder B, Gottschalk M
+      American Mineralogist 95 (2010) 724-735
+      Crystal chemistry of synthetic lawsonite solid-solution series CaAl2
+      [(OH)2/(Si2O7)](H2O)-SrAl2[(OH)2/(Si2O7)](H2O) and the Cmcm-P2_1/m phase transition
+      Note: Run #AU83
+      Locality: synthetic
+      _database_code_amcsd 0018952
+      CELL PARAMETERS:   5.8433  8.8169 13.1726   90.000   90.000   90.000
+      SPACE GROUP: Cmcm      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    678.650
+      Density (g/cm3):      3.160
+      MAX. ABS. INTENSITY / VOLUME**2:      4.870379764    
+      RIR:      0.719
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                15.62         10.17        6.5863    0   0   2         2
+                21.18         43.27        4.8707    1   1   0         4
+                22.60         33.11        4.5684    1   1   1         8
+                23.43          1.92        4.4085    0   2   0         2
+                24.73         32.42        4.1805    0   2   1         4
+                26.43          8.81        3.9162    1   1   2         8
+                28.29         48.41        3.6635    0   2   2         4
+                31.55          3.49        3.2931    0   0   4         2
+                31.86         26.86        3.2613    1   1   3         8
+                35.68         29.58        2.9216    2   0   0         2
+                38.31        100.00        2.7281    1   1   4         8
+                39.17         54.29        2.6707    2   0   2         4
+                39.67         72.77        2.6383    0   2   4         4
+                39.87         65.79        2.6256    1   3   0         4
+                40.69          6.50        2.5749    1   3   1         8
+                43.06         37.97        2.4389    1   3   2         8
+                43.13         26.02        2.4354    2   2   0         4
+                43.90         13.51        2.3948    2   2   1         8
+                45.45          9.67        2.3173    1   1   5         8
+                46.14         13.51        2.2842    2   2   2         8
+                46.63         25.01        2.2615    0   2   5         4
+                47.92          3.63        2.2042    0   4   0         2
+                48.12          6.01        2.1954    0   0   6         2
+                48.36          4.78        2.1855    2   0   4         4
+                48.63          2.51        2.1740    0   4   1         4
+                49.71         50.91        2.1297    2   2   3         8
+                50.71          3.46        2.0903    0   4   2         4
+                51.70          4.20        2.0529    1   3   4         8
+                53.13          3.51        2.0015    1   1   6         8
+                54.05         21.94        1.9699    0   4   3         4
+                54.19          1.14        1.9652    0   2   6         4
+                56.79          5.00        1.8824    3   1   1         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

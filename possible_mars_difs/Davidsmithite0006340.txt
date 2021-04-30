@@ -1,0 +1,59 @@
+      Davidsmithite
+      Rossi G, Oberti R, Smith D C
+      European Journal of Mineralogy 1 (1989) 59-70
+      The crystal structure of a K-poor Ca-rich silicate with the nepheline
+      framework, and crystal-chemical relationships in the compositional
+      space (K,Na,Ca,_)8(Al,Si)16O32
+      Sample: G201b7
+      _database_code_amcsd 0006340
+      CELL PARAMETERS:   9.9820  9.9820  8.3640   90.000   90.000  120.000
+      SPACE GROUP: P6_3      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    721.738
+      Density (g/cm3):      2.614
+      MAX. ABS. INTENSITY / VOLUME**2:      4.461400141    
+      RIR:      0.797
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                11.89          3.52        8.6447    1   0   0         6
+                17.13          1.03        6.0110    1   0   1         6
+                20.66         10.55        4.9910    1   1   0         6
+                23.90         24.95        4.3223    2   0   0         6
+                24.11          9.79        4.2859    1   1   1         6
+                24.72         77.62        4.1820    0   0   2         1
+                26.96         98.49        3.8399    2   0   1         6
+                27.51          2.03        3.7646    1   0   2         6
+                31.80         11.87        3.2674    1   2   0         6
+                31.80         55.82        3.2674    2   1   0         6
+                32.43          1.79        3.2055    1   1   2         6
+                34.21         12.54        3.0434    1   2   1         6
+                34.21          1.84        3.0434    2   1   1         6
+                34.66        100.00        3.0055    2   0   2         6
+                36.20         49.10        2.8816    3   0   0         6
+                40.69          9.33        2.5747    1   2   2         6
+                40.69         16.92        2.5747    2   1   2         6
+                42.04         18.51        2.4955    2   2   0         6
+                43.16          2.67        2.4340    1   1   3         6
+                43.84         11.06        2.3976    1   3   0         6
+                43.84          1.17        2.3976    3   1   0         6
+                43.97          3.00        2.3913    2   2   1         6
+                44.33          1.12        2.3728    3   0   2         6
+                44.92         52.25        2.3429    2   0   3         6
+                45.71         10.32        2.3048    1   3   1         6
+                45.71         20.19        2.3048    3   1   1         6
+                48.94          3.73        2.1612    4   0   0         6
+                49.93          4.65        2.1208    1   2   3         6
+                49.93          3.04        2.1208    2   1   3         6
+                50.66          1.14        2.0924    4   0   1         6
+                50.69         12.85        2.0910    0   0   4         1
+                50.98          4.57        2.0800    1   3   2         6
+                50.98          9.33        2.0800    3   1   2         6
+                52.26          2.91        2.0324    1   0   4         6
+                53.66          1.57        1.9832    3   2   0         6
+                55.27          3.06        1.9297    2   3   1         6
+                55.58          3.04        1.9199    4   0   2         6
+                56.79          2.63        1.8823    2   0   4         6
+                59.94          1.76        1.7919    3   2   2         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

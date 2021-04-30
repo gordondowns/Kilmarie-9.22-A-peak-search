@@ -1,0 +1,33 @@
+      Murchisite
+      Jellinek F
+      Acta Crystallographica 10 (1957) 620-628
+      The structures of the chromium sulphides
+      Locality: synthetic
+      _database_code_amcsd 0009198
+      CELL PARAMETERS:   5.9820  5.9820 11.5090   90.000   90.000  120.000
+      SPACE GROUP: P-31c     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    356.665
+      Density (g/cm3):      4.212
+      MAX. ABS. INTENSITY / VOLUME**2:      37.87828844    
+      RIR:      4.198
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                17.90          6.49        5.7545    0   0   2         2
+                19.90          3.79        5.1806    1   0   0         6
+                21.85         18.13        4.7240    1   0   1        12
+                26.89          3.58        3.8502    1   0   2        12
+                33.76          5.82        3.0830    1   0   3        12
+                34.83         35.45        2.9910    1   1   0         6
+                36.25          1.89        2.8772    0   0   4         2
+                39.42         42.42        2.6539    1   1   2         6
+                39.42         11.32        2.6539    2  -1   2         6
+                41.49          3.19        2.5271    2   0   1        12
+                41.69          1.05        2.5153    1   0   4        12
+                49.29          1.85        2.1468    2   0   3        12
+                50.37          1.73        2.1035    1   0   5        12
+                51.15         50.00        2.0736    2  -1   4         6
+                51.15         50.00        2.0736    1   1   4         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

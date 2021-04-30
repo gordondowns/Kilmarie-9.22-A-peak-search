@@ -1,0 +1,18 @@
+      Chromium
+      Hull A W, Davey W P
+      Physical Review 14 (1919) 540-540
+      Crystal structure of chromium
+      _database_code_amcsd 0015114
+      CELL PARAMETERS:   2.9100  2.9100  2.9100   90.000   90.000   90.000
+      SPACE GROUP: Im3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     24.642
+      Density (g/cm3):      7.007
+      MAX. ABS. INTENSITY / VOLUME**2:      169.0544861    
+      RIR:     11.263
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                51.57        100.00        2.0577    1   1   0        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

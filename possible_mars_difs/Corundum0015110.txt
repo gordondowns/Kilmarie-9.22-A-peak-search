@@ -1,0 +1,24 @@
+      Corundum
+      Tsirelson V, Antipin M, Gerr R, Ozerov R, Struchkov Y
+      Physica Status Solidi A87 (1985) 425-433
+      Ruby structure peculiarities derived from X-ray data. Localization of
+      chromium atoms and electron deformation density
+      _cod_database_code 1000017
+      _database_code_amcsd 0015110
+      CELL PARAMETERS:   4.7606  4.7606 12.9940   90.000   90.000  120.000
+      SPACE GROUP: R-3c      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    255.033
+      Density (g/cm3):      3.983
+      MAX. ABS. INTENSITY / VOLUME**2:      8.190089946    
+      RIR:      0.960
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                29.80         65.44        3.4811    0   1   2         6
+                41.07        100.00        2.5516    1   0   4         6
+                44.18         46.57        2.3803    1   1   0         6
+                50.82         95.85        2.0860    1   1   3        12
+                54.20          1.52        1.9649    2   0   2         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

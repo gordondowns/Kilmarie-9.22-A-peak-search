@@ -1,0 +1,23 @@
+      Spinel
+      Princivalle F, Martignago F, Dal Negro A
+      American Mineralogist 91 (2006) 313-318
+      Kinetics of cation ordering in natural Mg(Al,Cr3+)2O4 spinels
+      Locality: Olkhon metamorphic complex, Lake Baikal, Russia
+      Sample: Sc, untreated
+      _database_code_amcsd 0004086
+      CELL PARAMETERS:   8.1180  8.1180  8.1180   90.000   90.000   90.000
+      SPACE GROUP: Fd3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    534.992
+      Density (g/cm3):      3.676
+      MAX. ABS. INTENSITY / VOLUME**2:      14.77955955    
+      RIR:      1.877
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                22.02         44.19        4.6869    1   1   1         8
+                36.35         29.77        2.8701    2   2   0        12
+                42.90        100.00        2.4477    3   1   1        24
+                52.34         54.96        2.0295    4   0   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

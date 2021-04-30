@@ -1,0 +1,29 @@
+      Quartz
+      Kihara K
+      European Journal of Mineralogy 2 (1990) 63-77
+      An X-ray study of the temperature dependence of the quartz structure
+      Sample: at T = 298 K
+      _database_code_amcsd 0006362
+
+      CELL PARAMETERS:   4.9137  4.9137  5.4047   90.000   90.000  120.000
+      SPACE GROUP: P3_221    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    113.011
+      Density (g/cm3):      2.648
+      MAX. ABS. INTENSITY / VOLUME**2:      25.45502155    
+      RIR:      4.487
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                24.29         20.09        4.2554    1   0   0         6
+                31.06         30.03        3.3434    1   0   1         6
+                31.06         69.97        3.3434    0   1   1         6
+                42.73          7.08        2.4569    1   1   0         3
+                46.21          1.00        2.2812    0   1   2         6
+                46.21          6.10        2.2812    1   0   2         6
+                47.18          3.14        2.2366    1   1   1         6
+                49.76          5.15        2.1277    2   0   0         6
+                53.76          2.02        1.9798    2   0   1         6
+                59.00         12.13        1.8179    1   1   2         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

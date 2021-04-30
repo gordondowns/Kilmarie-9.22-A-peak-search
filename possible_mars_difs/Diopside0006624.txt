@@ -1,0 +1,48 @@
+      Diopside
+      Tribaudino M
+      European Journal of Mineralogy 8 (1996) 273-279
+      High-temperature crystal chemistry of C2/c clinopyroxenes along
+      the join CaMgSi2O6-CaAl2SiO6
+      Sample: Di70CaTs30 at 500 C
+      _database_code_amcsd 0006624
+      CELL PARAMETERS:   9.7170  8.8860  5.2880   90.000  106.290   90.000
+      SPACE GROUP: C2/c      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    438.263
+      Density (g/cm3):      3.289
+      MAX. ABS. INTENSITY / VOLUME**2:      8.116154014    
+      RIR:      1.152
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                23.25          3.80        4.4430    0   2   0         2
+                28.35          2.72        3.6557    1   1   1         4
+                31.06          8.08        3.3431    0   2   1         4
+                32.31         23.71        3.2168    2   2   0         4
+                34.82        100.00        2.9913   -2   2   1         4
+                35.52         27.92        2.9345    3   1   0         4
+                36.03         36.82        2.8941   -3   1   1         4
+                36.97          1.03        2.8231    1   3   0         4
+                40.91         24.47        2.5612   -1   3   1         4
+                41.11          1.94        2.5495   -2   0   2         2
+                41.31         39.60        2.5379    0   0   2         2
+                41.85         40.56        2.5066    2   2   1         4
+                44.13          1.35        2.3827    1   3   1         4
+                45.99         16.59        2.2912    3   1   1         4
+                47.59          9.54        2.2188    1   1   2         4
+                47.76          1.41        2.2113   -2   2   2         4
+                47.93          9.38        2.2037    0   2   2         4
+                49.34          9.44        2.1445    3   3   0         4
+                49.74         15.90        2.1286   -3   3   1         4
+                50.37          8.50        2.1035   -4   2   1         4
+                51.39          1.03        2.0647    4   2   0         4
+                52.19         18.82        2.0351    0   4   1         4
+                52.53         10.41        2.0228   -4   0   2         2
+                53.02          6.52        2.0054    2   0   2         2
+                53.98          7.47        1.9724   -1   3   2         4
+                57.83          1.50        1.8512    3   3   1         4
+                58.64          2.46        1.8279    2   2   2         4
+                58.72          6.20        1.8256    5   1   0         4
+                59.20          2.90        1.8124    1   3   2         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

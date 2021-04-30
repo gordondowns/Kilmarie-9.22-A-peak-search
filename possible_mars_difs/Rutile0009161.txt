@@ -1,0 +1,23 @@
+      Rutile
+      Baur W H
+      Acta Crystallographica 9 (1956) 515-520
+      Uber die verfeinerung der kristallstrukturbestimmung einiger vertreter
+      des rutiltyps: TiO2, SnO2, GeO2 und MgF2
+      _database_code_amcsd 0009161
+      CELL PARAMETERS:   4.5940  4.5940  2.9590   90.000   90.000   90.000
+      SPACE GROUP: P4_2/mnm  
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     62.449
+      Density (g/cm3):      4.247
+      MAX. ABS. INTENSITY / VOLUME**2:      33.84288372    
+      RIR:      3.720
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                31.99        100.00        3.2484    1   1   0         4
+                42.18         43.39        2.4876    1   0   1         8
+                45.87          6.58        2.2970    2   0   0         4
+                48.31         17.51        2.1875    1   1   1         8
+                51.66          6.44        2.0545    2   1   0         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

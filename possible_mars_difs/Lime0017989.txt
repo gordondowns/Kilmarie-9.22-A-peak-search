@@ -1,0 +1,20 @@
+      Lime
+      Oftedal I
+      Zeitschrift fur Physikalische Chemie 128 (1927) 135-158
+      Die Gitterkonstanten von Ca O, Ca S, Ca Se, Ca Te.
+      _cod_database_code 1011094
+      _database_code_amcsd 0017989
+      CELL PARAMETERS:   4.8120  4.8120  4.8120   90.000   90.000   90.000
+      SPACE GROUP: Fm3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    111.424
+      Density (g/cm3):      3.342
+      MAX. ABS. INTENSITY / VOLUME**2:      31.63886888    
+      RIR:      4.419
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                37.59         38.75        2.7782    1   1   1         8
+                43.68        100.00        2.4060    2   0   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

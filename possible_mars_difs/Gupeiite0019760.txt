@@ -1,0 +1,21 @@
+      Gupeiite
+      Farquhar M C M, Lipson H, Weill A R
+      Journal of the Iron and Steel Institute 152 (1945) 457-472
+      An X-ray study of iron-rich iron-silicon alloys
+      Locality: synthetic
+      _database_code_amcsd 0019760
+      CELL PARAMETERS:   5.6550  5.6550  5.6550   90.000   90.000   90.000
+      SPACE GROUP: Fm3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    180.841
+      Density (g/cm3):      7.184
+      MAX. ABS. INTENSITY / VOLUME**2:      167.2980126    
+      RIR:     10.871
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                31.83          6.48        3.2649    1   1   1         8
+                36.91          3.28        2.8275    2   0   0         6
+                53.19        100.00        1.9993    2   2   0        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,20 @@
+      Manganosite
+      Fontana C
+      Gazzetta Chimica Italiana 56 (1926) 396-397
+      Struttura dell'ossido manganoso
+      _cod_database_code 1010393
+      _database_code_amcsd 0017318
+      CELL PARAMETERS:   4.4080  4.4080  4.4080   90.000   90.000   90.000
+      SPACE GROUP: Fm3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:     85.649
+      Density (g/cm3):      5.500
+      MAX. ABS. INTENSITY / VOLUME**2:      63.10512405    
+      RIR:      5.356
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                41.19         64.73        2.5450    1   1   1         8
+                47.93        100.00        2.2040    2   0   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

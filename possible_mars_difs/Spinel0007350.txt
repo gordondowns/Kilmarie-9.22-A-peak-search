@@ -1,0 +1,22 @@
+      Spinel
+      Ishii M, Hiraishi J, Yamanaka T
+      Physics and Chemistry of Minerals 8 (1982) 64-68
+      Structure and lattice vibrations of Mg-Al spinel solid solution
+      Sample: Nonstoichiometric MgO.3Al2O3
+      _database_code_amcsd 0007350
+      CELL PARAMETERS:   8.0878  8.0878  8.0878   90.000   90.000   90.000
+      SPACE GROUP: Fd3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    529.043
+      Density (g/cm3):      3.476
+      MAX. ABS. INTENSITY / VOLUME**2:      7.166198118    
+      RIR:      0.962
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                22.10         47.13        4.6695    1   1   1         8
+                36.49         37.07        2.8595    2   2   0        12
+                43.07        100.00        2.4386    3   1   1        24
+                52.55         38.02        2.0220    4   0   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

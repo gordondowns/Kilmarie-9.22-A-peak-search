@@ -1,0 +1,38 @@
+      Titanite
+      Liferovich R P, Mitchell R H
+      Physics and Chemistry of Minerals 33 (2006) 73-83
+      Tantalum-bearing titanite: synthesis and crystal structure data
+      Locality: synthetic
+      Sample: AlTa2
+      _database_code_amcsd 0009023
+      CELL PARAMETERS:   7.0610  8.7162  6.5697   90.000  113.742   90.000
+      SPACE GROUP: A2/a      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    370.113
+      Density (g/cm3):      3.920
+      MAX. ABS. INTENSITY / VOLUME**2:      18.13310852    
+      RIR:      2.159
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                20.84         48.98        4.9499    0   1   1         4
+                23.71          8.97        4.3581    0   2   0         2
+                32.05        100.00        3.2422   -2   1   1         4
+                34.64         68.59        3.0068    0   0   2         2
+                40.02         61.20        2.6161    0   3   1         4
+                40.34         44.28        2.5959    2   2   0         4
+                42.41          1.08        2.4749    0   2   2         4
+                44.13          8.04        2.3827   -2   2   2         4
+                44.38          9.08        2.3702    2   1   1         4
+                46.03          9.60        2.2895    1   3   1         4
+                46.45          6.59        2.2698   -3   1   1         4
+                48.51          4.51        2.1790    0   4   0         2
+                50.11          5.43        2.1138   -1   1   3         4
+                50.68          2.69        2.0914    1   2   2         4
+                51.26         19.15        2.0696   -2   1   3         4
+                51.38          6.12        2.0649    1   4   0         4
+                53.68          1.37        1.9827   -3   2   2         4
+                54.54         10.14        1.9536    0   1   3         4
+                59.40         11.11        1.8067    2   4   0         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

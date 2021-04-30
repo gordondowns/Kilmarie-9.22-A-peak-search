@@ -1,0 +1,46 @@
+      Shortite
+      Dickens B, Hyman A, Brown W E
+      Journal of Research of the National Bureau of Standards - Physics and Chemistry 75A (1971) 129-135
+      Crystal structure of Ca2Na2(CO3)3 (shortite)
+      Note: Y- and z-coordinates of Ca adjusted to match reported bond lengths
+      _database_code_amcsd 0013288
+      CELL PARAMETERS:   4.9470 11.0320  7.1080   90.000   90.000   90.000
+      SPACE GROUP: Amm2      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    387.921
+      Density (g/cm3):      2.621
+      MAX. ABS. INTENSITY / VOLUME**2:      5.049878086    
+      RIR:      0.900
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                17.23         40.90        5.9752    0   1   1         2
+                18.68         54.29        5.5160    0   2   0         2
+                20.85         63.63        4.9470    1   0   0         2
+                27.17         46.43        3.8105    1   1   1         4
+                28.13          1.73        3.6828    1   2   0         4
+                29.18         21.26        3.5540    0   0   2         1
+                31.81         20.30        3.2661    0   3   1         2
+                34.87         16.80        2.9876    0   2   2         2
+                36.13         16.47        2.8864    1   0   2         2
+                37.88         10.74        2.7580    0   4   0         2
+                38.35         23.42        2.7257    1   3   1         4
+                40.98        100.00        2.5574    1   2   2         4
+                42.43         47.97        2.4735    2   0   0         2
+                43.63          5.79        2.4089    1   4   0         4
+                45.46         21.20        2.3165    0   1   3         2
+                46.12         16.34        2.2854    2   1   1         4
+                48.51         38.41        2.1789    0   4   2         2
+                50.28         29.46        2.1072    0   5   1         2
+                50.52          7.97        2.0979    1   1   3         4
+                52.32         31.63        2.0302    2   0   2         2
+                53.35         19.52        1.9940    1   4   2         4
+                53.41         26.97        1.9917    0   3   3         2
+                54.00         22.79        1.9719    2   3   1         4
+                55.00          5.52        1.9387    1   5   1         4
+                56.05         17.38        1.9052    2   2   2         4
+                57.96          4.90        1.8476    1   3   3         4
+                58.17         26.90        1.8414    2   4   0         4
+                58.27          4.19        1.8387    0   6   0         2
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

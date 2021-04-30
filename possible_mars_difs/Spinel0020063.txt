@@ -1,0 +1,26 @@
+      Spinel
+      Lenaz D, Youbi N, Min A D, Boumehdi M A, Abbou M B
+      American Mineralogist 99 (2014) 267-275
+      Low intra-crystalline closure temperatures of Cr-bearing spinels from the mantle xenoliths of
+      the Middle AtlasNeogene-Quaternary Volcanic Field (Morocco):Mineralogical evidence of a cooler
+      mantle beneath the West African Craton.
+      Note:Sample MAR-BI16
+      Locality:Middle Atlas Neogene-Quaternary Volcanic Field of Morocco
+      _database_code_amcsd 0020063
+      CELL PARAMETERS:   8.2021  8.2021  8.2021   90.000   90.000   90.000
+      SPACE GROUP: Fd3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    551.792
+      Density (g/cm3):      4.121
+      MAX. ABS. INTENSITY / VOLUME**2:      25.52874838    
+      RIR:      2.892
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.79         26.27        4.7355    1   1   1         8
+                35.96         30.59        2.8999    2   2   0        12
+                42.44        100.00        2.4730    3   1   1        24
+                44.43          1.39        2.3677    2   2   2         8
+                51.77         36.91        2.0505    4   0   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

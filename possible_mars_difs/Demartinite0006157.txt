@@ -1,0 +1,31 @@
+      Demartinite
+      Gramaccioli C M, Campostrini I
+      The Canadian Mineralogist 45 (2007) 1275-1280
+      Demartinite, a new polymorph of K2SiF6 from La Fossa Crater, Vulcano,
+      Aeolian Islands, Italy
+      Locality: La Fossa Crater, Vulcano Island, Aeolian Archipelago, Sicily, Italy
+      _database_code_amcsd 0006157
+      CELL PARAMETERS:   5.6461  5.6461  9.2322   90.000   90.000  120.000
+      SPACE GROUP: P6_3mc    
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    254.878
+      Density (g/cm3):      2.870
+      MAX. ABS. INTENSITY / VOLUME**2:      10.31125328    
+      RIR:      1.677
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.10          8.16        4.8897    1   0   0         6
+                22.36         19.73        4.6161    0   0   2         1
+                23.91         54.94        4.3210    1   0   1         6
+                30.93         69.54        3.3566    1   0   2         6
+                36.97         43.85        2.8231    1   1   0         6
+                40.20         14.78        2.6045    1   0   3         6
+                42.96          3.92        2.4448    2   0   0         6
+                44.51         30.71        2.3634    2   0   1         6
+                45.64         23.71        2.3080    0   0   4         1
+                48.95        100.00        2.1605    2   0   2         6
+                50.79          6.66        2.0872    1   0   4         6
+                55.76         30.37        1.9143    2   0   3         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

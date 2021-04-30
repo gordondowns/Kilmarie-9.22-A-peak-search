@@ -1,0 +1,39 @@
+      Fluornatrocoulsellite
+      Mumme W G, Grey I E, Birch W D, Pring A, Bougerol C, Wilson N C
+      American Mineralogist 95 (2010) 736-740
+      Coulsellite, CaNa3AlMg3F14, a rhombohedral pyrochlore with 1:3 ordering
+      in both A and B sites, from the Cleveland mine, Tasmania, Australia
+      Locality: Cleveland tin mine, Luina, western Tasmania
+      _database_code_amcsd 0020643
+      CELL PARAMETERS:   7.1756  7.1756  7.1756   59.867   59.867   59.867
+      SPACE GROUP: R-3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    260.464
+      Density (g/cm3):      3.027
+      MAX. ABS. INTENSITY / VOLUME**2:      9.831080791    
+      RIR:      1.516
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                17.56          8.28        5.8647    1   1   1         2
+                17.61          4.07        5.8490    1   0   0         6
+                20.34          9.69        5.0688    1   1   0         6
+                28.90          3.05        3.5878    2   1   1         6
+                28.95          1.59        3.5806    0  -1   1         6
+                34.01          1.83        3.0605    2   2   1         6
+                34.06          5.12        3.0560    2   1   0        12
+                34.09          4.22        3.0538    1  -1   1         6
+                35.55         30.67        2.9324    2   2   2         2
+                35.65        100.00        2.9245    2   0   0         6
+                45.20         15.19        2.3294    3   2   2         6
+                45.26          3.34        2.3265    3   1   1         6
+                45.32         28.02        2.3235    0  -1   2        12
+                51.17          1.11        2.0728    3   2   3         6
+                51.28          8.00        2.0686    3   1   0        12
+                51.32          1.42        2.0673    1  -2   1         6
+                54.63          4.08        1.9508    3   2   0        12
+                54.66         12.52        1.9497    3   0   0         6
+                54.66          3.99        1.9497    2  -1   2         6
+                60.00         47.18        1.7903    0  -2   2         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

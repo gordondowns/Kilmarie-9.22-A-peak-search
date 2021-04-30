@@ -1,0 +1,37 @@
+      Vermiculite
+      Arguelles A, Leoni M, Blanco J A, Marcos C
+      American Mineralogist 95 (2010) 126-134
+      Semi-ordered crystalline structure of the Santa Olalla vermiculite
+      inferred from X-ray powder diffraction
+      Locality: Santa Olalla, Toledo Province, Spain
+      _database_code_amcsd 0020497
+      CELL PARAMETERS:   5.3434  9.2540 14.3400   90.000   97.091   90.000
+      SPACE GROUP: P1        
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    703.658
+      Density (g/cm3):      2.188
+      MAX. ABS. INTENSITY / VOLUME**2:      44.76814275    
+      RIR:      9.551
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                 7.21        100.00       14.2303    0   0   1         1
+                22.31          2.82        4.6270    0   2   0         1
+                22.84          1.83        4.5217   -1  -1   1         1
+                24.34          2.24        4.2466    1  -1   1         1
+                24.34          1.45        4.2465    1   1   1         1
+                25.43          1.73        4.0672   -1   1   2         1
+                25.43          1.06        4.0672   -1  -1   2         1
+                26.68          1.07        3.8790    0  -2   2         1
+                29.15          2.05        3.5576    0   0   4         1
+                36.66          3.62        2.8461    0   0   5         1
+                39.47          1.38        2.6507   -1   3   1         1
+                39.47          1.38        2.6507   -1  -3   1         1
+                41.11          1.48        2.5493   -1   3   2         1
+                41.11          1.48        2.5493   -1  -3   2         1
+                44.00          1.23        2.3897    2   0   2         1
+                44.02          1.85        2.3885   -1  -3   3         1
+                44.02          1.85        2.3885   -1   3   3         1
+                47.98          1.31        2.2015    2   0   3         1
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

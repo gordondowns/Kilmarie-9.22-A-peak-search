@@ -1,0 +1,28 @@
+      Daubreelite
+      Babaev G Y, Kocharov A G, Ptasevich K, Yamzin I I, Vinnik M A, Saksonov Y G,
+      Alferov V A, Gordeev I V, Tret'yakov Y D
+      Soviet Physics Crystallography 20 (1975) 336-339
+      Magnetic and neutron diffraction studies of the sulfo-spinels Cu.2Fe.8Cr2S4 and
+      Fe1.2Cr1.8S4
+      Locality: synthetic
+      _database_code_amcsd 0015568
+      CELL PARAMETERS:   9.9890  9.9890  9.9890   90.000   90.000   90.000
+      SPACE GROUP: Fd3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    996.704
+      Density (g/cm3):      3.850
+      MAX. ABS. INTENSITY / VOLUME**2:      32.44850976    
+      RIR:      3.935
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                17.86         16.32        5.7672    1   1   1         8
+                29.37         35.30        3.5316    2   2   0        12
+                34.58        100.00        3.0118    3   1   1        24
+                36.17          1.51        2.8836    2   2   2         8
+                42.01         52.53        2.4973    4   0   0         6
+                52.08         11.29        2.0390    4   2   2        24
+                55.50          3.12        1.9224    3   3   3         8
+                55.50         44.90        1.9224    5   1   1        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

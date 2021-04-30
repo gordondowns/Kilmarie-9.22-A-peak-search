@@ -1,0 +1,25 @@
+      Hieratite
+      Hester J R, Maslen E N, Spadaccini N, Ishizawa N, Satow Y
+      Acta Crystallographica B49 (1993) 967-973
+      Accurate synchrotron radiation delta rho maps for K2SiF6 and K2PdCl6
+      Locality: synthetic
+      Sample: Mo K-alpha
+      _database_code_amcsd 0009880
+      CELL PARAMETERS:   8.1419  8.1419  8.1419   90.000   90.000   90.000
+      SPACE GROUP: Fm-3m     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    539.731
+      Density (g/cm3):      2.710
+      MAX. ABS. INTENSITY / VOLUME**2:      14.22937119    
+      RIR:      2.451
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.96        100.00        4.7007    1   1   1         8
+                36.23         64.62        2.8786    2   2   0        12
+                42.77          5.31        2.4549    3   1   1        24
+                44.77         71.52        2.3504    2   2   2         8
+                52.18         56.76        2.0355    4   0   0         6
+                58.90          2.66        1.8206    4   2   0        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

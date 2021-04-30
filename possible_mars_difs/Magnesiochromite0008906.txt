@@ -1,0 +1,24 @@
+      Magnesiochromite
+      Lenaz D, Skogby H, Princivalle F, Halenius U
+      Physics and Chemistry of Minerals 31 (2004) 633-642
+      Structural changes and valence states in the MgCr2O4-FeCr2O4 solid solution series
+      Sample: Fe2-10
+      _database_code_amcsd 0008906
+      CELL PARAMETERS:   8.3352  8.3352  8.3352   90.000   90.000   90.000
+      SPACE GROUP: Fd-3m     
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    579.093
+      Density (g/cm3):      4.460
+      MAX. ABS. INTENSITY / VOLUME**2:      34.57677866    
+      RIR:      3.619
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.44         67.31        4.8123    1   1   1         8
+                35.37         13.46        2.9469    2   2   0        12
+                41.73        100.00        2.5132    3   1   1        24
+                43.68         11.19        2.4062    2   2   2         8
+                50.88         52.28        2.0838    4   0   0         6
+                55.82          4.31        1.9122    3   3   1        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

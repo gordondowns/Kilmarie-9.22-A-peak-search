@@ -1,0 +1,23 @@
+      Hercynite
+      Waerenborgh J C, Figueiredo M O, Cabral J M P, Pereira L C J
+      Physics and Chemistry of Minerals 21 (1994) 460-468
+      Powder XRD structure refinements and 57Fe Mossbauer effect study
+      of synthetic Zn1-xFexAl2O4 (o<x<=1) spinels annealed at different temperatures
+      Sample: 1.0, annealed at 1075 degrees C for 48 hours, then quenched
+      _database_code_amcsd 0007897
+      CELL PARAMETERS:   8.1546  8.1546  8.1546   90.000   90.000   90.000
+      SPACE GROUP: Fd3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    542.261
+      Density (g/cm3):      4.257
+      MAX. ABS. INTENSITY / VOLUME**2:      29.88373256    
+      RIR:      3.277
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                36.18         60.30        2.8831    2   2   0        12
+                42.70        100.00        2.4587    3   1   1        24
+                52.09         12.63        2.0387    4   0   0         6
+                57.17          3.77        1.8708    3   3   1        24
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

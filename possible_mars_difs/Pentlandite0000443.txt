@@ -1,0 +1,29 @@
+      Pentlandite
+      Rajamani V, Prewitt C T
+      American Mineralogist 60 (1975) 39-48
+      Thermal expansion of the pentlandite structure
+      Outokumpu, at 24 deg C after heating
+      _database_code_amcsd 0000443
+      CELL PARAMETERS:   9.9690  9.9690  9.9690   90.000   90.000   90.000
+      SPACE GROUP: Fm3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    990.729
+      Density (g/cm3):      5.245
+      MAX. ABS. INTENSITY / VOLUME**2:      53.15785663    
+      RIR:      4.731
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                17.89         27.89        5.7556    1   1   1         8
+                20.69          5.36        4.9845    2   0   0         6
+                29.43          5.73        3.5246    2   2   0        12
+                34.65        100.00        3.0058    3   1   1        24
+                36.25         21.94        2.8778    2   2   2         8
+                42.10          8.28        2.4922    4   0   0         6
+                46.08         16.80        2.2870    3   3   1        24
+                47.35          3.33        2.2291    4   2   0        24
+                52.19          1.91        2.0349    4   2   2        24
+                55.62         30.34        1.9185    5   1   1        24
+                55.62          6.17        1.9185    3   3   3         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

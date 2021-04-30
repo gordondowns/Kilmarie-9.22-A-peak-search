@@ -1,0 +1,36 @@
+      Groutite
+      Kohler T, Armbruster T, Libowitzky E
+      Journal of Solid State Chemistry 133 (1997) 486-500
+      Hydrogen bonding and Jahn-Teller distortion in groutite, alpha-MnOOH,
+      and manganite, gamma-MnOOH, and their relations to the manganese
+      dioxides ramsdellite and pyrolusite
+      Locality: Nchwaning Mine, Kalahari manganese field, Republic of South Africa
+      _database_code_amcsd 0013941
+      CELL PARAMETERS:  10.6670  2.8710  4.5540   90.000   90.000   90.000
+      SPACE GROUP: Pnma      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    139.466
+      Density (g/cm3):      4.188
+      MAX. ABS. INTENSITY / VOLUME**2:      26.78864775    
+      RIR:      2.986
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                19.32          8.46        5.3335    2   0   0         2
+                24.68        100.00        4.1883    1   0   1         4
+                29.96         10.36        3.4633    2   0   1         4
+                37.25         40.61        2.8026    3   0   1         4
+                39.23         34.66        2.6667    4   0   0         2
+                41.48         15.55        2.5280    2   1   0         4
+                43.26          5.28        2.4287    0   1   1         4
+                44.42         56.74        2.3681    1   1   1         8
+                45.78         18.80        2.3012    4   0   1         4
+                46.30          2.50        2.2770    0   0   2         2
+                47.40          2.13        2.2268    1   0   2         4
+                47.78          6.96        2.2103    2   1   1         8
+                53.02          6.36        2.0055    3   1   1         8
+                54.53          3.46        1.9539    4   1   0         4
+                55.21          3.92        1.9319    5   0   1         4
+                59.80          4.11        1.7956    4   1   1         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

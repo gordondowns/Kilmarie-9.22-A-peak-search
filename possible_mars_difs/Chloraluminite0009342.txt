@@ -1,0 +1,41 @@
+      Chloraluminite
+      Buchanan D R, Harris P M
+      Acta Crystallographica B24 (1968) 954-960
+      A neutron and X-ray diffraction investigation of aluminium chloride hexahydrate
+      Locality: synthetic
+      Sample: neutron diffraction data
+      _database_code_amcsd 0009342
+      CELL PARAMETERS:  11.8270 11.8270 11.8950   90.000   90.000  120.000
+      SPACE GROUP: R-3c      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:   1440.935
+      Density (g/cm3):      1.669
+      MAX. ABS. INTENSITY / VOLUME**2:      6.044610128    
+      RIR:      1.691
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                17.41         23.16        5.9135    1   1   0         6
+                20.05         26.07        5.1433    0   1   2         6
+                26.67         26.32        3.8808    2   0   2         6
+                28.15         30.75        3.6812    2   1   1        12
+                30.40         22.37        3.4142    3   0   0         6
+                31.54        100.00        3.2932    1   1   3        12
+                32.03         49.90        3.2445    1   2   2        12
+                35.25         10.92        2.9567    2   2   0         6
+                37.81          6.15        2.7631    1   3   1        12
+                40.88         22.77        2.5634    3   1   2        12
+                44.38          1.98        2.3703    2   2   3        12
+                44.74          1.27        2.3519    0   4   2         6
+                45.70         38.22        2.3052    3   2   1        12
+                48.36         15.02        2.1854    2   3   2        12
+                51.67         32.53        2.0541    1   3   4        12
+                52.42          4.87        2.0269    1   2   5        12
+                53.68          9.49        1.9825    0   0   6         2
+                54.74          5.01        1.9470    1   4   3        12
+                54.74          4.93        1.9470    4   1   3        12
+                54.94         11.27        1.9404    4   0   4         6
+                56.88          1.75        1.8797    1   1   6        12
+                58.99          1.53        1.8180    5   1   1        12
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

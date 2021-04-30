@@ -1,0 +1,54 @@
+      Shirozulite
+      Ishida K, Hawthorne F C, Hirowatari F
+      American Mineralogist 89 (2004) 232-238
+      Shirozulite, KMn3(Si3Al)O10(OH)2, a new manganese-dominant trioctahedral mica:
+      Description and crystal structure
+      Note: Displacement factors for O1, O2 and O4 have been altered.
+      _database_code_amcsd 0003404
+      CELL PARAMETERS:   5.3791  9.3190 10.2918   90.000  100.186   90.000
+      SPACE GROUP: C2/m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    507.774
+      Density (g/cm3):      3.143
+      MAX. ABS. INTENSITY / VOLUME**2:      13.57717555    
+      RIR:      2.016
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                10.14        100.00       10.1296    0   0   1         2
+                20.36          2.26        5.0648    0   0   2         2
+                22.15          3.22        4.6595    0   2   0         2
+                22.43          3.60        4.6033    1   1   0         4
+                24.42          1.57        4.2331    0   2   1         4
+                26.08          8.22        3.9674    1   1   1         4
+                27.99         16.82        3.7016   -1   1   2         4
+                30.26         21.83        3.4291    0   2   2         4
+                30.75         27.28        3.3765    0   0   3         2
+                32.78         20.93        3.1724    1   1   2         4
+                35.36         15.81        2.9473   -1   1   3         4
+                38.22          8.88        2.7341    0   2   3         4
+                39.04          1.28        2.6792    1   3   0         4
+                39.49         41.32        2.6494   -1   3   1         4
+                39.53         20.55        2.6472    2   0   0         2
+                41.23          3.69        2.5426    1   1   3         4
+                41.40          5.81        2.5324    0   0   4         2
+                42.66         20.65        2.4611   -1   3   2         4
+                42.73         10.50        2.4571    2   0   1         2
+                45.19          1.74        2.3298    0   4   0         2
+                45.33          2.99        2.3229   -2   2   1         4
+                45.77          2.87        2.3017    2   2   0         4
+                46.04          2.93        2.2891   -2   0   3         2
+                46.12          5.88        2.2853    1   3   2         4
+                46.44          2.35        2.2705    0   4   1         4
+                47.37          2.27        2.2285   -2   2   2         4
+                48.10         19.61        2.1967   -1   3   3         4
+                48.20          9.83        2.1923    2   0   2         2
+                48.64          1.91        2.1734    2   2   1         4
+                50.04          1.28        2.1166    0   4   2         4
+                52.44          2.36        2.0259    0   0   5         2
+                52.70          5.39        2.0167   -2   0   4         2
+                52.81         10.95        2.0129    1   3   3         4
+                55.31          3.42        1.9286   -1   3   4         4
+                55.44          1.67        1.9245    2   0   3         2
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

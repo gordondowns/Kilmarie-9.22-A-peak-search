@@ -1,0 +1,48 @@
+      Wadsleyite
+      Holl C M, Smyth J R, Jacobsen S D, Frost D J
+      American Mineralogist 93 (2008) 598-607
+      Effects of hydration on the structure and compressibility of wadsleyite, beta-(Mg2SiO4)
+      Locality: synthetic
+      Sample: SS0401, 1.66 wt% H2O
+      _database_code_amcsd 0004543
+      CELL PARAMETERS:   5.6807 11.5243  8.2515   90.000   90.090   90.000
+      SPACE GROUP: I2/m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    540.193
+      Density (g/cm3):      3.442
+      MAX. ABS. INTENSITY / VOLUME**2:      4.317059937    
+      RIR:      0.585
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                25.06          1.12        4.1257    0   0   2         2
+                32.40         29.36        3.2086   -1   1   2         4
+                32.44         28.41        3.2042    1   1   2         4
+                36.20         18.81        2.8811    0   4   0         2
+                36.74         18.52        2.8403    2   0   0         2
+                39.10         63.95        2.6754    0   1   3         4
+                40.01         37.30        2.6168   -2   1   1         4
+                40.05         36.91        2.6144    2   1   1         4
+                41.60         12.71        2.5208   -1   3   2         4
+                41.64         12.45        2.5187    1   3   2         4
+                42.37         23.03        2.4771   -1   0   3         2
+                42.42         23.47        2.4741    1   0   3         2
+                42.79         61.95        2.4538   -1   4   1         4
+                42.81         62.77        2.4528    1   4   1         4
+                44.54          6.67        2.3621    0   4   2         4
+                44.96          1.24        2.3413   -2   0   2         2
+                45.03          1.24        2.3378    2   0   2         2
+                47.19         15.46        2.2363    0   3   3         4
+                47.56          3.18        2.2199    0   5   1         4
+                47.98         21.51        2.2018   -2   3   1         4
+                48.01         21.19        2.2004    2   3   1         4
+                51.43         45.99        2.0629    0   0   4         2
+                52.53        100.00        2.0227    2   4   0         4
+                55.80          2.58        1.9130   -1   1   4         4
+                55.86          2.45        1.9112    1   1   4         4
+                56.31          3.06        1.8971   -1   5   2         4
+                56.34          2.96        1.8962    1   5   2         4
+                56.92          1.66        1.8783   -1   4   3         4
+                56.97          1.55        1.8770    1   4   3         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

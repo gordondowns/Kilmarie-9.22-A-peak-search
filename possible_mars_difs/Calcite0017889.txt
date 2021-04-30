@@ -1,0 +1,25 @@
+      Calcite
+      Wyckoff R
+      American Journal of Science 50 (1920) 317-360
+      The Crystal Structures of some Carbonates of the Calcite Group
+      _cod_database_code 1010962
+      _database_code_amcsd 0017889
+      CELL PARAMETERS:   6.3600  6.3600  6.3600   46.100   46.100   46.100
+      SPACE GROUP: R3c       
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    121.857
+      Density (g/cm3):      2.727
+      MAX. ABS. INTENSITY / VOLUME**2:      20.09596641    
+      RIR:      3.440
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                26.91          6.02        3.8471    1   1   0         3
+                34.38        100.00        3.0289    2   1   1         3
+                36.79          2.30        2.8364    2   2   2         1
+                42.14         14.08        2.4902    0  -1   1         6
+                46.23         17.12        2.2802    2   1   0         6
+                50.71         13.30        2.0905    2   0   0         3
+                55.47          5.63        1.9236    2   2   0         3
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

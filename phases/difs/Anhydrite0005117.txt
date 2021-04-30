@@ -1,0 +1,35 @@
+      Anhydrite
+      Hawthorne F C, Ferguson R B
+      The Canadian Mineralogist 13 (1975) 289-292
+      Anhydrous sulphates. II. Refinement of the crystal structure of anhydrite
+      Locality: Leopoldshall, East Germany
+      _database_code_amcsd 0005117
+
+      CELL PARAMETERS:   6.9930  6.9950  6.2450   90.000   90.000   90.000
+      SPACE GROUP: Amma      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    305.481
+      Density (g/cm3):      2.960
+      MAX. ABS. INTENSITY / VOLUME**2:      11.39341072    
+      RIR:      1.797
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                26.70          8.91        3.8770    1   1   1         8
+                29.66         98.76        3.4975    0   2   0         2
+                29.67        100.00        3.4965    2   0   0         2
+                33.32          3.94        3.1225    0   0   2         2
+                36.60         59.47        2.8512    1   0   2         4
+                37.34          5.82        2.7965    2   1   1         8
+                42.45         13.65        2.4728    2   2   0         4
+                45.20         33.07        2.3293    0   2   2         4
+                45.21          2.36        2.3290    2   0   2         4
+                47.79         37.71        2.2099    1   2   2         8
+                48.38         11.83        2.1844    0   3   1         4
+                50.86         11.80        2.0846    3   1   1         8
+                53.31          8.67        1.9952    0   1   3         4
+                55.00          6.10        1.9385    2   2   2         8
+                57.27         26.61        1.8679    3   0   2         4
+                57.79          5.81        1.8526    2   3   1         8
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

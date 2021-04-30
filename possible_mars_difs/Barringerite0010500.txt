@@ -1,0 +1,26 @@
+      Barringerite
+      Hendricks S B, Kosting P R
+      Zeitschrift fur Kristallographie 74 (1930) 511-533
+      The crystal structure of Fe2P, Fe2N, Fe3N and FeB
+      Locality: synthetic
+      _database_code_amcsd 0010500
+      CELL PARAMETERS:   5.8520  5.8520  3.4530   90.000   90.000  120.000
+      SPACE GROUP: P321      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    102.408
+      Density (g/cm3):      6.939
+      MAX. ABS. INTENSITY / VOLUME**2:      71.19708388    
+      RIR:      4.790
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                20.35          1.80        5.0680    1   0   0         6
+                35.63          4.54        2.9260    1   1   0         3
+                36.56          9.09        2.8536    0   1   1         6
+                41.37          1.66        2.5340    2   0   0         6
+                47.28        100.00        2.2323    1   1   1         6
+                51.97         34.30        2.0429    0   2   1         6
+                51.97         16.49        2.0429    2   0   1         6
+                55.72         12.02        1.9155    2   1   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

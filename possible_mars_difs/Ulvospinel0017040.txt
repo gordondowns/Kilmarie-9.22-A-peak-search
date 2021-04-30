@@ -1,0 +1,23 @@
+      Ulvospinel
+      Barth T, Posnjak E
+      Zeitschrift fur Kristallographie 82 (1932) 325-341
+      Spinel structures: with and without variate atom equipoints
+      _cod_database_code 1010109
+      _database_code_amcsd 0017040
+      CELL PARAMETERS:   8.5000  8.5000  8.5000   90.000   90.000   90.000
+      SPACE GROUP: Fd3m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    614.125
+      Density (g/cm3):      4.835
+      MAX. ABS. INTENSITY / VOLUME**2:      52.17724046    
+      RIR:      5.038
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.02         11.38        4.9075    1   1   1         8
+                34.66         36.26        3.0052    2   2   0        12
+                40.89        100.00        2.5628    3   1   1        24
+                42.79          6.83        2.4537    2   2   2         8
+                49.83         17.67        2.1250    4   0   0         6
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

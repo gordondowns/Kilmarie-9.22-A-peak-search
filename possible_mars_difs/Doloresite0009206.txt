@@ -1,0 +1,42 @@
+      Doloresite
+      Evans H T, Mrose M E
+      Acta Crystallographica 11 (1958) 56-58
+      The crystal structures of three new vanadium oxide minerals
+      Locality: Carlile, Wyoming, USA
+      _database_code_amcsd 0009206
+      CELL PARAMETERS:  19.6400  2.9900  4.8300   90.000  103.920   90.000
+      SPACE GROUP: C2/m      
+      X-RAY WAVELENGTH:     1.790290
+      Cell Volume:    275.305
+      Density (g/cm3):      3.387
+      MAX. ABS. INTENSITY / VOLUME**2:      17.68217492    
+      RIR:      2.437
+      RIR based on corundum from Acta Crystallographica A38 (1982) 733-739
+               2-THETA      INTENSITY    D-SPACING   H   K   L   Multiplicity
+                21.65          4.97        4.7658    4   0   0         2
+                22.02        100.00        4.6882    0   0   1         2
+                22.07          2.81        4.6758   -2   0   1         2
+                26.85         24.65        3.8555    2   0   1         2
+                27.00         25.25        3.8350   -4   0   1         2
+                32.73         54.99        3.1772    6   0   0         2
+                34.71          1.24        3.0007    4   0   1         2
+                34.91         10.19        2.9846   -6   0   1         2
+                35.28         96.71        2.9539    1   1   0         4
+                38.64         11.84        2.7055    3   1   0         4
+                41.23          4.99        2.5423   -1   1   1         4
+                42.71         36.85        2.4582    1   1   1         4
+                44.13          1.92        2.3829    8   0   0         2
+                44.45          2.49        2.3666   -8   0   1         2
+                44.72         38.08        2.3528    5   1   0         4
+                44.90          1.63        2.3441    0   0   2         2
+                47.10         26.49        2.2404   -5   1   1         4
+                48.99          4.85        2.1590    2   0   2         2
+                52.80          2.63        2.0134    7   1   0         4
+                54.84          1.11        1.9438    8   0   1         2
+                55.08         13.75        1.9359  -10   0   1         2
+                56.01          2.32        1.9063   10   0   0         2
+                59.51          4.95        1.8037    1   1   2         4
+                59.66          1.81        1.7995   -5   1   2         4
+================================================================================
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -23,8 +23,7 @@ t0 = time()
 results = []
 live_list = open('temp/_live_list_'+str(t0).split('.')[0]+'.csv','w')
 
-# for d in range(len(dif_file_paths)):
-for d in range(1):
+for d in range(len(dif_file_paths)):
     if d % 100 == 0:
         print(d,'/',len(dif_file_names))
     try:

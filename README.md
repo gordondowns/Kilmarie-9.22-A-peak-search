@@ -1,4 +1,5 @@
-Run main.py using Python 3 (tested with Python 3.7). Numpy, scipy, pandas, and matplotlib are required.
+Run main.py using Python 3 (tested with Anaconda Python 3.7 on Windows 10). Numpy, scipy, pandas, and matplotlib are required, and requirements.txt describes the versions of all packages used.
+
 Then, interpret the results by hand:
 1. First, look at search_results.csv.
    - Discard phases if their cell parameters had to vary too much to produce a good fit.
